@@ -75,7 +75,21 @@ Each limitation follows the same structure: the weakness, how we mitigated it in
 
 **Feed-back:** A future iteration could add a dedicated sublayer or cross-cutting search for non-Western and community-based approaches. This would be a significant scope expansion and should be considered as a targeted re-run if early findings suggest cultural context is a major moderator.
 
-## 6. Cross-cutting limitations (with dedicated sections)
+## 6. Source selection when results exceeded budget
+
+**The weakness:** When search returned more results than the source budget allowed, sources had to be selected. This selection — even with transparent criteria — introduces a bias toward sources the reviewer judged most relevant, which may reinforce the working thesis.
+
+**How we mitigated it:**
+- Tiered relevance criteria applied consistently across layers (see `2_methods/14_agent_instructions.md`)
+- Human-in-the-loop decision-making for borderline (Tier 2) sources
+- **All excluded sources documented** in `6_appendix/excluded_sources.md` with reason codes, enabling a reader to evaluate whether exclusion decisions were defensible
+- Named priority sources from the methods files were always included regardless of triage
+
+**What remains unmitigated:** The triage criteria themselves embed assumptions about what's relevant. A reviewer with a different theoretical orientation might prioritize different sources from the same search results.
+
+**Feed-back:** If the excluded sources list shows a pattern (e.g., many excluded sources from a specific tradition or modality), flag this as a potential blind spot and consider a targeted re-run.
+
+## 7. Cross-cutting limitations (with dedicated sections)
 
 These are summarized here and developed in their own files:
 

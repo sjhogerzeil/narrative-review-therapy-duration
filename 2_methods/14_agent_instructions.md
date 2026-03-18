@@ -85,35 +85,61 @@ The stub contains all YAML fields populated from available metadata (title, auth
 
 ### When search returns too many results (>30 per search term)
 
-A PubMed search for "complex PTSD long-term treatment" may return hundreds of results. Do not attempt to screen all of them. Apply this triage:
+A PubMed search for "complex PTSD long-term treatment" may return hundreds of results. Do not attempt to screen all of them. This is a **human-in-the-loop decision point**.
 
-**Tier 1 — always include (screen first 50 results for these):**
-- Directly measures or reports therapy duration for the defined population
-- Meta-analysis or systematic review of treatment duration/outcomes
-- Named in the layer methods file as a priority source
-- Cited by 3+ sources already in the project (high-impact snowball)
+#### Step 1: Agent screens and recommends
 
-**Tier 2 — include if budget allows (screen titles/abstracts only):**
-- Addresses the population but duration is secondary (e.g., outcome study that reports duration incidentally)
-- Theoretical paper that models why treatment is long/short
-- Reports on a modality relevant to the secondary questions
+Sort results by relevance or citation count. Screen titles of the first 50 results. For each potentially relevant result, assign a tier:
 
-**Tier 3 — skip unless nothing else is available:**
-- Single-incident PTSD studies (even if long-term follow-up)
-- Protocol papers without outcome data
-- Studies on populations outside the definition (children, subclinical, adjustment disorders)
-- Duplicate content (same study reported in multiple publications — take the most complete)
+| Tier | Criteria | Recommendation |
+|------|----------|---------------|
+| **1 — Include** | Directly measures/reports therapy duration for the defined population; meta-analysis or systematic review of duration/outcomes; named in the layer methods file; cited by 3+ sources already in the project | Create stub |
+| **2 — Recommend** | Addresses the population but duration is secondary; theoretical paper modelling why treatment is long/short; reports on a modality relevant to secondary questions | Present to user |
+| **3 — Exclude** | Single-incident PTSD; protocol papers without outcome data; populations outside definition; duplicate content | Log in excluded sources |
 
-**Practical triage process:**
-1. Sort results by relevance (PubMed default) or citation count
-2. Screen titles of first 50 results → shortlist Tier 1 candidates (typically 5-15)
-3. Read abstracts of shortlisted titles → create stubs for those that pass inclusion criteria
-4. If budget is not yet filled, screen next 50 titles
-5. Stop when budget is reached or results become clearly irrelevant
-6. Log in README: "X results returned, Y titles screened, Z stubs created"
+#### Step 2: Present shortlist to user
 
-**For Reddit/forum searches (Layer 5):**
-Sort by "top" or "most comments." Screen thread titles. Open threads with 20+ comments or explicit duration mentions. Skip short threads, crisis posts, and threads focused on specific techniques without temporal data.
+After screening, the agent presents the user with:
+
+```markdown
+## Search results for [layer]: [search term]
+
+**Total results:** [N]
+**Titles screened:** [N]
+**Budget remaining:** [N]
+
+### Tier 1 — recommended for inclusion (creating stubs)
+1. [Author (Year)] — [Title] — [why: directly measures duration for complex trauma]
+2. ...
+
+### Tier 2 — potentially relevant, your call
+3. [Author (Year)] — [Title] — [why: addresses population, duration mentioned in abstract]
+4. [Author (Year)] — [Title] — [why: relevant modality, no duration data visible]
+5. ...
+
+### Tier 3 — recommending exclusion
+6. [Author (Year)] — [Title] — [why excluding: single-incident PTSD population]
+7. ...
+```
+
+The user selects which Tier 2 sources to include. Tier 1 sources are created as stubs immediately. Tier 3 sources are logged in `6_appendix/excluded_sources.md`.
+
+#### Step 3: Log ALL identified sources — included and excluded
+
+Every source identified as potentially relevant must be accounted for. CIS methodology requires that source selection decisions are transparent and defensible.
+
+- **Included sources** → stub in `3_results/sources/[layer]/`
+- **Excluded sources** → entry in `6_appendix/excluded_sources.md` with reason for exclusion
+
+This creates the audit trail from "found" to "included/excluded" that a reader needs to evaluate the review's source selection.
+
+#### For Reddit/forum searches (Layer 5)
+
+Sort by "top" or "most comments." Screen thread titles. Present the user with a shortlist of threads with 20+ comments or explicit duration mentions. Skip and log: short threads, crisis posts, threads focused on specific techniques without temporal data.
+
+#### For large book bibliographies (snowball from Layer 1)
+
+When a source cites 30+ potentially relevant references, do not chase all of them. Present the top 10 (by estimated relevance to duration question) to the user, with reasons. Log the rest in `6_appendix/excluded_sources.md` as "identified via snowball from [source-id], not pursued — budget constraint."
 4. **Determine access status.** For each relevant result:
    - Try `get_full_text_article` (PubMed). If it returns full text → `access: full`
    - If only abstract available → `access: abstract-only`
