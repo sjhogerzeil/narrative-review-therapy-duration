@@ -1,0 +1,54 @@
+---
+section: annotation_protocol
+description: "Source annotation format: YAML scanning headers, body sections, secondary questions, cross-cutting observations, no-data-is-a-finding principle"
+status: draft
+---
+
+# Annotation protocol
+
+## Source file location and naming
+
+Source annotations live in `3_results/sources/[layer-dir]/[author-year-slug].md`.
+
+Files are named `[author-year]-[short-slug].md`, e.g.:
+- `herman-1992-complex-ptsd.md`
+- `leichsenring-2008-ltpp-meta.md`
+- `foo-2022-what-my-bones-know.md`
+- `reddit-2024-how-long-cptsd.md` (for forum threads: platform-year-slug)
+
+## Source note IDs
+
+Each source note has a unique ID in its frontmatter, derived from the filename (e.g., `id: herman-1992-complex-ptsd`). This ID is used for all cross-references.
+
+## Source file template
+
+See `3_results/sources/SOURCE_TEMPLATE.md` for the full template.
+
+### YAML frontmatter
+
+The frontmatter serves two purposes:
+1. **Bibliographic data** — id, title, author, year, type, layer, citation (APA 7), url/DOI, accessed date
+2. **Relevance scanning** — fields that allow an AI to assess relevance without reading the full body:
+   - `summary` — 1-2 sentence contribution summary
+   - `population` — who was studied
+   - `modality` — therapeutic approach
+   - `duration_data` — yes | no | implicit
+   - `duration_range` — e.g., "3-7 years", "50+ sessions"
+   - `stance` — supports | complicates | challenges | neutral
+   - `topics` — list of relevant subtopics
+   - `secondary_qs` — which secondary questions this source addresses
+
+### Body sections
+
+1. **Summary** — what this source says about duration/trajectory
+2. **Key claims** — with page/section/timestamp references
+3. **Duration data** — explicit or implicit statements about how long treatment takes
+4. **Trajectory description** — phases, turning points, nonlinearity
+5. **Relevance to thesis** — supports, complicates, or challenges
+6. **Quotes** — exact quotes with page references
+7. **Secondary questions** — one subsection per question; "no data" is a valid answer
+8. **Cross-cutting observations** — survivorship bias, dose vs. elapsed time, therapy vs. life
+
+## Data extraction principle
+
+**"No data" is a finding.** When a source is silent on a secondary question or cross-cutting observation, note the absence explicitly. The pattern of what sources fail to address is itself evidence.
