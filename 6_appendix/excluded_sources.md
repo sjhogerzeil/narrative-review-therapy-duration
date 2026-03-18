@@ -156,6 +156,24 @@ This file supports the CIS requirement that source selection is transparent and 
 - **Date:** 2026-03-18
 - **Decided by:** agent recommendation
 
+### Maddox & McInerney (2025) — BUDGET (existential trauma framework)
+
+- **Citation:** Maddox & McInerney (2025)
+- **Found via:** Manual search / humanistic-existential trauma
+- **Layer:** 1c-humanistic-existential
+- **Reason for exclusion:** BUDGET — existential trauma framework, relevant but not obtained; budget reached for 1c
+- **Date:** 2026-03-18
+- **Decided by:** agent recommendation
+
+### Stolorow et al. (1987) — BUDGET (intersubjective approach)
+
+- **Citation:** Stolorow, Brandchaft, & Atwood (1987)
+- **Found via:** Manual search / psychoanalytic intersubjectivity
+- **Layer:** 1b-psychoanalytic
+- **Reason for exclusion:** BUDGET — intersubjective approach, less directly about duration; budget reached for 1b
+- **Date:** 2026-03-18
+- **Decided by:** agent recommendation
+
 ### Layer 2: Naturalistic studies
 
 ### Willemsen et al. (2024) — TADS case study of treatment failure

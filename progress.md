@@ -9,6 +9,9 @@ This file is the single source of truth for "where are we?" A fresh session read
 **Phase 0: Setup** — COMPLETE
 **Phase 1, Layer 2** — COMPLETE (11/11 annotated)
 **Phase 1, Layer 1a** — COMPLETE (8/8 annotated, 2 from secondary sources)
+**Phase 1, Layer 1b** — COMPLETE (6/6 annotated, 5 from secondary sources)
+**Phase 1, Layer 1c** — COMPLETE (5/5 annotated)
+**Phase 1, Layer 1d** — COMPLETE (7/7 annotated, 3 from secondary/abstract)
 
 ## Phase 1: Search & Annotate
 
@@ -16,9 +19,9 @@ This file is the single source of truth for "where are we?" A fresh session read
 |-----------|-------|-------------|-------|------|----------|-------------|-------|-----------|-------|
 | 1 | 2-naturalistic | **COMPLETE** | 11 | 11 | 0 | 0 | 0 | see README | Next: Layer 1a |
 | 2 | 1a-trauma-clinical | **COMPLETE** | 8 | 6 | 2 | 0 | 0 | see README | +1 to Layer 3 |
-| 3 | 1b-psychoanalytic | not started | 0 | 0 | 0 | 0 | 0 | — | |
-| 4 | 1c-humanistic | not started | 0 | 0 | 0 | 0 | 0 | — | |
-| 5 | 1d-neuroscience | not started | 0 | 0 | 0 | 0 | 0 | — | |
+| 3 | 1b-psychoanalytic | **COMPLETE** | 6 | 1 | 5 | 0 | 0 | see README | 5 books from secondary |
+| 4 | 1c-humanistic | **COMPLETE** | 5 | 4 | 1 | 0 | 0 | see README | |
+| 5 | 1d-neuroscience | **COMPLETE** | 7 | 4 | 3 | 0 | 0 | see README | mechanism not duration |
 | 6 | 3-counterpoint | not started | 0 | 0 | 0 | 0 | 0 | — | 5 model subdirs |
 | 7 | 4-practitioner | not started | 0 | 0 | 0 | 0 | 0 | — | mostly open access |
 | 8 | 5-client | not started | 0 | 0 | 0 | 0 | 0 | — | open access |
