@@ -22,6 +22,8 @@ First-person books narrating the full arc of healing. These offer the most compl
 - childhood trauma memoir therapy
 - therapist memoir own trauma healing
 - survivor memoir long-term recovery
+- therapy memoir modality switching CPTSD [added 2026-03-18, endpoint divergence]
+- healing after therapy ended continued growth [added 2026-03-18, sleeper effect]
 
 ## Sources
 

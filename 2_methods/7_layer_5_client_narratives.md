@@ -19,6 +19,9 @@ First-person accounts from people in long-term therapy for complex trauma. The l
 - changed therapists during trauma therapy experience [added 2026-03-18, escalation gap construct]
 - switched modalities CPTSD what happened [added 2026-03-18, escalation gap construct]
 - forced to end therapy transferred new therapist trauma [added 2026-03-18, escalation gap construct]
+- "what actually helped" trauma recovery not just therapy [added 2026-03-18, therapy-vs-life construct]
+- continued improving after therapy ended CPTSD [added 2026-03-18, sleeper effect construct]
+- EMDR didn't work complex trauma tried something else [added 2026-03-18, endpoint divergence — client perspective on modality-switching]
 
 ## Sources
 

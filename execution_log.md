@@ -221,6 +221,48 @@ The orchestrator may then:
 
 ---
 
+### 2026-03-18 Annotation agent: Layer 4 batch (10 sources — practitioner essays)
+
+**Task:** Annotate 10 source stubs in `3_results/sources/4-practitioner/`: alpern-2025-truth-complex-trauma, shedler-2020-tyranny-of-time, wylie-long-shadow-trauma, psychnetworker-evolving-beyond, grossmark-psychoanalytic-companioning, mia-injured-not-broken, mia-psychoanalytic-beats-cbt, substack-traumalescence, blueknot-trauma-practice, psychnetworker-transcending-trauma.
+
+**Layer/file:** Layer 4 — practitioner essays
+
+**Sources annotated:**
+1. **alpern-2025-truth-complex-trauma** — Pria Alpern PhD, EMDR/SE specialist. Three-phase model; "cannot be resolved in six sessions of anything." Access updated: inaccessible -> full.
+2. **shedler-2020-tyranny-of-time** — Shedler & Gnaulati. Consumer Reports (N=4,000+), Lambert OQ-45 (N=10,000+), Westen survey (N=270). 50% change at 21 sessions, 75% at 40+. Access updated: inaccessible -> full.
+3. **wylie-long-shadow-trauma** — Mary Sykes Wylie. Van der Kolk's DTD campaign. No duration data; frames WHY different treatment needed. Access updated: inaccessible -> full.
+4. **psychnetworker-evolving-beyond** — Katherine Woodward Thomas. Backward-looking (processing) -> forward-looking (transformation). No duration data. Access updated: inaccessible -> full. Author updated.
+5. **grossmark-psychoanalytic-companioning** — Robert Grossmark. "Companioning" dissociated patients; inherently incompatible with time-limited work. Access updated: inaccessible -> full.
+6. **mia-injured-not-broken** — Brickel & Associates / Mad in America. CPTSD recognition; "hard to untangle trauma from identity." No duration data. Access updated: inaccessible -> full. Author updated.
+7. **mia-psychoanalytic-beats-cbt** — Mad in America summary of Krakau study. PAT median 242 sessions vs CBT 59; PAT superior at 5-year follow-up. Access updated: inaccessible -> full.
+8. **substack-traumalescence** — Lauren Auer LCPC. Explicit timeline: 3-6mo awareness, 6-18mo neural strengthening, 18mo-3yr integration. Access updated: inaccessible -> full. Author and duration_data updated.
+9. **blueknot-trauma-practice** — Blue Knot Foundation. "May last for decades, whether continuously or episodically." Minimum 10-20 sessions. 84% expert consensus on phase model. Access updated: inaccessible -> full.
+10. **psychnetworker-transcending-trauma** — Lisa Ferentz LCSW-C. 7-year case (Judy), multi-year case (Marisa). PTG focus. Somatic + creative adjuncts. Access updated: inaccessible -> full. Author updated.
+
+**Issues identified:**
+- All 10 sources annotated from user-provided key data, not from direct full text retrieval. Quotes and claims are based on data provided in the task briefing. Page numbers could not be assigned for any source (all are web articles/blogs without page numbers).
+- mia-psychoanalytic-beats-cbt appears to summarise results from a study related to but possibly distinct from the Krakau 2023 MeLAS protocol paper already in Layer 2. The relationship between these should be verified.
+- psychnetworker-evolving-beyond is the weakest source in the batch — more self-help/coaching than clinical. Woodward Thomas is primarily known as a relationship coach, not a clinical practitioner. May be a candidate for removal if space is limited.
+
+**Questions raised:**
+- The practitioner layer is overwhelmingly supportive of the thesis (all 10 sources support extended treatment). Is there a publication bias issue — do practitioners who favour brief therapy simply not write practitioner essays about it? Should a counterpoint practitioner voice be sought?
+- Blue Knot's "decades" claim and the "on and off over their lifetime" model raise the question of what "treatment duration" even means for this population. If treatment is episodic over a lifetime, how do you answer "how long does it take?"
+- The Auer "traumalescence" timeline (3mo-3yr) describes a transition phase WITHIN recovery. What precedes and follows it? The total arc may be substantially longer than 3 years.
+
+**Suggestions:**
+- The mia-psychoanalytic-beats-cbt source and the krakau-2023-melas-protocol source should be cross-referenced and their relationship clarified.
+- Consider whether psychnetworker-evolving-beyond adds enough value to justify inclusion. Its contribution is better articulated with clinical specificity by Ferentz and Joseph (2012).
+- The Blue Knot Foundation source should be cross-referenced with the ISTSS Expert Consensus Guidelines (Cloitre et al., 2011) that it appears to draw on.
+
+**Emerging patterns:**
+- **Practitioner consensus on extended duration is unanimous.** All 10 Layer 4 sources support extended treatment. Duration estimates range from "more than 6 sessions" (Alpern) to "decades" (Blue Knot), with concrete data at 6 months (Lambert 50%), 1 year (Lambert 75%), 3 years (Auer integration), 7 years (Ferentz/Judy), and lifetime episodic (Blue Knot).
+- **The practitioner layer adds the identity dimension.** Multiple sources (Alpern, MIA/injured-not-broken, Auer, Woodward Thomas) frame complex trauma healing as identity restructuring. "Hypervigilance becomes personality" (Alpern), "hard to untangle trauma from identity" (MIA), "shift their identity" (Auer). This connects to Layer 1b psychoanalytic mechanisms (structural change through relational experience).
+- **Elapsed time > session count in the practitioner layer.** Auer's timeline is in calendar months. Blue Knot distinguishes "continuously or episodically." Ferentz reports years. Practitioners consistently frame duration in elapsed calendar time rather than session count — aligning with Lindfors 2019 convergence and neuroscience layer arguments.
+- **The sleeper effect gets practitioner confirmation.** MIA/Krakau (PAT advantage at 5-year follow-up) and Auer (integration at 18mo-3yr) describe the sleeper effect from practitioner and client perspectives. Now confirmed across academic, empirical, and practitioner layers.
+- **Access silence persists.** Of 10 practitioner sources, only Shedler (managed-care critique) and Blue Knot (episodic model) substantively address access. When practitioners describe 7-year treatments or "decades" of engagement, the question of who can afford this goes mostly unasked.
+
+---
+
 ### 2026-03-18 Annotation agent: Layer 1c batch (5 sources — humanistic-existential)
 
 **Task:** Annotated 5 source stubs in `3_results/sources/1-academic/humanistic-existential/`: murphy-2009-pct-abuse, joseph-2012-ptg-model, hauser-2022-fragile-process, murphy-2019-pct-eft-trauma, sohal-2022-pct-suicidal.
@@ -251,3 +293,37 @@ The orchestrator may then:
 - **The pace problem is theorised.** Joseph (2012) provides the theoretical mechanism: growth cannot be rushed because moderate stress drives processing but excessive stress overwhelms it (curvilinear model). Hauser (2022) provides the clinical mechanism: fragile process clients cannot tolerate interpretation, the first 15 sessions are just "becoming aware," and the process is circular. Murphy (2009) provides the empirical illustration: 160 sessions, with accurate symbolisation of core trauma not occurring until session 68. Together these converge on a single message: the pace of healing is set by the client's processing capacity, not by the therapist's ambition or the service's budget.
 - **Access breaks the silence — partially.** Unlike Layer 1a, several Layer 1c sources address access. Murphy (2019) notes PCT therapists work outside statutory healthcare in third-sector organisations. Hauser (2022) documents forced termination at 48 sessions due to agency constraints. Murphy (2009) describes a charity (icap) offering open-ended therapy. The access picture: long-term PCT for complex trauma happens in charities and third-sector organisations, not in the NHS. It depends on the existence of open-ended charity funding, which is rare and precarious.
 - **The single-research-group problem.** The entire Layer 1c evidence base is essentially one interconnected research group. This does not invalidate the findings but limits their weight in synthesis. Independent replication from outside the Murphy/Joseph/Elliott network would substantially strengthen the case for long-term PCT with complex trauma.
+
+### 2026-03-18 Annotation agent: Layer 3 counterpoint batch (9 sources)
+
+**Task:** Create stubs and fully annotate 9 counterpoint sources across 5 subdirectories: lilliengren-2025-edt-meta (root), lilliengren-2017-istdp-gad (istdp/), dejongh-2024-emdr-science (emdr/), dejongh-2023-emdr-case (emdr/), farina-2025-rapid-rare (emdr/), mitchell-2021-mdma-phase3 (mdma-ketamine/), gorman-2020-mdma-ptg (mdma-ketamine/), sciarrino-2020-intensive-review (intensive-formats/), feder-2025-ketamine-exposure (mdma-ketamine/).
+
+**Layer/file:** Layer 3 — counterpoint (accelerated and brief models)
+
+**Issues identified:**
+- Wiley URLs returned 403 for all 4 open-access DOIs attempted via WebFetch. Used Scholar Gateway instead, which returned full abstracts and key text chunks -- sufficient for annotation but not complete full text for EDT meta and EMDR sources.
+- Farina et al. 2025 is paywalled. Annotated from Scholar Gateway excerpts only (access: inaccessible). However, the key quote ("such quick good outcomes cases are rare") and the full commentary on the de Jongh case were captured via Scholar Gateway chunks.
+- 4 sources annotated from provided PDFs (Lilliengren 2017, Mitchell 2021, Sciarrino 2020, Feder 2025). All fully read with page-level references.
+- Gorman 2020 has a 2024 correction (DOI 10.1002/jts.23097) removing 4 participants due to therapist ethical violation. Noted in annotation.
+- The de Jongh 2023 case study is actually published in 2023 (JCLP vol 80, 2024 issue) but cited as 2023 in the task briefing. Used 2023 per task instructions; the Farina commentary cites it as "De Jongh and Hafkemeijer (2024)."
+
+**Questions raised:**
+- The EMDR CPTSD data (Voorendonk 2020: 88% CPTSD remission in 8 days; van Vliet 2021: stabilisation adds nothing) is the strongest counterpoint in the entire review. How should the review handle this? The data directly challenge the phase-based model for the defined population. But the endpoint is diagnostic remission (symptom-based), not structural personality change. And Farina et al.'s clinical experience-based rebuttal ("rapid outcomes are rare") is a weak form of evidence against RCT data. The endpoint divergence construct is essential here: what does "no longer meeting CPTSD criteria" actually mean for a patient's long-term trajectory?
+- The FDA rejection of MDMA in 2024 significantly weakens the entire MDMA evidence base (Mitchell 2021, Gorman 2020). Should the review treat these sources as "evidence base compromised" or as "strong efficacy signal despite regulatory concerns"? The ethical violations in earlier MAPS trials and the functional unblinding concern are substantive, not merely procedural.
+- Feder 2025 (ketamine + WET) reports that 53.8% of participants were in CONCOMITANT PSYCHOTHERAPY. This means the ketamine+WET intervention was ADDITIVE to ongoing therapy. Should this be framed as supporting the long-duration thesis (patients needed ongoing therapy AND the accelerant) rather than challenging it?
+- The Sciarrino 2020 dropout finding (5.51% intensive vs 18-39% standard) raises a fundamental question: does standard weekly therapy CAUSE dropout through excessive avoidance between sessions, or does intensive therapy SELECT for more motivated patients? If the former, the entire duration literature is biased by a delivery format that systematically loses the most avoidant patients.
+
+**Suggestions:**
+- Voorendonk et al. (2020) and van Vliet et al. (2021) should be considered for standalone stubs as primary sources, rather than only being covered through the de Jongh 2024 review. These are the strongest individual studies challenging the long-duration thesis for CPTSD.
+- The counterpoint layer now reveals a clear pattern: ALL accelerated models measure symptom reduction, NONE measure structural personality change. This is the endpoint divergence in action. Consider creating a dedicated cross-cutting analysis note on this.
+- The Farina commentary's observation about "different underlying structures despite similar presentations" is potentially the most important theoretical contribution in the entire counterpoint layer. It suggests a resolution to the duration debate: duration is not determined by diagnostic category but by structural depth. Some CPTSD patients have enough "adaptive information" to benefit from rapid processing; others have deeper structural disruption requiring developmental-relational work. This could become a key synthesis argument.
+
+**Emerging patterns:**
+- **Endpoint divergence is now empirically grounded.** Every counterpoint source measures symptom reduction or diagnostic remission. None measures structural personality change, earned secure attachment, identity integration, or relational capacity. The disagreement about duration dissolves largely into a disagreement about endpoints: if your endpoint is "no longer meets PTSD criteria," you can often get there in weeks; if your endpoint is "fundamentally changed internal working model and personality organization," the evidence suggests years. The counterpoint sources are not wrong -- they are answering a different question.
+- **The stabilisation debate is settled (for now).** De Jongh 2024 (citing van Vliet 2021) provides RCT evidence that stabilisation adds nothing to EMDR outcomes for CPTSD. This is important for the long-duration position: if long treatment is necessary, it is not because of stabilisation exercises but because of the relational process itself. The long-duration argument must be about relationship, not technique.
+- **Pharmacological acceleration as a natural experiment.** The MDMA and ketamine studies provide a natural experiment: what happens when you pharmacologically remove the neurobiological constraints on trauma processing? If patients improve rapidly, this suggests the constraint was neurobiological (fear extinction, neuroplasticity), not relational. If they relapse (as ketamine-only patients typically do), this suggests the relational component is necessary for durability. Feder 2025's finding that ketamine + psychotherapy maintains gains better than ketamine alone supports this interpretation.
+- **The dropout problem is structural.** Sciarrino 2020 shows that intensive formats reduce dropout from 30-40% to 5%. If one-third of patients in standard weekly therapy drop out, the duration literature systematically overestimates how long healing takes -- because it only measures people who stayed. The actual "healing duration" for the entire population (including dropouts) is unknown. This is the most important methodological insight from the counterpoint layer.
+- **The Farina resolution.** Farina et al.'s suggestion that "similar presentations may have different underlying structures" provides a potential resolution to the entire duration debate. Rather than arguing about whether complex trauma requires brief or long treatment, the field should be asking: what determines which patients can benefit from accelerated approaches and which require extended developmental-relational work? The answer likely involves the degree of structural dissociation, the availability of adaptive information (intact positive relational experiences), and the patient's current capacity for affect regulation.
+
+**Inaccessible sources:**
+- Farina, B., Dimaggio, G., & Mosquera, D. (2025). Commentary on five CPTSD case studies. JCLP. DOI: 10.1002/jclp.23773 -- paywalled, annotated from Scholar Gateway excerpts.

@@ -9,15 +9,33 @@ last_synced: 2026-03-18
 
 "Abbass, A. A., Kisely, S. R., Town, J. M., Leichsenring, F., Driessen, E., De Maat, S., Gerber, A., Dekker, J., Rabung, S., Rusalovska, S., & Crowe, E. (2014). Short-term psychodynamic psychotherapies for common mental disorders. *Cochrane Database of Systematic Reviews*, *2014*(7), CD004687. https://doi.org/10.1002/14651858.CD004687.pub4"
 
+"Alpern, P. (2025, December). The truth about complex trauma. *The Trauma Therapist's Notebook* (Substack). https://traumajournal.substack.com/p/the-truth-about-complex-trauma"
+
+"Auer, L. (n.d.). Traumalescence: A trauma therapist's new word for the pattern no one's talking about. *Your Trauma Therapist* (Substack). https://mytherapist.substack.com/p/traumalescence-a-trauma-therapists"
+
 "Bateman, A., & Fonagy, P. (2008). 8-year follow-up of patients treated for borderline personality disorder: Mentalization-based treatment versus treatment as usual. *American Journal of Psychiatry*, *165*(5), 631–638. https://doi.org/10.1176/appi.ajp.2007.07040636"
 
 "Benjamin, J. (1988). *The bonds of love: Psychoanalysis, feminism, and the problem of domination*. Pantheon."
+
+"Blue Knot Foundation. (n.d.). Trauma specific practice when working with complex trauma. https://professionals.blueknot.org.au/resources/trauma-specific-practice-when-working-with-complex-trauma/"
 
 "Boston Change Process Study Group. (2010). *Change in psychotherapy: A unifying paradigm*. Norton."
 
 "Brand, B. L., Schielke, H. J., Putnam, K. T., Putnam, F. W., Loewenstein, R. J., Myrick, A., Jepsen, E. K. K., Langeland, W., Steele, K., Classen, C. C., & Lanius, R. A. (2019). An online educational program for individuals with dissociative disorders and their clinicians: 1-Year and 2-Year follow-up. *Journal of Traumatic Stress*, *32*(1), 156–166. https://doi.org/10.1002/jts.22370"
 
+"Brickel & Associates LLC. (2023, November). Injured, not broken: Why it's so hard to know you have CPTSD. *Mad in America*. https://www.madinamerica.com/2023/11/injured-not-broken-why-its-so-hard-to-know-you-have-cptsd/"
+
 "Bromberg, P. M. (1998). *Standing in the spaces: Essays on clinical process, trauma, and dissociation*. Analytic Press."
+
+"De Jongh, A., & Hafkemeijer, L. C. (2023). Trauma-focused treatment of a client with Complex PTSD and comorbid pathology using EMDR therapy. Journal of Clinical Psychology, 80(4), 824-835. https://doi.org/10.1002/jclp.23521"
+
+"de Jongh, A., Roos, C., & El-Leithy, S. (2024). State of the science: Eye movement desensitization and reprocessing (EMDR) therapy. Journal of Traumatic Stress, 37(2), 205-216. https://doi.org/10.1002/jts.23012"
+
+"Farina, B., Dimaggio, G., & Mosquera, D. (2025). Common elements and differences among treatment approaches to complex post-traumatic stress disorder: A commentary on five case studies. Journal of Clinical Psychology, 81(5), 379-386. https://doi.org/10.1002/jclp.23773"
+
+"Feder, A., Brown, O., Rutter, S. B., Cahn, L., Overbey, J. R., Seeley, S., ... & Murrough, J. W. (2025). Combining ketamine infusions and written exposure therapy for chronic PTSD: An open-label trial. Journal of Clinical Psychiatry, 86(2), 24m15622. https://doi.org/10.4088/JCP.24m15622"
+
+"Ferentz, L. (n.d.). Transcending trauma. *Psychotherapy Networker*. https://www.psychotherapynetworker.org/article/transcending-trauma/"
 
 "Fonagy, P., Gergely, G., Jurist, E. L., & Target, M. (2002). *Affect regulation, mentalization, and the development of the self*. Other Press."
 
@@ -25,7 +43,11 @@ last_synced: 2026-03-18
 
 "Freixo Ferreira, L., Guerra, C., & Vieira-Coelho, M. A. (2023). Predictors of psychotherapy dropout in patients with borderline personality disorder: A systematic review. *Clinical Psychology & Psychotherapy*, *30*(6), 1324–1337. https://doi.org/10.1002/cpp.2888"
 
+"Gorman, I., Belser, A. B., Jerome, L., Hennigan, C., Shechet, B., Hamilton, S., Yazar-Klosinski, B., Emerson, A., & Feduccia, A. A. (2020). Posttraumatic growth after MDMA-assisted psychotherapy for posttraumatic stress disorder. Journal of Traumatic Stress, 33(2), 161-170. https://doi.org/10.1002/jts.22479"
+
 "Griffiths, S., et al. (2025). Effectiveness of phase-oriented treatment for trauma-related dissociative disorders: a systematic review. *European Journal of Psychotraumatology*, (online). https://doi.org/10.1080/20008066.2025.2545734"
+
+"Grossmark, R. (n.d.). Psychoanalytic companioning. *IARPP Colloquium* (3 CEs). https://iarpp.net/colloquium/psychoanalytic-companioning/"
 
 "Hambrick, E. P., Brawner, T. W., & Perry, B. D. (2019). Timing of early-life stress and the development of brain-related capacities. *Frontiers in Behavioral Neuroscience*, *13*, 183. https://doi.org/10.3389/fnbeh.2019.00183"
 
@@ -51,9 +73,15 @@ last_synced: 2026-03-18
 
 "Leichsenring, F., Abbass, A., Luyten, P., Hilsenroth, M., & Rabung, S. (2013). The emerging evidence for long-term psychodynamic therapy. *Psychodynamic Psychiatry*, *41*(3), 361–384. https://doi.org/10.1521/pdps.2013.41.3.361"
 
+"Lilliengren, P., Johansson, R., Town, J. M., Kisely, S., & Abbass, A. (2017). Intensive Short-Term Dynamic Psychotherapy for generalized anxiety disorder: A pilot effectiveness and process-outcome study. Clinical Psychology & Psychotherapy, 2017, 1-9. https://doi.org/10.1002/cpp.2101"
+
+"Lilliengren, P., Mechler, J., Lindqvist, K., Maroti, D., & Johansson, R. (2025). The efficacy of experiential dynamic therapies: A 10-year systematic review and meta-analysis update. Clinical Psychology & Psychotherapy, 32(3). https://doi.org/10.1002/cpp.70086"
+
 "Lindfors, O., Knekt, P., Lehtonen, J., Virtala, E., Maljanen, T., & Härkänen, T. (2019). Effectiveness of psychoanalysis and long-term psychodynamic psychotherapy on personality and social functioning 10 years after start of treatment. *Psychiatry Research*, *272*, 774–783. https://doi.org/10.1016/j.psychres.2018.12.082"
 
 "Links, P. S., Ross, J., & Gunderson, J. G. (2015). Promoting Good Psychiatric Management for patients with borderline personality disorder. *Journal of Clinical Psychology*, *71*(8), 753–763. https://doi.org/10.1002/jclp.22203"
+
+"Mitchell, J. M., Bogenschutz, M., Lilienstein, A., Harrison, C., Kleiman, S., Parker-Guilbert, K., ... & Doblin, R. (2021). MDMA-assisted therapy for severe PTSD: A randomized, double-blind, placebo-controlled phase 3 study. Nature Medicine, 27, 1025-1033. https://doi.org/10.1038/s41591-021-01336-3"
 
 "Murphy, D. (2009). Client-centred therapy for severe childhood abuse: A case study. *Counselling and Psychotherapy Research*, *9*(1), 3–10. https://doi.org/10.1080/14733140802655992"
 
@@ -63,13 +91,19 @@ last_synced: 2026-03-18
 
 "Porges, S. W. (2022). Polyvagal Theory: A science of safety. *Frontiers in Integrative Neuroscience*, *16*, 871227. https://doi.org/10.3389/fnint.2022.871227"
 
+"Psychoanalytic therapy beats CBT for trauma-linked depression. (2024, September). *Mad in America*. https://www.madinamerica.com/2024/09/psychoanalytic-therapy-beats-cbt-for-trauma-linked-depression/"
+
 "Samson, J. A., Newkirk, T. R., & Teicher, M. H. (2023). Practitioner Review: Neurobiological consequences of childhood maltreatment — clinical and therapeutic implications. *Journal of Child Psychology and Psychiatry*, *65*(3), 369–380. https://doi.org/10.1111/jcpp.13883"
 
 "Schore, A. N. (2000). Attachment and the regulation of the right brain. *Attachment & Human Development*, *2*(1), 23–47. https://doi.org/10.1080/146167300361309"
 
 "Schore, A. N. (2021). The interpersonal neurobiology of intersubjectivity. *Frontiers in Psychology*, *12*, 648616. https://doi.org/10.3389/fpsyg.2021.648616"
 
+"Sciarrino, N. A., Warnecke, A. J., & Teng, E. J. (2020). A systematic review of intensive empirically supported treatments for posttraumatic stress disorder. Journal of Traumatic Stress. https://doi.org/10.1002/jts.22556"
+
 "Shedler, J. (2010). The efficacy of psychodynamic psychotherapy. *American Psychologist*, *65*(2), 98–109. https://doi.org/10.1037/a0018378"
+
+"Shedler, J., & Gnaulati, E. (2020). The tyranny of time: How long does effective therapy really take? *Psychotherapy Networker*. https://jonathanshedler.com/wp-content/uploads/2022/01/Shedler-Gnaulati-2020-Tyranny-of-Time.pdf"
 
 "Sohal, A., & Murphy, D. (2022). A longitudinal analysis of person-centred therapy with suicidal clients. *Counselling and Psychotherapy Research*, *23*(1), 20–30. https://doi.org/10.1002/capr.12588"
 
@@ -80,6 +114,10 @@ last_synced: 2026-03-18
 "Van der Hart, O., Nijenhuis, E. R. S., & Steele, K. (2006). *The haunted self: Structural dissociation and the treatment of chronic traumatization*. Norton."
 
 "Winnicott, D. W. (1965). *The maturational processes and the facilitating environment*. Hogarth Press."
+
+"Woodward Thomas, K. (n.d.). Evolving beyond our trauma stories. *Psychotherapy Networker*. https://www.psychotherapynetworker.org/article/evolving-beyond-our-trauma-stories/"
+
+"Wylie, M. S. (n.d.). The long shadow of trauma. *Psychotherapy Networker*. https://www.psychotherapynetworker.org/article/long-shadow-trauma/"
 
 "Yeates, G., et al. (2023). A systematic review and narrative analysis of the evidence for individual psychodynamically informed psychotherapy for dissociative disorders. *Journal of Trauma & Dissociation*. https://doi.org/10.1080/15299732.2023.2293802"
 
