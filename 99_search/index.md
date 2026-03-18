@@ -56,6 +56,7 @@
 | File | Description | Status |
 |------|-------------|--------|
 | 1_duration.md | Extracted duration data from all sources — reported treatment lengths, ranges, and what explains variation | not started |
+| 10_endpoint_divergence.md | "Emergent construct — reported duration depends on which endpoint you measure. Symptom reduction, functional improvement, and structural change produce different timelines. The endpoint IS the answer. [emergent, iteration 0]" | not started |
 | 2_trajectory.md | Extracted trajectory descriptions — phases, patterns, nonlinearity, common arcs | not started |
 | 3_turning_points.md | What shifts the healing process — relational breakthroughs, modality switches, life events, thresholds | not started |
 | 4_healing_definitions.md | How different sources define the endpoint of healing — and how that definition determines reported duration | not started |
@@ -63,6 +64,7 @@
 | 6_dropout.md | Dropout rates, attrition data, premature termination reasons — feeds survivorship bias discussion | not started |
 | 7_access.md | Financial barriers, insurance limitations, forced termination, socioeconomic context — feeds access and justice discussion | not started |
 | 8_sleeper_effect.md | "Emergent construct — therapeutic gains that grow after treatment ends. Confirmed across 4+ sources. Cuts across dose, technique, and elapsed time dimensions. [emergent, iteration 0]" | not started |
+| 9_developmental_mechanism.md | "Emergent construct — five independent theoretical traditions converge on one process: gradual building of internal structure through repeated relational cycles. Biology sets the pace. [emergent, iteration 0]" | not started |
 
 ## 3_results/secondary
 

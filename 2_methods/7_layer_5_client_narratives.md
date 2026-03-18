@@ -16,6 +16,9 @@ First-person accounts from people in long-term therapy for complex trauma. The l
 - multiple therapists healing journey
 - r/CPTSDNextSteps recovery timeline
 - long-term trauma recovery online community
+- changed therapists during trauma therapy experience [added 2026-03-18, escalation gap construct]
+- switched modalities CPTSD what happened [added 2026-03-18, escalation gap construct]
+- forced to end therapy transferred new therapist trauma [added 2026-03-18, escalation gap construct]
 
 ## Sources
 
