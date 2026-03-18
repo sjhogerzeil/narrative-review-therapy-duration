@@ -7,12 +7,13 @@ This file is the single source of truth for "where are we?" A fresh session read
 ## Current phase
 
 **Phase 0: Setup** — COMPLETE
+**Phase 1, Layer 2** — IN PROGRESS (search complete, annotation 4/11)
 
 ## Phase 1: Search & Annotate
 
 | Exec order | Layer | Search status | Stubs | Full | Abstract | Inaccessible | Media | Saturation | Notes |
 |-----------|-------|-------------|-------|------|----------|-------------|-------|-----------|-------|
-| 1 | 2-naturalistic | not started | 0 | 0 | 0 | 0 | 0 | — | **Start here** |
+| 1 | 2-naturalistic | search done | 11 | 4 | 0 | 0 | 0 | — | 7 remaining to annotate |
 | 2 | 1a-trauma-clinical | not started | 0 | 0 | 0 | 0 | 0 | — | |
 | 3 | 1b-psychoanalytic | not started | 0 | 0 | 0 | 0 | 0 | — | |
 | 4 | 1c-humanistic | not started | 0 | 0 | 0 | 0 | 0 | — | |
