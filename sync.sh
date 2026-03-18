@@ -190,6 +190,27 @@ sync_readmes() {
             done
         done
 
+        # Write table into README, replacing the existing annotated sources table
+        if [[ $count -gt 0 ]]; then
+            local tmpreadme
+            tmpreadme=$(mktemp)
+            # Output everything up to and including "## Annotated sources" header
+            sed -n '1,/^## Annotated sources/p' "$readme" > "$tmpreadme"
+            echo "" >> "$tmpreadme"
+            printf '%b' "$table" >> "$tmpreadme"
+            echo "" >> "$tmpreadme"
+            # Output everything after the first empty-line-delimited table block following "## Annotated sources"
+            awk '
+                BEGIN { in_header=0; past_table=0; skip=1 }
+                /^## Annotated sources/ { in_header=1; next }
+                in_header && !past_table && /^\|/ { next }
+                in_header && !past_table && !/^\|/ && !/^$/ { past_table=1; print; next }
+                in_header && !past_table && /^$/ { next }
+                in_header && past_table { print; next }
+                !in_header && skip { next }
+            ' "$readme" >> "$tmpreadme"
+            mv "$tmpreadme" "$readme"
+        fi
         echo "  → ${layer_dir}: $count sources"
     done
 }

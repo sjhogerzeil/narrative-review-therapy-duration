@@ -4,7 +4,7 @@ title:
 author:
 year:
 type: # article | book | chapter | blog | forum-thread | memoir
-layer: # 1-academic | 2-naturalistic | 3-counterpoint | 4-practitioner | 5-client | 6-memoir
+layer: # 1a-trauma-clinical | 1b-psychoanalytic | 1c-humanistic-existential | 1d-neuroscience | 2-naturalistic | 3-counterpoint | 4-practitioner | 5-client | 6-memoir
 citation: # Full APA 7 citation
 url: # DOI URL, permalink, or "no URL available"
 accessed: # YYYY-MM-DD, for web sources

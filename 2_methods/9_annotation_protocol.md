@@ -10,10 +10,21 @@ status: draft
 
 Source annotations live in `3_results/sources/[layer-dir]/[author-year-slug].md`.
 
+Layer 1 has four sublayer subdirectories — place sources in the appropriate one:
+
+| Sublayer | Directory | YAML `layer` value |
+|----------|-----------|-------------------|
+| Trauma-clinical | `1-academic/trauma-clinical/` | `1a-trauma-clinical` |
+| Psychoanalytic | `1-academic/psychoanalytic/` | `1b-psychoanalytic` |
+| Humanistic-existential | `1-academic/humanistic-existential/` | `1c-humanistic-existential` |
+| Neuroscience | `1-academic/neuroscience/` | `1d-neuroscience` |
+
+Layers 2–6 have no sublayers — place sources directly in the layer directory.
+
 Files are named `[author-year]-[short-slug].md`, e.g.:
-- `herman-1992-complex-ptsd.md`
-- `leichsenring-2008-ltpp-meta.md`
-- `foo-2022-what-my-bones-know.md`
+- `herman-1992-complex-ptsd.md` → `1-academic/trauma-clinical/`
+- `leichsenring-2008-ltpp-meta.md` → `2-naturalistic-studies/`
+- `foo-2022-what-my-bones-know.md` → `6-memoirs/`
 - `reddit-2024-how-long-cptsd.md` (for forum threads: platform-year-slug)
 
 ## Source note IDs
