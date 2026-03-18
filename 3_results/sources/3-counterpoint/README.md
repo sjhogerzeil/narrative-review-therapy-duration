@@ -22,7 +22,7 @@ The strongest claims that deep change can happen faster. Engaged honestly, not d
 
 | ID | Author | Year | Title | Key finding on duration |
 |----|--------|------|-------|------------------------|
-| | | | | |
+| abbass-2014-stpp-cochrane | "Abbass, A. A., Kisely, S. R., Town, J. M., Leichsenring, F., Driessen, E., De Maat, S., Gerber, A., Dekker, J., Rabung, S., Rusalovska, S., & Crowe, E." | 2014 | "Short-term psychodynamic psychotherapies for common mental disorders" | "Cochrane review of STPP showing modest to large gains but loss of significance at long-term follow-up. Heterogeneity between studies. Counterpoint to long-duration thesis." |
 
 ## Search log
 
