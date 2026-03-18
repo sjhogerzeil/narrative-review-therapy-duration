@@ -123,19 +123,23 @@ HEADER
     # Index source notes by layer
     echo "## 3_results/sources (annotated sources)" >> "$tmpfile"
     echo "" >> "$tmpfile"
-    echo "| ID | Layer | Author | Year | Summary | Duration data? | Stance |" >> "$tmpfile"
-    echo "|----|-------|--------|------|---------|----------------|--------|" >> "$tmpfile"
+    echo "| ID | Layer | Author | Year | Summary | Duration? | Endpoint | Dropout? | Access? | Stance | Access |" >> "$tmpfile"
+    echo "|----|-------|--------|------|---------|-----------|----------|----------|---------|--------|--------|" >> "$tmpfile"
     while IFS= read -r file; do
-        local id layer author year summary dur stance
+        local id layer author year summary dur endpoint dropout access_ctx stance access
         id=$(extract_yaml_field "$file" "id")
         layer=$(extract_yaml_field "$file" "layer")
         author=$(extract_yaml_field "$file" "author")
         year=$(extract_yaml_field "$file" "year")
         summary=$(extract_yaml_field "$file" "summary")
         dur=$(extract_yaml_field "$file" "duration_data")
+        endpoint=$(extract_yaml_field "$file" "endpoint_definition")
+        dropout=$(extract_yaml_field "$file" "has_dropout_data")
+        access_ctx=$(extract_yaml_field "$file" "has_access_context")
         stance=$(extract_yaml_field "$file" "stance")
+        access=$(extract_yaml_field "$file" "access")
         [[ -z "$id" ]] && continue
-        echo "| $id | $layer | $author | $year | $summary | $dur | $stance |" >> "$tmpfile"
+        echo "| $id | $layer | $author | $year | $summary | $dur | $endpoint | $dropout | $access_ctx | $stance | $access |" >> "$tmpfile"
     done < <(find_source_notes)
     echo "" >> "$tmpfile"
 

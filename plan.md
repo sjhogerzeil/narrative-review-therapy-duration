@@ -34,32 +34,44 @@ Output: everything currently committed.
 
 **Process:**
 1. Work through layers in order: Layer 2 (naturalistic) first — the empirical backbone gives calibration for interpreting other layers. Then Layer 1 (academic), Layer 3 (counterpoint), Layer 4 (practitioner), Layer 5 (client narratives), Layer 6 (memoirs).
-2. Follow the iterative search protocol (`2_methods/2_search_strategy.md`): search → annotate → extend → log.
-3. Apply the annotation protocol (`2_methods/9_annotation_protocol.md`): full template including secondary questions, cross-cutting observations, quality notes.
-4. Log inaccessible sources in `todo.md`.
-5. Append agent meta-commentary to `execution_log.md`.
-6. Run `./sync.sh all` after each batch.
+2. For each layer, execute two sub-phases:
+   - **1a. Search:** Search-agent creates source stubs. See `2_methods/14_agent_instructions.md` § Search-agent.
+   - **1b. Annotate:** Annotation-agent fills source templates. See `2_methods/14_agent_instructions.md` § Annotation-agent.
+3. Follow the iterative search protocol (`2_methods/2_search_strategy.md`): search → annotate → extend → log.
+4. Apply the annotation protocol (`2_methods/9_annotation_protocol.md`): full template including secondary questions, cross-cutting observations, quality notes.
+5. Log inaccessible sources in `todo.md`.
+6. Append agent meta-commentary to `execution_log.md`.
+7. Run `./sync.sh all` after each batch.
+
+**Human-in-the-loop: full text provision.**
+Many academic sources (Layers 1, 2, 3) will be paywalled. After each layer's search sub-phase:
+1. The orchestrator presents the user with a list of inaccessible sources from `todo.md`, ranked by expected impact.
+2. The user obtains full texts where possible (library access, ILL, colleagues, Sci-Hub, direct author contact) and places PDFs or text files in a `_fulltext/` directory in the layer's source folder.
+3. The orchestrator updates `access: provided-manually` on the corresponding stubs and dispatches the annotation-agent.
+4. Sources the user cannot obtain remain `access: inaccessible` — their absence is documented in the discussion.
+
+**This is a natural pause point in the workflow.** The orchestrator should not proceed to annotation until the user has had the opportunity to provide full texts. Layers with mostly freely available content (4, 5, 6) can proceed without this pause.
 
 **Iteration within this phase:**
 - Annotating sources will surface new sources (snowball). Follow leads within the source budget.
 - If a new secondary question emerges, trigger the re-run protocol (`2_methods/12_rerun_protocol.md`).
 - If a prior review is found, follow the prior-review protocol (`2_methods/2_search_strategy.md` § Prior reviews).
 
-**Gate to Phase 2:** All layers have reached their source budget or conceptual saturation. Saturation notes written in each layer README. Search results summary tables filled in.
+**Gate to Phase 2:** All layers have reached their source budget or conceptual saturation. At least 50% of each layer's budget is `access: full` annotations. Saturation notes written in each layer README. Search results summary tables filled in. User has reviewed `todo.md` and provided full texts where possible.
 
 **Deliverables:**
-- [ ] Layer 1a: trauma-clinical sources annotated
-- [ ] Layer 1b: psychoanalytic sources annotated
-- [ ] Layer 1c: humanistic-existential sources annotated
-- [ ] Layer 1d: neuroscience sources annotated
-- [ ] Layer 2: naturalistic studies annotated
-- [ ] Layer 3: counterpoint models annotated
-- [ ] Layer 4: practitioner essays annotated
-- [ ] Layer 5: client narratives annotated
-- [ ] Layer 6: memoirs annotated
+- [ ] Layer 2: naturalistic studies — search complete, user reviewed inaccessible, annotated
+- [ ] Layer 1a: trauma-clinical — search complete, user reviewed inaccessible, annotated
+- [ ] Layer 1b: psychoanalytic — annotated
+- [ ] Layer 1c: humanistic-existential — annotated
+- [ ] Layer 1d: neuroscience — annotated
+- [ ] Layer 3: counterpoint models — search complete, user reviewed inaccessible, annotated
+- [ ] Layer 4: practitioner essays — annotated (mostly open access)
+- [ ] Layer 5: client narratives — annotated (open access)
+- [ ] Layer 6: memoirs — annotated
 - [ ] All search results summaries completed
 - [ ] All saturation notes written
-- [ ] `todo.md` reviewed — any high-priority inaccessible sources to obtain before proceeding?
+- [ ] `todo.md` reviewed by user — remaining inaccessible sources accepted
 
 ---
 
