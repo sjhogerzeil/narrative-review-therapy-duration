@@ -52,3 +52,17 @@ The frontmatter serves two purposes:
 ## Data extraction principle
 
 **"No data" is a finding.** When a source is silent on a secondary question or cross-cutting observation, note the absence explicitly. The pattern of what sources fail to address is itself evidence.
+
+## Append-only semantics
+
+Source notes are never rewritten — only appended. This applies when:
+
+- **A re-run adds a new secondary question:** Append the new question section below existing secondary questions, marked `[added YYYY-MM-DD, iteration N]`.
+- **A re-scan finds new data for an existing section:** Append below the existing content in that section, marked `[added iteration N]`.
+- **YAML frontmatter is updated:** Add new topics or secondary_qs to the lists. Do not remove existing entries.
+
+The final state of each source note contains all data ever extracted from that source. Git captures when each piece was added. A reader of the final file sees the complete picture without needing to consult git history.
+
+### Extraction file convention
+
+Tables in `3_results/primary/` and `3_results/secondary/` are append-only. New rows go at the bottom. Each row carries its source ID, making the table rebuildable from source notes at any time. The `./sync.sh` script can verify consistency.

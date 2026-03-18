@@ -6,6 +6,14 @@ status: draft
 
 # Audit trail and traceability
 
+## What the audit trail is for
+
+The audit trail allows a reader to **replicate the final analysis** — to follow any claim in the discussion back to its source and verify it. It does not document the intermediate steps of the research process (git captures that). The final state of every file is the auditable record.
+
+**Git captures chronology.** If a reader wants to know *when* a source was added, *why* the search strategy changed, or *how* a question emerged, they can consult the git history and the iteration log in `2_methods/12_rerun_protocol.md`. The audit trail itself only needs to support: "this claim in the discussion → this data in the extraction file → this quote in this source note → this page in this publication."
+
+## Traceability chain
+
 Every claim in the final synthesis must trace back to a specific source annotation, and every source annotation must trace back to a citable original. The chain is:
 
 ```
