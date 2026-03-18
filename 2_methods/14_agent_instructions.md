@@ -8,6 +8,52 @@ status: draft
 
 This file provides concrete, unambiguous instructions for AI agents executing the research plan. It supplements the methods files with operational detail.
 
+## Safety limits — circuit breakers
+
+These hard limits prevent runaway agents from filling disk or creating unbounded output.
+
+### File count limits
+
+| Directory | Max files | Action if exceeded |
+|-----------|-----------|-------------------|
+| Any single layer source dir | 20 | Stop. Log in execution_log.md. Do not create more files. |
+| `3_results/sources/` total | 120 | Stop all search agents. Review with orchestrator. |
+| `3_results/primary/` | 15 | Stop. This should never exceed the number of dimensions. |
+| `3_results/secondary/` | 15 | Stop. Same. |
+| `_media/` per layer | 10 | Stop. Flag for human review. |
+
+### File size limits
+
+| File | Max size | Action if exceeded |
+|------|----------|-------------------|
+| Any single source note .md | 50 KB | Something is wrong. Stop annotating this source. Trim or split. |
+| `execution_log.md` | 100 KB | Archive to `6_appendix/execution_log_archive_[date].md`, start fresh. |
+| `todo.md` | 50 KB | Review with human — too many inaccessible sources suggests a scope problem. |
+| Any transcript in `_media/` | 500 KB | Acceptable for long podcasts. Over 1 MB: truncate to relevant sections only. |
+
+### Per-session limits
+
+- **Max source stubs created per session:** 20
+- **Max source annotations per session:** 10
+- **Max WebFetch calls per session:** 50
+- **Max PubMed searches per session:** 30
+
+If an agent approaches these limits, it must commit current work, update `progress.md`, and stop cleanly.
+
+### Self-check before writing
+
+Before creating a file, the agent must verify:
+1. The target directory exists
+2. The file does not already exist (don't overwrite — append-only semantics)
+3. The file count in that directory is below the limit
+
+```bash
+# Quick check: how many .md files in a directory?
+find 3_results/sources/2-naturalistic-studies -name '*.md' | wc -l
+```
+
+If the count is at the limit, stop and log: "Source budget exhausted for [layer]. Not creating more files."
+
 ## Tool usage by database
 
 | Database | Tool to use | Notes |
