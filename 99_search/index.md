@@ -20,6 +20,7 @@
 | 10_audit_trail.md | "Traceability chain: APA citation → source note → quote with page ref → results extraction → discussion claim with back-reference" | draft |
 | 11_synthesis_method.md | "Analytical process (CIS): data reduction → display → comparison → construct generation → synthesising argument. Predefined dimensions + emergent constructs. Reflexivity, saturation, quality weighting." | draft |
 | 12_rerun_protocol.md | "Protocol for re-running search/analysis when new subquestions or dimensions emerge — append-only semantics, git captures chronology, final state supports replication" | draft |
+| 13_discussion_data_map.md | "Maps each discussion section to the specific data fields that must be collected during annotation. Ensures annotators know what to prioritize for downstream discussion writing." | draft |
 | 2_search_strategy.md | Inclusion/exclusion criteria, iterative snowball protocol, per-layer source budgets and stopping rules | draft |
 | 3_layer_1_academic.md | "Search plan for Layer 1: trauma-clinical, psychoanalytic, humanistic-existential, and neuroscience sublayers — search terms, sources, key authors" | draft |
 | 4_layer_2_naturalistic.md | "Search plan for Layer 2: naturalistic outcome studies — LTPP meta-analyses, Tavistock, Helsinki, dose-effect research" | draft |
@@ -58,6 +59,8 @@
 | 3_turning_points.md | What shifts the healing process — relational breakthroughs, modality switches, life events, thresholds | not started |
 | 4_healing_definitions.md | How different sources define the endpoint of healing — and how that definition determines reported duration | not started |
 | 5_surprises.md | Where the evidence surprises, complicates, or challenges the working thesis | not started |
+| 6_dropout.md | Dropout rates, attrition data, premature termination reasons — feeds survivorship bias discussion | not started |
+| 7_access.md | Financial barriers, insurance limitations, forced termination, socioeconomic context — feeds access and justice discussion | not started |
 
 ## 3_results/secondary
 

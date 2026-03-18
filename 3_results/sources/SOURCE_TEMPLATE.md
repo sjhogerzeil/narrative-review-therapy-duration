@@ -19,6 +19,9 @@ duration_range: # e.g., "3-7 years", "50+ sessions", "not specified"
 stance: # supports | complicates | challenges | neutral
 topics: # list, e.g., [dropout, modality-switching, session-frequency, phase-model]
 secondary_qs: # list of secondary questions addressed, e.g., [continuity, modality, adjuncts]
+has_dropout_data: # yes | no
+has_access_context: # yes | no
+endpoint_definition: # symptom-reduction | functional | structural | mixed | implicit | not-defined
 ---
 
 ## Summary
@@ -67,3 +70,12 @@ secondary_qs: # list of secondary questions addressed, e.g., [continuity, modali
 
 ### Therapy vs. life
 [Does this source attribute change to therapy specifically, or does it acknowledge the role of relationships, life events, community, creative work, ageing, or other non-therapeutic factors? How entangled are these in the reported trajectory?]
+
+### Access and context
+[Does this source mention financial barriers, insurance limitations, forced termination, geographic access, or the socioeconomic context of the therapy described? Does it acknowledge who can and cannot access this kind of treatment?]
+
+### Definition of endpoint
+[How does this source define "healed," "recovered," "improved," or "changed"? Symptom reduction? Functional improvement? Structural change? Is the definition explicit or implicit? Note the exact language used.]
+
+### Dropout data
+[Does this source report dropout/attrition rates, reasons for termination, or outcomes for people who left therapy early? If a study, what percentage completed treatment? If a narrative, does the author mention people who left?]
