@@ -73,3 +73,33 @@ The orchestrator may then:
 - **Dose is necessary but not sufficient.** Howard shows dose matters; Zimmermann shows technique matters independently; Fonagy shows that time-after-treatment matters. These three findings together suggest a more complex model than simple dose-effect: dose × technique × elapsed time.
 - **The treatment-engagement paradox.** Knekt shows that the patients who need the most treatment are the least able to engage with it. This creates a systematic bias in all duration studies — outcomes reflect the people who stayed, not the people who needed to stay.
 - **Follow-up as the real outcome window.** Both Zimmermann and Fonagy find that the most important differences emerge during follow-up, not during treatment. This challenges the standard practice of evaluating therapy at end-of-treatment and suggests that our review should pay special attention to studies with extended follow-up periods.
+
+### 2026-03-18 Annotation agent: Layer 2 batch 2 (7 sources)
+
+**Task:** Annotate 7 source stubs in `3_results/sources/2-naturalistic-studies/`: shedler-2010-efficacy, leichsenring-2013-emerging-evidence, lindfors-2019-helsinki-10yr, koeser-2023-tads-cost, leichsenring-2011-ltpp-meta, krakau-2023-melas-protocol, brand-2019-topdd.
+
+**Layer/file:** Layer 2 — naturalistic studies
+
+**Issues identified:**
+- All 7 sources annotated from user-provided key data rather than full text retrieval. Page numbers are included where provided; section references (§Methods, §Results, §Discussion) used elsewhere. Verbatim quotes are limited to those supplied in the briefing.
+- Krakau 2023 is a protocol paper with no results — annotated for its methodological framing and question-defining value only.
+- Brand 2019 is the only source directly addressing our target population (dissociative disorders / complex developmental trauma), but it is a psychoeducational add-on study with no control group — limiting its evidentiary weight.
+- Leichsenring 2011 and Leichsenring 2013 overlap substantially (same first author, same LTPP definition, partially overlapping studies). The 2013 paper adds dose-effect data from Perry et al. and Kopta et al. that are not in the 2011 paper.
+
+**Questions raised:**
+- The Helsinki study (Lindfors 2019) convergence finding — 646 sessions producing similar 10-year outcomes to 232 sessions — is potentially the most important single finding for the dose-vs-duration question. But the PA group was self-selected (not randomized) and small (n=41). How heavily should this convergence be weighted in synthesis? Should it be presented as definitive or as hypothesis-generating?
+- The Perry et al. dose-effect data (50% recovery at 1.3 years/92 sessions; 75% at 2.2 years/216 sessions) are cited secondarily through Leichsenring 2013. Should Perry 1999 be added as a primary source?
+- Koeser 2023 raises the question of whether the NICE QALY framework is appropriate for evaluating long-term therapy. The £33K/QALY ICER exceeds the £20K threshold, but the authors themselves say the time horizon was too short. Should the review explicitly critique the QALY methodology as structurally biased against long-term interventions?
+- Brand 2019's finding that higher-severity patients improve more contradicts the dose-effect literature's implication that more complex = more sessions needed. Is this a genuine contradiction, or does it reflect different populations (dissociative disorders vs. personality disorders)?
+
+**Suggestions:**
+- Perry et al. (1999) should be considered for addition as a primary source, given that the 50%/1.3yr and 75%/2.2yr figures are among the most concrete answers to the primary research question.
+- The Shedler "sleeper effect" (effect sizes growing at follow-up) now connects to Fonagy 2015, Zimmermann 2014, AND Lindfors 2019 (PA showing post-treatment acceleration). This is becoming one of the strongest cross-source patterns and may deserve a dedicated extraction note.
+- The access/cost dimension is strikingly absent from most sources. Only Koeser 2023 directly addresses cost, and Lindfors 2019 implicitly addresses access (Finnish public funding). Consider whether an access-focused source should be sought for later layers.
+
+**Emerging patterns:**
+- **The sleeper effect is now confirmed across 4 sources.** Shedler 2010 (meta-analytic), Fonagy 2015 (TADS RCT), Zimmermann 2014 (MPS), and Lindfors 2019 (Helsinki PA group) all show continued or accelerated improvement after treatment ends. This is no longer a single-study finding — it is a robust pattern. It fundamentally changes the "how long" question: treatment duration plus post-treatment elapsed time together constitute the healing window.
+- **Convergence at long follow-up.** The Helsinki study shows PA and LPP converging at 10 years despite a 3x dose difference. If confirmed by MeLAS (Krakau 2023), this would suggest that for personality-level change, calendar time matters more than session count — therapy accelerates natural developmental processes but does not fundamentally alter the timeline.
+- **The cost-effectiveness trap.** Koeser 2023 reveals a structural problem: QALY-based cost-effectiveness analyses have time horizons too short to capture the full benefit of long-term therapy. If the sleeper effect is real, then all short-horizon cost-effectiveness analyses systematically undervalue long-term treatment. This is not just a measurement problem — it actively shapes policy and access.
+- **Severity as accelerator, not barrier.** Brand 2019's finding that higher dissociation predicted greater improvement challenges the assumption that the most complex patients need the longest treatment. This could reflect a ceiling effect (more room to improve), but it may also indicate that severe dissociative patients are highly responsive once appropriate treatment is provided. This pattern warrants tracking across other population-specific sources.
+- **Near-total silence on access.** Of 11 Layer 2 sources annotated so far, only Koeser 2023 directly addresses cost, and only Lindfors 2019 (implicitly) addresses healthcare system context. The literature is focused on efficacy and has remarkably little to say about who can actually access these treatments. This silence is itself a finding.

@@ -23,56 +23,74 @@ endpoint_definition: mixed
 
 ## Summary
 
+Study protocol (not results) for MeLAS, an individual participant data (IPD) meta-analysis comparing high-intensity (≥3 sessions/week) vs low-intensity (up to 2 sessions/week) long-term psychodynamic/psychoanalytic treatment. Long-term is defined as ≥1 year or ≥50 sessions. The protocol plans to examine both symptomatic outcomes and structural/personality outcomes, and to identify predictors and moderators of treatment outcome. It will also explore reciprocal relationships between symptomatic and structural change. The study directly addresses the dose-vs-frequency question that the Leichsenring 2011 meta-analysis and Helsinki study (Lindfors 2019) cannot disentangle: does higher session frequency improve outcomes beyond what more elapsed time at lower frequency provides? As a protocol, this source contains no results — its value is in framing the question and defining the methodological approach.
 
 ## Key claims
-- [Claim] — p. [page] / §[section] / [timestamp]
+- High-intensity defined as ≥3 sessions/week; low-intensity defined as up to 2 sessions/week — §Methods
+- Long-term defined as ≥1 year or ≥50 sessions — §Methods
+- Primary outcome: symptom reduction (global or disorder-specific) — §Outcomes
+- Secondary outcomes: reliable change, remission, functional capacities, personality, personality functioning, interpersonal pathology — §Outcomes
+- Will identify predictors and moderators of treatment outcomes — §Aims
+- Will determine reciprocal relationships between symptomatic and structural/personality change — §Aims
+- IPD approach allows for examination of patient-level moderators that aggregate meta-analyses cannot detect — §Methods
 
 ## Duration data
-- [Data point] — p. [page] / §[section]
+- LTPP definition: ≥1 year or ≥50 sessions (same threshold as Leichsenring 2011) — §Methods
+- High-intensity: ≥3 sessions/week (effectively psychoanalytic frequency) — §Methods
+- Low-intensity: 1-2 sessions/week (standard psychotherapy frequency) — §Methods
+- No results data — this is a protocol only
+- The included studies are expected to cover a range from ~1 year to multiple years of treatment, though specific study characteristics are not yet reported
 
 ## Trajectory description
 
+No trajectory data — protocol only. However, the planned analysis of reciprocal relationships between symptomatic and structural change implicitly proposes a trajectory model: symptom improvement and personality change may follow different timelines, influence each other bidirectionally, and respond differently to dose and frequency. This is more sophisticated than Howard's sequential phase model and, if the study produces results, could provide the most nuanced trajectory description available.
 
 ## Relevance to thesis
 
+Relevant primarily as a methodological landmark: this is the first study designed to directly answer the frequency question using IPD methods. For our review, it frames one of the key secondary questions (session frequency) and demonstrates that the field recognizes the dose-vs-frequency distinction as unresolved. The planned analysis of predictors and moderators could eventually help answer "for whom does higher frequency matter?" — which is more useful than a blanket recommendation. The distinction between symptomatic and structural outcomes in the planned analysis maps directly onto our endpoint-definition cross-cutting observation. As a protocol, it cannot be cited for findings, but it can be cited to show that the question remains open and is being actively investigated.
 
 ## Quotes
-> "[Exact quote]" — p. [page]
+No direct quotes extracted — protocol paper, value is in design rather than specific language.
 
 ## Secondary questions
-[For each: note what the source says, or note "no data" explicitly. Absence of data is a finding.]
 
 ### Continuous or interrupted?
+Not addressed in the protocol. The LTPP definition (≥1 year or ≥50 sessions) does not specify continuity requirements.
 
 ### One modality or many?
+All included treatments are psychodynamic/psychoanalytic. The comparison is within-modality (intensity levels), not between modalities.
 
 ### One therapist or several?
+Not addressed.
 
 ### Session frequency?
+This is the central question of the study. The high-vs-low intensity comparison (≥3x/week vs 1-2x/week) is the most direct investigation of the frequency question in the literature. The IPD approach will allow examination of whether frequency effects vary by patient characteristics, diagnosis, or outcome type.
 
 ### Phase-based or organic?
+The planned analysis of reciprocal relationships between symptomatic and structural change may reveal whether change follows phase-like patterns or is more interleaved. No data yet.
 
 ### Therapy alone or therapy-plus?
+Not specified in the protocol. Presumably varies across included studies.
 
 ## Quality notes
-[Narrative assessment of source quality. Not a checklist — a judgment call. Consider: clearly stated aims? Appropriate design for the claims made? Sufficient data to support interpretations? How should quality concerns affect the weight given to this source in synthesis?]
+As a pre-registered protocol published in BMJ Open, this source represents good methodological practice (transparency, pre-specification of analyses). The IPD approach is the gold standard for meta-analysis — it avoids the ecological fallacy of aggregate meta-analyses and allows examination of patient-level moderators. However, the study has no results yet, so it cannot be cited as evidence. The included studies will likely be heterogeneous in many ways beyond frequency (country, era, patient population, outcome measures), and harmonizing individual-level data across studies introduces its own challenges. The protocol's value is as a marker of the state of the question, not as an answer to it.
 
 ## Cross-cutting observations
 
 ### Survivorship bias
-[Does this source only capture people who stayed? Any data on dropout, premature termination, or people who left and healed elsewhere? No data is a valid answer — note the absence.]
+Not addressed — protocol only. However, the IPD approach would in principle allow analysis of dropout patterns at the individual level, which aggregate meta-analyses cannot do. Whether the protocol plans to analyze dropout as a moderator is not specified.
 
 ### Dose vs. elapsed time
-[Does this source distinguish between number of sessions, session frequency, and calendar years? Does it measure dose, duration, or both? If it reports "years," what was the actual session frequency/intensity?]
+This is the study's raison d'etre. By comparing high-frequency (more sessions per unit time) vs low-frequency (fewer sessions per unit time), with duration held constant (both ≥1 year), the study is designed to separate dose from elapsed time. If high-frequency shows superior outcomes at the same calendar duration, dose matters independently of elapsed time. If outcomes are similar, elapsed time may be the more important variable. This directly addresses the gap identified in Lindfors 2019 (Helsinki study), where 646 sessions over 5 years produced similar 10-year outcomes to 232 sessions over 3 years.
 
 ### Therapy vs. life
-[Does this source attribute change to therapy specifically, or does it acknowledge the role of relationships, life events, community, creative work, ageing, or other non-therapeutic factors? How entangled are these in the reported trajectory?]
+Not addressed in the protocol. The IPD approach could in principle incorporate life-event data if the included studies collected it, but this is not specified.
 
 ### Access and context
-[Does this source mention financial barriers, insurance limitations, forced termination, geographic access, or the socioeconomic context of the therapy described? Does it acknowledge who can and cannot access this kind of treatment?]
+Not addressed. The cost and access implications of recommending 3+ sessions/week vs 1-2 sessions/week are not discussed, despite being a critical consideration for implementation. Three sessions per week of psychoanalytic therapy is available in very few healthcare systems outside of training institutes and subsidized settings.
 
 ### Definition of endpoint
-[How does this source define "healed," "recovered," "improved," or "changed"? Symptom reduction? Functional improvement? Structural change? Is the definition explicit or implicit? Note the exact language used.]
+Explicitly mixed: primary outcome is symptom reduction; secondary outcomes include functional capacities, personality functioning, and interpersonal pathology. The planned analysis of reciprocal relationships between symptomatic and structural change explicitly acknowledges that these are different kinds of endpoints that may respond differently to treatment intensity. This is the most methodologically sophisticated approach to the endpoint question in our source set.
 
 ### Dropout data
-[Does this source report dropout/attrition rates, reasons for termination, or outcomes for people who left therapy early? If a study, what percentage completed treatment? If a narrative, does the author mention people who left?]
+Not yet available — protocol only.
