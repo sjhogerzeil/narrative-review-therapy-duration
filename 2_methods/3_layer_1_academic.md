@@ -22,6 +22,9 @@ Search terms:
 - phase-based trauma treatment duration
 - personality disorder long-term therapy outcomes
 - complex trauma treatment length predictors
+- premature termination complex trauma therapy [added 2026-03-18, Layer 2 finding]
+- dropout attrition personality disorder psychotherapy [added 2026-03-18, Layer 2 finding]
+- treatment engagement barriers complex PTSD [added 2026-03-18, Layer 2 finding]
 
 Sources: PubMed, PsycINFO, Journal of Trauma & Dissociation, European Journal of Psychotraumatology
 

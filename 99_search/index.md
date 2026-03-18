@@ -62,6 +62,7 @@
 | 5_surprises.md | Where the evidence surprises, complicates, or challenges the working thesis | not started |
 | 6_dropout.md | Dropout rates, attrition data, premature termination reasons — feeds survivorship bias discussion | not started |
 | 7_access.md | Financial barriers, insurance limitations, forced termination, socioeconomic context — feeds access and justice discussion | not started |
+| 8_sleeper_effect.md | "Emergent construct — therapeutic gains that grow after treatment ends. Confirmed across 4+ sources. Cuts across dose, technique, and elapsed time dimensions. [emergent, iteration 0]" | not started |
 
 ## 3_results/secondary
 

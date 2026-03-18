@@ -53,7 +53,14 @@ The empirical backbone. Studies following real psychotherapy patients over years
 
 ## Saturation note
 
-*To be completed when stopping.*
+**Stopped at 11 sources (within budget of 8-12).** Conceptual saturation reached for the primary duration question — additional naturalistic studies would likely repeat the same patterns (dose-effect, sleeper effect, LTPP superiority over shorter therapy in complex presentations).
+
+**Gaps acknowledged:**
+- **Treatment-engagement paradox:** Only Knekt 2021 provides dropout data. This is thin for the survivorship bias discussion. Additional dropout/engagement literature is expected from Layer 1a (trauma-clinical), where search terms have been expanded to include premature termination and treatment engagement barriers. [added 2026-03-18]
+- **Population mismatch:** Only Brand 2019 directly studies the defined population (complex developmental trauma with dissociative features). The remaining 10 sources study depression, anxiety, or "complex mental disorders" broadly. This gap is unlikely to be filled by more naturalistic studies — it reflects the state of the evidence base.
+- **Helsinki convergence:** Lindfors 2019 is likely the only 10-year PA vs LPP comparison. No additional sources expected.
+
+**Emergent construct:** The sleeper effect has been elevated to a dedicated extraction file (`3_results/primary/8_sleeper_effect.md`). [added 2026-03-18]
 
 ## Discovered sources
 
