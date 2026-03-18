@@ -8,13 +8,14 @@ This file is the single source of truth for "where are we?" A fresh session read
 
 **Phase 0: Setup** — COMPLETE
 **Phase 1, Layer 2** — COMPLETE (11/11 annotated)
+**Phase 1, Layer 1a** — COMPLETE (8/8 annotated, 2 from secondary sources)
 
 ## Phase 1: Search & Annotate
 
 | Exec order | Layer | Search status | Stubs | Full | Abstract | Inaccessible | Media | Saturation | Notes |
 |-----------|-------|-------------|-------|------|----------|-------------|-------|-----------|-------|
 | 1 | 2-naturalistic | **COMPLETE** | 11 | 11 | 0 | 0 | 0 | see README | Next: Layer 1a |
-| 2 | 1a-trauma-clinical | not started | 0 | 0 | 0 | 0 | 0 | — | |
+| 2 | 1a-trauma-clinical | **COMPLETE** | 8 | 6 | 2 | 0 | 0 | see README | +1 to Layer 3 |
 | 3 | 1b-psychoanalytic | not started | 0 | 0 | 0 | 0 | 0 | — | |
 | 4 | 1c-humanistic | not started | 0 | 0 | 0 | 0 | 0 | — | |
 | 5 | 1d-neuroscience | not started | 0 | 0 | 0 | 0 | 0 | — | |

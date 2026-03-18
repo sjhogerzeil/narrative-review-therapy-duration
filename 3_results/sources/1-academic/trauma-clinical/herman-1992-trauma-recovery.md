@@ -23,56 +23,75 @@ endpoint_definition: structural
 
 ## Summary
 
+*Note: annotated from secondary sources and widely cited passages, not from primary text. Access status: abstract-only.*
+
+Foundational text establishing the three-phase model of trauma recovery. Herman articulates three sequential stages: (1) safety and stabilisation, (2) remembrance and mourning, (3) reconnection with ordinary life. The book addresses complex trauma survivors including childhood sexual abuse, domestic violence, and political violence, and was the first to articulate "complex PTSD" as a diagnostic concept (though the formal diagnosis was not adopted until ICD-11, decades later). All subsequent phase-based treatment models for complex trauma — ISSTD guidelines, van der Hart/Steele/Nijenhuis's structural dissociation model, and Cloitre's STAIR-NT — build on Herman's framework.
 
 ## Key claims
-- [Claim] — p. [page] / §[section] / [timestamp]
+- Recovery unfolds in three stages: safety, remembrance and mourning, reconnection — widely cited formulation
+- "Recovery unfolds in three stages. The central task of the first stage is the establishment of safety. The central task of the second stage is remembrance and mourning. The central task of the third stage is reconnection with ordinary life." — widely quoted passage
+- Recovery is explicitly NOT linear — patients may cycle between stages, returning to earlier phases as new material emerges or as life circumstances destabilise them — secondary source descriptions
+- The safety phase may take months to years for severely traumatized individuals — secondary source descriptions
+- Reconnection is described as an ongoing, lifelong process rather than a discrete endpoint — secondary source descriptions
+- The framework implies multi-year treatment but does not prescribe a specific duration — no timeline given
+- First articulation of "complex PTSD" as a diagnostic concept, distinguishing it from single-event PTSD — secondary source descriptions
 
 ## Duration data
-- [Data point] — p. [page] / §[section]
+- No specific duration data or timeline provided — the phases are described as sequential but their length depends on the individual — secondary source descriptions
+- The safety phase alone may take "months to years" for severely traumatized individuals — secondary source descriptions
+- Reconnection is described as lifelong — implying that full "recovery" is open-ended rather than time-bounded — secondary source descriptions
 
 ## Trajectory description
 
+Herman describes recovery as a spiral rather than a line. The three phases are sequential in logic but recursive in practice — patients cycle through them, sometimes returning to safety work after beginning trauma processing, or needing to re-establish safety after a reconnection attempt destabilises them. The trajectory is explicitly nonlinear. The first phase (safety) is foundational and cannot be rushed; for severely traumatized individuals, it may constitute years of work before any direct trauma processing is possible. The third phase (reconnection) is open-ended and lifelong, suggesting that the trajectory of recovery extends beyond any treatment endpoint. This framework fundamentally reframes the "how long" question: healing is not a fixed-duration intervention but an unfolding developmental process.
 
 ## Relevance to thesis
 
+Herman is the ur-text. Every subsequent source in the trauma-clinical layer builds on this framework. For the review's purposes, Herman's contribution is conceptual rather than empirical — she provides the theoretical architecture (three phases, nonlinear trajectory, open-ended reconnection) that other sources populate with data. The absence of specific duration data is itself significant: Herman implicitly argues that prescribing a timeline would be inappropriate because recovery is individualized and open-ended. This positions the book as supporting the thesis that healing takes years, while also complicating any attempt to specify exactly how many years.
 
 ## Quotes
-> "[Exact quote]" — p. [page]
+> "Recovery unfolds in three stages. The central task of the first stage is the establishment of safety. The central task of the second stage is remembrance and mourning. The central task of the third stage is reconnection with ordinary life." — widely cited, exact page unknown (abstract-only annotation)
 
 ## Secondary questions
-[For each: note what the source says, or note "no data" explicitly. Absence of data is a finding.]
 
 ### Continuous or interrupted?
+Herman's framework implicitly assumes continuity of treatment, but the recursive nature of the model (cycling between phases) suggests that interruptions may be tolerable if the therapeutic relationship can be resumed. No explicit discussion of breaks or interruptions could be confirmed from secondary sources.
 
 ### One modality or many?
+Herman describes a broadly integrative approach rather than a single modality. The three phases implicitly require different therapeutic techniques (stabilisation skills, trauma processing, relational work), suggesting that the framework accommodates multiple modalities within a single treatment relationship. No data from secondary sources on modality-switching.
 
 ### One therapist or several?
+No explicit data available from secondary sources. The emphasis on the therapeutic relationship as the vehicle of recovery — particularly safety and trust — implies that continuity of therapist is valued, but this is inference rather than explicit prescription.
 
 ### Session frequency?
+No data available from secondary sources.
 
 ### Phase-based or organic?
+Explicitly phase-based — this is the foundational text for phase-based trauma treatment. However, Herman's insistence on nonlinear cycling between phases means the model is phase-based in structure but organic in execution. The phases provide a map, not a schedule.
 
 ### Therapy alone or therapy-plus?
+Herman's third phase (reconnection) explicitly involves re-engagement with ordinary life, relationships, community, and social action. This implies that recovery is not therapy alone but therapy plus life reconstruction. Herman also situates trauma recovery in a political context (feminist analysis, human rights framework), suggesting that healing involves community and social dimensions beyond the consulting room. No specific data on adjuncts (medication, bodywork) from secondary sources.
 
 ## Quality notes
-[Narrative assessment of source quality. Not a checklist — a judgment call. Consider: clearly stated aims? Appropriate design for the claims made? Sufficient data to support interpretations? How should quality concerns affect the weight given to this source in synthesis?]
+
+*Annotated from secondary sources, not primary text.* Herman (1992) is a clinical-theoretical text, not a research study. It does not present empirical data, controlled studies, or measured outcomes. Its authority derives from clinical experience, case illustration, and theoretical synthesis rather than from evidence in the research sense. For our review, this means Herman provides the conceptual framework that organises the field but does not provide evidence for specific duration claims. The book's enormous influence (it defined the field of complex trauma treatment) means that its framework is embedded in virtually all subsequent empirical work — making it foundational but also creating a confirmation bias risk: researchers who design studies within Herman's framework will tend to find evidence that confirms it. The quality limitation of this annotation is significant: this is reconstructed from secondary descriptions, not from a close reading of the primary text. Specific page numbers and exact formulations may differ from what is reported here.
 
 ## Cross-cutting observations
 
 ### Survivorship bias
-[Does this source only capture people who stayed? Any data on dropout, premature termination, or people who left and healed elsewhere? No data is a valid answer — note the absence.]
+Not applicable in the traditional sense (this is a theoretical text, not a study). However, Herman's clinical examples presumably draw on patients who remained in treatment long enough to progress through the phases. Patients who dropped out of treatment are unlikely to be represented in the case illustrations that inform the model.
 
 ### Dose vs. elapsed time
-[Does this source distinguish between number of sessions, session frequency, and calendar years? Does it measure dose, duration, or both? If it reports "years," what was the actual session frequency/intensity?]
+Herman does not distinguish dose from duration. The framework is organised around phases and processes rather than session counts or calendar time. The implication is that elapsed time — time for safety to build, time for mourning, time for reconnection — is the relevant metric, not session count. This positions Herman's framework on the "elapsed time" side of the dose-vs-time question.
 
 ### Therapy vs. life
-[Does this source attribute change to therapy specifically, or does it acknowledge the role of relationships, life events, community, creative work, ageing, or other non-therapeutic factors? How entangled are these in the reported trajectory?]
+Herman is relatively strong here compared to other clinical sources. The third phase (reconnection) explicitly involves life beyond therapy — relationships, work, community, social action. Herman frames recovery as re-engagement with the world, not just symptom reduction in the consulting room. This makes her model more ecologically valid than purely symptom-focused approaches, though the role of non-therapeutic factors in the earlier phases is less explicitly addressed.
 
 ### Access and context
-[Does this source mention financial barriers, insurance limitations, forced termination, geographic access, or the socioeconomic context of the therapy described? Does it acknowledge who can and cannot access this kind of treatment?]
+No specific data from secondary sources on financial barriers or access. However, Herman's framework — which implies years of specialist treatment — carries implicit access implications. Herman's political framing (feminist, human rights) suggests awareness of structural barriers, but this could not be confirmed at the level of specific treatment access discussion from secondary sources alone.
 
 ### Definition of endpoint
-[How does this source define "healed," "recovered," "improved," or "changed"? Symptom reduction? Functional improvement? Structural change? Is the definition explicit or implicit? Note the exact language used.]
+Herman defines recovery structurally rather than symptomatically. The endpoint is not symptom elimination but reconnection with ordinary life — a functional and existential definition. The three phases culminate not in being "cured" but in being able to live fully. Reconnection is described as ongoing and lifelong, which means the endpoint is asymptotic rather than discrete. This is one of the most important features of the model for our review: it defines healing as a trajectory rather than a destination.
 
 ### Dropout data
-[Does this source report dropout/attrition rates, reasons for termination, or outcomes for people who left therapy early? If a study, what percentage completed treatment? If a narrative, does the author mention people who left?]
+No data. This is a theoretical and clinical text, not a study with participants.

@@ -25,17 +25,6 @@ Sources identified as relevant during the search but not accessed — behind pay
 
 ## Unresolved
 
-### steele-2005-phase-oriented
-
-- **Citation:** Steele, K., van der Hart, O., & Nijenhuis, E. R. S. (2005). Phase-oriented treatment of structural dissociation in complex traumatization: Overcoming trauma-related phobias. *Journal of Trauma & Dissociation*, *6*(3), 11–53. https://doi.org/10.1300/J229v06n03_02
-- **URL/DOI:** https://doi.org/10.1300/J229v06n03_02
-- **Barrier:** paywall
-- **Layer:** 1a-trauma-clinical
-- **Why it matters:** Foundational phase-oriented treatment model for structural dissociation. Defines the clinical framework that subsequent phase-based literature builds on. Without it, reliance on secondary descriptions of the model.
-- **Impact on conclusions:** May miss specific duration recommendations or clinical observations about treatment length embedded in the model description.
-- **Date identified:** 2026-03-18
-- **Status:** unresolved
-
 ### yeates-2023-psychodynamic-dd
 
 - **Citation:** Yeates, G., et al. (2023). A systematic review and narrative analysis of the evidence for individual psychodynamically informed psychotherapy for dissociative disorders. *Journal of Trauma & Dissociation*. https://doi.org/10.1080/15299732.2023.2293802
@@ -51,32 +40,10 @@ Sources identified as relevant during the search but not accessed — behind pay
 
 - **Citation:** Freixo Ferreira, L., Guerra, C., & Vieira-Coelho, M. A. (2023). Predictors of psychotherapy dropout in patients with borderline personality disorder: A systematic review. *Clinical Psychology & Psychotherapy*, *30*(6), 1324–1337. https://doi.org/10.1002/cpp.2888
 - **URL/DOI:** https://doi.org/10.1002/cpp.2888
-- **Barrier:** paywall
+- **Barrier:** paywall (annotated from abstract + Scholar Gateway; full text would add dropout rate numbers)
 - **Layer:** 1a-trauma-clinical
 - **Why it matters:** Systematic review of BPD dropout predictors. Directly addresses treatment-engagement paradox — the people who most need long treatment are most likely to drop out.
 - **Impact on conclusions:** Without this, the dropout/survivorship bias discussion relies on less systematic evidence.
-- **Date identified:** 2026-03-18
-- **Status:** unresolved
-
-### links-2015-gpm-bpd
-
-- **Citation:** Links, P. S., Ross, J., & Gunderson, J. G. (2015). Promoting Good Psychiatric Management for patients with borderline personality disorder. *Journal of Clinical Psychology*, *71*(8), 753–763. https://doi.org/10.1002/jclp.22203
-- **URL/DOI:** https://doi.org/10.1002/jclp.22203
-- **Barrier:** paywall
-- **Layer:** 1a-trauma-clinical
-- **Why it matters:** Contains explicit treatment milestones for BPD (6 wk, 6 mo, 12 mo, 18 mo). One of few sources with a concrete milestone-based timeline. Complicates the thesis by providing a structured shorter-term framework.
-- **Impact on conclusions:** Losing the most concrete milestone framework available. May weaken the nuance of the duration discussion.
-- **Date identified:** 2026-03-18
-- **Status:** unresolved
-
-### steele-2001-dependency
-
-- **Citation:** Steele, K., van der Hart, O., & Nijenhuis, E. R. S. (2001). Dependency in the treatment of complex posttraumatic stress disorder and dissociative disorders. *Journal of Trauma & Dissociation*, *2*(4), 79–116. https://doi.org/10.1300/J229v02n04_05
-- **URL/DOI:** https://doi.org/10.1300/J229v02n04_05
-- **Barrier:** paywall
-- **Layer:** 1a-trauma-clinical
-- **Why it matters:** Directly addresses therapeutic dependency in long-term trauma treatment. Central to the one-therapist-or-several secondary question and the nature of long-term therapeutic relationships.
-- **Impact on conclusions:** Weakens the discussion of dependency dynamics in long-term treatment. This is a unique contribution not covered by other included sources.
 - **Date identified:** 2026-03-18
 - **Status:** unresolved
 
@@ -102,17 +69,6 @@ Sources identified as relevant during the search but not accessed — behind pay
 - **Date identified:** 2026-03-18
 - **Status:** unresolved
 
-### paris-2020-access-pd
-
-- **Citation:** Paris, J. (2020). Access to psychotherapy for patients with personality disorders. *Personality and Mental Health*, *14*(3), 246–253. https://doi.org/10.1002/pmh.1483
-- **URL/DOI:** https://doi.org/10.1002/pmh.1483
-- **Barrier:** paywall
-- **Layer:** 3-counterpoint
-- **Why it matters:** Key counterpoint arguing long-term therapy for PD is not always necessary. Claims most improvement occurs by 20 weeks. Raises access and cost concerns that the review must address.
-- **Impact on conclusions:** Without this, the counterpoint layer lacks its strongest voice on access/cost. Weakens the dialectical structure of the review.
-- **Date identified:** 2026-03-18
-- **Status:** unresolved
-
 ## Resolved
 
 *Sources that were initially inaccessible but later obtained by user (2026-03-18).*
@@ -124,6 +80,10 @@ Sources identified as relevant during the search but not accessed — behind pay
 - `koeser-2023-tads-cost` — provided-manually
 - `shedler-2010-efficacy` — provided-manually
 - `zimmermann-2014-munich-dose` — provided-manually
+- `steele-2005-phase-oriented` — provided-manually
+- `steele-2001-dependency` — provided-manually
+- `links-2015-gpm-bpd` — provided-manually
+- `paris-2020-access-pd` — provided-manually (Layer 3)
 
 ---
 

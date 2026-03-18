@@ -103,3 +103,58 @@ The orchestrator may then:
 - **The cost-effectiveness trap.** Koeser 2023 reveals a structural problem: QALY-based cost-effectiveness analyses have time horizons too short to capture the full benefit of long-term therapy. If the sleeper effect is real, then all short-horizon cost-effectiveness analyses systematically undervalue long-term treatment. This is not just a measurement problem — it actively shapes policy and access.
 - **Severity as accelerator, not barrier.** Brand 2019's finding that higher dissociation predicted greater improvement challenges the assumption that the most complex patients need the longest treatment. This could reflect a ceiling effect (more room to improve), but it may also indicate that severe dissociative patients are highly responsive once appropriate treatment is provided. This pattern warrants tracking across other population-specific sources.
 - **Near-total silence on access.** Of 11 Layer 2 sources annotated so far, only Koeser 2023 directly addresses cost, and only Lindfors 2019 (implicitly) addresses healthcare system context. The literature is focused on efficacy and has remarkably little to say about who can actually access these treatments. This silence is itself a finding.
+
+### 2026-03-18 Annotation agent: Layer 1a + Layer 3 batch (6 sources)
+
+**Task:** Annotate 6 source stubs: steele-2005-phase-oriented, steele-2001-dependency, links-2015-gpm-bpd, freixo-ferreira-2023-bpd-dropout, yeates-2023-psychodynamic-dd, paris-2020-access-pd.
+
+**Layer/file:** Layer 1a (trauma-clinical) — 5 sources; Layer 3 (counterpoint) — 1 source
+
+**Issues identified:**
+- All 6 sources annotated from user-provided key data, not full text retrieval. Page numbers are approximate based on provided data; section references used where pages unavailable.
+- Freixo Ferreira 2023 annotated from abstract + Scholar Gateway chunks only (access: inaccessible). Specific dropout rates and effect sizes may be missing.
+- Yeates 2023 is fully paywalled — annotated from abstract only. All body sections marked "no data (inaccessible)" except summary and relevance. This is the only source directly at the intersection of psychodynamic therapy and dissociative disorders, making its inaccessibility a significant gap.
+- Links 2015 provides the most concrete milestone timeline in the review (6wk/6mo/12mo/18mo), but these are clinical expectations rather than empirically validated benchmarks — the paper does not cite validation studies for the specific timepoints.
+
+**Questions raised:**
+- Paris 2020 conflates BPD with our defined population (complex developmental trauma with dissociative features). His evidence base (Howard 1986 dose-effect, McLean longitudinal study, Kopta 1994) was derived from different populations. Should the review explicitly argue that population definition is the crux of the disagreement about duration — that Paris may be right about BPD symptom reduction but wrong about structural dissociation?
+- The Steele 2001 dependency argument (secure dependency IS the mechanism of cure) has profound implications for treatment format: if dependency must develop naturally, it cannot be compressed by increasing session frequency. This suggests that elapsed calendar time may be more important than session count for this specific therapeutic mechanism. Does this connect to the Lindfors 2019 convergence finding (PA and LPP converging at 10 years despite 3x dose difference)?
+- Links 2015's GPM milestone framework and Paris 2020's stepped-care model both assume that non-response to brief treatment should trigger escalation to longer/more intensive treatment. But neither addresses what happens to the therapeutic relationship during escalation. If the patient must transfer to a new specialist, does this reset the dependency/alliance development process (per Steele 2001)?
+
+**Suggestions:**
+- Yeates 2023 should be prioritized for full text acquisition. It is the only source directly reviewing psychodynamic therapy for dissociative disorders.
+- The tension between Links 2015 (structured milestones, 18-month framework) and Steele 2005 (spiral trajectory, no timeline) illustrates a fundamental difference in how "progress" is defined. Links measures behavioral/functional milestones; Steele describes structural reorganization. These may not be contradictory — they may describe different layers of change happening simultaneously. Consider creating a synthesis note on "layers of change: symptomatic vs. structural."
+- Paris 2020 is the first source in the review to break the access silence. His cost/access arguments ($220/week DBT, waiting list ethics) should be cross-referenced with the "near-total silence on access" pattern identified in previous batches.
+
+**Emerging patterns:**
+- **The population-definition problem is now explicit.** Paris 2020 argues against long treatment for PD; Steele 2005/2001 argue for long treatment for complex trauma with structural dissociation. These positions may not contradict each other — they may be about different populations that overlap diagnostically but differ structurally. The key variable may be the degree of structural dissociation, not the diagnostic category (BPD vs. complex PTSD vs. DID).
+- **Dependency as developmental time.** Steele 2001's argument that secure dependency develops through relational experience (not through technique) implies that treatment duration is partially determined by developmental biology — attachment formation takes the time it takes, regardless of session frequency or therapeutic skill. This is a qualitatively different argument from "more sessions = more change" (dose-effect) and may explain the Lindfors convergence finding.
+- **The escalation gap.** Both Links 2015 and Paris 2020 advocate stepped care, but neither addresses the relational cost of escalation (transferring to a new therapist). Steele 2001 and 2005 suggest this cost could be severe — restarting the dependency process may add years. This is a structural blind spot in the stepped-care model.
+- **Access silence is finally broken.** Paris 2020 is the first source (of 20 now annotated) to substantively address cost and access. His arguments are compelling regardless of one's position on treatment duration. The ethical dimension (clinician responsibility to minimize waiting lists) deserves engagement, not dismissal.
+
+### 2026-03-18 Annotation agent: Layer 1a batch (3 sources)
+
+**Task:** Annotate 3 source stubs in `3_results/sources/1-academic/trauma-clinical/`: griffiths-2025-phase-oriented-review, herman-1992-trauma-recovery, vanderhart-2006-haunted-self.
+
+**Layer/file:** Layer 1a — trauma-clinical
+
+**Issues identified:**
+- Herman 1992 and Van der Hart 2006 were annotated from secondary sources only (access: abstract-only). Neither primary text was available for direct reading. Annotations are marked as "abstract-only" throughout. Page numbers could not be assigned; exact formulations may differ from what secondary sources report.
+- Griffiths 2025 was annotated from user-provided key data (full text access noted in YAML). Quotes are provided with section references (§Discussion, §Results, §Introduction) rather than page numbers, as data was supplied in summary form.
+- Updated Griffiths 2025 YAML: corrected `duration_range` from "not yet known" to "7 days to 5 years"; added `dropout` to topics; set `has_dropout_data: yes`; added `session-frequency` and `continuity` to `secondary_qs`.
+
+**Questions raised:**
+- Herman 1992 and Van der Hart 2006 are foundational texts that the entire field builds on. Should the primary texts be obtained for direct annotation? The current abstract-only annotations may miss nuances that are important for synthesis — particularly Herman's discussion of the political/social dimensions of trauma recovery, and Van der Hart's detailed discussion of integrative capacity and mental level as determinants of treatment pace.
+- All three sources describe phase-based treatment as recursive/nonlinear rather than strictly sequential. This convergence across the foundational text (Herman), the theoretical model (Van der Hart), and the empirical review (Griffiths) is significant. The nonlinearity of the trajectory may deserve its own extraction note, as it fundamentally complicates any attempt to specify "how long" — progress is not monotonic, and apparent regression may indicate deeper processing.
+- Griffiths 2025 reports that most participants still had clinically significant symptoms at post-treatment even after multi-year courses. Combined with the "sleeper effect" pattern identified in Layer 2, this raises the question: is end-of-treatment the wrong measurement point for this population? Should the review explicitly argue for follow-up-based evaluation?
+
+**Suggestions:**
+- Consider obtaining primary texts of Herman 1992 and Van der Hart 2006 for re-annotation. These are the two most influential sources in the trauma-clinical layer and the current annotations are reconstructed rather than direct.
+- The Boyd (1997) data from Griffiths 2025 is uniquely valuable: it provides both session counts AND elapsed time for each phase (5 sessions/17 days for Phase 1; 54 sessions/10 months for Phase 2; 52 sessions/12 months for Phase 3). This is the only source so far that allows direct comparison of dose and duration within phases. Consider highlighting this in the dose-vs-duration cross-cutting analysis.
+- The phobia model from Van der Hart (phobia of attachment, of traumatic memories, of normal life) provides a compelling theoretical explanation for the sleeper effect: Phase 3 (overcoming phobia of normal life) may continue to unfold after treatment ends as the patient gradually engages with previously avoided life domains. This could link the Layer 1a theoretical framework to the Layer 2 empirical finding.
+
+**Emerging patterns:**
+- **The three foundational sources form a coherent stack.** Herman (1992) provides the phase framework, Van der Hart (2006) provides the mechanism (structural dissociation + phobias), and Griffiths (2025) provides the empirical data. Together they tell a consistent story: complex trauma treatment takes 3–5 years, follows a nonlinear phase trajectory, and typically does not achieve full symptom resolution even at that duration.
+- **Recursive nonlinearity is consensus, not exception.** All three sources emphasise that treatment progress is nonlinear — patients cycle between phases, apparent regression accompanies deeper processing, and the trajectory spirals rather than ascending. This is not a complication to the duration question but a core feature of the answer: healing takes years partly because it is recursive.
+- **The endpoint problem intensifies.** Herman defines the endpoint structurally (reconnection with life), Van der Hart defines it structurally (personality integration), and Griffiths finds that symptom-based endpoints are typically not reached. These three perspectives converge on a fundamental tension: the theoretical endpoints are ambitious and open-ended, while the empirical endpoints show incomplete symptom resolution. This suggests that the field's duration estimates (3–5 years) may describe a pragmatic treatment course rather than a complete healing trajectory.
+- **Access silence continues.** None of the three Layer 1a sources address who can access multi-year specialist treatment. This silence, now consistent across 14 annotated sources (11 Layer 2 + 3 Layer 1a), is a structural gap in the literature rather than an oversight in individual papers.

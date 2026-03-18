@@ -23,56 +23,67 @@ endpoint_definition: mixed
 
 ## Summary
 
+Systematic review and narrative analysis of the evidence for individual psychodynamic psychotherapy for dissociative disorders. This source sits at the exact intersection of the project's target population (dissociative disorders) and modality tradition (psychodynamic). Full text is paywalled and inaccessible.
+
+**Note:** Annotated from abstract only. All body sections marked "no data (inaccessible)" except summary and relevance.
 
 ## Key claims
-- [Claim] — p. [page] / §[section] / [timestamp]
+- No data (inaccessible) — only the abstract was available, which confirms the scope (systematic review of psychodynamic therapy for dissociative disorders) but does not provide specific claims with sufficient detail.
 
 ## Duration data
-- [Data point] — p. [page] / §[section]
+- No data (inaccessible)
 
 ## Trajectory description
 
+No data (inaccessible).
 
 ## Relevance to thesis
 
+Highly relevant by scope: this is the only identified source that systematically reviews the intersection of psychodynamic therapy and dissociative disorders — exactly our population and modality. The existence of this review confirms that there is a recognizable evidence base (however small) for psychodynamic approaches to dissociative disorders. If full text becomes accessible, this source could provide critical synthesis data on treatment approaches, duration, and outcomes for our specific population. Currently, its primary value is as a placeholder indicating that this intersection has been reviewed.
 
 ## Quotes
-> "[Exact quote]" — p. [page]
+> No quotes available (inaccessible).
 
 ## Secondary questions
-[For each: note what the source says, or note "no data" explicitly. Absence of data is a finding.]
 
 ### Continuous or interrupted?
+No data (inaccessible).
 
 ### One modality or many?
+No data (inaccessible). By scope, the review focuses on psychodynamic therapy specifically, which may provide data on whether psychodynamic monotherapy is used or combined with other approaches.
 
 ### One therapist or several?
+No data (inaccessible).
 
 ### Session frequency?
+No data (inaccessible).
 
 ### Phase-based or organic?
+No data (inaccessible).
 
 ### Therapy alone or therapy-plus?
+No data (inaccessible).
 
 ## Quality notes
-[Narrative assessment of source quality. Not a checklist — a judgment call. Consider: clearly stated aims? Appropriate design for the claims made? Sufficient data to support interpretations? How should quality concerns affect the weight given to this source in synthesis?]
+
+Cannot assess quality without access to the full text. The paper is published in J Trauma & Dissociation (a peer-reviewed journal specializing in the field), which provides some baseline credibility. The systematic review methodology is appropriate for the question. However, the evidence base for psychodynamic therapy for dissociative disorders is likely small, so the narrative analysis component may be doing more work than the systematic component.
 
 ## Cross-cutting observations
 
 ### Survivorship bias
-[Does this source only capture people who stayed? Any data on dropout, premature termination, or people who left and healed elsewhere? No data is a valid answer — note the absence.]
+No data (inaccessible).
 
 ### Dose vs. elapsed time
-[Does this source distinguish between number of sessions, session frequency, and calendar years? Does it measure dose, duration, or both? If it reports "years," what was the actual session frequency/intensity?]
+No data (inaccessible).
 
 ### Therapy vs. life
-[Does this source attribute change to therapy specifically, or does it acknowledge the role of relationships, life events, community, creative work, ageing, or other non-therapeutic factors? How entangled are these in the reported trajectory?]
+No data (inaccessible).
 
 ### Access and context
-[Does this source mention financial barriers, insurance limitations, forced termination, geographic access, or the socioeconomic context of the therapy described? Does it acknowledge who can and cannot access this kind of treatment?]
+No data (inaccessible).
 
 ### Definition of endpoint
-[How does this source define "healed," "recovered," "improved," or "changed"? Symptom reduction? Functional improvement? Structural change? Is the definition explicit or implicit? Note the exact language used.]
+No data (inaccessible).
 
 ### Dropout data
-[Does this source report dropout/attrition rates, reasons for termination, or outcomes for people who left therapy early? If a study, what percentage completed treatment? If a narrative, does the author mention people who left?]
+No data (inaccessible).
