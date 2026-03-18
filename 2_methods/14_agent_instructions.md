@@ -36,6 +36,38 @@ The stub contains all YAML fields populated from available metadata (title, auth
 1. **Named sources first.** If the layer methods file lists specific studies to locate (e.g., "Leichsenring & Rabung 2008"), search for these by author name first. These are high-priority.
 2. **General search terms second.** Run each search term from the layer methods file. Screen results against inclusion criteria.
 3. **Screen against inclusion criteria.** The source must address the population (complex developmental trauma, not single-incident PTSD) and the question (duration, trajectory, or temporal experience of healing). When in doubt, include — the annotation-agent can exclude later.
+
+### When search returns too many results (>30 per search term)
+
+A PubMed search for "complex PTSD long-term treatment" may return hundreds of results. Do not attempt to screen all of them. Apply this triage:
+
+**Tier 1 — always include (screen first 50 results for these):**
+- Directly measures or reports therapy duration for the defined population
+- Meta-analysis or systematic review of treatment duration/outcomes
+- Named in the layer methods file as a priority source
+- Cited by 3+ sources already in the project (high-impact snowball)
+
+**Tier 2 — include if budget allows (screen titles/abstracts only):**
+- Addresses the population but duration is secondary (e.g., outcome study that reports duration incidentally)
+- Theoretical paper that models why treatment is long/short
+- Reports on a modality relevant to the secondary questions
+
+**Tier 3 — skip unless nothing else is available:**
+- Single-incident PTSD studies (even if long-term follow-up)
+- Protocol papers without outcome data
+- Studies on populations outside the definition (children, subclinical, adjustment disorders)
+- Duplicate content (same study reported in multiple publications — take the most complete)
+
+**Practical triage process:**
+1. Sort results by relevance (PubMed default) or citation count
+2. Screen titles of first 50 results → shortlist Tier 1 candidates (typically 5-15)
+3. Read abstracts of shortlisted titles → create stubs for those that pass inclusion criteria
+4. If budget is not yet filled, screen next 50 titles
+5. Stop when budget is reached or results become clearly irrelevant
+6. Log in README: "X results returned, Y titles screened, Z stubs created"
+
+**For Reddit/forum searches (Layer 5):**
+Sort by "top" or "most comments." Screen thread titles. Open threads with 20+ comments or explicit duration mentions. Skip short threads, crisis posts, and threads focused on specific techniques without temporal data.
 4. **Determine access status.** For each relevant result:
    - Try `get_full_text_article` (PubMed). If it returns full text → `access: full`
    - If only abstract available → `access: abstract-only`

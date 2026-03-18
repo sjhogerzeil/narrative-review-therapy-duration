@@ -7,8 +7,9 @@ Structured narrative review (CIS methodology) on the duration and trajectory of 
 **Read order for any agent entering this project:**
 
 1. This file (CLAUDE.md) — project structure, conventions, task routing
-2. `99_search/index.md` — scan YAML descriptions to find relevant files without reading them all
-3. Only then read specific files needed for your task
+2. `progress.md` — where are we? what's next? what's waiting for human input?
+3. `99_search/index.md` — scan YAML descriptions to find relevant files without reading them all
+4. Only then read specific files needed for your task
 
 **Task routing — what to read based on your task:**
 

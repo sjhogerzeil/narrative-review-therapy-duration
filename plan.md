@@ -2,6 +2,54 @@
 
 This file describes **what to do and in what order**. The research design and methods documentation live in `2_methods/`. This file is the workflow — the sequence of phases, their dependencies, and the gates between them.
 
+## Execution resilience
+
+### Chunking: one layer per work session
+
+A single Claude Code session cannot execute the entire Phase 1. Plan for **one layer per session**, with natural pause points between layers. Each session:
+
+1. Reads `progress.md` to determine what's next
+2. Executes one layer (search + annotation) or a portion of one layer
+3. Commits all work to git
+4. Updates `progress.md` with current state
+5. Ends cleanly — the next session picks up from `progress.md`
+
+For large layers (1a trauma-clinical: budget 10-15), split into two sessions: search stubs first, annotation second.
+
+### Internet failures
+
+If MCP calls or WebFetch fail mid-session:
+- **Transient failure** (timeout, 503): retry once. If it fails again, log the source as `access: inaccessible` with a note "network error — retry next session" and move on.
+- **Persistent failure** (no internet): commit all work done so far, update `progress.md`, stop. The next session resumes from the last committed state.
+- **Partial annotation**: if an annotation is interrupted mid-source, the stub exists with whatever YAML was filled. The next session can detect incomplete annotations (body sections still contain template placeholders) and resume.
+
+### Session recovery
+
+All state is on disk. A fresh session recovers by:
+1. `progress.md` — what phase/layer is current, what's done, what's waiting
+2. `99_search/index.md` — which sources are annotated and their status
+3. Layer READMEs — search logs, annotated sources tables, saturation notes
+4. `todo.md` — what's waiting for human input (full texts, media downloads)
+5. `execution_log.md` — issues from previous sessions
+
+### Git as checkpoint
+
+Commit after every meaningful work chunk (not every file write, but after completing a search batch or annotating a source). This means:
+- If a session crashes, at most one source annotation is lost
+- The user can `git log` to see exactly what was done when
+- `git diff HEAD` shows uncommitted work from an interrupted session
+
+### What to do on resume
+
+```
+1. Read progress.md
+2. git status              — any uncommitted work from crashed session?
+3. If uncommitted work:    — review, commit or discard
+4. Read the current layer's README
+5. Continue from where the table shows incomplete work
+6. Update progress.md when done
+```
+
 ## Phase overview
 
 ```
