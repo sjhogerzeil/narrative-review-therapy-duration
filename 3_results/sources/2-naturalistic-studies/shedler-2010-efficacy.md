@@ -7,7 +7,7 @@ type: article
 layer: 2-naturalistic
 citation: "Shedler, J. (2010). The efficacy of psychodynamic psychotherapy. *American Psychologist*, *65*(2), 98–109. https://doi.org/10.1037/a0018378"
 url: https://doi.org/10.1037/a0018378
-access: inaccessible
+access: provided-manually
 summary: "Foundational review showing psychodynamic therapy effect sizes comparable to other ESTs. Key finding: patients continue to improve AFTER treatment ends."
 population: "Mixed psychiatric populations (review)"
 modality: "Psychodynamic psychotherapy"

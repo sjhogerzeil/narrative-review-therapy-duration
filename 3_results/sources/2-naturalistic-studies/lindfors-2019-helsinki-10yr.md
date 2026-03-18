@@ -7,7 +7,7 @@ type: article
 layer: 2-naturalistic
 citation: "Lindfors, O., Knekt, P., Lehtonen, J., Virtala, E., Maljanen, T., & Härkänen, T. (2019). Effectiveness of psychoanalysis and long-term psychodynamic psychotherapy on personality and social functioning 10 years after start of treatment. *Psychiatry Research*, *272*, 774–783. https://doi.org/10.1016/j.psychres.2018.12.082"
 url: https://doi.org/10.1016/j.psychres.2018.12.082
-access: inaccessible
+access: provided-manually
 summary: "10-year follow-up comparing psychoanalysis vs LPP. PA showed greater post-treatment improvement in personality/social functioning, but differences non-significant at 10 years."
 population: "Outpatients aged 20-45 with anxiety or mood disorders"
 modality: "Psychoanalysis (high-frequency) vs long-term psychodynamic psychotherapy"

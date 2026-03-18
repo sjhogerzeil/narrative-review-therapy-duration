@@ -7,7 +7,7 @@ type: article
 layer: 2-naturalistic
 citation: "Howard, K. I., Kopta, S. M., Krause, M. S., & Orlinsky, D. E. (1986). The dose-effect relationship in psychotherapy. *American Psychologist*, *41*(2), 159–164."
 url: "no URL available"
-access: inaccessible
+access: provided-manually
 summary: "Foundational study establishing sessions (dose) as the common treatment unit. First systematic estimate of how much psychotherapy is enough."
 population: "Mixed psychiatric populations (meta-analytic)"
 modality: "Mixed"

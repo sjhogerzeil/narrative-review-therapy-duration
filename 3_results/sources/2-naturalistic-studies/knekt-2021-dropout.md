@@ -7,7 +7,7 @@ type: article
 layer: 2-naturalistic
 citation: "Knekt, P., Grandell, L., Sares-Jäske, L., & Lindfors, O. (2021). Poor suitability for psychotherapy – a risk factor for treatment non-attendance? *Journal of Affective Disorders*, *295*, 1432–1439. https://doi.org/10.1016/j.jad.2021.09.020"
 url: https://doi.org/10.1016/j.jad.2021.09.020
-access: inaccessible
+access: provided-manually
 summary: "Helsinki study data on treatment dropout. Poor suitability predicted non-attendance in LPP (RR=2.76). Directly addresses survivorship bias."
 population: "326 outpatients with depressive or anxiety disorders"
 modality: "Short-term psychodynamic, long-term psychodynamic, solution-focused"

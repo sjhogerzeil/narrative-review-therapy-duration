@@ -7,7 +7,7 @@ type: article
 layer: 2-naturalistic
 citation: "Leichsenring, F., Abbass, A., Luyten, P., Hilsenroth, M., & Rabung, S. (2013). The emerging evidence for long-term psychodynamic therapy. *Psychodynamic Psychiatry*, *41*(3), 361–384. https://doi.org/10.1521/pdps.2013.41.3.361"
 url: https://doi.org/10.1521/pdps.2013.41.3.361
-access: inaccessible
+access: provided-manually
 summary: "Dose-effect data showing short-term therapy insufficient for complex/personality disorders; LTPP superior to shorter forms"
 population: "Complex mental disorders, chronic mental disorders, personality disorders"
 modality: "Long-term psychodynamic psychotherapy"

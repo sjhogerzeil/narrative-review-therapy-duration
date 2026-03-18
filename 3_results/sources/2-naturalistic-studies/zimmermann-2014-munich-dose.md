@@ -7,7 +7,7 @@ type: article
 layer: 2-naturalistic
 citation: "Zimmermann, J., Löffler-Stastka, H., Huber, D., Klug, G., Alhabbo, S., Bock, A., & Benecke, C. (2014). Is it all about the higher dose? Why psychoanalytic therapy is an effective treatment for major depression. *Clinical Psychology & Psychotherapy*, *22*(6), 469–487. https://doi.org/10.1002/cpp.1917"
 url: https://doi.org/10.1002/cpp.1917
-access: inaccessible
+access: provided-manually
 summary: "Munich study comparing psychoanalysis (high-dose) vs psychodynamic therapy (low-dose) vs CBT. Post-treatment differences mediated by session count; follow-up differences mediated by psychoanalytic technique. Both dose AND technique matter."
 population: "Adults with major depression"
 modality: "Psychoanalytic therapy vs psychodynamic therapy vs CBT"

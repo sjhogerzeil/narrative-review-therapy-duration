@@ -7,7 +7,7 @@ type: article
 layer: 2-naturalistic
 citation: "Koeser, L., Rost, F., Gabrio, A., Booker, T., Taylor, D., Fonagy, P., Goldberg, D., Knapp, M., & McCrone, P. (2023). Cost-effectiveness of long-term psychoanalytic psychotherapy for treatment-resistant depression: RCT evidence from the Tavistock Adult Depression Study (TADS). *Journal of Affective Disorders*, *335*, 313–321. https://doi.org/10.1016/j.jad.2023.04.109"
 url: https://doi.org/10.1016/j.jad.2023.04.109
-access: inaccessible
+access: provided-manually
 summary: "LTPP costs £5500 direct, £33K/QALY. Clinically effective but not cost-effective by standard threshold. Sustained effects suggest time horizon too short."
 population: "Treatment-resistant depression"
 modality: "Long-term psychoanalytic psychotherapy + TAU vs TAU"

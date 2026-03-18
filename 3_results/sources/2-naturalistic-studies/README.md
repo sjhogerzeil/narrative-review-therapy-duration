@@ -47,9 +47,9 @@ The empirical backbone. Studies following real psychotherapy patients over years
 
 | Sources identified | Screened | Included | Excluded (reason) | Inaccessible |
 |-------------------|----------|----------|-------------------|--------------|
-| 22 unique | 22 | 11 | 11 (see appendix) | 7 of 11 included |
+| 22 unique | 22 | 11 | 11 (see appendix) | 0 remaining |
 
-**Access warning:** 7 of 11 included sources (64%) are inaccessible (paywalled). This exceeds the 50% threshold and must be flagged in the discussion. See `todo.md` for the full list.
+**Access status:** All 11 sources accessible (4 open access + 7 provided manually).
 
 ## Saturation note
 
