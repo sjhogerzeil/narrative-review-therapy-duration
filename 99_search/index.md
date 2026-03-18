@@ -34,14 +34,14 @@
 | File | Description | Status |
 |------|-------------|--------|
 | 1_synthesis.md | Main synthesis narrative — triangulates duration and trajectory findings across all six layers, identifies convergence and divergence patterns | not started |
-| 2_survivorship_bias.md | Limitation — all layers select for people who stayed in therapy long enough to report; dropout perspective is invisible, inflating apparent duration | not started |
-| 3_dose_vs_elapsed_time.md | Limitation — conflation of session count (dose) and calendar years; are we arguing for many sessions, many years of lived time, or both? | not started |
-| 4_therapy_vs_life.md | Limitation — how much of reported healing is attributable to therapy vs. relationships, life events, community, creative work, ageing | not started |
-| 5_counterpoint_response.md | Honest engagement with accelerated/brief models — where they may be right, what the long-duration position can learn, genuine limits of applicability | not started |
-| 6_access_and_justice.md | Ethical dimension — if healing takes years, this is an argument for something most people cannot access; structural, financial, geographic barriers | not started |
-| 7_limitations.md | Methodological limitations of this review — non-systematic search, heterogeneous evidence, single-reviewer bias | not started |
+| 2_survivorship_bias.md | "Limitation — all layers select for people who stayed in therapy long enough to report. Describes the bias, how we mitigated it, what remains unmitigated, and how it feeds back into the plan." | scaffold |
+| 3_dose_vs_elapsed_time.md | "Limitation — conflation of session count (dose) and calendar years. Describes the confound, how we mitigated it, what remains unmitigated, and how it feeds back into the plan." | scaffold |
+| 4_therapy_vs_life.md | "Limitation — attribution problem: how much of reported healing is therapy vs. relationships, life events, community, ageing. Describes the confound, mitigations, residual gaps, and plan feedback." | scaffold |
+| 5_counterpoint_response.md | "Honest engagement with accelerated/brief models. For each model: strongest version of the argument, where it may be right, what we can learn, genuine limits. Not a dismissal." | scaffold |
+| 6_access_and_justice.md | "Ethical dimension — if healing takes years, who can access it? Structural, financial, geographic barriers. Not a footnote but a core tension in the argument." | scaffold |
+| 7_limitations.md | "Methodological limitations — non-systematic search, heterogeneous evidence, single-author, definitional breadth, cultural bias. For each: the weakness, how we mitigated it, what remains, and how it feeds back." | scaffold |
 | 8_implications.md | What the findings mean for clinical practice, training, policy, and insurance structures | not started |
-| 9_inaccessible_sources.md | "Impact of sources identified as relevant but not accessed — paywalls, unavailability, language barriers. No sugar-coating: states plainly what was missed and how it may affect conclusions." | not started |
+| 9_inaccessible_sources.md | "Impact of sources identified as relevant but not accessed — paywalls, unavailability, language barriers. No sugar-coating. States what was missed and how it may affect conclusions." | scaffold |
 
 ## 7_references
 
