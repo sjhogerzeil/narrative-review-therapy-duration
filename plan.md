@@ -83,8 +83,8 @@ Output: everything currently committed.
 **Process:**
 1. Work through layers in order: Layer 2 (naturalistic) first — the empirical backbone gives calibration for interpreting other layers. Then Layer 1 (academic), Layer 3 (counterpoint), Layer 4 (practitioner), Layer 5 (client narratives), Layer 6 (memoirs).
 2. For each layer, execute two sub-phases:
-   - **1a. Search:** Search-agent creates source stubs. See `2_methods/14_agent_instructions.md` § Search-agent.
-   - **1b. Annotate:** Annotation-agent fills source templates. See `2_methods/14_agent_instructions.md` § Annotation-agent.
+   - **Step A. Search:** Search-agent creates source stubs. See `2_methods/14_agent_instructions.md` § Search-agent.
+   - **Step B. Annotate:** Annotation-agent fills source templates. See `2_methods/14_agent_instructions.md` § Annotation-agent.
 3. Follow the iterative search protocol (`2_methods/2_search_strategy.md`): search → annotate → extend → log.
 4. Apply the annotation protocol (`2_methods/9_annotation_protocol.md`): full template including secondary questions, cross-cutting observations, quality notes.
 5. Log inaccessible sources in `todo.md`.
@@ -106,6 +106,8 @@ Many academic sources (Layers 1, 2, 3) will be paywalled. After each layer's sea
 - If a prior review is found, follow the prior-review protocol (`2_methods/2_search_strategy.md` § Prior reviews).
 
 **Gate to Phase 2:** All layers have reached their source budget or conceptual saturation. At least 50% of each layer's budget is `access: full` annotations. Saturation notes written in each layer README. Search results summary tables filled in. User has reviewed `todo.md` and provided full texts where possible.
+
+**If a layer has fewer sources than budget:** If fewer relevant sources exist than the budget allows, document this in the saturation note ("exhausted — only N relevant sources found") and proceed. The 50% `access: full` rule applies to the number actually found, not the planned budget. If after the user's best efforts fewer than 50% are `access: full`, discuss with the user: (a) expand search for alternative open-access sources, (b) accept abstract-only as sufficient for some, or (c) accept thinner evidence and document prominently.
 
 **Deliverables:**
 - [ ] Layer 2: naturalistic studies — search complete, user reviewed inaccessible, annotated
@@ -158,7 +160,9 @@ Many academic sources (Layers 1, 2, 3) will be paywalled. After each layer's sea
 4. Identify the **strongest and weakest points** of the working thesis. Where does evidence converge? Where does it thin out?
 5. Identify **gaps** — secondary questions with sparse data, layers with thin coverage, cross-cutting observations with overwhelmingly "no data" patterns.
 
-**Gate to Phase 4:** Synthesis pass notes written. Emergent constructs documented. Gaps identified — decide whether to return to Phase 1 for targeted re-runs or proceed.
+**PAUSE — HUMAN CHECKPOINT:** If emergent constructs are identified, present them to the user before triggering a re-run. The user decides whether to add new dimensions, expand the search, or proceed with what we have. Do not autonomously re-run the full search.
+
+**Gate to Phase 4:** Synthesis pass notes written. Emergent constructs documented and discussed with user. Gaps identified — user has decided whether to return to Phase 1 for targeted re-runs or proceed.
 
 **Decision point:** If gaps are significant enough to weaken key claims, return to Phase 1/2 with targeted searches before proceeding to discussion.
 
@@ -227,10 +231,11 @@ Many academic sources (Layers 1, 2, 3) will be paywalled. After each layer's sea
 1. Revise `1_synthesis.md` — integrate tables, strengthen argument, address weak points
 2. Revise limitation sections — incorporate "pattern of silence" findings from extraction
 3. Add the **critique of the literature as a body** (CIS requirement) — how the field has constructed the question of therapy duration
-4. Add the **question evolution** section — how the research question changed through the review (compare `iteration-0-initial` tag with current state)
-5. Complete the **reflexivity** section in `2_methods/11_synthesis_method.md`
+4. Add the **question evolution** section — how the research question changed through the review. Run `git diff iteration-0-initial -- 1_introduction/` to document evolution.
+5. **PAUSE — HUMAN CHECKPOINT:** The author must write the **positionality statement** in `2_methods/11_synthesis_method.md` § Reflexivity § Positionality. This cannot be delegated to an agent — it requires the author to declare their clinical role, theoretical orientation, and personal relationship to the topic.
+6. After the author completes the positionality statement, finalize the reflexivity section.
 
-**Gate to Phase 7:** Discussion is coherent. All claims back-referenced. Limitations honestly stated. Counterpoint fairly engaged.
+**Gate to Phase 7:** Discussion is coherent. All claims back-referenced. Limitations honestly stated. Counterpoint fairly engaged. Positionality statement written by the author.
 
 ---
 

@@ -10,17 +10,17 @@ This file is the single source of truth for "where are we?" A fresh session read
 
 ## Phase 1: Search & Annotate
 
-| Layer | Search status | Stubs created | Annotated (full) | Annotated (abstract) | Inaccessible | Media pending | Saturation | Notes |
-|-------|-------------|---------------|-------------------|---------------------|--------------|---------------|-----------|-------|
-| 2-naturalistic | not started | 0 | 0 | 0 | 0 | 0 | — | Start here |
-| 1a-trauma-clinical | not started | 0 | 0 | 0 | 0 | 0 | — | |
-| 1b-psychoanalytic | not started | 0 | 0 | 0 | 0 | 0 | — | |
-| 1c-humanistic | not started | 0 | 0 | 0 | 0 | 0 | — | |
-| 1d-neuroscience | not started | 0 | 0 | 0 | 0 | 0 | — | |
-| 3-counterpoint | not started | 0 | 0 | 0 | 0 | 0 | — | |
-| 4-practitioner | not started | 0 | 0 | 0 | 0 | 0 | — | |
-| 5-client | not started | 0 | 0 | 0 | 0 | 0 | — | |
-| 6-memoirs | not started | 0 | 0 | 0 | 0 | 0 | — | |
+| Exec order | Layer | Search status | Stubs | Full | Abstract | Inaccessible | Media | Saturation | Notes |
+|-----------|-------|-------------|-------|------|----------|-------------|-------|-----------|-------|
+| 1 | 2-naturalistic | not started | 0 | 0 | 0 | 0 | 0 | — | **Start here** |
+| 2 | 1a-trauma-clinical | not started | 0 | 0 | 0 | 0 | 0 | — | |
+| 3 | 1b-psychoanalytic | not started | 0 | 0 | 0 | 0 | 0 | — | |
+| 4 | 1c-humanistic | not started | 0 | 0 | 0 | 0 | 0 | — | |
+| 5 | 1d-neuroscience | not started | 0 | 0 | 0 | 0 | 0 | — | |
+| 6 | 3-counterpoint | not started | 0 | 0 | 0 | 0 | 0 | — | 5 model subdirs |
+| 7 | 4-practitioner | not started | 0 | 0 | 0 | 0 | 0 | — | mostly open access |
+| 8 | 5-client | not started | 0 | 0 | 0 | 0 | 0 | — | open access |
+| 9 | 6-memoirs | not started | 0 | 0 | 0 | 0 | 0 | — | |
 
 ### Waiting for user
 

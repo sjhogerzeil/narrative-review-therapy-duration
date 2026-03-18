@@ -48,17 +48,23 @@ last_synced: SYNC_DATE
 HEADER
     sed -i '' "s/SYNC_DATE/$(date +%Y-%m-%d)/" "$tmpfile"
 
-    # Collect citations from all source notes
+    # Collect citations from all source notes, sort alphabetically
     local count=0
+    local citations_tmp
+    citations_tmp=$(mktemp)
     while IFS= read -r file; do
         local citation
         citation=$(extract_yaml_field "$file" "citation")
         if [[ -n "$citation" && "$citation" != "#"* ]]; then
-            echo "$citation" >> "$tmpfile"
-            echo "" >> "$tmpfile"
+            echo "$citation" >> "$citations_tmp"
             count=$((count + 1))
         fi
     done < <(find_source_notes)
+    sort -f "$citations_tmp" | while IFS= read -r line; do
+        echo "$line" >> "$tmpfile"
+        echo "" >> "$tmpfile"
+    done
+    rm -f "$citations_tmp"
 
     mv "$tmpfile" "$REFS_FILE"
     echo "  → $count references written to $REFS_FILE"
@@ -177,9 +183,10 @@ sync_readmes() {
             count=$((count + 1))
         done
 
-        # Also check subdirectories (Layer 1 has them)
+        # Also check subdirectories (Layer 1 has them), skip _fulltext/_media
         for subdir in "$layer_dir"*/; do
             [[ -d "$subdir" ]] || continue
+            [[ "$(basename "$subdir")" == _* ]] && continue
             for f in "$subdir"*.md; do
                 [[ -f "$f" ]] || continue
                 local id author year title summary

@@ -50,7 +50,7 @@ blog-therapy-duration/
 │   │   ├── 5-client-narratives/
 │   │   ├── 6-memoirs/
 │   │   └── SOURCE_TEMPLATE.md
-│   ├── primary/                → extracted data by primary synthesis dimension (5 files)
+│   ├── primary/                → extracted data by primary synthesis dimension (7 files)
 │   └── secondary/              → extracted data by secondary question (6 files)
 ├── 4_discussion/               → synthesis, limitations, counterpoint response, implications (9 files)
 ├── 5_tables_and_figures/       → summary tables, timelines (planned, not yet created)

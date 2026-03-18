@@ -17,15 +17,17 @@ Data from all source annotations is aggregated along these dimensions:
 3. **Turning points** — What shifts the process? Relational breakthroughs, modality switches, life events, neurobiological thresholds?
 4. **Definition of healing** — How do different sources define the endpoint — and how does that definition determine the reported duration?
 5. **What doesn't work as expected** — Where does the evidence surprise, complicate, or challenge the working thesis?
+6. **Dropout and attrition** — What do sources report about who leaves therapy early, why, and what happens to them? (Feeds survivorship bias discussion.)
+7. **Access and context** — What do sources say about financial barriers, insurance, geographic access, and who can actually receive this treatment? (Feeds access/justice discussion.)
 
 ## Secondary synthesis dimensions
 
-6. **Continuity vs. interruption** — What does the evidence say about breaks, pauses, resumptions? Is continuity necessary or can interrupted trajectories succeed?
-7. **Modality** — Single framework or multiple? What patterns emerge around modality-switching — sequential, parallel, layered?
-8. **Therapist(s)** — One long-term relationship or several? What determines when a new therapist is needed?
-9. **Frequency and dose** — What session frequencies are reported? Is there evidence that higher frequency shortens calendar duration?
-10. **Phase structure** — Do sources describe phases, and if so, how consistent are they across traditions?
-11. **Adjuncts** — What non-primary-therapy elements appear in the healing accounts — medication, bodywork, groups, community, creative practice?
+8. **Continuity vs. interruption** — What does the evidence say about breaks, pauses, resumptions? Is continuity necessary or can interrupted trajectories succeed?
+9. **Modality** — Single framework or multiple? What patterns emerge around modality-switching — sequential, parallel, layered?
+10. **Therapist(s)** — One long-term relationship or several? What determines when a new therapist is needed?
+11. **Frequency and dose** — What session frequencies are reported? Is there evidence that higher frequency shortens calendar duration?
+12. **Phase structure** — Do sources describe phases, and if so, how consistent are they across traditions?
+13. **Adjuncts** — What non-primary-therapy elements appear in the healing accounts — medication, bodywork, groups, community, creative practice?
 
 ## Analytical process
 

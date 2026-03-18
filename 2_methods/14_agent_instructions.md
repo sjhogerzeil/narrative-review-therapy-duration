@@ -16,8 +16,8 @@ These hard limits prevent runaway agents from filling disk or creating unbounded
 
 | Directory | Max files | Action if exceeded |
 |-----------|-----------|-------------------|
-| Any single layer source dir | 20 | Stop. Log in execution_log.md. Do not create more files. |
-| `3_results/sources/` total | 120 | Stop all search agents. Review with orchestrator. |
+| Any single layer/sublayer source dir | 20 | Stop. Log in execution_log.md. Do not create more files. |
+| `3_results/sources/` total | 150 | Stop all search agents. Review with orchestrator. |
 | `3_results/primary/` | 15 | Stop. This should never exceed the number of dimensions. |
 | `3_results/secondary/` | 15 | Stop. Same. |
 | `_media/` per layer | 10 | Stop. Flag for human review. |
@@ -233,6 +233,20 @@ When recording "no data" for a secondary question or cross-cutting observation, 
 | `inaccessible` | Source identified as relevant but no content accessed at all (no abstract, paywall, out of print) |
 | `provided-manually` | Initially inaccessible, later provided by the user and annotated |
 | `transcript-pending` | Media source (video/podcast/lecture) identified; awaiting download and transcription |
+
+### `has_dropout_data` values
+
+| Value | When to use |
+|-------|------------|
+| `yes` | Source reports dropout/attrition rates, premature termination data, or outcomes for people who left therapy. Any mention of who left and why. |
+| `no` | Source does not mention dropout at all — neither rates nor reasons nor outcomes for leavers. |
+
+### `has_access_context` values
+
+| Value | When to use |
+|-------|------------|
+| `yes` | Source mentions financial barriers, insurance limitations, session caps, geographic access, forced termination, socioeconomic context, or who can/cannot access this treatment. |
+| `no` | Source does not address access, cost, or structural barriers at all. |
 
 ## Media sources: videos, podcasts, lectures
 

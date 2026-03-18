@@ -19,7 +19,35 @@ Layer 1 has four sublayer subdirectories — place sources in the appropriate on
 | Humanistic-existential | `1-academic/humanistic-existential/` | `1c-humanistic-existential` |
 | Neuroscience | `1-academic/neuroscience/` | `1d-neuroscience` |
 
-Layers 2–6 have no sublayers — place sources directly in the layer directory.
+Layer 3 has five model subdirectories:
+
+| Model | Directory | YAML `layer` value |
+|-------|-----------|-------------------|
+| AEDP | `3-counterpoint/aedp/` | `3-counterpoint` |
+| ISTDP | `3-counterpoint/istdp/` | `3-counterpoint` |
+| EMDR | `3-counterpoint/emdr/` | `3-counterpoint` |
+| MDMA/Ketamine | `3-counterpoint/mdma-ketamine/` | `3-counterpoint` |
+| Intensive formats | `3-counterpoint/intensive-formats/` | `3-counterpoint` |
+
+Layers 2, 4, 5, 6 have no sublayers — place sources directly in the layer directory.
+
+**YAML `layer` to directory mapping (complete):**
+
+| YAML `layer` value | Directory |
+|-------------------|-----------|
+| `1a-trauma-clinical` | `1-academic/trauma-clinical/` |
+| `1b-psychoanalytic` | `1-academic/psychoanalytic/` |
+| `1c-humanistic-existential` | `1-academic/humanistic-existential/` |
+| `1d-neuroscience` | `1-academic/neuroscience/` |
+| `2-naturalistic` | `2-naturalistic-studies/` |
+| `3-counterpoint` | `3-counterpoint/[model-subdir]/` |
+| `4-practitioner` | `4-practitioner/` |
+| `5-client` | `5-client-narratives/` |
+| `6-memoir` | `6-memoirs/` |
+
+**Full texts and media for Layer 1:** Place in `1-academic/_fulltext/` and `1-academic/_media/` regardless of sublayer. Name files with the same `author-year-slug` convention as the source note, so they can be associated.
+
+**Full texts and media for Layer 3:** Place in `3-counterpoint/_fulltext/` and `3-counterpoint/_media/` regardless of model subdirectory.
 
 Files are named `[author-year]-[short-slug].md`, e.g.:
 - `herman-1992-complex-ptsd.md` → `1-academic/trauma-clinical/`
