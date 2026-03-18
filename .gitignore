@@ -8,6 +8,19 @@ _fulltext/
 *.mobi
 *.djvu
 
+# Media sources (downloaded for transcription)
+_media/
+*.mp3
+*.mp4
+*.mkv
+*.webm
+*.m4a
+*.wav
+*.ogg
+*.flac
+*.avi
+*.mov
+
 # Other large/binary files
 *.docx
 *.pptx

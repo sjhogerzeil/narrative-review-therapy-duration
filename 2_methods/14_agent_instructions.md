@@ -128,6 +128,72 @@ When recording "no data" for a secondary question or cross-cutting observation, 
 | `abstract-only` | Only abstract, summary, or metadata available (paywalled article with visible abstract) |
 | `inaccessible` | Source identified as relevant but no content accessed at all (no abstract, paywall, out of print) |
 | `provided-manually` | Initially inaccessible, later provided by the user and annotated |
+| `transcript-pending` | Media source (video/podcast/lecture) identified; awaiting download and transcription |
+
+## Media sources: videos, podcasts, lectures
+
+Searches may turn up relevant videos (YouTube talks, conference presentations), podcasts, or recorded lectures. These are valid sources — especially for Layers 3 (counterpoint — clinicians presenting their models) and 4 (practitioner reflections). They require a download → transcribe → annotate pipeline.
+
+### When the search-agent finds a media source
+
+1. **Create a source stub** as usual, with `type: video`, `type: podcast`, or `type: lecture`
+2. Set `access: transcript-pending`
+3. Set `url:` to the video/podcast URL
+4. Add an entry to `todo.md` under a `## Media to download and transcribe` section:
+
+```markdown
+### [author-year-slug]
+
+- **URL:** [video/podcast URL]
+- **Type:** [video | podcast | lecture]
+- **Platform:** [YouTube | Vimeo | podcast platform | conference site]
+- **Duration:** [if known]
+- **Why relevant:** [why this media source matters for the review]
+- **Date identified:** [YYYY-MM-DD]
+- **Status:** pending-download
+```
+
+### Human-in-the-loop: download and transcription
+
+This is a pause point — the orchestrator presents the media list to the user.
+
+1. **User downloads** the media file and places it in the layer's `_media/` directory:
+   `3_results/sources/[layer]/_media/[author-year-slug].[ext]`
+
+2. **Transcription** — three options:
+   - **Soniox pipeline** (preferred) — use the adapted Soniox pipeline in the skills directory for high-quality transcription of podcasts and videos
+   - **Whisper / `/transcribe-lecture`** — for lecture-format recordings
+   - **User transcribes** manually, places transcript at:
+     `3_results/sources/[layer]/_media/[author-year-slug]-transcript.md`
+
+3. **Update the source stub:**
+   - `access: full`
+   - `media_file: _media/[author-year-slug].[ext]`
+   - `transcript_file: _media/[author-year-slug]-transcript.md`
+
+4. **Annotation-agent** then annotates from the transcript, treating it as full text. References use timestamps instead of page numbers: `[claim] — [HH:MM:SS]`
+
+### Directory structure
+
+```
+3_results/sources/[layer]/
+├── _media/
+│   ├── fosha-2019-aedp-talk.mp4          ← gitignored
+│   ├── fosha-2019-aedp-talk-transcript.md ← tracked in git
+│   └── ...
+├── fosha-2019-aedp-talk.md               ← source note (tracked)
+└── ...
+```
+
+Media files (audio/video) are gitignored. Transcripts (.md) are tracked — they are the auditable record.
+
+### Citation for media sources (APA 7)
+
+```
+Speaker, A. A. (Year, Month Day). Title of talk [Video]. Platform. URL
+
+Speaker, A. A. (Host). (Year, Month Day). Title of episode (No. X) [Audio podcast episode]. In Podcast Name. Publisher. URL
+```
 
 ## Orchestrator handoff protocol
 

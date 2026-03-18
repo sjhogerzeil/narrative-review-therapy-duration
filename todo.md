@@ -33,6 +33,14 @@ Sources identified as relevant during the search but not accessed — behind pay
 
 ---
 
+# Media to download and transcribe
+
+Videos, podcasts, and lectures identified during search. Download media, transcribe (Soniox pipeline or Whisper), place transcript in `_media/` dir. See `2_methods/14_agent_instructions.md` § Media sources.
+
+*No entries yet.*
+
+---
+
 # Other tasks
 
 ## Brainstorm: tables and figures

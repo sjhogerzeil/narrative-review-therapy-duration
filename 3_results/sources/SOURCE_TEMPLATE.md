@@ -3,12 +3,14 @@ id:
 title:
 author:
 year:
-type: # article | book | chapter | blog | forum-thread | memoir
+type: # article | book | chapter | blog | forum-thread | memoir | video | podcast | lecture
 layer: # 1a-trauma-clinical | 1b-psychoanalytic | 1c-humanistic-existential | 1d-neuroscience | 2-naturalistic | 3-counterpoint | 4-practitioner | 5-client | 6-memoir
 citation: # Full APA 7 citation
 url: # DOI URL, permalink, or "no URL available"
 accessed: # YYYY-MM-DD, for web sources
-access: # full | abstract-only | inaccessible | provided-manually
+access: # full | abstract-only | inaccessible | provided-manually | transcript-pending
+media_file: # path to media file in _media/ (if type is video/podcast/lecture)
+transcript_file: # path to transcript .md file in _media/ (if type is video/podcast/lecture)
 
 # Relevance scanning fields — allow AI to assess relevance without reading full body
 summary: # 1-2 sentence summary of what this source contributes to the research question
