@@ -1,2 +1,16 @@
 .DS_Store
 .claude-sessions/
+
+# Full-text sources (user-provided, large files)
+_fulltext/
+*.pdf
+*.epub
+*.mobi
+*.djvu
+
+# Other large/binary files
+*.docx
+*.pptx
+*.xlsx
+*.zip
+*.tar.gz
