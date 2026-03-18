@@ -8,6 +8,7 @@ layer: # 1a-trauma-clinical | 1b-psychoanalytic | 1c-humanistic-existential | 1d
 citation: # Full APA 7 citation
 url: # DOI URL, permalink, or "no URL available"
 accessed: # YYYY-MM-DD, for web sources
+access: # full | abstract-only | inaccessible | provided-manually
 
 # Relevance scanning fields — allow AI to assess relevance without reading full body
 summary: # 1-2 sentence summary of what this source contributes to the research question

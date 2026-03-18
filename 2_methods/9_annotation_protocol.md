@@ -60,6 +60,20 @@ The frontmatter serves two purposes:
 7. **Secondary questions** — one subsection per question; "no data" is a valid answer
 8. **Cross-cutting observations** — survivorship bias, dose vs. elapsed time, therapy vs. life
 
+## Inaccessible sources
+
+When a source is identified as relevant but cannot be accessed (paywall, out of print, language barrier):
+
+1. **Do not skip silently.** Add a full entry to `todo.md` with citation, barrier type, why it matters, and expected impact on conclusions.
+2. **Create a minimal source note** with YAML frontmatter only (`access: inaccessible`), based on abstract/metadata if available. Place it in the correct layer directory. This ensures it appears in the index and is not forgotten.
+3. **If the source is later obtained** (manually provided, library access), update `access: provided-manually`, annotate the full body, move the `todo.md` entry to `## Resolved`, and run `./sync.sh`.
+
+The YAML `access` field values:
+- `full` — full text accessed and annotated
+- `abstract-only` — only abstract/metadata available; note this in the summary
+- `inaccessible` — identified as relevant but not accessed; entered in `todo.md`
+- `provided-manually` — initially inaccessible, later obtained and annotated
+
 ## Data extraction principle
 
 **"No data" is a finding.** When a source is silent on a secondary question or cross-cutting observation, note the absence explicitly. The pattern of what sources fail to address is itself evidence.

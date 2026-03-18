@@ -16,3 +16,4 @@ status: not started
 - Survivorship bias across all layers (see 4_discussion/2_survivorship_bias.md)
 - Working definition of healing is deliberately broad — limits precision of duration estimates
 - English-language and Western bias — non-Western healing traditions are absent
+- Inaccessible sources — paywalled or unavailable sources identified as relevant but not read (see `4_discussion/9_inaccessible_sources.md` and `todo.md`)
