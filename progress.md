@@ -12,6 +12,8 @@ This file is the single source of truth for "where are we?" A fresh session read
 **Phase 1, Layer 1b** — COMPLETE (6/6 annotated, 5 from secondary sources)
 **Phase 1, Layer 1c** — COMPLETE (5/5 annotated)
 **Phase 1, Layer 1d** — COMPLETE (7/7 annotated, 3 from secondary/abstract)
+**Phase 1, Layer 3** — COMPLETE (11/11, endpoint divergence confirmed)
+**Phase 1, Layer 4** — COMPLETE (10/10, all WebFetched)
 
 ## Phase 1: Search & Annotate
 
@@ -22,8 +24,8 @@ This file is the single source of truth for "where are we?" A fresh session read
 | 3 | 1b-psychoanalytic | **COMPLETE** | 6 | 1 | 5 | 0 | 0 | see README | 5 books from secondary |
 | 4 | 1c-humanistic | **COMPLETE** | 5 | 4 | 1 | 0 | 0 | see README | |
 | 5 | 1d-neuroscience | **COMPLETE** | 7 | 4 | 3 | 0 | 0 | see README | mechanism not duration |
-| 6 | 3-counterpoint | not started | 0 | 0 | 0 | 0 | 0 | — | 5 model subdirs |
-| 7 | 4-practitioner | not started | 0 | 0 | 0 | 0 | 0 | — | mostly open access |
+| 6 | 3-counterpoint | **COMPLETE** | 11 | 9 | 2 | 0 | 0 | see README | EMDR strongest counterpoint |
+| 7 | 4-practitioner | **COMPLETE** | 10 | 10 | 0 | 0 | 0 | see README | all web sources |
 | 8 | 5-client | not started | 0 | 0 | 0 | 0 | 0 | — | open access |
 | 9 | 6-memoirs | not started | 0 | 0 | 0 | 0 | 0 | — | |
 
