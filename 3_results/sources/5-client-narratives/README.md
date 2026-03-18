@@ -26,6 +26,16 @@ First-person accounts from people in long-term therapy for complex trauma.
 |------|----------|-------------|---------|-------|
 | | | | | |
 
+## Search results summary
+
+| Sources identified | Screened | Included | Excluded (reason) | Inaccessible |
+|-------------------|----------|----------|-------------------|--------------|
+| | | | | |
+
+## Saturation note
+
+*To be completed when stopping.*
+
 ## Discovered sources
 
 | Date | Source found | Found via | Why relevant | Added to plan? |

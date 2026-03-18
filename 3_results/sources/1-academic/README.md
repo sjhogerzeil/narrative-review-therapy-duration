@@ -21,6 +21,19 @@ Peer-reviewed articles, clinical books, and theoretical works addressing duratio
 |------|----------|-------------|---------|-------|
 | | | | | |
 
+## Search results summary
+
+| Sublayer | Sources identified | Screened | Included | Excluded (reason) | Inaccessible |
+|----------|-------------------|----------|----------|-------------------|--------------|
+| 1a Trauma-clinical | | | | | |
+| 1b Psychoanalytic | | | | | |
+| 1c Humanistic-existential | | | | | |
+| 1d Neuroscience | | | | | |
+
+## Saturation note
+
+*To be completed when stopping. Why did you stop adding sources? Budget reached? Conceptual saturation? Both?*
+
 ## Discovered sources
 
 Sources not in the original plan, found during annotation. Log what was found, where, and why it's relevant.

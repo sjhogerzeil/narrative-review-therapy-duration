@@ -54,6 +54,9 @@ secondary_qs: # list of secondary questions addressed, e.g., [continuity, modali
 
 ### Therapy alone or therapy-plus?
 
+## Quality notes
+[Narrative assessment of source quality. Not a checklist — a judgment call. Consider: clearly stated aims? Appropriate design for the claims made? Sufficient data to support interpretations? How should quality concerns affect the weight given to this source in synthesis?]
+
 ## Cross-cutting observations
 
 ### Survivorship bias

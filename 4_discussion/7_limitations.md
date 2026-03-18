@@ -17,3 +17,4 @@ status: not started
 - Working definition of healing is deliberately broad — limits precision of duration estimates
 - English-language and Western bias — non-Western healing traditions are absent
 - Inaccessible sources — paywalled or unavailable sources identified as relevant but not read (see `4_discussion/9_inaccessible_sources.md` and `todo.md`)
+- Single-author review — no inter-rater reliability, no independent verification of interpretations; structural safeguards (counterpoint layer, audit trail, cross-cutting observations) partially mitigate but do not eliminate this

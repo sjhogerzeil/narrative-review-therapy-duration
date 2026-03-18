@@ -30,6 +30,20 @@ The strongest claims that deep change can happen faster. Engaged honestly, not d
 |------|----------|-------------|---------|-------|
 | | | | | |
 
+## Search results summary
+
+| Model | Sources identified | Screened | Included | Excluded | Inaccessible |
+|-------|-------------------|----------|----------|----------|--------------|
+| AEDP | | | | | |
+| ISTDP | | | | | |
+| EMDR | | | | | |
+| Ketamine/MDMA | | | | | |
+| Intensive formats | | | | | |
+
+## Saturation note
+
+*To be completed when stopping.*
+
 ## Discovered sources
 
 | Date | Source found | Found via | Why relevant | Added to plan? |

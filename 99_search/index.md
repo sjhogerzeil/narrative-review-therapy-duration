@@ -10,16 +10,16 @@
 | 2_population.md | Clinical population definition — chronic relational trauma, survival-organized personality, complex PTSD, personality disorders as adaptation | draft |
 | 3_healing_definition.md | The contested definition of healing — symptom reduction vs functional improvement vs structural change; why definition determines reported duration | draft |
 | 4_research_questions.md | Primary question (how long does healing take?) plus 6 secondary structural questions (continuity, modality, therapist, frequency, phases, adjuncts) | draft |
-| 5_stance.md | Honest advocacy — working thesis that healing takes years, steel-manning counterarguments, transparent about position and limitations | draft |
+| 5_stance.md | "Structured narrative review with honest advocacy stance — CIS methodology, working thesis, steel-manning counterarguments, transparent about position and limitations" | draft |
 
 ## 2_methods
 
 | File | Description | Status |
 |------|-------------|--------|
-| 1_design.md | Multi-layer annotated literature review — six evidence layers, rationale for triangulation approach | draft |
+| 1_design.md | "Structured narrative review using critical interpretive synthesis (CIS) — six evidence layers, iterative search, triangulation across epistemological perspectives" | draft |
 | 10_audit_trail.md | "Traceability chain: APA citation → source note → quote with page ref → results extraction → discussion claim with back-reference" | draft |
-| 11_synthesis_method.md | "How findings are synthesized: 5 primary + 6 secondary dimensions, cross-layer triangulation, convergence/divergence analysis" | draft |
-| 12_rerun_protocol.md | "Protocol for re-running search/analysis when new subquestions or dimensions emerge mid-review — versioned iterations, incremental re-annotation" | draft |
+| 11_synthesis_method.md | "Analytical process (CIS): data reduction → display → comparison → construct generation → synthesising argument. Predefined dimensions + emergent constructs. Reflexivity, saturation, quality weighting." | draft |
+| 12_rerun_protocol.md | "Protocol for re-running search/analysis when new subquestions or dimensions emerge — append-only semantics, git captures chronology, final state supports replication" | draft |
 | 2_search_strategy.md | Inclusion/exclusion criteria, iterative snowball protocol, per-layer source budgets and stopping rules | draft |
 | 3_layer_1_academic.md | "Search plan for Layer 1: trauma-clinical, psychoanalytic, humanistic-existential, and neuroscience sublayers — search terms, sources, key authors" | draft |
 | 4_layer_2_naturalistic.md | "Search plan for Layer 2: naturalistic outcome studies — LTPP meta-analyses, Tavistock, Helsinki, dose-effect research" | draft |
@@ -41,6 +41,7 @@
 | 6_access_and_justice.md | Ethical dimension — if healing takes years, this is an argument for something most people cannot access; structural, financial, geographic barriers | not started |
 | 7_limitations.md | Methodological limitations of this review — non-systematic search, heterogeneous evidence, single-reviewer bias | not started |
 | 8_implications.md | What the findings mean for clinical practice, training, policy, and insurance structures | not started |
+| 9_inaccessible_sources.md | "Impact of sources identified as relevant but not accessed — paywalls, unavailability, language barriers. No sugar-coating: states plainly what was missed and how it may affect conclusions." | not started |
 
 ## 7_references
 

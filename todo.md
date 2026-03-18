@@ -30,3 +30,19 @@ Sources identified as relevant during the search but not accessed — behind pay
 ## Resolved
 
 *Sources that were initially inaccessible but later obtained and annotated.*
+
+---
+
+# Other tasks
+
+## Brainstorm: tables and figures
+
+After results extraction is underway, brainstorm possible tables and figures for `5_tables_and_figures/`. Starting candidates from `2_methods/11_synthesis_method.md`:
+
+- Cross-layer evidence matrix (which layers contribute to which dimensions)
+- Duration estimate table (durations by source, layer, population, endpoint definition)
+- Convergence/divergence map (where layers agree/disagree)
+- Trajectory typology (visual patterns if they emerge)
+
+Additional ideas to consider during execution:
+- *Add here as they arise*
