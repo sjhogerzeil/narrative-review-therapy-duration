@@ -39,7 +39,122 @@ This file supports the CIS requirement that source selection is transparent and 
 
 ### Layer 1: Academic
 
-*No entries yet.*
+### Viljoen (2024) — POP (eating disorders)
+
+- **Citation:** Viljoen 2024
+- **Found via:** PubMed / complex PTSD long-term treatment duration outcomes
+- **Layer:** 1-academic
+- **Reason for exclusion:** POP — eating disorders, population mismatch
+- **Date:** 2026-03-18
+- **Decided by:** agent recommendation
+
+### Burger (2022) — SCOPE (PTSD in psychosis, protocol)
+
+- **Citation:** Burger 2022
+- **Found via:** PubMed / complex PTSD long-term treatment duration outcomes
+- **Layer:** 1-academic
+- **Reason for exclusion:** SCOPE — PTSD in psychosis, protocol paper without outcome data
+- **Date:** 2026-03-18
+- **Decided by:** agent recommendation
+
+### Bateman (2016) — SCOPE (ICU conference proceedings)
+
+- **Citation:** Bateman 2016
+- **Found via:** PubMed / complex PTSD long-term treatment duration outcomes
+- **Layer:** 1-academic
+- **Reason for exclusion:** SCOPE — ICU conference proceedings, outside scope
+- **Date:** 2026-03-18
+- **Decided by:** agent recommendation
+
+### Patel (2014) — POP (torture survivors)
+
+- **Citation:** Patel 2014
+- **Found via:** PubMed / complex PTSD long-term treatment duration outcomes
+- **Layer:** 1-academic
+- **Reason for exclusion:** POP — torture survivors, population mismatch
+- **Date:** 2026-03-18
+- **Decided by:** agent recommendation
+
+### Kobeissy (2013) — POP (blast-related brain injury)
+
+- **Citation:** Kobeissy 2013
+- **Found via:** PubMed / complex PTSD long-term treatment duration outcomes
+- **Layer:** 1-academic
+- **Reason for exclusion:** POP — blast-related brain injury, population mismatch
+- **Date:** 2026-03-18
+- **Decided by:** agent recommendation
+
+### Bowirrat (2010) — SCOPE (neurogenetics)
+
+- **Citation:** Bowirrat 2010
+- **Found via:** PubMed / complex PTSD long-term treatment duration outcomes
+- **Layer:** 1-academic
+- **Reason for exclusion:** SCOPE — neurogenetics, outside scope
+- **Date:** 2026-03-18
+- **Decided by:** agent recommendation
+
+### Mauritz (2014) — SCOPE (single case study)
+
+- **Citation:** Mauritz 2014
+- **Found via:** PubMed / phase-based trauma treatment stabilization processing integration
+- **Layer:** 1-academic
+- **Reason for exclusion:** SCOPE — single case study
+- **Date:** 2026-03-18
+- **Decided by:** agent recommendation
+
+### Wamser-Nanney (2016) — POP (children, not adults)
+
+- **Citation:** Wamser-Nanney 2016
+- **Found via:** PubMed / premature termination dropout complex trauma psychotherapy
+- **Layer:** 1-academic
+- **Reason for exclusion:** POP — children, not adults
+- **Date:** 2026-03-18
+- **Decided by:** agent recommendation
+
+### Bartsch (2025) — SCOPE (short-term BPD group, not about duration)
+
+- **Citation:** Bartsch 2025
+- **Found via:** Scholar Gateway / BPD treatment duration personality change
+- **Layer:** 1-academic
+- **Reason for exclusion:** SCOPE — short-term BPD group, not about duration
+- **Date:** 2026-03-18
+- **Decided by:** agent recommendation
+
+### Juul (2022) — SCOPE (short-term MBT case illustration)
+
+- **Citation:** Juul 2022
+- **Found via:** Scholar Gateway / BPD treatment duration personality change
+- **Layer:** 1-academic
+- **Reason for exclusion:** SCOPE — short-term MBT case illustration, not about duration
+- **Date:** 2026-03-18
+- **Decided by:** agent recommendation
+
+### Muskens (2024) — SCOPE (intelligence as predictor, not duration)
+
+- **Citation:** Muskens 2024
+- **Found via:** Scholar Gateway / BPD treatment duration personality change
+- **Layer:** 1-academic
+- **Reason for exclusion:** SCOPE — intelligence as predictor, not duration
+- **Date:** 2026-03-18
+- **Decided by:** agent recommendation
+
+### Kramer (2021) — SCOPE (interpersonal pattern change, not duration)
+
+- **Citation:** Kramer 2021
+- **Found via:** Scholar Gateway / BPD treatment duration personality change
+- **Layer:** 1-academic
+- **Reason for exclusion:** SCOPE — interpersonal pattern change, not duration
+- **Date:** 2026-03-18
+- **Decided by:** agent recommendation
+
+### Laporte (2018) — BUDGET (stepped care BPD)
+
+- **Citation:** Laporte 2018
+- **Found via:** Scholar Gateway / BPD treatment duration personality change
+- **Layer:** 1-academic
+- **Reason for exclusion:** BUDGET — stepped care BPD, relevant but budget constraint; noted as complicating: no difference between 6-12 and 18-24 month completers
+- **Date:** 2026-03-18
+- **Decided by:** agent recommendation
 
 ### Layer 2: Naturalistic studies
 
