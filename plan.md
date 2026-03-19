@@ -137,6 +137,19 @@ Many academic sources (Layers 1, 2, 3) will be paywalled. After each layer's sea
 
 **Gate to Phase 3:** All extraction files populated. No source note without at least one row in an extraction table.
 
+**Verification step (added after Phase 2 gap discovered 2026-03-19):** Before proceeding to Phase 3, run this check:
+```bash
+# List all annotated source IDs
+find 3_results/sources -name '*.md' ! -name 'README.md' ! -name 'SOURCE_TEMPLATE.md' ! -path '*_reddit_raw*' ! -path '*_fulltext*' ! -path '*_media*' -exec grep -l '^id:' {} \; | while read f; do grep '^id:' "$f" | head -1; done | sort > /tmp/all_sources.txt
+
+# List all source IDs appearing in extraction tables
+grep -roh '[a-z].*-[0-9]\{4\}-[a-z].*' 3_results/primary/*.md 3_results/secondary/*.md | sort -u > /tmp/extracted_sources.txt
+
+# Find sources NOT in any extraction table
+comm -23 /tmp/all_sources.txt /tmp/extracted_sources.txt
+```
+If any sources are missing from all extraction tables, run a targeted extraction before proceeding. This prevents the gap we discovered where sources committed between extraction agent launch and completion were missed.
+
 **Deliverables:**
 - [ ] `3_results/primary/1_duration.md` — duration table complete
 - [ ] `3_results/primary/2_trajectory.md` — trajectory descriptions complete
@@ -149,50 +162,155 @@ Many academic sources (Layers 1, 2, 3) will be paywalled. After each layer's sea
 
 ---
 
-### Phase 3: Synthesis pass
+### Phase 3: Synthesis pass (CIS construct generation + synthesising argument)
 
-**Goal:** Read all extraction files together. Identify patterns, convergences, divergences, and emergent constructs that no single extraction file captures.
+**Goal (CIS-specific):** This is NOT a summary phase. It is a GENERATIVE phase. The goal is to produce two things that did not exist before this review:
+1. **Synthetic constructs** — new conceptual categories that transform the evidence into a new form (Dixon-Woods et al., 2006)
+2. **A synthesising argument** — an integrated theoretical framework that resolves the apparent contradictions in the field
+
+**What the synthesis is NOT:** A thematic summary organized by predefined dimensions. That's what the extraction tables already are.
+
+**What the synthesis IS:** A new theoretical framework for understanding therapy duration that explains why the field appears to disagree, what the actual answer is, and what determines duration for whom.
 
 **Process:**
-1. Read all primary extraction files in sequence. What patterns emerge across dimensions?
-2. Read all secondary extraction files. Do they interact? (e.g., does modality-switching correlate with longer duration?)
-3. Identify **emergent synthetic constructs** (CIS requirement) — conceptual patterns that cut across predefined dimensions. Document in new extraction files marked `[emergent, iteration N]`.
-4. Identify the **strongest and weakest points** of the working thesis. Where does evidence converge? Where does it thin out?
-5. Identify **gaps** — secondary questions with sparse data, layers with thin coverage, cross-cutting observations with overwhelmingly "no data" patterns.
 
-**PAUSE — HUMAN CHECKPOINT:** If emergent constructs are identified, present them to the user before triggering a re-run. The user decides whether to add new dimensions, expand the search, or proceed with what we have. Do not autonomously re-run the full search.
+**Step 0: Constant comparison across layers (CIS core method).**
+Before formalizing constructs, systematically compare what each layer says about each dimension. For each of the 16 extraction files, ask:
+- Do Layers 1-6 converge or diverge on this dimension?
+- WHERE they converge: is it because they're studying the same thing, or because independent evidence points the same way (stronger)?
+- WHERE they diverge: is it because of different populations, different endpoints, different methods, or genuine disagreement?
+- What does one layer reveal that NO other layer captures? (each layer's unique contribution)
 
-**Gate to Phase 4:** Synthesis pass notes written. Emergent constructs documented and discussed with user. Gaps identified — user has decided whether to return to Phase 1 for targeted re-runs or proceed.
+Create a **cross-layer comparison matrix** (`3_results/synthesis_pass_comparison.md`):
 
-**Decision point:** If gaps are significant enough to weaken key claims, return to Phase 1/2 with targeted searches before proceeding to discussion.
+```markdown
+| Dimension | L1a trauma | L1b psychoanalytic | L1c humanistic | L1d neuro | L2 naturalistic | L3 counterpoint | L4 practitioner | L5 client | L6 memoir | Convergence? | Divergence explained by |
+```
+
+This matrix IS the constant comparison. Every cell should be filled (even if "no data"). The pattern of filled and empty cells reveals the structure of the evidence base.
+
+**Step 1: Formalize synthetic constructs.** We have already identified emergent constructs through Phases 1-2 (logged in execution_log.md). Formalize each as a named construct with:
+- Definition (1-2 sentences)
+- Evidence base (which sources, which layers)
+- How it emerged (what cross-layer comparison produced it)
+- Status: confirmed / provisional / hypothesis
+
+Known constructs to formalize:
+- Endpoint divergence (central)
+- Sleeper effect
+- Developmental mechanism convergence
+- Treatment-engagement paradox
+- Escalation gap
+- Safety as clock-starter
+- The Farina resolution
+- RCT-reality gap
+- Identity dimension
+- Access silence
+
+**Step 2: Construct the synthesising argument.** Write a 1-page theoretical framework that integrates the constructs. This is the review's original contribution. Draft format:
+
+```
+THE ENDPOINT-DURATION NEXUS: A FRAMEWORK
+
+[Thesis statement: 2-3 sentences answering the primary question]
+
+[Framework: how the 3 interacting factors determine duration]
+  Factor 1: Level of change sought (symptom → functional → structural → identity)
+  Factor 2: Structural depth of patient's dissociative organization
+  Factor 3: Elapsed time for developmental processes (sleeper effect)
+
+[Why the field appears to disagree: endpoint divergence explains most of the variance]
+
+[What the framework cannot explain: limits and open questions]
+```
+
+**Step 3: Test the argument against counterevidence.** Explicitly check:
+- Does the framework account for EMDR 88% CPTSD remission in 8 days?
+- Does it account for the Helsinki convergence (3x dose → same outcome)?
+- Does it account for the treatment-engagement paradox (who needs most drops out)?
+- Does it account for Paris's access argument?
+- Where does it break down?
+
+**Step 4: Critique the literature as a body (CIS requirement).** This is NOT about individual source quality. It asks:
+- WHY has the field framed duration as a single-number question?
+- What meta-narratives (evidence-based practice, insurance economics, brief therapy movement) shaped the evidence base?
+- Why is there almost no research specifically on our defined population?
+- Why is access virtually never discussed in duration research?
+
+**Step 5: Strength/weakness assessment.** For each claim in the synthesising argument:
+- How many layers support it?
+- How many sources?
+- What is the strongest counterargument?
+- What would change the conclusion?
+
+**Output:** Write all of the above into `3_results/synthesis_pass.md` (new file).
+
+**PAUSE — HUMAN CHECKPOINT:** Present the synthesising argument to the user. The user decides:
+- Is the argument convincing?
+- Does it need refinement?
+- Are there gaps that require returning to Phase 1/2?
+- Proceed to Phase 4?
+
+**Gate to Phase 4:** Synthesising argument written and approved by user. Synthetic constructs formalized. Critique of literature drafted. Strength/weakness assessment complete.
 
 **Deliverables:**
-- [ ] Synthesis pass notes (can be in `execution_log.md` or a dedicated file)
-- [ ] Emergent constructs documented (new files in `3_results/primary/`)
-- [ ] Gap assessment: proceed or re-run?
+- [ ] `3_results/synthesis_pass.md` — the theoretical framework
+- [ ] Synthetic constructs formalized (updated extraction files or new files)
+- [ ] Critique of literature as a body (draft, will be expanded in Phase 4)
+- [ ] Strength/weakness assessment
+- [ ] Gap assessment: proceed or iterate?
+
+---
+
+### Phase 3→4→5 iteration protocol
+
+Phases 3, 4, and 5 are NOT strictly sequential. Insights from writing discussion (Phase 4) or creating figures (Phase 5) may reveal gaps or sharpen the synthesis (Phase 3). The iteration protocol:
+
+```
+Phase 3 (synthesis) → present to user → approved?
+  ├── YES → Phase 4 (discussion drafts)
+  │         ├── Writing reveals weak claim → back to Phase 2/3 (targeted extraction or argument revision)
+  │         ├── Writing reveals missing source → back to Phase 1 (targeted search)
+  │         └── All sections drafted → Phase 5 (figures)
+  │                ├── Visualization reveals pattern not in synthesis → back to Phase 3 (argument revision)
+  │                └── Figures created → Phase 6 (finalize)
+  └── NO → revise argument → re-present
+```
+
+Each backward loop:
+1. Document what triggered it in `execution_log.md`
+2. Make the minimum change needed (don't redo entire phases)
+3. Commit before and after the change
+4. Update the affected extraction/discussion files (append-only)
+
+**Circuit breaker:** Maximum 3 backward loops per phase. If a claim cannot be supported after 3 attempts, move it to limitations rather than searching indefinitely.
 
 ---
 
 ### Phase 4: First-pass discussion
 
-**Goal:** Write initial drafts of all discussion sections from the extraction data.
+**Goal:** Write initial drafts of all discussion sections. Each section elaborates one aspect of the synthesising argument from Phase 3.
+
+**Input:** The synthesising argument (`3_results/synthesis_pass.md`) is the backbone. Each discussion section develops one part of it, grounded in the extraction data.
 
 **Process:**
-1. Write `4_discussion/1_synthesis.md` first — the main argument. This is the synthesising argument (CIS), not a thematic summary.
-2. Write limitation sections (2–4, 7, 9) next — each draws on its specific extraction data and cross-cutting observation patterns.
-3. Write `4_discussion/5_counterpoint_response.md` — directly from Layer 3 source annotations.
-4. Write `4_discussion/6_access_and_justice.md` — from access data + the implications of the synthesis.
-5. Draft `4_discussion/8_implications.md` — depends on synthesis and limitations.
+1. Write `4_discussion/1_synthesis.md` first — this is the full synthesising argument from Phase 3, expanded with evidence, quotes, and cross-layer triangulation. NOT a thematic summary — an ARGUMENT.
+2. Write limitation sections (2–4, 7, 9) — each has its own scaffold already. Fill the "feed-back into the plan" sections with actual findings.
+3. Write `4_discussion/5_counterpoint_response.md` — use the Phase 3 strength/weakness assessment. Engage the EMDR counterpoint honestly through the Farina resolution.
+4. Write `4_discussion/6_access_and_justice.md` — the access silence finding is strong. Use the extraction data from `7_access.md`.
+5. Draft `4_discussion/8_implications.md` — decompose by endpoint level (what does the framework imply for clinical practice at each level of change?).
 
-**Iteration:** Writing discussion will reveal:
-- Claims that need more evidence → return to Phase 1 (targeted search)
-- Extraction gaps → return to Phase 2
-- New questions or constructs → document and decide whether to re-run
+**Back-references:** Every claim must reference source IDs. Use format: `[source-id]`.
 
-**Gate to Phase 5:** All discussion sections have first drafts. Claims are back-referenced to source IDs. Weak points are flagged.
+**Iteration triggers:**
+- A claim in the synthesis has fewer than 3 supporting sources → flag as weak, consider Phase 1 targeted search
+- A limitation section reveals that the thesis cannot address a gap → revise the synthesising argument (Phase 3)
+- The counterpoint response feels dismissive rather than honest → revise the framing
+
+**Gate to Phase 5:** All 9 discussion sections have first drafts. Claims are back-referenced. Weak points are flagged. The synthesising argument in `1_synthesis.md` reads as a coherent argument, not a list.
 
 **Deliverables:**
-- [ ] `4_discussion/1_synthesis.md` — first draft
+- [ ] `4_discussion/1_synthesis.md` — first draft (the argument)
 - [ ] `4_discussion/2_survivorship_bias.md` — first draft
 - [ ] `4_discussion/3_dose_vs_elapsed_time.md` — first draft
 - [ ] `4_discussion/4_therapy_vs_life.md` — first draft
@@ -201,25 +319,51 @@ Many academic sources (Layers 1, 2, 3) will be paywalled. After each layer's sea
 - [ ] `4_discussion/7_limitations.md` — first draft
 - [ ] `4_discussion/8_implications.md` — first draft
 - [ ] `4_discussion/9_inaccessible_sources.md` — first draft
+- [ ] Weak claims log (which claims need strengthening?)
 
 ---
 
 ### Phase 5: Tables & figures
 
-**Goal:** Create visual representations that support the synthesising argument.
+**Goal:** Create visual representations that make the synthesising argument visible. Figures serve the argument — they don't just display data.
+
+**Input:** The synthesising argument (Phase 3), the discussion sections (Phase 4), and the extraction tables (Phase 2).
 
 **Process:**
-1. Cross-layer evidence matrix — which layers contribute to which dimensions
-2. Duration estimate table — reported durations by source, layer, population, endpoint definition
-3. Convergence/divergence map — where layers agree and disagree
-4. Trajectory typology — if patterns emerged in Phase 3
-5. Any additional visualizations suggested by the data
 
-**Gate to Phase 6:** Tables and figures created. Referenced from discussion sections.
+**Table 1: The endpoint-duration nexus** (the central figure)
+- Rows: endpoint levels (symptom reduction, functional improvement, structural change, growth/identity)
+- Columns: typical duration range, evidence sources by layer, example measures, number of sources
+- This IS the synthesising argument in visual form
+
+**Table 2: Duration estimates across all sources**
+- One row per source with explicit duration data (from `1_duration.md`)
+- Columns: source ID, layer, population, duration, sessions/years/both, endpoint
+
+**Table 3: Cross-layer evidence matrix**
+- Rows: synthesis dimensions + secondary questions
+- Columns: layers 1a through 6
+- Cells: number of sources contributing + key finding
+- Shows where evidence converges and where gaps exist
+
+**Figure 1: Trajectory typology**
+- Visual representation of the 5 trajectory shapes (dose-response, sleeper, spiral, episodic, rapid)
+- Each annotated with which populations/modalities it applies to
+
+**Table 4: Synthetic constructs**
+- Each construct: name, definition, evidence base, which layers confirm it
+
+**Table 5: Counterpoint comparison**
+- Model | Population studied | Endpoint measured | Duration claimed | Applicable to our population?
+
+**Iteration trigger:** If creating a figure reveals that a pattern is stronger or weaker than the text claims, flag for Phase 3/4 revision.
+
+**Gate to Phase 6:** All tables/figures created. Each is referenced from at least one discussion section. No figure contradicts the synthesising argument (if it does, revise the argument, not the figure).
 
 **Deliverables:**
 - [ ] Tables and figures in `5_tables_and_figures/`
-- [ ] Cross-references added to discussion sections
+- [ ] Each figure referenced from discussion sections
+- [ ] Iteration notes (did visualization reveal anything new?)
 
 ---
 
