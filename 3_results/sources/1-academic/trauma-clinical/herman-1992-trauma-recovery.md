@@ -5,9 +5,9 @@ author: "Herman, J. L."
 year: 1992
 type: book
 layer: 1a-trauma-clinical
-citation: "Herman, J. L. (1992). *Trauma and recovery*. Basic Books."
+citation: "Herman, J. L. (1992). *Trauma and recovery*. Basic Books. + Herman, J. L. (1998). Recovery from psychological trauma. *Psychiatry and Clinical Neurosciences*, *52*(Suppl), S145–S150."
 url: "no URL available"
-access: abstract-only
+access: full (via Herman 1998 summary paper)
 summary: "Foundational text establishing the three-phase model of trauma recovery (safety, remembrance and mourning, reconnection). Defines the framework that all subsequent phase-based treatment literature builds on."
 population: "Complex trauma survivors (including childhood abuse, domestic violence, political violence)"
 modality: "Phase-based integrative"
@@ -23,7 +23,7 @@ endpoint_definition: structural
 
 ## Summary
 
-*Note: annotated from secondary sources and widely cited passages, not from primary text. Access status: abstract-only.*
+*Note: originally annotated from secondary sources. Now upgraded with primary quotes from Herman (1998), "Recovery from psychological trauma," Psychiatry and Clinical Neurosciences, 52(Suppl), S145–S150 — Herman's own summary of her model. Access status: full (via 1998 paper).* [upgraded 2026-03-19, primary source obtained]
 
 Foundational text establishing the three-phase model of trauma recovery. Herman articulates three sequential stages: (1) safety and stabilisation, (2) remembrance and mourning, (3) reconnection with ordinary life. The book addresses complex trauma survivors including childhood sexual abuse, domestic violence, and political violence, and was the first to articulate "complex PTSD" as a diagnostic concept (though the formal diagnosis was not adopted until ICD-11, decades later). All subsequent phase-based treatment models for complex trauma — ISSTD guidelines, van der Hart/Steele/Nijenhuis's structural dissociation model, and Cloitre's STAIR-NT — build on Herman's framework.
 
@@ -35,11 +35,21 @@ Foundational text establishing the three-phase model of trauma recovery. Herman 
 - Reconnection is described as an ongoing, lifelong process rather than a discrete endpoint — secondary source descriptions
 - The framework implies multi-year treatment but does not prescribe a specific duration — no timeline given
 - First articulation of "complex PTSD" as a diagnostic concept, distinguishing it from single-event PTSD — secondary source descriptions
+- [upgraded 2026-03-19, primary source obtained] "This initial stage may last days to weeks with acutely traumatized people or months to years with survivors of chronic abuse." — Herman 1998, p. S147. EXPLICIT DURATION DATA for Phase 1.
+- [upgraded 2026-03-19, primary source obtained] "The work of the first stage of recovery becomes increasingly complicated in proportion to the severity, duration, and early onset of abuse." — Herman 1998, p. S147. Severity-duration scaling.
+- [upgraded 2026-03-19, primary source obtained] "No other therapeutic work can possibly succeed if safety has not been adequately secured. No other therapeutic work should even be attempted until a reasonable degree of safety has been achieved." — Herman 1998, p. S147. Safety as absolute precondition.
+- [upgraded 2026-03-19, primary source obtained] "The second stage of recovery has a timeless quality that is very frightening... Patients often ask how long this painful process will last. There is no fixed answer to the question, only the assurance that the process cannot be bypassed or hurried. It will almost surely take longer than the patient wishes, but that it will not go on forever." — Herman 1998, p. S148. Explicit on indeterminate duration of Phase 2.
+- [upgraded 2026-03-19, primary source obtained] "The reconstruction of the trauma is never entirely completed; new conflicts and challenges at each new stage of the lifecycle will inevitably reawaken the trauma and bring some new aspect of the experience to light." — Herman 1998, p. S148. Reconstruction as permanently incomplete — lifelong trajectory.
+- [upgraded 2026-03-19, primary source obtained] "She has mourned the old self which the trauma destroyed; now she must develop a new self." — Herman 1998, p. S148. Endpoint as identity reconstruction, not symptom removal.
+- [upgraded 2026-03-19, primary source obtained] On the survivor mission: "there is a way to transcend it, by making it a gift to others. The trauma is redeemed only when it becomes the source of a survivor mission." — Herman 1998, p. S149. Phase 3 reconnection as meaning-making beyond symptom resolution.
 
 ## Duration data
 - No specific duration data or timeline provided — the phases are described as sequential but their length depends on the individual — secondary source descriptions
 - The safety phase alone may take "months to years" for severely traumatized individuals — secondary source descriptions
 - Reconnection is described as lifelong — implying that full "recovery" is open-ended rather than time-bounded — secondary source descriptions
+- [upgraded 2026-03-19, primary source obtained] Phase 1 duration now has EXPLICIT primary data: "days to weeks" for acute trauma, "months to years" for chronic abuse survivors — Herman 1998, p. S147
+- [upgraded 2026-03-19, primary source obtained] Phase 2 duration explicitly indeterminate: "no fixed answer... cannot be bypassed or hurried... will almost surely take longer than the patient wishes" — Herman 1998, p. S148
+- [upgraded 2026-03-19, primary source obtained] Reconstruction "never entirely completed" — trauma re-emerges at lifecycle transitions — Herman 1998, p. S148. This confirms lifelong trajectory as primary-source claim, not just secondary-source inference.
 
 ## Trajectory description
 
@@ -50,7 +60,19 @@ Herman describes recovery as a spiral rather than a line. The three phases are s
 Herman is the ur-text. Every subsequent source in the trauma-clinical layer builds on this framework. For the review's purposes, Herman's contribution is conceptual rather than empirical — she provides the theoretical architecture (three phases, nonlinear trajectory, open-ended reconnection) that other sources populate with data. The absence of specific duration data is itself significant: Herman implicitly argues that prescribing a timeline would be inappropriate because recovery is individualized and open-ended. This positions the book as supporting the thesis that healing takes years, while also complicating any attempt to specify exactly how many years.
 
 ## Quotes
-> "Recovery unfolds in three stages. The central task of the first stage is the establishment of safety. The central task of the second stage is remembrance and mourning. The central task of the third stage is reconnection with ordinary life." — widely cited, exact page unknown (abstract-only annotation)
+> "Recovery unfolds in three stages. The central task of the first stage is the establishment of safety. The central task of the second stage is remembrance and mourning. The central task of the third stage is reconnection with ordinary life." — Herman 1998, p. S146 [upgraded 2026-03-19, primary source obtained — page number now confirmed]
+
+> "This initial stage may last days to weeks with acutely traumatized people or months to years with survivors of chronic abuse." — Herman 1998, p. S147 [upgraded 2026-03-19, primary source obtained]
+
+> "No other therapeutic work can possibly succeed if safety has not been adequately secured. No other therapeutic work should even be attempted until a reasonable degree of safety has been achieved." — Herman 1998, p. S147 [upgraded 2026-03-19, primary source obtained]
+
+> "The second stage of recovery has a timeless quality that is very frightening... Patients often ask how long this painful process will last. There is no fixed answer to the question, only the assurance that the process cannot be bypassed or hurried. It will almost surely take longer than the patient wishes, but that it will not go on forever." — Herman 1998, p. S148 [upgraded 2026-03-19, primary source obtained]
+
+> "The reconstruction of the trauma is never entirely completed; new conflicts and challenges at each new stage of the lifecycle will inevitably reawaken the trauma and bring some new aspect of the experience to light." — Herman 1998, p. S148 [upgraded 2026-03-19, primary source obtained]
+
+> "She has mourned the old self which the trauma destroyed; now she must develop a new self." — Herman 1998, p. S148 [upgraded 2026-03-19, primary source obtained]
+
+> "there is a way to transcend it, by making it a gift to others. The trauma is redeemed only when it becomes the source of a survivor mission." — Herman 1998, p. S149 [upgraded 2026-03-19, primary source obtained]
 
 ## Secondary questions
 
@@ -74,7 +96,7 @@ Herman's third phase (reconnection) explicitly involves re-engagement with ordin
 
 ## Quality notes
 
-*Annotated from secondary sources, not primary text.* Herman (1992) is a clinical-theoretical text, not a research study. It does not present empirical data, controlled studies, or measured outcomes. Its authority derives from clinical experience, case illustration, and theoretical synthesis rather than from evidence in the research sense. For our review, this means Herman provides the conceptual framework that organises the field but does not provide evidence for specific duration claims. The book's enormous influence (it defined the field of complex trauma treatment) means that its framework is embedded in virtually all subsequent empirical work — making it foundational but also creating a confirmation bias risk: researchers who design studies within Herman's framework will tend to find evidence that confirms it. The quality limitation of this annotation is significant: this is reconstructed from secondary descriptions, not from a close reading of the primary text. Specific page numbers and exact formulations may differ from what is reported here.
+*Originally annotated from secondary sources. Upgraded 2026-03-19 with primary quotes from Herman (1998) summary paper — key claims now have page-level citations.* Herman (1992) is a clinical-theoretical text, not a research study. It does not present empirical data, controlled studies, or measured outcomes. Its authority derives from clinical experience, case illustration, and theoretical synthesis rather than from evidence in the research sense. For our review, this means Herman provides the conceptual framework that organises the field but does not provide evidence for specific duration claims. The book's enormous influence (it defined the field of complex trauma treatment) means that its framework is embedded in virtually all subsequent empirical work — making it foundational but also creating a confirmation bias risk: researchers who design studies within Herman's framework will tend to find evidence that confirms it. The quality limitation of this annotation is significant: this is reconstructed from secondary descriptions, not from a close reading of the primary text. Specific page numbers and exact formulations may differ from what is reported here.
 
 ## Cross-cutting observations
 

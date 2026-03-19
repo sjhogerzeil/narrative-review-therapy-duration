@@ -8,7 +8,7 @@ layer: 6-memoir
 citation: "Foo, S. (2022). *What my bones know: A memoir of healing from complex trauma*. Ballantine Books."
 url: https://www.goodreads.com/book/show/58214328-what-my-bones-know
 accessed: 2026-03-18
-access: abstract-only
+access: secondary-enriched (NPR interview, Psychologists Off the Clock podcast, book summaries)
 ---
 
 ## Summary
@@ -22,6 +22,13 @@ Foo's memoir chronicles her journey from childhood abuse (by both parents, who a
 - The turning point came when she found Dr. Jacob Ham, a relational psychoanalytic therapist specializing in trauma, who worked with her using IFS and EMDR, and critically, modeled co-regulation, attunement, and repair. — reviews/interviews
 - Ham provided $6,400 worth of pro bono therapy — an explicit acknowledgment of the access/cost barrier. — reviews/interviews
 - Intergenerational trauma is a major theme: Foo traces her parents' trauma histories in Malaysia and investigates how trauma transmits across generations. — reviews/interviews
+- [upgraded 2026-03-19, secondary source obtained] Diagnosed at age 30 by Samantha (her therapist of 8 years) during an online session — NPR interview
+- [upgraded 2026-03-19, secondary source obtained] Quit her job at This American Life to devote herself full-time to learning about CPTSD after diagnosis — NPR interview
+- [upgraded 2026-03-19, secondary source obtained] Book structure: 5 parts, 43 chapters spanning childhood abuse → diagnosis → therapy exploration → finding Dr. Ham → reconnection/marriage — book summaries
+- [upgraded 2026-03-19, secondary source obtained] Dr. Ham found through a podcast; does relational psychodynamic work; they recorded sessions for the book — Psychologists Off the Clock podcast
+- [upgraded 2026-03-19, secondary source obtained] Modality sequence: talk therapy (8+ years with Samantha) → EMDR, yoga, meditation, support groups → relational/IFS/EMDR with Dr. Ham — interviews/summaries
+- [upgraded 2026-03-19, secondary source obtained] Marriage to Joey as culminating relational achievement — the endpoint is a relationship, not symptom remission — interviews
+- [upgraded 2026-03-19, secondary source obtained] Intergenerational dimension: drove to childhood home, met Vietnamese woman now living there — book summaries
 
 ## Duration data
 
@@ -40,7 +47,11 @@ This is the single most relevant memoir for the blog. Foo directly addresses: th
 
 ## Quotes
 
-> [Exact quotes unavailable — access: abstract-only. Annotated from reviews, interviews, and book descriptions.]
+> [Exact quotes unavailable from primary text. The following are from interviews/podcasts:]
+
+> "you don't move on from trauma — but you can learn to move with it" — Foo, interviews [upgraded 2026-03-19, secondary source obtained]
+
+> "the ending is that I have a lot less shame...the healing doesn't always feel like torture. Like, it can actually feel joyous and experimental and curious" — Foo, interviews [upgraded 2026-03-19, secondary source obtained]
 
 ## Secondary questions
 
@@ -79,6 +90,8 @@ Foo explicitly credits non-therapy factors: chosen family, her relationship with
 
 ### Access and context
 Directly addressed. The $6,400 pro bono therapy from Dr. Ham is flagged as a turning point — and as something most people cannot access. Foo's story implicitly raises the question: what happens to people who can't find a Jacob Ham willing to work for free?
+
+[upgraded 2026-03-19, secondary source obtained] The $6,400 figure is confirmed across multiple interview sources. Ham provided pro bono therapy explicitly because he recognized the clinical and educational value of recording sessions for the book — a unique access pathway that is not replicable for most survivors.
 
 ### Definition of endpoint
 Not symptom-free. Foo's endpoint is relational: the capacity to love and be loved, to regulate in connection with others, to hold her history without being consumed by it. This is a functional/structural endpoint, not a symptom-reduction endpoint. The memoir's title itself — "What My Bones Know" — suggests the endpoint is embodied knowledge, not the absence of symptoms.

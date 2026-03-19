@@ -434,3 +434,38 @@ The orchestrator may then:
 
 **Inaccessible sources:**
 - None. All 10 threads were accessible in the _reddit_raw/ directory. However, data quality concerns exist for 2 threads (see Issues above).
+
+### [2026-03-19] Agent: Annotation upgrade agent
+
+**Task:** Upgrade existing source annotations with newly obtained primary and secondary source data for 3 files; assess 2 additional files (Kohut, Winnicott) for upgrade need.
+**Layer/file:** 1a-trauma-clinical (herman-1992, vanderhart-2006), 6-memoir (foo_2022)
+
+**Changes made:**
+
+1. **herman-1992-trauma-recovery.md** — MAJOR UPGRADE. Access upgraded from abstract-only to full (via Herman 1998 summary paper). Added 8 primary-source quotes with page numbers from Herman (1998), "Recovery from psychological trauma," *Psychiatry and Clinical Neurosciences*, 52(Suppl), S145–S150. Most significant addition: explicit duration data for Phase 1 ("days to weeks" for acute, "months to years" for chronic abuse — p. S147) and explicit indeterminacy statement for Phase 2 ("no fixed answer... cannot be bypassed or hurried" — p. S148). Citation updated to include 1998 paper. Quality notes updated to reflect primary source access.
+
+2. **foo_2022_what_my_bones_know.md** — MODERATE UPGRADE. Access upgraded from abstract-only to secondary-enriched. Added data from NPR interview, Psychologists Off the Clock podcast, and book summaries: diagnosis context (online session with Samantha at age 30), career change (quit This American Life), book structure (5 parts, 43 chapters), Dr. Ham discovery pathway (podcast), modality sequence detail, marriage as endpoint, intergenerational dimension. Added two interview quotes on healing trajectory and shame reduction. Enriched access/context section with $6,400 pro bono confirmation.
+
+3. **vanderhart-2006-haunted-self.md** — MINOR UPGRADE. Added phase-specific phobia elaboration (Phase 1 phobias vs Phase 2 vs Phase 3), book structure (Theory Parts I-II, Treatment Part III), Janet lineage, 12 CE credits detail, Middleton/ISTSS review reference. Quality notes updated. No primary quotes obtained.
+
+4. **kohut-1984-how-analysis-cures.md** and **winnicott-1965-maturational.md** — NOT UPDATED. Secondary source annotation adequate — no primary upgrade available.
+
+**Issues identified:**
+- Herman 1998 is a 6-page summary paper, not the 1992 book itself. The quotes are Herman's own words summarizing her model, but the book contains substantially more clinical detail, case material, and nuance. The upgrade is genuine but partial.
+- Foo annotation remains without full-text access. Session frequency, exact timeline with Dr. Ham, and specific modality details still require the book itself.
+
+**Questions raised:**
+- Herman 1998 p. S147 gives explicit Phase 1 duration ("months to years" for chronic abuse). Should this be elevated to a key finding in the duration extraction files? It is one of the few explicit duration statements from a foundational author.
+- Herman's "survivor mission" concept (p. S149) — is this captured in the endpoint definition extraction? It redefines endpoint as meaning-making and social contribution, not just symptom resolution or even reconnection.
+
+**Suggestions:**
+- The Herman 1998 paper should be added to the source list as a standalone entry if it isn't already — it's a distinct publication with distinct claims.
+- Consider obtaining the full Foo book for session-level data extraction. It's the richest single-case memoir in the project.
+
+**Emerging patterns:**
+- Herman's explicit statement that Phase 2 "cannot be bypassed or hurried" and "will almost surely take longer than the patient wishes" is remarkably similar to the Reddit lived-experience data (u/cheetosRliife on Stage 3 as "the slowest, most transformative" phase). Primary source and lived experience converge on the same point: the deep work takes as long as it takes, and that duration exceeds expectations.
+
+**Inaccessible sources:**
+- Herman 1992 book (full text) — still not accessed; 1998 paper is a partial substitute
+- Foo 2022 book (full text) — not accessed; interviews/reviews are partial substitute
+- Van der Hart 2006 book (full text) — not accessed

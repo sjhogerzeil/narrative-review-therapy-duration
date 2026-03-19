@@ -34,6 +34,11 @@ Comprehensive theoretical and clinical text presenting the theory of structural 
 - More complex structural dissociation (tertiary > secondary > primary) requires more treatment because there are more dissociative parts, each with its own set of phobias that must be addressed — secondary source descriptions
 - Treatment must address multiple dissociative parts individually, as each part may have its own phobias, relational patterns, and traumatic memories — this multiplicative structure explains the extended treatment duration — secondary source descriptions
 - The structural dissociation model provides the mechanistic WHY behind long treatment: the personality is literally divided, and integration requires sustained relational work to overcome deeply conditioned avoidance patterns — secondary source descriptions
+- [upgraded 2026-03-19, secondary source obtained] The book is organized into Theory (Part I–II) and Treatment (Part III) — book reviews/summaries
+- [upgraded 2026-03-19, secondary source obtained] Phase-specific phobia structure elaborated: Phase 1 addresses phobia of attachment/attachment loss with therapist, phobia of trauma-derived mental actions, phobia of dissociative parts; Phase 2 addresses phobia of traumatic memory; Phase 3 addresses integration and phobias of normal life — book reviews/summaries
+- [upgraded 2026-03-19, secondary source obtained] 12 CE credit hours approved for book study (EMDR Advanced Trainings) — indicates substantial clinical content and professional recognition — CE provider data
+- [upgraded 2026-03-19, secondary source obtained] Based explicitly on Janet's (1898, 1919/25) pioneering work on phase-oriented treatment — extending Janet's model with modern neuroscience and attachment theory — book reviews
+- [upgraded 2026-03-19, secondary source obtained] Warwick Middleton review (ISTSS): described as foundational clinical text for the field of traumatic dissociation — ISTSS review
 
 ## Duration data
 - No specific timeline or duration data provided — secondary source descriptions
@@ -50,7 +55,7 @@ This is the key mechanistic source. Where Howard (1986) describes the dose-effec
 
 ## Quotes
 
-No direct quotes available — annotated from secondary sources only.
+No direct quotes available — annotated from secondary sources only. [upgraded 2026-03-19: secondary sources enriched but no primary quotes obtained]
 
 ## Secondary questions
 
@@ -74,7 +79,7 @@ Phase 3 (overcoming phobia of normal life) explicitly involves engagement with l
 
 ## Quality notes
 
-*Annotated from secondary sources (primarily Steele 2005), not primary text.* Van der Hart et al. (2006) is a theoretical and clinical text, not an empirical study. Its claims rest on a synthesis of Janet's dissociation theory, neuroscience (action systems), clinical observation, and case illustration. The structural dissociation model is influential but not universally accepted — some researchers question the ANP/EP distinction as overly binary, and the phobia metaphor has been critiqued as reductive. For our review, the source's value is theoretical rather than evidential: it explains mechanisms, not outcomes. The quality limitation of this annotation is substantial — the book is over 400 pages of dense theoretical argument, and secondary source descriptions inevitably simplify the nuances. Key concepts (action systems, integrative capacity, mental level) that may be relevant to the duration question could be missed in this annotation.
+*Annotated from secondary sources (primarily Steele 2005), enriched 2026-03-19 with additional book reviews and summaries. Still no primary text access.* Van der Hart et al. (2006) is a theoretical and clinical text, not an empirical study. Its claims rest on a synthesis of Janet's dissociation theory, neuroscience (action systems), clinical observation, and case illustration. The structural dissociation model is influential but not universally accepted — some researchers question the ANP/EP distinction as overly binary, and the phobia metaphor has been critiqued as reductive. For our review, the source's value is theoretical rather than evidential: it explains mechanisms, not outcomes. The quality limitation of this annotation is substantial — the book is over 400 pages of dense theoretical argument, and secondary source descriptions inevitably simplify the nuances. Key concepts (action systems, integrative capacity, mental level) that may be relevant to the duration question could be missed in this annotation.
 
 ## Cross-cutting observations
 
