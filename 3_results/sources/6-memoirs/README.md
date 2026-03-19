@@ -6,11 +6,11 @@ First-person books narrating the full arc of healing from complex developmental 
 
 | ID | Author | Year | Title | Key finding on duration |
 |----|--------|------|-------|------------------------|
-| foo_2022_what_my_bones_know | Stephanie Foo | 2022 | What My Bones Know | 8+ years with first therapist before diagnosis; 10+ years total; explicit modality-switching |
-| levine_2024_autobiography_of_trauma | Peter Levine | 2024 | An Autobiography of Trauma | 40+ year arc; healing entangled with developing SE |
-| walker_2013_complex_ptsd | Pete Walker | 2013 | Complex PTSD: From Surviving to Thriving | 40+ year personal timeline; 30 years clinical; addresses "reasonable expectations about rate of recovery" |
-| anderson_2024_to_be_loved | Frank Anderson | 2024 | To Be Loved | Multi-decade arc; "everlasting healing journey"; IFS as framework |
-| eger_2017_the_choice | Edith Eger | 2017 | The Choice | 35 years suppression before processing; healing ongoing at 90+ |
+| foo-2022-what-my-bones-know | Stephanie Foo | 2022 | What My Bones Know | 8+ years with first therapist before diagnosis; 10+ years total; explicit modality-switching |
+| levine-2024-autobiography-of-trauma | Peter Levine | 2024 | An Autobiography of Trauma | 40+ year arc; healing entangled with developing SE |
+| walker-2013-complex-ptsd | Pete Walker | 2013 | Complex PTSD: From Surviving to Thriving | 40+ year personal timeline; 30 years clinical; addresses "reasonable expectations about rate of recovery" |
+| anderson-2024-to-be-loved | Frank Anderson | 2024 | To Be Loved | Multi-decade arc; "everlasting healing journey"; IFS as framework |
+| eger-2017-the-choice | Edith Eger | 2017 | The Choice | 35 years suppression before processing; healing ongoing at 90+ |
 
 ## Search log
 

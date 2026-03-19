@@ -18,3 +18,10 @@ status: not started
 ## Additional ideas
 
 *Add here as they arise during execution. See also `todo.md` § Brainstorm: tables and figures.*
+
+## Naming convention
+- Tables: table_N_short_name.md (e.g., table_1_endpoint_duration_nexus.md)
+- Figures: figure_N_short_name.md (e.g., figure_1_trajectory_typology.md)
+- Use Mermaid diagrams for flow/structure charts
+- Use markdown tables for data displays
+- Use textual descriptions for plots that need professional rendering

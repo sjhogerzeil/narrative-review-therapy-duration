@@ -104,11 +104,11 @@ status: draft
 
 ### Layer 6: Memoirs
 
-**foo_2022_what_my_bones_know** — 8 years before accurate diagnosis. Then modality-switching. Then finding the right therapist (Dr. Ham). Multi-decade total arc.
+**foo-2022-what-my-bones-know** — 8 years before accurate diagnosis. Then modality-switching. Then finding the right therapist (Dr. Ham). Multi-decade total arc.
 
-**walker_2013_complex_ptsd** — "Somewhat linear progression" while acknowledging nonlinearity. 40+ year journey. Four F responses as conceptual framework.
+**walker-2013-complex-ptsd** — "Somewhat linear progression" while acknowledging nonlinearity. 40+ year journey. Four F responses as conceptual framework.
 
-**eger_2017_the_choice** — 35 years of suppression before processing began. Physical return to Auschwitz as turning point. Healing described as ongoing at 90+. Four-stage structure: Prison -> Escape -> Freedom -> Healing.
+**eger-2017-the-choice** — 35 years of suppression before processing began. Physical return to Auschwitz as turning point. Healing described as ongoing at 90+. Four-stage structure: Prison -> Escape -> Freedom -> Healing.
 
 <!-- Reddit threads added 2026-03-19 -->
 

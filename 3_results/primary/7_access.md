@@ -29,7 +29,7 @@ status: draft
 | wylie-long-shadow-trauma | 4 | Yes | Research funding, system design | Programmes for developmental trauma "not simple, short, or cheap"; 10x more abused children than combat veterans but less research funding |
 | myptsd-2020-session-frequency | 5 | Yes | Pro bono constraints | Teamwork: monthly sessions as "pure hell" — frequency determined by affordability, not clinical need |
 | myptsd-2015-cant-afford-therapy | 5 | Yes | Cost, insurance | $4k-6k deductibles; sugnim cannot access therapy at all; "500 work-arounds for being poor" |
-| foo_2022_what_my_bones_know | 6 | Yes | Cost | Dr. Ham provided $6,400 of pro bono therapy — the therapeutic turning point was enabled by charity |
+| foo-2022-what-my-bones-know | 6 | Yes | Cost | Dr. Ham provided $6,400 of pro bono therapy — the therapeutic turning point was enabled by charity |
 | murphy-2009-pct-abuse | 1c | Implicit | Exceptional access pathway | Mac accessed 160 sessions through icap, a UK charity — highly unusual; would not be available through standard pathways |
 
 ## Pattern of silence

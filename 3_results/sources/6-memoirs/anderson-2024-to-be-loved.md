@@ -1,5 +1,5 @@
 ---
-id: anderson_2024_to_be_loved
+id: anderson-2024-to-be-loved
 title: "To Be Loved: A Story of Truth, Trauma, and Transformation"
 author: Frank G. Anderson
 year: 2024

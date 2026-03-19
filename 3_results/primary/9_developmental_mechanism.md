@@ -45,7 +45,7 @@ Howard's dose-effect model (Layer 2) measures sessions. These developmental mech
 | blueknot-trauma-practice | 4 | 84% expert consensus on phase model; treatment "may last decades" because phases must cycle recursively | Confirms: recursive developmental process, not linear progression |
 | mia-injured-not-broken | 4 | Trauma woven into identity and nervous system; "hard to untangle trauma from identity" | Confirms: the injury is structural (identity, nervous system), not symptomatic |
 | farina-2025-rapid-rare | 3 | Suggests "different underlying structures" — some patients have more "capacities for adaptive information processing" | Complicates: patients with greater pre-existing developmental capacity may not require full developmental mechanism |
-| foo_2022_what_my_bones_know | 6 | 8 years before diagnosis; modality-switching as developmental progression; relational repair with Dr. Ham as turning point | Confirms: the lived trajectory recapitulates the developmental model — trust, diagnosis, repair, integration over years |
+| foo-2022-what-my-bones-know | 6 | 8 years before diagnosis; modality-switching as developmental progression; relational repair with Dr. Ham as turning point | Confirms: the lived trajectory recapitulates the developmental model — trust, diagnosis, repair, integration over years |
 
 <!-- Reddit threads added 2026-03-19 -->
 | reddit-2024-what-feels-like-after | 5 | 5 years behavioural change → 6 years emotional healing; organic phased process recapitulating Herman's model without knowledge of it | Confirms: lived trajectory follows developmental logic — external restructuring before internal processing |

@@ -42,6 +42,14 @@ This file is the single source of truth for "where are we?" A fresh session read
 
 Not started.
 
+## Iteration counter (Phases 3-5)
+
+| Phase | Loop 1 | Loop 2 | Loop 3 | Circuit breaker? |
+|-------|--------|--------|--------|------------------|
+| 3 | | | | |
+| 4 | | | | |
+| 5 | | | | |
+
 ## Resume instructions
 
 If you are a new session or agent picking up this project:

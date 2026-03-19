@@ -1,5 +1,5 @@
 ---
-id: levine_2024_autobiography_of_trauma
+id: levine-2024-autobiography-of-trauma
 title: "An Autobiography of Trauma: A Healing Journey"
 author: Peter A. Levine
 year: 2024

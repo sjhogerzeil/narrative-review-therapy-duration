@@ -22,11 +22,11 @@ status: draft
 
 **myptsd-2019-how-long-therapy** — Finding "the right therapist" after cycling through multiple therapists. The therapeutic relationship is the decisive variable — posters describe years of unhelpful therapy followed by rapid progress with the right relational match.
 
-**foo_2022_what_my_bones_know** — Finding Dr. Jacob Ham after 8+ years with a therapist who never provided a CPTSD diagnosis. Ham's relational/IFS approach, including co-regulation and repair, was the turning point.
+**foo-2022-what-my-bones-know** — Finding Dr. Jacob Ham after 8+ years with a therapist who never provided a CPTSD diagnosis. Ham's relational/IFS approach, including co-regulation and repair, was the turning point.
 
 ### Diagnostic/recognition shifts
 
-**foo_2022_what_my_bones_know** — Receiving CPTSD diagnosis after 8 years. The diagnosis itself was a turning point — naming the condition enabled targeted treatment.
+**foo-2022-what-my-bones-know** — Receiving CPTSD diagnosis after 8 years. The diagnosis itself was a turning point — naming the condition enabled targeted treatment.
 
 **mia-injured-not-broken** — Recognition that "I am injured, not broken." The shift from "this is who I am" to "this is what happened to me" is the first step.
 
@@ -38,7 +38,7 @@ status: draft
 
 ### Modality shifts
 
-**foo_2022_what_my_bones_know** — Switching from talk therapy to EMDR, support groups, yoga, meditation, somatic techniques, and eventually IFS/EMDR with Dr. Ham. The modality switch was part of the turning point but inseparable from the therapist relationship.
+**foo-2022-what-my-bones-know** — Switching from talk therapy to EMDR, support groups, yoga, meditation, somatic techniques, and eventually IFS/EMDR with Dr. Ham. The modality switch was part of the turning point but inseparable from the therapist relationship.
 
 **myptsd-2024-emdr-cptsd-duration** — Several posters describe EMDR as accelerating progress that had stalled in talk therapy alone. But even with EMDR, recovery took years.
 
@@ -48,7 +48,7 @@ status: draft
 
 **bateman-fonagy-2008-mbt-8yr** — Post-treatment: MBT patients re-entered education and employment. "Symptomatic improvement and vocational activity represent a virtuous cycle." Life engagement became self-reinforcing.
 
-**eger_2017_the_choice** — Physical return to Auschwitz. 35 years after liberation, the act of returning enabled emotional processing that had been impossible at a distance.
+**eger-2017-the-choice** — Physical return to Auschwitz. 35 years after liberation, the act of returning enabled emotional processing that had been impossible at a distance.
 
 ### Neurobiological thresholds
 
@@ -74,7 +74,7 @@ status: draft
 
 **joseph-2012-ptg-model** — Shift from assimilation ("I want to be back to my old self") to accommodation (modifying the assumptive world). This cognitive shift is the mechanism of post-traumatic growth.
 
-**walker_2013_complex_ptsd** — Identifying the four F responses (fight, flight, freeze, fawn) as trauma-driven rather than personality. The conceptual framework provided by Walker enabled self-understanding.
+**walker-2013-complex-ptsd** — Identifying the four F responses (fight, flight, freeze, fawn) as trauma-driven rather than personality. The conceptual framework provided by Walker enabled self-understanding.
 
 <!-- Reddit threads added 2026-03-19 -->
 

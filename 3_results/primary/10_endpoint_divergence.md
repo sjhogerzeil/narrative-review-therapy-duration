@@ -57,9 +57,9 @@ The thesis "healing takes years" is true at the structural/growth level and fals
 | psychnetworker-transcending-trauma | 4 | Post-traumatic growth | Growth/reconnection | 7 years (Judy case) | PTG as endpoint extends timeline well beyond symptom reduction |
 | myptsd-2024-emdr-cptsd-duration | 5 | Self-defined: "largely resolve CPTSD" | Mixed | 7 months to 5+ years | Even clients who endorse EMDR report YEARS, not the 8-16 sessions from RCTs |
 | myptsd-2021-how-long-therapy-2 | 5 | Self-defined: ongoing practice vs. cure | Open-ended | 1 year to 20+ years | Some redefine therapy as ongoing practice, not cure — no endpoint |
-| foo_2022_what_my_bones_know | 6 | Relational capacity, self-compassion | Growth/reconnection | 10+ years | "Not cured but relationally capable" — endpoint is capacity, not symptom absence |
-| walker_2013_complex_ptsd | 6 | "Surviving to thriving" | Growth/reconnection | 40+ years | Personal healing arc spans decades |
-| eger_2017_the_choice | 6 | Self-forgiveness, capacity to embrace life | Growth/reconnection | 35+ years latency, then ongoing | 35 years before processing began; healing still ongoing at 90+ |
+| foo-2022-what-my-bones-know | 6 | Relational capacity, self-compassion | Growth/reconnection | 10+ years | "Not cured but relationally capable" — endpoint is capacity, not symptom absence |
+| walker-2013-complex-ptsd | 6 | "Surviving to thriving" | Growth/reconnection | 40+ years | Personal healing arc spans decades |
+| eger-2017-the-choice | 6 | Self-forgiveness, capacity to embrace life | Growth/reconnection | 35+ years latency, then ongoing | 35 years before processing began; healing still ongoing at 90+ |
 
 <!-- Reddit threads added 2026-03-19 -->
 | reddit-2023-how-long-in-therapy | 5 | Lifelong maintenance ("like going to the gym") | Open-ended | Lifelong | Most posters explicitly reject the concept of an endpoint |

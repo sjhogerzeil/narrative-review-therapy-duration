@@ -39,10 +39,10 @@ status: draft
 | wylie-long-shadow-trauma | 4 | TARGET, ARC as multi-component programs | Concurrent | Structured programs for developmental trauma |
 | myptsd-2024-emdr-cptsd-duration | 5 | Inner child work, tapping alongside EMDR | Concurrent | Client-driven adjunct selection |
 | myptsd-2015-cant-afford-therapy | 5 | Peer support, self-study as alternatives when therapy unaffordable | Alternative (not adjunct) | "Come light years since therapy" — non-therapy channels as primary |
-| foo_2022_what_my_bones_know | 6 | Yoga, meditation, support groups alongside formal therapy | Concurrent | Multiple channels of healing practice |
-| walker_2013_complex_ptsd | 6 | Spiritual seeking, self-directed recovery alongside therapy | Concurrent + sequential | "Multidimensional approach" |
-| levine_2024_autobiography_of_trauma | 6 | Dreamwork, somatic awareness, professional development as healing | Concurrent (life as therapy) | The distinction between therapy and life's work dissolves |
-| eger_2017_the_choice | 6 | Befriended Frankl; clinical training itself as healing; return to Auschwitz as turning point | Sequential and life-embedded | Life events (return to Auschwitz) served therapeutic functions |
+| foo-2022-what-my-bones-know | 6 | Yoga, meditation, support groups alongside formal therapy | Concurrent | Multiple channels of healing practice |
+| walker-2013-complex-ptsd | 6 | Spiritual seeking, self-directed recovery alongside therapy | Concurrent + sequential | "Multidimensional approach" |
+| levine-2024-autobiography-of-trauma | 6 | Dreamwork, somatic awareness, professional development as healing | Concurrent (life as therapy) | The distinction between therapy and life's work dissolves |
+| eger-2017-the-choice | 6 | Befriended Frankl; clinical training itself as healing; return to Auschwitz as turning point | Sequential and life-embedded | Life events (return to Auschwitz) served therapeutic functions |
 
 ## Emerging pattern
 

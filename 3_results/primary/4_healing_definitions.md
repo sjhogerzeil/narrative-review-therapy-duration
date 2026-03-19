@@ -59,11 +59,11 @@ status: draft
 | myptsd-2019-how-long-therapy | 5 | Implicit: sense of progress, relational capacity, daily functioning | 8 months-27 years |
 | myptsd-2021-how-long-therapy-2 | 5 | Mixed: some seek symptom relief, others seek ongoing growth; therapy as practice vs cure | 1-20+ years |
 | myptsd-2024-emdr-cptsd-duration | 5 | "Largely resolved" — clients define this more ambitiously than diagnostic criteria | 2-5+ years even with EMDR |
-| foo_2022_what_my_bones_know | 6 | Understanding self, healing relationships, integrating intergenerational trauma | 10+ years and ongoing |
-| walker_2013_complex_ptsd | 6 | "From surviving to thriving" — multi-dimensional approach, ongoing | 40+ years |
-| eger_2017_the_choice | 6 | Self-forgiveness; capacity to "embrace the possible"; healing as continuous choice | 35+ years before processing began; ongoing at 90+ |
-| anderson_2024_to_be_loved | 6 | Capacity for love — both giving and receiving; "everlasting healing journey" | Multi-decade; ongoing |
-| levine_2024_autobiography_of_trauma | 6 | "Wounded healer" integration — trauma becomes source of professional purpose | 40+ years |
+| foo-2022-what-my-bones-know | 6 | Understanding self, healing relationships, integrating intergenerational trauma | 10+ years and ongoing |
+| walker-2013-complex-ptsd | 6 | "From surviving to thriving" — multi-dimensional approach, ongoing | 40+ years |
+| eger-2017-the-choice | 6 | Self-forgiveness; capacity to "embrace the possible"; healing as continuous choice | 35+ years before processing began; ongoing at 90+ |
+| anderson-2024-to-be-loved | 6 | Capacity for love — both giving and receiving; "everlasting healing journey" | Multi-decade; ongoing |
+| levine-2024-autobiography-of-trauma | 6 | "Wounded healer" integration — trauma becomes source of professional purpose | 40+ years |
 
 <!-- Reddit threads added 2026-03-19 -->
 | reddit-2023-how-long-in-therapy | 5 | Lifelong maintenance: "like going to the gym, but for your mental health"; no endpoint conceptualised | Open-ended (lifelong) |

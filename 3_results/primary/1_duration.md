@@ -66,11 +66,11 @@ Data extracted from source annotations. Each entry references the source ID.
 | myptsd-2024-emdr-cptsd-duration | 5 | CPTSD using EMDR | 7 months to 5+ years (even with EMDR, years not sessions) | years | mixed |
 | myptsd-2020-session-frequency | 5 | PTSD/CPTSD | Frequency: monthly to twice-weekly; shaped by attachment, not protocol | frequency data | not-defined |
 | myptsd-2015-cant-afford-therapy | 5 | PTSD/CPTSD (unable to afford) | N/A — access barrier prevents treatment entirely | N/A | not-defined |
-| foo_2022_what_my_bones_know | 6 | CPTSD | 8+ years with first therapist before diagnosis; additional years after; $6,400 pro bono | years | structural |
-| walker_2013_complex_ptsd | 6 | CPTSD | 40+ year healing journey | years/decades | structural |
-| levine_2024_autobiography_of_trauma | 6 | Childhood trauma | 40+ year arc from trauma to "healed healer" | decades | structural |
-| eger_2017_the_choice | 6 | Holocaust/complex trauma | 35 years before beginning full processing; healing described as ongoing at 90+ | decades | structural |
-| anderson_2024_to_be_loved | 6 | Childhood abuse | Multi-decade trajectory; "everlasting healing journey" | decades | structural |
+| foo-2022-what-my-bones-know | 6 | CPTSD | 8+ years with first therapist before diagnosis; additional years after; $6,400 pro bono | years | structural |
+| walker-2013-complex-ptsd | 6 | CPTSD | 40+ year healing journey | years/decades | structural |
+| levine-2024-autobiography-of-trauma | 6 | Childhood trauma | 40+ year arc from trauma to "healed healer" | decades | structural |
+| eger-2017-the-choice | 6 | Holocaust/complex trauma | 35 years before beginning full processing; healing described as ongoing at 90+ | decades | structural |
+| anderson-2024-to-be-loved | 6 | Childhood abuse | Multi-decade trajectory; "everlasting healing journey" | decades | structural |
 
 <!-- Reddit threads added 2026-03-19 -->
 | reddit-2023-how-long-in-therapy | 5 | CPTSD | 2-13+ years across posters; several frame as lifelong | years | implicit (lifelong maintenance) |

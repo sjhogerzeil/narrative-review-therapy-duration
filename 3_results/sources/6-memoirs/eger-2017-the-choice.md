@@ -1,5 +1,5 @@
 ---
-id: eger_2017_the_choice
+id: eger-2017-the-choice
 title: "The Choice: Embrace the Possible"
 author: Edith Eva Eger
 year: 2017

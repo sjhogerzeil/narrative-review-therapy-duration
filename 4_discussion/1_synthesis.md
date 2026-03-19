@@ -10,3 +10,15 @@ depends_on: [3_results/primary/*, 3_results/secondary/*]
 *To be written after source annotation and data extraction are complete.*
 
 Cross-layer triangulation of findings along all primary and secondary synthesis dimensions.
+
+## Thesis statement
+
+## The endpoint-duration nexus
+
+## Three factors that determine duration
+
+## Why the field appears to disagree
+
+## What the framework cannot explain
+
+## Critique of the literature as a body

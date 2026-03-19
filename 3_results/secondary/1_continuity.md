@@ -36,9 +36,9 @@ status: draft
 | myptsd-2019-how-long-therapy | 5 | One step at a time: on-and-off over 6 years (driven by misdiagnosis/poor fit) | Mixed |
 | myptsd-2021-how-long-therapy-2 | 5 | Friday: cyclical engagement (intensive phases + self-managed periods); Lionheart: 20+ years ongoing by choice | Supports interruption |
 | myptsd-2015-cant-afford-therapy | 5 | Forced interruption by financial constraint; The Albatross: pivoted to self-directed work after therapy became unaffordable | Supports interruption (forced) |
-| foo_2022_what_my_bones_know | 6 | Continuous intent but breaks between therapists; switch from Samantha to Ham was deliberate, not forced | Mixed |
-| walker_2013_complex_ptsd | 6 | Includes a failed spiritual quest — interruption and method-switching as part of normative arc | Supports interruption |
-| eger_2017_the_choice | 6 | 35 years of suppression before processing — the extreme case of interruption | Supports interruption |
+| foo-2022-what-my-bones-know | 6 | Continuous intent but breaks between therapists; switch from Samantha to Ham was deliberate, not forced | Mixed |
+| walker-2013-complex-ptsd | 6 | Includes a failed spiritual quest — interruption and method-switching as part of normative arc | Supports interruption |
+| eger-2017-the-choice | 6 | 35 years of suppression before processing — the extreme case of interruption | Supports interruption |
 
 ## Emerging pattern
 

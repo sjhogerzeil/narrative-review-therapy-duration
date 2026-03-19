@@ -41,9 +41,9 @@ status: draft
 | dejongh-2023-emdr-case | 3 | No phases; direct memory reprocessing from session 1 | Directly challenges | 10 sessions, no stabilisation |
 | myptsd-2024-emdr-cptsd-duration | 5 | Stabilisation needed in practice despite RCT evidence against it | Supports (from client experience) | Bodhi: 6 months stabilisation before EMDR |
 | myptsd-2021-how-long-therapy-2 | 5 | Friday: cyclical engagement matching Blue Knot "continuously or episodically" | Compatible with recursive phase cycling | Phases cycle rather than progress |
-| foo_2022_what_my_bones_know | 6 | Stabilisation (8 yrs with Samantha) → diagnosis → modality exploration → relational repair → integration | Roughly consistent (visible in retrospect) | Phases emerged organically, not planned |
-| walker_2013_complex_ptsd | 6 | "Somewhat linear progression" from surviving to thriving | Compatible | Phase model as organising metaphor |
-| eger_2017_the_choice | 6 | Prison → Escape → Freedom → Healing (book structure) | Loosely compatible | 35-year latency between phases |
+| foo-2022-what-my-bones-know | 6 | Stabilisation (8 yrs with Samantha) → diagnosis → modality exploration → relational repair → integration | Roughly consistent (visible in retrospect) | Phases emerged organically, not planned |
+| walker-2013-complex-ptsd | 6 | "Somewhat linear progression" from surviving to thriving | Compatible | Phase model as organising metaphor |
+| eger-2017-the-choice | 6 | Prison → Escape → Freedom → Healing (book structure) | Loosely compatible | 35-year latency between phases |
 
 ## Emerging pattern
 

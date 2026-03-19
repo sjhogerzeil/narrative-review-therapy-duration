@@ -1,5 +1,5 @@
 ---
-id: foo_2022_what_my_bones_know
+id: foo-2022-what-my-bones-know
 title: "What My Bones Know: A Memoir of Healing from Complex Trauma"
 author: Stephanie Foo
 year: 2022

@@ -49,8 +49,8 @@ status: draft
 | psychnetworker-transcending-trauma | 4 | Somatic (Focusing, sensorimotor) + creative expression (quilting, poetry) + talk therapy | Multiple (concurrent) |
 | myptsd-2024-emdr-cptsd-duration | 5 | EMDR users modify protocols (Flash EMDR) and add inner child work, tapping | Multiple (adapted) |
 | myptsd-2019-how-long-therapy | 5 | Modality mentioned as less important than therapeutic relationship | Not decisive |
-| foo_2022_what_my_bones_know | 6 | Talk therapy, EMDR, IFS, support groups, yoga, meditation, somatic work — modality-switching as developmental progression | Multiple (sequential) |
-| walker_2013_complex_ptsd | 6 | "Multidimensional approach" integrating psychodynamic, CBT, somatic, relational elements | Multiple |
+| foo-2022-what-my-bones-know | 6 | Talk therapy, EMDR, IFS, support groups, yoga, meditation, somatic work — modality-switching as developmental progression | Multiple (sequential) |
+| walker-2013-complex-ptsd | 6 | "Multidimensional approach" integrating psychodynamic, CBT, somatic, relational elements | Multiple |
 
 ## Emerging pattern
 

@@ -1,5 +1,5 @@
 ---
-id: walker_2013_complex_ptsd
+id: walker-2013-complex-ptsd
 title: "Complex PTSD: From Surviving to Thriving: A Guide and Map for Recovering from Childhood Trauma"
 author: Pete Walker
 year: 2013

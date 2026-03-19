@@ -35,11 +35,11 @@ status: draft
 | farina-2025-rapid-rare | 3 | Advocates multi-setting integrated therapies (MSIT): different therapists communicating cooperatively | Several (coordinated) |
 | myptsd-2019-how-long-therapy | 5 | Multiple posters describe cycling through therapists before finding "the right one"; therapeutic match is decisive | Several → one |
 | myptsd-2024-emdr-cptsd-duration | 5 | No specific data on therapist switching | Not addressed |
-| foo_2022_what_my_bones_know | 6 | At least Samantha (8 years) then Dr. Ham; switch was necessary — different therapists for different developmental needs | Several (sequential) |
-| walker_2013_complex_ptsd | 6 | 40+ year timeline makes multiple therapists near-certain | Several (implied) |
-| anderson_2024_to_be_loved | 6 | Not specified | Not addressed |
-| levine_2024_autobiography_of_trauma | 6 | Not specified; healing embedded in life/professional work | Not addressed |
-| eger_2017_the_choice | 6 | Not specified; befriended Frankl, entered therapy at some point | Not addressed |
+| foo-2022-what-my-bones-know | 6 | At least Samantha (8 years) then Dr. Ham; switch was necessary — different therapists for different developmental needs | Several (sequential) |
+| walker-2013-complex-ptsd | 6 | 40+ year timeline makes multiple therapists near-certain | Several (implied) |
+| anderson-2024-to-be-loved | 6 | Not specified | Not addressed |
+| levine-2024-autobiography-of-trauma | 6 | Not specified; healing embedded in life/professional work | Not addressed |
+| eger-2017-the-choice | 6 | Not specified; befriended Frankl, entered therapy at some point | Not addressed |
 
 ## Emerging pattern
 
