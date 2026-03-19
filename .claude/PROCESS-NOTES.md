@@ -1,5 +1,22 @@
 # Process Notes — blog-therapy-duration
 
+## 2026-03-19 (session 4 — end of session)
+
+Context: Phase 2 fully complete with Reddit gap fixed. Phases 3-5 rewritten with CIS methodology. Dry-run completed. Blocking issues fixed. Ready for Phase 3 with ultrathink in next session.
+
+Redenering:
+- The CIS distinction between summary and synthesis is critical: Phase 3 must GENERATE new conceptual categories (synthetic constructs), not just organize findings. Our constructs (endpoint divergence, sleeper effect, etc.) already exist but need formalizing into a theoretical framework.
+- The "synthesising argument" is the review's original contribution: a 3-factor model (endpoint level × structural depth × elapsed time) that resolves the field's apparent disagreement.
+- Reddit data gap caught and fixed — 10 threads were missing from extraction tables. Added Phase 2 gate verification step to prevent this in future.
+- Source ID normalization done (underscore→hyphen for 5 memoir files + ~40 extraction table references).
+- OpenAI API bridge via Responses API with web_search_preview tool works for Reddit access.
+
+Open:
+- [ ] Phase 3: synthesis pass with ultrathink — produce theoretical framework, cross-layer comparison, critique
+- [ ] HUMAN CHECKPOINT after Phase 3: approve synthesising argument before discussion writing
+- [ ] Still need: agent instructions for Phases 3-5 agents (B4 from dry-run — not yet fixed)
+- [ ] Register: language/register decision for discussion writing (English academic? Dutch blog?)
+
 ## 2026-03-19 (session 3)
 
 Context: Phase 2 (extraction) complete. 16 extraction files populated from 78 sources. The central finding crystallised: the duration debate is an endpoint debate.
