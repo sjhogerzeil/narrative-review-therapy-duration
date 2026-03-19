@@ -28,6 +28,22 @@ If the sleeper effect is real, then:
 3. **Cost-effectiveness analyses with short time horizons systematically undervalue long-term therapy** (Koeser 2023 explicitly notes this)
 4. **The argument for long-term therapy is strengthened but complicated** — the therapy may need to be long enough to set structural change in motion, but the change itself continues autonomously
 
+## Additional sources (Layers 3-6)
+
+| Source ID | Finding | Timeframe |
+|-----------|---------|-----------|
+| lilliengren-2025-edt-meta | EDTs non-significant vs active controls at post-treatment (g=-0.17) but significant at follow-up (g=-0.40) | Follow-up advantage emerges after treatment ends |
+| bateman-fonagy-2008-mbt-8yr | MBT gains continued growing 5 years after all treatment ended; TAU deteriorated despite more services | Effects grow for 5+ years post-treatment |
+| mia-psychoanalytic-beats-cbt | PAT (242 sessions) outperformed CBT (59 sessions) specifically at 5-year follow-up, not at treatment completion | Advantage visible at 5-year follow-up |
+| abbass-2014-stpp-cochrane | STPP showed gains at post-treatment but loss of significance at long-term follow-up — a REVERSE sleeper effect | Gains diminish rather than grow (counterpoint to sleeper effect in short-term formats) |
+| sciarrino-2020-intensive-review | 6/11 studies with follow-up showed maintenance of gains (d=0.74-2.59) | Gains maintained but not clearly growing |
+| feder-2025-ketamine-exposure | 61.5% maintained response at 6-month follow-up; but 38.5% did not | Partial durability — not a growing effect |
+| gorman-2020-mdma-ptg | PTG and PTSD reduction maintained at 12-month follow-up; 67.2% still remitted | Gains maintained but not assessed for continued growth |
+
+## Pattern across layers
+
+The sleeper effect appears most consistently in psychodynamic/psychoanalytic treatments (TADS, Munich, Helsinki, Shedler review, MBT, EDT meta-analysis, PAT vs CBT). Short-term psychodynamic therapy (Abbass 2014) shows the opposite pattern — gains that diminish. This suggests the sleeper effect may require a minimum dose or a specific type of therapeutic work (structural/relational rather than symptom-focused) to activate. The counterpoint sources (EMDR, MDMA, ketamine) show maintenance of gains but not the progressive improvement pattern characteristic of the sleeper effect.
+
 ## Questions for synthesis
 
 - Is the sleeper effect specific to psychodynamic/psychoanalytic therapy, or does it occur with other modalities?

@@ -35,6 +35,18 @@ This means duration is not a preference or a resource question — it is a struc
 
 Howard's dose-effect model (Layer 2) measures sessions. These developmental mechanisms suggest the relevant "dose" is not sessions but **completed relational cycles** — attunement-disruption-repair sequences that may or may not occur in any given session. This reframes the dose question fundamentally.
 
+## Additional examples from Layers 3-6
+
+| Source ID | Layer | Mechanism described | Convergence with core construct |
+|-----------|-------|--------------------|---------------------------------|
+| hauser-2022-fragile-process | 1c (Layer 1) | Fragile process clients cannot modulate intensity; empathic holding must recapitulate what was missing in early childhood | Confirms: relational provision replaces developmental deficit; pace set by patient capacity |
+| substack-traumalescence | 4 | "Traumalescence" — developmental transition analogous to adolescence; neural reorganisation takes 6-18 months to consolidate | Confirms: biology sets the pace; developmental metaphor made explicit |
+| alpern-2025-truth-complex-trauma | 4 | Injuries are "developmental, relational, and cumulative" — cannot be resolved in protocol-driven therapy | Confirms: cumulative relational injury requires cumulative relational repair |
+| blueknot-trauma-practice | 4 | 84% expert consensus on phase model; treatment "may last decades" because phases must cycle recursively | Confirms: recursive developmental process, not linear progression |
+| mia-injured-not-broken | 4 | Trauma woven into identity and nervous system; "hard to untangle trauma from identity" | Confirms: the injury is structural (identity, nervous system), not symptomatic |
+| farina-2025-rapid-rare | 3 | Suggests "different underlying structures" — some patients have more "capacities for adaptive information processing" | Complicates: patients with greater pre-existing developmental capacity may not require full developmental mechanism |
+| foo_2022_what_my_bones_know | 6 | 8 years before diagnosis; modality-switching as developmental progression; relational repair with Dr. Ham as turning point | Confirms: the lived trajectory recapitulates the developmental model — trust, diagnosis, repair, integration over years |
+
 ## Implications for the thesis
 
 The convergence across independent traditions is the review's strongest theoretical argument: multiple traditions, using different concepts and methods, arrive at the same conclusion about why deep change takes years. The probability that this convergence is coincidental is low.
