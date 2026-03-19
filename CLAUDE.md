@@ -77,6 +77,10 @@ blog-therapy-duration/
 
 Honest advocacy: the working thesis is that healing takes years. The review builds the case while steel-manning counterarguments. See `1_introduction/5_stance.md`.
 
+## Language and register
+
+**English academic paper.** Write in academic English — clear, precise, well-structured prose. Not informal, not jargon-heavy. A Dutch blog post will be written later based on this report (separate project, different voice).
+
 ## Methodology
 
 Structured narrative review using critical interpretive synthesis (CIS; Dixon-Woods et al., 2006). See `2_methods/1_design.md` for full methodological framework.
