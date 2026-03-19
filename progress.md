@@ -16,7 +16,8 @@ This file is the single source of truth for "where are we?" A fresh session read
 **Phase 1, Layer 4** — COMPLETE (10/10, all WebFetched)
 **Phase 1, Layer 5** — COMPLETE (5/5, MyPTSD forum threads)
 **Phase 1, Layer 6** — COMPLETE (5/5, memoirs from reviews)
-**PHASE 1 COMPLETE** — 78 sources across 6 layers (incl. 10 Reddit threads). Ready for Phase 2 (extraction).
+**PHASE 1 COMPLETE** — 78 sources across 6 layers (incl. 10 Reddit threads).
+**PHASE 2 COMPLETE** — 16 extraction files populated from all 78 sources. Ready for Phase 3 (synthesis pass).
 
 ## Phase 1: Search & Annotate
 

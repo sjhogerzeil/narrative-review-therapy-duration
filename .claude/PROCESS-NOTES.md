@@ -1,5 +1,21 @@
 # Process Notes — blog-therapy-duration
 
+## 2026-03-19 (session 3)
+
+Context: Phase 2 (extraction) complete. 16 extraction files populated from 78 sources. The central finding crystallised: the duration debate is an endpoint debate.
+
+Redenering:
+- Two parallel extraction agents processed all 78 sources into 10 primary + 6 secondary extraction tables. Total coverage verified — every source appears in at least one table.
+- The endpoint divergence is now the review's organising insight: symptom reduction (weeks-months), functional improvement (months-years), structural change (years), growth/identity (years-decades). The thesis "healing takes years" is precisely true at the structural level and precisely false at the symptom level.
+- 12 "surprise" findings documented that complicate the thesis (EMDR 88% CPTSD remission in 8 days, Helsinki convergence at 10 years despite 3x dose, TAU worse than MBT despite more services, therapist fit > duration).
+- Five trajectory shapes identified: dose-response, sleeper/catalytic, spiral/recursive, episodic/cyclical, rapid/targeted.
+
+Open:
+- [ ] Phase 3: Synthesis pass — read all extraction files together, construct the synthesising argument
+- [ ] Phase 4: First-pass discussion sections
+- [ ] Phase 5: Tables and figures
+- [ ] HUMAN CHECKPOINT at Phase 6: positionality statement
+
 ## 2026-03-19 (session 2)
 
 Context: Phase 1 complete — 78 sources across 6 layers. Reddit access solved via OpenAI Responses API bridge (web_search_preview tool). Moving to Phase 2 (extraction).
