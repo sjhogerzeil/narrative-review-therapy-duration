@@ -403,3 +403,34 @@ The orchestrator may then:
 
 **Inaccessible sources:**
 - None. All 5 forum threads were fully accessible.
+
+### [2026-03-19 14:30] Agent: Layer 5 annotation — Reddit batch (10 threads)
+
+**Task:** Annotate 10 Reddit threads from r/CPTSD and r/CPTSD_NSCommunity as Layer 5 client-narrative sources.
+**Layer/file:** 3_results/sources/5-client-narratives/ — 10 new source files created, README updated.
+
+**Issues identified:**
+- reddit-how-long-after-therapy-feel: Comments 2-10 appear to be AI-generated or templated (identical text with only the duration number changed: "2 years... 3 years... 10 years"). These were excluded from analysis. This is a data integrity issue for Reddit sources that should be flagged as a methodological concern.
+- Several threads have many deleted comments, limiting the available data. reddit-fully-healed-how-long has 7 of 10 comments unavailable.
+- The raw files appear to have been collected via an LLM intermediary (ChatGPT or similar), which introduces potential paraphrasing, summarisation, or fabrication. The reddit-stages-healing-stage3 comments are explicitly labelled "illustrative, as the full content of the top comments was not available." These should be re-scraped directly from Reddit if possible.
+
+**Questions raised:**
+- The safety-precondition finding (therapy only works when safe) is now confirmed across multiple independent sources (u/ElishaAlison in two threads, u/WeeLittleSloth, u/Senior_Octopus). Should "safety as rate-limiting factor" be elevated from a theme to a formal construct, on par with the escalation gap?
+- u/ElishaAlison's theory about healed people leaving online communities (reverse survivorship bias) has methodological implications for all forum-based data collection. Should this be flagged as a formal limitation in the Layer 5 synthesis?
+- The emergence of AI-assisted self-therapy (reddit-2025-full-cure-how-long) is a novel finding. Should this be tracked as an emerging modality?
+
+**Suggestions:**
+- Re-scrape reddit-how-long-after-therapy-feel and reddit-stages-healing-stage3 directly from Reddit to verify comment authenticity.
+- Consider creating a cross-cutting synthesis note on the "safety precondition" — it is now the second strongest finding after "years, not months."
+- u/msk97's recovery narrative (reddit-2024-recovered-cptsd) should be highlighted as the most detailed and specific recovery account in the entire Layer 5 corpus — it provides modality sequencing, timeline, adjuncts, and assessment-confirmed endpoint.
+
+**Emerging patterns:**
+- **Safety as the clock-starter:** The clock for effective therapy does not start at the first appointment. It starts when the client achieves environmental safety. u/ElishaAlison saw the same therapist during abuse (no benefit) and after achieving safety (full benefit). u/WeeLittleSloth spent 3 years in therapy while still exposed to the abuser — stalled progress. This reframes the "how long" question: the answer depends on when safety was achieved, not when therapy began.
+- **Endpoint divergence is the central disagreement:** The CPTSD community does not agree on what "healed" means. The spectrum runs from "lifelong management" (u/ZzzzoZzzzo: "no one fully heals") to "identity transformation" (u/msk97: "recovered, therapist-confirmed") to "somatic safety signal" (u/almost-crazy: the nervous system declares the threat is over). These are qualitatively different endpoints and would produce radically different duration estimates.
+- **Modality sequencing:** u/msk97's trajectory (EFT -> IFS -> psychodynamic with the same therapist) suggests that different modalities serve different phases. This challenges both the single-modality assumption of RCTs and the "modality doesn't matter" claim from the common-factors camp. Modality may matter, but sequentially — the right modality at the right phase.
+- **Stage 3 as the hidden duration:** u/cheetosRliife's account of Herman's Stage 3 (reconnection/integration) as the slowest, most transformative, and most invisible phase suggests that a significant portion of healing time happens outside formal therapy and below the threshold of measurable change. This is the sleeper effect from the client's perspective. It also means that therapy outcome studies may terminate measurement too early — before the most important changes have occurred.
+- **The escalation gap inflates duration data:** When clients report "10 years in therapy," a significant portion may be escalation-gap time (cycling through bad-fit therapists, receiving treatment during unsafe conditions). The effective dose may be much shorter than the reported duration. This has major implications for interpreting all duration data in the project.
+- **Forced termination as its own trauma:** u/Mountain-Science4526's loss of a therapist after 10 years and 900+ sessions, and u/xechasate's 1+ year gap before returning to therapy, suggest that sudden loss of a therapeutic relationship produces its own traumatic disruption — a meta-trauma within the healing process.
+
+**Inaccessible sources:**
+- None. All 10 threads were accessible in the _reddit_raw/ directory. However, data quality concerns exist for 2 threads (see Issues above).

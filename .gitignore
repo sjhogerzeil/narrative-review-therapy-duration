@@ -1,5 +1,7 @@
 .DS_Store
 .claude-sessions/
+.env
+.venv/
 
 # Full-text sources (user-provided, large files)
 _fulltext/
