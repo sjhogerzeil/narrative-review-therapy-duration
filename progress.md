@@ -14,6 +14,9 @@ This file is the single source of truth for "where are we?" A fresh session read
 **Phase 1, Layer 1d** — COMPLETE (7/7 annotated, 3 from secondary/abstract)
 **Phase 1, Layer 3** — COMPLETE (11/11, endpoint divergence confirmed)
 **Phase 1, Layer 4** — COMPLETE (10/10, all WebFetched)
+**Phase 1, Layer 5** — COMPLETE (5/5, MyPTSD forum threads)
+**Phase 1, Layer 6** — COMPLETE (5/5, memoirs from reviews)
+**PHASE 1 COMPLETE** — 68 sources across 6 layers. Ready for Phase 2 (extraction).
 
 ## Phase 1: Search & Annotate
 
@@ -26,8 +29,8 @@ This file is the single source of truth for "where are we?" A fresh session read
 | 5 | 1d-neuroscience | **COMPLETE** | 7 | 4 | 3 | 0 | 0 | see README | mechanism not duration |
 | 6 | 3-counterpoint | **COMPLETE** | 11 | 9 | 2 | 0 | 0 | see README | EMDR strongest counterpoint |
 | 7 | 4-practitioner | **COMPLETE** | 10 | 10 | 0 | 0 | 0 | see README | all web sources |
-| 8 | 5-client | not started | 0 | 0 | 0 | 0 | 0 | — | open access |
-| 9 | 6-memoirs | not started | 0 | 0 | 0 | 0 | 0 | — | |
+| 8 | 5-client | **COMPLETE** | 5 | 5 | 0 | 0 | 0 | see README | MyPTSD.com forum threads |
+| 9 | 6-memoirs | **COMPLETE** | 5 | 5 | 0 | 0 | 0 | see README | Foo, Walker, Levine, Anderson, Eger |
 
 ### Waiting for user
 

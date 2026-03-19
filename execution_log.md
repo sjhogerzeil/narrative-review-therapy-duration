@@ -327,3 +327,79 @@ The orchestrator may then:
 
 **Inaccessible sources:**
 - Farina, B., Dimaggio, G., & Mosquera, D. (2025). Commentary on five CPTSD case studies. JCLP. DOI: 10.1002/jclp.23773 -- paywalled, annotated from Scholar Gateway excerpts.
+
+### 2026-03-18 Agent: Layer 6 memoirs — search and annotation (5 sources)
+
+**Task:** Identify and annotate memoirs/autobiographies narrating the full arc of healing from complex developmental trauma. Budget: 5 initial, 8 max.
+
+**Layer/file:** 3_results/sources/6-memoirs/ (5 source files + README updated)
+
+**Sources annotated:**
+1. Foo (2022), *What My Bones Know* — highest value. 8+ years with first therapist, 10+ total, explicit modality-switching, access barriers addressed.
+2. Levine (2024), *An Autobiography of Trauma* — wounded healer; 40+ year arc entangled with SE development.
+3. Walker (2013), *Complex PTSD: From Surviving to Thriving* — hybrid memoir/guide; 40+ years; addresses "reasonable expectations about rate of recovery."
+4. Anderson (2024), *To Be Loved* — IFS developer memoir; identity + sexuality + trauma; multi-decade arc.
+5. Eger (2017), *The Choice* — extreme case: 35 years suppression before processing; ongoing at 90+. (Caveat: Holocaust trauma, not developmental in the narrow sense.)
+
+**Issues identified:**
+- All 5 sources are abstract-only (annotated from reviews, publisher descriptions, interviews). No full text was available for extraction. Specific session frequency data, exact modality timelines, and verbatim quotes are missing across all sources. Foo would benefit most from full-text annotation — she is the richest source for duration, modality-switching, and access data.
+- The "Dina Goldstein" candidate from the methods file could not be identified as a published book. May be confused with a different name.
+- 3 of 5 memoirists are clinician-developers (Levine, Walker, Anderson), creating a "wounded healer" bias in the layer. Their healing trajectories are entangled with professional development in ways that are not generalizable.
+
+**Questions raised:**
+- Should Eger be included? Her trauma is primarily Holocaust-related, not complex developmental trauma in the narrow clinical sense. I included her because the healing trajectory dynamics (suppression, latency, late-onset processing, ongoing healing) are directly relevant to the duration question, but this is a judgment call.
+- Where are the non-clinician memoirs? The search found surprisingly few non-clinician memoirs that explicitly narrate therapeutic healing over time. Most trauma memoirs focus on the abuse narrative and escape/survival, not on the therapy and healing trajectory. This may itself be a finding: memoirs about the therapy process (as opposed to the trauma itself) are rare.
+- The "sleeper effect" — continued change after therapy — is implicitly present in all 5 memoirs but none of them name it explicitly. Eger is the strongest case (35 years of latent processing before therapy even began).
+
+**Suggestions:**
+- Foo deserves full-text annotation. She is the single most relevant source in this layer and may be the most relevant memoir in the entire project.
+- Consider adding a cross-cutting observation about the "memoirable trajectory" bias: people who write memoirs about healing from trauma have, by definition, reached a point of sufficient integration to narrate their story. The memoirs cannot tell us about people who are still in the middle, or who never reached that point.
+- The endpoint convergence across all 5 memoirs (relational/functional, never symptom-free) is striking and should be highlighted in synthesis. Not a single memoirist defines healing as symptom elimination.
+
+**Emerging patterns:**
+- **Endpoint convergence**: All 5 define "healed" relationally/functionally (capacity for connection, self-forgiveness, thriving), never as symptom-free. This is the strongest finding from this layer.
+- **Duration convergence**: All 5 describe decade-plus trajectories. Range: 10+ years (Foo, minimum) to 72 years (Eger). No memoir describes rapid recovery from complex trauma.
+- **Modality-switching as norm, not failure**: Foo is most explicit, but Walker and Levine also describe movement through approaches. Foo reframes "breaking up with therapists" as adaptive developmental moves, not dropout.
+- **The wounded healer pattern**: 3/5 are clinician-developers. This may reflect publication bias (clinicians have platforms) rather than a genuine pattern in healing trajectories.
+- **Access is the invisible variable**: Only Foo addresses it directly ($6,400 pro bono therapy). The other four had extraordinary resources (Harvard training, PhD programs, emigration to the US). The memoir layer systematically underrepresents people without these advantages.
+
+**Inaccessible sources:**
+- All 5 memoir sources are annotated from reviews/descriptions only (access: abstract-only). Full texts would significantly enrich the annotations, especially for Foo.
+
+### 2026-03-19 Agent: Layer 5 client narratives — source stubs and annotation (5 sources)
+
+**Task:** Create and annotate 5 source files for Layer 5 (client narratives) from MyPTSD.com forum threads.
+
+**Layer/file:** 3_results/sources/5-client-narratives/ (5 source files + README updated)
+
+**Sources annotated:**
+1. myptsd-2019-how-long-therapy — Duration range 8 months to 27 years; therapeutic relationship > modality; escalation gap.
+2. myptsd-2024-emdr-cptsd-duration — EMDR clients report YEARS (2-5+), not 8-16 sessions from RCTs. The RCT-reality gap.
+3. myptsd-2021-how-long-therapy-2 — Cyclical/episodic engagement; quality > quantity; therapy as ongoing practice.
+4. myptsd-2020-session-frequency — Frequency is individual (monthly to twice-weekly); attachment shapes frequency; monthly inadequate.
+5. myptsd-2015-cant-afford-therapy — Access as fundamental barrier; forced termination by cost; self-directed healing.
+
+**Issues identified:**
+- All 5 sources are from a single forum (MyPTSD.com). Reddit, Quora, and other platforms not yet searched. This creates a platform bias — MyPTSD may attract a particular demographic (English-speaking, tech-literate, sufficiently stable to engage in online community).
+- Forum threads have no verification mechanism. Reported durations are self-report and may be inaccurate. Some posters appear across multiple threads (Skywatcher, somerandomguy, Friday), creating pseudoreplication.
+- The inclusion criterion "5+ years reflective" was relaxed for shorter accounts (MisterCatLady at 8 months, Chris-duck at 7 months) because they provide useful contrast and newcomer perspective.
+
+**Questions raised:**
+- How should pseudoreplication across threads be handled? Skywatcher and somerandomguy appear in both the EMDR thread and the session frequency thread. Their data should not be double-counted in synthesis.
+- The EMDR thread (myptsd-2024-emdr-cptsd-duration) directly tests the counterpoint RCT claims. Should this be cross-referenced in the counterpoint annotations as a client-perspective test?
+- Should the affordability thread be treated as a methodological note for the entire review (reframing "how long" as "how at all") rather than as a standard source?
+
+**Suggestions:**
+- Reddit threads from r/CPTSD and r/TalkTherapy should be searched next to diversify the platform.
+- The EMDR thread should be cross-referenced in the counterpoint README — it is the strongest client-perspective evidence that the RCT durations are not generalizable.
+- Consider a dedicated cross-cutting note on the RCT-reality gap: the counterpoint says 8-16 sessions; the clients say years; the truth likely involves different populations, different protocols, and different endpoints.
+
+**Emerging patterns:**
+- **The RCT-reality gap:** Even clients who endorse EMDR as effective report treatment durations of YEARS, not the 8-16 sessions from RCTs (Voorendonk 2020, de Jongh 2024). The gap is not about whether EMDR works — it does — but about what "working" means in the context of complex, layered trauma vs. single-incident PTSD. The RCTs select, control, and compress; real life is layered, interrupted, and extended. This is the single most important finding from the client layer.
+- **The cyclical/episodic pattern:** Multiple posters across threads describe on-off engagement — intensive phases followed by self-managed periods, with anticipated future re-engagement. Friday's description matches Blue Knot's "continuously or episodically." This is not dropout; it is adaptive engagement with a chronic-cyclical condition. The clinical literature largely treats this as non-compliance; the clients experience it as responsive self-management.
+- **Therapeutic relationship > modality:** Consistent across all 5 threads. Posters who have tried multiple modalities and therapists consistently attribute progress to the relational match, not to the technique. This aligns with the common-factors literature and with the practitioner layer. It also complicates the counterpoint: if relationship is the mechanism, then the modality-specific duration claims (EMDR in 8 sessions, ISTDP in 20) may be measuring the wrong variable.
+- **Frequency is individual, not prescriptive:** The session frequency thread produces no consensus. Monthly is too little, twice-weekly is too much for some and essential for others, and the "right" frequency is shaped by attachment dynamics as much as by clinical need. This challenges any dose-response model that assumes a standard frequency.
+- **Access as the invisible variable:** The affordability thread reframes the entire review. The duration literature assumes treatment is accessible. For many with complex trauma, it is not. Sugnim's "I cannot afford therapy" is the data point the academic literature cannot capture. The Albatross's self-directed healing challenges the therapy-centrism of the review itself. Any synthesis must acknowledge that the "how long" question is a privilege — it assumes the "if at all" question has been answered.
+
+**Inaccessible sources:**
+- None. All 5 forum threads were fully accessible.

@@ -22,6 +22,10 @@ First-person accounts from people in long-term therapy for complex trauma. The l
 - "what actually helped" trauma recovery not just therapy [added 2026-03-18, therapy-vs-life construct]
 - continued improving after therapy ended CPTSD [added 2026-03-18, sleeper effect construct]
 - EMDR didn't work complex trauma tried something else [added 2026-03-18, endpoint divergence — client perspective on modality-switching]
+- EMDR not enough CPTSD needed more therapy [added 2026-03-18, Farina resolution — who benefits from accelerated?]
+- what does healed mean trauma recovery CPTSD [added 2026-03-18, endpoint divergence — lived experience]
+- identity changed through therapy trauma [added 2026-03-18, identity dimension from L4]
+- can't afford long-term therapy CPTSD cost [added 2026-03-18, access silence]
 
 ## Sources
 

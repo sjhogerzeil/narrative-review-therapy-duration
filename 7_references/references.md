@@ -2,7 +2,7 @@
 section: references
 description: Complete bibliography in APA 7 format — all cited sources across all layers, alphabetically ordered
 status: auto-generated
-last_synced: 2026-03-18
+last_synced: 2026-03-19
 ---
 
 # References
@@ -10,6 +10,8 @@ last_synced: 2026-03-18
 "Abbass, A. A., Kisely, S. R., Town, J. M., Leichsenring, F., Driessen, E., De Maat, S., Gerber, A., Dekker, J., Rabung, S., Rusalovska, S., & Crowe, E. (2014). Short-term psychodynamic psychotherapies for common mental disorders. *Cochrane Database of Systematic Reviews*, *2014*(7), CD004687. https://doi.org/10.1002/14651858.CD004687.pub4"
 
 "Alpern, P. (2025, December). The truth about complex trauma. *The Trauma Therapist's Notebook* (Substack). https://traumajournal.substack.com/p/the-truth-about-complex-trauma"
+
+"Anderson, F. G. (2024). *To be loved: A story of truth, trauma, and transformation*. PESI Publishing."
 
 "Auer, L. (n.d.). Traumalescence: A trauma therapist's new word for the pattern no one's talking about. *Your Trauma Therapist* (Substack). https://mytherapist.substack.com/p/traumalescence-a-trauma-therapists"
 
@@ -31,6 +33,8 @@ last_synced: 2026-03-18
 
 "de Jongh, A., Roos, C., & El-Leithy, S. (2024). State of the science: Eye movement desensitization and reprocessing (EMDR) therapy. Journal of Traumatic Stress, 37(2), 205-216. https://doi.org/10.1002/jts.23012"
 
+"Eger, E. E. (2017). *The choice: Embrace the possible*. Scribner."
+
 "Farina, B., Dimaggio, G., & Mosquera, D. (2025). Common elements and differences among treatment approaches to complex post-traumatic stress disorder: A commentary on five case studies. Journal of Clinical Psychology, 81(5), 379-386. https://doi.org/10.1002/jclp.23773"
 
 "Feder, A., Brown, O., Rutter, S. B., Cahn, L., Overbey, J. R., Seeley, S., ... & Murrough, J. W. (2025). Combining ketamine infusions and written exposure therapy for chronic PTSD: An open-label trial. Journal of Clinical Psychiatry, 86(2), 24m15622. https://doi.org/10.4088/JCP.24m15622"
@@ -40,6 +44,8 @@ last_synced: 2026-03-18
 "Fonagy, P., Gergely, G., Jurist, E. L., & Target, M. (2002). *Affect regulation, mentalization, and the development of the self*. Other Press."
 
 "Fonagy, P., Rost, F., Carlyle, J.-A., McPherson, S., Thomas, R., Pasco Fearon, R. M., Goldberg, D., & Taylor, D. (2015). Pragmatic randomized controlled trial of long-term psychoanalytic psychotherapy for treatment-resistant depression: the Tavistock Adult Depression Study (TADS). *World Psychiatry*, *14*(3), 312–321. https://doi.org/10.1002/wps.20267"
+
+"Foo, S. (2022). *What my bones know: A memoir of healing from complex trauma*. Ballantine Books."
 
 "Freixo Ferreira, L., Guerra, C., & Vieira-Coelho, M. A. (2023). Predictors of psychotherapy dropout in patients with borderline personality disorder: A systematic review. *Clinical Psychology & Psychotherapy*, *30*(6), 1324–1337. https://doi.org/10.1002/cpp.2888"
 
@@ -73,6 +79,8 @@ last_synced: 2026-03-18
 
 "Leichsenring, F., Abbass, A., Luyten, P., Hilsenroth, M., & Rabung, S. (2013). The emerging evidence for long-term psychodynamic therapy. *Psychodynamic Psychiatry*, *41*(3), 361–384. https://doi.org/10.1521/pdps.2013.41.3.361"
 
+"Levine, P. A. (2024). *An autobiography of trauma: A healing journey*. Park Street Press."
+
 "Lilliengren, P., Johansson, R., Town, J. M., Kisely, S., & Abbass, A. (2017). Intensive Short-Term Dynamic Psychotherapy for generalized anxiety disorder: A pilot effectiveness and process-outcome study. Clinical Psychology & Psychotherapy, 2017, 1-9. https://doi.org/10.1002/cpp.2101"
 
 "Lilliengren, P., Mechler, J., Lindqvist, K., Maroti, D., & Johansson, R. (2025). The efficacy of experiential dynamic therapies: A 10-year systematic review and meta-analysis update. Clinical Psychology & Psychotherapy, 32(3). https://doi.org/10.1002/cpp.70086"
@@ -86,6 +94,16 @@ last_synced: 2026-03-18
 "Murphy, D. (2009). Client-centred therapy for severe childhood abuse: A case study. *Counselling and Psychotherapy Research*, *9*(1), 3–10. https://doi.org/10.1080/14733140802655992"
 
 "Murphy, D., Elliott, R., & Carrick, L. (2019). Identifying and developing therapeutic principles for trauma-focused work in person-centred and emotion-focused therapies. *Counselling and Psychotherapy Research*, *19*(4), 497–507. https://doi.org/10.1002/capr.12235"
+
+"MyPTSD Forum. (2015). Unable to afford therapy. [Online forum thread]. https://www.myptsd.com/threads/unable-to-afford-therapy.57989/"
+
+"MyPTSD Forum. (2019). Curious: How long have you been in therapy? [Online forum thread]. https://www.myptsd.com/threads/curious-how-long-have-you-been-in-therapy.68225/"
+
+"MyPTSD Forum. (2020). How often do you see your therapist? [Online forum thread]. https://www.myptsd.com/threads/how-often-do-you-see-your-therapist.95213/"
+
+"MyPTSD Forum. (2021). How long were you in therapy? [Online forum thread]. https://www.myptsd.com/threads/how-long-were-you-in-therapy.87861/"
+
+"MyPTSD Forum. (2024). Did EMDR largely resolve your CPTSD, and if so, how long did it take? [Online forum thread]. https://www.myptsd.com/threads/did-emdr-largely-resolve-your-cptsd-and-if-so-how-long-did-it-take.97132/"
 
 "Paris, J. (2020). Access to psychotherapy for patients with personality disorders. *Personality and Mental Health*, *14*(3), 246–253. https://doi.org/10.1002/pmh.1483"
 
@@ -112,6 +130,8 @@ last_synced: 2026-03-18
 "Steele, K., van der Hart, O., & Nijenhuis, E. R. S. (2005). Phase-oriented treatment of structural dissociation in complex traumatization: Overcoming trauma-related phobias. *Journal of Trauma & Dissociation*, *6*(3), 11–53. https://doi.org/10.1300/J229v06n03_02"
 
 "Van der Hart, O., Nijenhuis, E. R. S., & Steele, K. (2006). *The haunted self: Structural dissociation and the treatment of chronic traumatization*. Norton."
+
+"Walker, P. (2013). *Complex PTSD: From surviving to thriving: A guide and map for recovering from childhood trauma*. Azure Coyote."
 
 "Winnicott, D. W. (1965). *The maturational processes and the facilitating environment*. Hogarth Press."
 
