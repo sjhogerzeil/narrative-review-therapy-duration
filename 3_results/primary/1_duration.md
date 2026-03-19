@@ -72,6 +72,18 @@ Data extracted from source annotations. Each entry references the source ID.
 | eger_2017_the_choice | 6 | Holocaust/complex trauma | 35 years before beginning full processing; healing described as ongoing at 90+ | decades | structural |
 | anderson_2024_to_be_loved | 6 | Childhood abuse | Multi-decade trajectory; "everlasting healing journey" | decades | structural |
 
+<!-- Reddit threads added 2026-03-19 -->
+| reddit-2023-how-long-in-therapy | 5 | CPTSD | 2-13+ years across posters; several frame as lifelong | years | implicit (lifelong maintenance) |
+| reddit-2024-what-feels-like-after | 5 | CPTSD | 11 years (5 behavioural + 6 emotional healing) | years | structural |
+| reddit-2023-fully-healed-how-long | 5 | CPTSD | 3.5 years (fastest "full healing" claim) to lifelong management | years | mixed |
+| reddit-2025-full-cure-how-long | 5 | CPTSD | Years of self-reflection + 1-week EMDR intensive; weeks of AI-assisted processing | mixed | mixed |
+| reddit-2023-7-therapists-average | 5 | CPTSD | Implicit — years lost in escalation gap (1-30+ therapists cycled) | implicit | implicit |
+| reddit-2021-cant-heal-while-surviving | 5 | CPTSD | 3+ years (OP, stalled by ongoing exposure); "many many years" (u/Senior_Octopus) | years | implicit |
+| reddit-2021-how-long-after-therapy-feel | 5 | CPTSD | 1 month (OP, in crisis); 15+ years of suppression before therapy | years | implicit |
+| reddit-2024-recovered-cptsd | 5 | CPTSD | 5 years weekly/biweekly (EFT -> IFS -> psychodynamic); therapist-confirmed recovered | both | structural |
+| reddit-2025-stages-healing-stage3 | 5 | Trauma | Stage 3 described as "painfully slow" — longest phase; overall duration not specified | implicit | structural |
+| reddit-2024-10-years-900-appointments | 5 | Long-term therapy | 5-15 years across posters; 900+ sessions (OP, twice weekly for 10 years) | both | not-defined |
+
 ## Duration estimates by layer
 
 ### Layer 1: Academic and clinical literature

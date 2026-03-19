@@ -44,6 +44,11 @@ If the sleeper effect is real, then:
 
 The sleeper effect appears most consistently in psychodynamic/psychoanalytic treatments (TADS, Munich, Helsinki, Shedler review, MBT, EDT meta-analysis, PAT vs CBT). Short-term psychodynamic therapy (Abbass 2014) shows the opposite pattern — gains that diminish. This suggests the sleeper effect may require a minimum dose or a specific type of therapeutic work (structural/relational rather than symptom-focused) to activate. The counterpoint sources (EMDR, MDMA, ketamine) show maintenance of gains but not the progressive improvement pattern characteristic of the sleeper effect.
 
+<!-- Reddit threads added 2026-03-19 -->
+| reddit-2025-stages-healing-stage3 | Stage 3 (reconnection/integration) described as feeling like "nothing was happening above ground" while deep structural change occurs. The sleeper effect experienced from the inside. Post-therapy tools are applied in life, not sessions | Stage 3 = longest phase; self-directed; change invisible during process |
+| reddit-2024-recovered-cptsd | "Huge positive shifts in my life in many areas" in the final year — acceleration/consolidation in late-stage recovery. MDMA session and somatic massage added in final year may have catalysed this | Final year of 5-year trajectory shows accelerating gains |
+| reddit-2024-what-feels-like-after | u/Longjumping_Cry709: first 5 years were behavioural/external changes; emotional healing only began after — suggesting the earlier period was setting conditions for later transformation | Emotional healing emerged AFTER behavioural stabilisation was complete |
+
 ## Questions for synthesis
 
 - Is the sleeper effect specific to psychodynamic/psychoanalytic therapy, or does it occur with other modalities?

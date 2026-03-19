@@ -65,6 +65,15 @@ status: draft
 | anderson_2024_to_be_loved | 6 | Capacity for love — both giving and receiving; "everlasting healing journey" | Multi-decade; ongoing |
 | levine_2024_autobiography_of_trauma | 6 | "Wounded healer" integration — trauma becomes source of professional purpose | 40+ years |
 
+<!-- Reddit threads added 2026-03-19 -->
+| reddit-2023-how-long-in-therapy | 5 | Lifelong maintenance: "like going to the gym, but for your mental health"; no endpoint conceptualised | Open-ended (lifelong) |
+| reddit-2024-what-feels-like-after | 5 | Identity-level: "deeper connection to my true Self," "more authenticity," "living with more integrity, aligned with my values" | 11+ years and "still have a long way to go" |
+| reddit-2023-fully-healed-how-long | 5 | Split: u/ZzzzoZzzzo: "no one fully heals — you learn to manage"; u/ElishaAlison: cessation of nightmares, elimination of negative inner monologue, development of secure attachment | Management: lifelong; Full healing: 3.5 years (post-safety) |
+| reddit-2025-full-cure-how-long | 5 | OP distinguishes functional coping from somatic "safety signal that calmed the entire system down" — two levels of recovery | Functional: years; Somatic safety signal: unknown |
+| reddit-2024-recovered-cptsd | 5 | Therapist-confirmed via assessment tools: no longer meets diagnostic criteria; triggers managed without conscious effort; "all the work no longer feels like work, but part of who I am" | 5 years |
+| reddit-2025-stages-healing-stage3 | 5 | Identity integration: "I feel stronger and more myself"; emergence of post-traumatic growth (desire to witness others) | Stage 3 = longest phase; no specific timeline |
+| reddit-2024-10-years-900-appointments | 5 | Not defined — therapy had no planned endpoint; terminated by therapist death | Open-ended (10+ years, ongoing) |
+
 ## The endpoint IS the answer
 
 The most striking finding across the data: **the reported duration is almost entirely determined by the definition of the endpoint.** When healing is defined as symptom reduction (loss of diagnosis, score below clinical threshold), the evidence supports weeks to months. When healing is defined as structural change (personality integration, mentalizing capacity, earned security, relational capacity), the evidence supports years to decades.

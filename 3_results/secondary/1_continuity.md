@@ -49,3 +49,14 @@ Two distinct patterns emerge:
 2. **Layers 4-6 (practitioner, client, memoir) normalise episodic engagement** — Blue Knot explicitly endorses "continuously or episodically"; client narratives describe cyclical patterns as the norm; memoirs reveal decade-spanning trajectories with long pauses. The Blue Knot formulation may be the most clinically honest: the question is not whether interruptions occur but whether they are harmful.
 
 The key distinction is between **forced interruption** (financial, institutional) and **developmental interruption** (the patient has consolidated enough to take a break and returns when ready). The former is a system failure; the latter may be a feature of healthy recovery.
+
+<!-- Reddit threads added 2026-03-19 -->
+| reddit-2023-how-long-in-therapy | 5 | u/pottheplant: childhood therapy, break, then 4 years adult therapy. u/mauiwowie__: 7 years "straight." Mixed — some continuous, some with breaks. No breaks described as therapeutically designed | Mixed |
+| reddit-2024-what-feels-like-after | 5 | 11-year timeline implies sustained engagement with multiple modalities — not a single bounded treatment episode | Supports continuity |
+| reddit-2023-fully-healed-how-long | 5 | u/ElishaAlison: two phases with same therapist — ineffective during abuse, then productive 3.5 years post-safety. Interruption was situational (safety), not therapeutic | Mixed |
+| reddit-2025-full-cure-how-long | 5 | u/Dapper_Banana6323: years of self-reflection followed by 1-week EMDR intensive — episodic with high-dose burst | Supports interruption |
+| reddit-2023-7-therapists-average | 5 | Cycling through therapists produces serial interruptions; each switch breaks the relationship. u/Thr0wnF4rAw4y: lifetime therapy but only recent serious engagement | Mixed |
+| reddit-2021-cant-heal-while-surviving | 5 | OP: 3 continuous years of counselling. But therapy without safety is a form of interrupted healing — process repeatedly disrupted by reactivation | Mixed |
+| reddit-2024-recovered-cptsd | 5 | 5 years continuous weekly/biweekly with same therapist. No reported breaks. Sustained, uninterrupted engagement | Supports continuity |
+| reddit-2025-stages-healing-stage3 | 5 | Phases flow into each other; Stage 3 involves reduced formal therapy ("I had already done the therapy work") — tapering while self-directed work intensifies | Mixed |
+| reddit-2024-10-years-900-appointments | 5 | 10 years twice-weekly — most sustained continuous engagement in Reddit corpus. Terminated by therapist death (forced), not chosen | Supports continuity |

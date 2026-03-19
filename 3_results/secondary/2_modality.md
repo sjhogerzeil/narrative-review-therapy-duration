@@ -62,3 +62,12 @@ The evidence converges on **multiple modalities within or across treatment**, wi
 4. **Single modality** (Murphy PCT, Kohut, EMDR counterpoints): these tend to be either very specific populations or deliberately single-modality studies
 
 The neuroscience sources (Lanius, Perry, Teicher) provide the strongest theoretical argument for multiple modalities: multi-system disruption requires multi-system intervention.
+
+<!-- Reddit threads added 2026-03-19 -->
+| reddit-2023-how-long-in-therapy | 5 | u/Eavalin: EMDR + other. Most posters do not specify modality — not the frame they think in | Multiple (u/Eavalin); Not addressed (most) |
+| reddit-2024-what-feels-like-after | 5 | Counselling, ACA (12-step), inner child work, meditation, body scans, mindfulness. Multi-modal, multi-context | Multiple (concurrent + sequential) |
+| reddit-2023-fully-healed-how-long | 5 | u/ElishaAlison: talk therapy only — "I had no other choice" (Medicaid). Full healing from single modality, but embedded in broader life change | Single |
+| reddit-2025-full-cure-how-long | 5 | u/Dapper_Banana6323: Wellbutrin (pharmacological) + self-reflection (narrative) + 1-week EMDR intensive (processing). Sequential, not concurrent; each served different function | Multiple (sequential) |
+| reddit-2023-7-therapists-average | 5 | u/Thr0wnF4rAw4y sought IFS specifically after learning about it on Reddit. Most posters: modality secondary to relational fit | Multiple (knowledge-driven search) |
+| reddit-2024-recovered-cptsd | 5 | Three sequential modalities with same therapist: EFT (yr 1) → IFS (yrs 2-4) → psychodynamic (yr 5). Plus MDMA (MAPS protocol), somatic massage (9 months). Multi-modal and sequential | Multiple (sequential within one relationship) |
+| reddit-2025-stages-healing-stage3 | 5 | Modality less relevant in Stage 3 — work is self-directed integration, not technique-driven processing | Not addressed |

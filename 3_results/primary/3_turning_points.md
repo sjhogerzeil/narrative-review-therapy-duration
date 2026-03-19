@@ -75,3 +75,31 @@ status: draft
 **joseph-2012-ptg-model** — Shift from assimilation ("I want to be back to my old self") to accommodation (modifying the assumptive world). This cognitive shift is the mechanism of post-traumatic growth.
 
 **walker_2013_complex_ptsd** — Identifying the four F responses (fight, flight, freeze, fawn) as trauma-driven rather than personality. The conceptual framework provided by Walker enabled self-understanding.
+
+<!-- Reddit threads added 2026-03-19 -->
+
+### Safety as turning point
+
+**reddit-2023-fully-healed-how-long** — u/ElishaAlison saw the same therapist during active abuse and "got nothing out of it." Upon achieving safety (safe partner, leaving abusive environment), the same therapy became transformative. Safety was the turning point, not modality or technique.
+
+**reddit-2021-cant-heal-while-surviving** — OP's epiphany after 3 years of counselling: ongoing exposure to narcissistic mother (even indirect, through father's reports) was "stunting my progress." Environmental change as the decisive shift. u/Senior_Octopus: suicidality lifted upon moving countries.
+
+### Decompensation as turning point
+
+**reddit-2023-fully-healed-how-long** — u/ElishaAlison's decompensation upon achieving safety: "I lost my mind" — panic attacks, nightmares, terror requiring inpatient treatment. The nervous system "unfreezing" when safe. Crisis fast-tracked entry into effective therapy.
+
+**reddit-2021-how-long-after-therapy-feel** — OP at 1 month: 15+ years of suppressed symptoms erupted upon starting therapy. Recovered memory of mother saying "she never loved me." The exacerbation itself is a turning point — surfacing what was hidden.
+
+### Modality shifts
+
+**reddit-2025-full-cure-how-long** — u/Dapper_Banana6323: Wellbutrin provided cognitive clarity that enabled systematic self-reflection, which then enabled readiness for 1-week EMDR intensive. Sequential modality shifts, each enabling the next.
+
+**reddit-2024-recovered-cptsd** — u/msk97: same therapist shifted from EFT (yr 1) to IFS (yrs 2-4) to psychodynamic (yr 5). MAPS protocol MDMA session and somatic massage in final year. Modality adaptation within one relationship as turning point.
+
+### Phase transitions
+
+**reddit-2025-stages-healing-stage3** — Transition from Stage 2 ("huge dam bursting") to Stage 3 ("first tender shoots after a forest fire"). Stage 4 (post-traumatic growth) emerged as a "calling" — not a decision but an emergence.
+
+### Relational match
+
+**reddit-2023-7-therapists-average** — Finding "the right therapist" after cycling through 1-30+ as decisive turning point. u/Thr0wnF4rAw4y: 20-30 therapists over lifetime, then found "AMAZING" IFS therapist. u/tamae24: assigned therapist who happened to fit — "saved my life."

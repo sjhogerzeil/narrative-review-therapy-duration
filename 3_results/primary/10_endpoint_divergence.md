@@ -61,6 +61,16 @@ The thesis "healing takes years" is true at the structural/growth level and fals
 | walker_2013_complex_ptsd | 6 | "Surviving to thriving" | Growth/reconnection | 40+ years | Personal healing arc spans decades |
 | eger_2017_the_choice | 6 | Self-forgiveness, capacity to embrace life | Growth/reconnection | 35+ years latency, then ongoing | 35 years before processing began; healing still ongoing at 90+ |
 
+<!-- Reddit threads added 2026-03-19 -->
+| reddit-2023-how-long-in-therapy | 5 | Lifelong maintenance ("like going to the gym") | Open-ended | Lifelong | Most posters explicitly reject the concept of an endpoint |
+| reddit-2023-fully-healed-how-long | 5 | Split: management vs. cure. u/ZzzzoZzzzo: "learn to manage"; u/ElishaAlison: cessation of nightmares, secure attachment, no fear | Mixed | Management: lifelong; Cure: 3.5 years | Thread IS the endpoint divergence — community has no consensus on what healing means |
+| reddit-2025-full-cure-how-long | 5 | OP distinguishes functional coping from somatic "safety signal that calmed the entire system" | Mixed (symptom + structural) | Functional: years; Somatic: unknown | Most sophisticated endpoint distinction in Reddit corpus — implies many "recovered" people reached functional plateau but not nervous-system resolution |
+| reddit-2024-what-feels-like-after | 5 | Identity-level: "deeper connection to true Self," "authenticity," "integrity" | Growth/reconnection | 11+ years, ongoing | Changes are identity shifts, not symptom reductions |
+| reddit-2024-recovered-cptsd | 5 | Assessment-confirmed: no longer meets diagnostic criteria; triggers managed without conscious effort; "part of who I am" | Structural change | 5 years | Most precise definition in Reddit corpus — structural/identity-level, not just symptom elimination |
+| reddit-2025-stages-healing-stage3 | 5 | Identity integration: "stronger and more myself"; emergence of post-traumatic growth | Growth/reconnection | Longest phase; no timeline | Stage 4 (PTG) as further endpoint beyond integration |
+| reddit-2024-10-years-900-appointments | 5 | Not defined; therapy had no planned endpoint | Not-defined | Open-ended (10+ years) | Therapy as ongoing relational practice, not bounded treatment |
+| reddit-2021-how-long-after-therapy-feel | 5 | OP's implicit endpoint: "normal" and "happy." Commenter reframes: "compassionate observation" | Mixed | Early in process | Gap between external-life benchmarks (OP) and process-oriented endpoints (commenter) |
+
 ## The endpoint question as a finding
 
 The question "what counts as healed?" is not a methodological footnote — it is the central finding of this review. The answer to "how long does it take?" is: "it depends on what you mean by healing."

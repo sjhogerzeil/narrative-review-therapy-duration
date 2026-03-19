@@ -87,3 +87,31 @@ status: draft
 **myptsd-2019-how-long-therapy** — Multiple posters independently report that years of unhelpful therapy were followed by rapid progress once the relational fit was right. "Three months of my last therapy was more helpful than many years of previous therapy" (myptsd-2021-how-long-therapy-2).
 
 **Why this matters:** Duration may be an artefact of fit. If the first years are "wasted" on poor matches, reported durations overestimate the actual time needed when the match is right. The thesis may be conflating "it takes years to heal" with "it takes years to find the right therapist."
+
+<!-- Reddit threads added 2026-03-19 -->
+
+## 13. Internalised shame about therapy duration — clients worry they are "too slow"
+
+**reddit-2023-how-long-in-therapy** — OP (u/Pluto0x0) in year 2-3 of therapy worries about being "too long." Community overwhelmingly responds that years is normal. The OP's anxiety about pace is itself evidence of internalised brief-therapy norms.
+
+**Why this matters:** The RCT-reality gap is not just a researcher's observation — clients feel it as personal shame. The mismatch between expected timelines (months) and lived timelines (years) produces suffering on top of the original condition.
+
+## 14. Same therapist, same modality — different outcome when safe vs. unsafe
+
+**reddit-2023-fully-healed-how-long** — u/ElishaAlison saw the same therapist during active abuse and "got nothing out of it." Same therapist, post-safety: full healing in 3.5 years.
+
+**reddit-2021-cant-heal-while-surviving** — OP had 3 years of counselling with a good therapist but ongoing exposure to narcissistic mother through father's reports. Progress stalled until environmental trigger removed.
+
+**Why this matters:** The variable was not the therapist or the therapy — it was safety. This challenges the entire framework of measuring therapy effectiveness by modality, dose, or technique. The most important variable may be outside the therapy room entirely.
+
+## 15. AI-assisted self-therapy is emerging as an unvalidated modality
+
+**reddit-2025-full-cure-how-long** — u/Icy-Birthday-6864 reports using ChatGPT for trauma processing with "every day gets better." u/cjaccardi questions whether this is therapy or suppression.
+
+**Why this matters:** A novel finding that may warrant future monitoring. If AI-assisted self-processing becomes widespread, it challenges the assumption that a human therapeutic relationship is necessary.
+
+## 16. People who heal leave online communities — creating the illusion that nobody heals
+
+**reddit-2023-fully-healed-how-long** — u/ElishaAlison: "Maybe, just maybe, the majority of people who heal leave these places, and so it looks, on the surface, like no one heals from this."
+
+**Why this matters:** This is a meta-observation about all forum-based data in Layer 5. Online CPTSD communities over-represent those still struggling and under-represent those who have recovered. This selection effect makes healing appear rarer and slower than it may actually be.

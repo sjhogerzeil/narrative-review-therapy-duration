@@ -47,6 +47,12 @@ Howard's dose-effect model (Layer 2) measures sessions. These developmental mech
 | farina-2025-rapid-rare | 3 | Suggests "different underlying structures" — some patients have more "capacities for adaptive information processing" | Complicates: patients with greater pre-existing developmental capacity may not require full developmental mechanism |
 | foo_2022_what_my_bones_know | 6 | 8 years before diagnosis; modality-switching as developmental progression; relational repair with Dr. Ham as turning point | Confirms: the lived trajectory recapitulates the developmental model — trust, diagnosis, repair, integration over years |
 
+<!-- Reddit threads added 2026-03-19 -->
+| reddit-2024-what-feels-like-after | 5 | 5 years behavioural change → 6 years emotional healing; organic phased process recapitulating Herman's model without knowledge of it | Confirms: lived trajectory follows developmental logic — external restructuring before internal processing |
+| reddit-2024-recovered-cptsd | 5 | Same therapist adapted modality across 5 years (EFT → IFS → psychodynamic); shame work as final frontier; identity integration as endpoint | Confirms: modality sequencing reflects developmental needs; structural change (identity) requires years of repeated relational cycles |
+| reddit-2025-stages-healing-stage3 | 5 | Stage 3 integration described as internal, self-directed, slow root-building; "nothing happening above ground" while structural change occurs underground | Confirms: the mechanism is inherently temporal; the most transformative phase may involve fewest sessions but most elapsed time |
+| reddit-2021-cant-heal-while-surviving | 5 | Safety as absolute prerequisite — therapy cannot produce structural change while environment is actively traumatising | Confirms: the developmental mechanism requires safety as precondition; biology cannot reorganise under active threat |
+
 ## Implications for the thesis
 
 The convergence across independent traditions is the review's strongest theoretical argument: multiple traditions, using different concepts and methods, arrive at the same conclusion about why deep change takes years. The probability that this convergence is coincidental is low.

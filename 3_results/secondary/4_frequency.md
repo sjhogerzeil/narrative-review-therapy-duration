@@ -48,3 +48,9 @@ status: draft
 4. **Client experience reveals that frequency is entangled with attachment.** The myptsd-2020-session-frequency thread shows that frequency decisions are shaped by attachment dynamics (reducing frequency triggers attachment anxiety) and access constraints (pro bono = monthly = "pure hell"), not by clinical protocol.
 
 5. **Elapsed time appears to contribute independently of dose.** The sleeper effect (Fonagy 2015, Shedler 2010, Zimmermann 2014, Bateman 2008) shows improvement AFTER treatment ends — suggesting that what happens between and after sessions matters as much as what happens during them.
+
+<!-- Reddit threads added 2026-03-19 -->
+| reddit-2023-how-long-in-therapy | 5 | u/pottheplant: weekly or biweekly. u/Eavalin: regular (implied). Most posters do not specify | Not specified for most |
+| reddit-2024-recovered-cptsd | 5 | Weekly to biweekly for 5 years | 5 years | ~200-260 sessions (estimated) |
+| reddit-2024-10-years-900-appointments | 5 | Twice weekly for 10 years | 10 years | 900+ sessions — highest frequency sustained over longest duration in Reddit corpus |
+| reddit-2025-full-cure-how-long | 5 | EMDR intensive: multiple sessions daily over 1 week — compressed high-dose format. Before that: self-directed, ongoing | 1 week (intensive) + years (self-reflection) | 36 memories processed in 1 week |

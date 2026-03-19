@@ -52,3 +52,10 @@ Two models coexist:
 The exception that illuminates the rule: **Fonagy's mentalization model** does not require a single therapist because mentalization develops through being mentalized — which any attuned therapist can provide. This contrasts sharply with Kohut's model, where the selfobject transference is person-specific.
 
 **Clinical implication:** The one-therapist ideal may be theoretically correct but practically unattainable over multi-year trajectories. The question becomes: how to manage transitions so that accumulated relational learning is preserved rather than lost.
+
+<!-- Reddit threads added 2026-03-19 -->
+| reddit-2023-how-long-in-therapy | 5 | u/mauiwowie__ suggests switching therapists can be productive for "new perspectives." u/BS-MakesMeSneeze implies past therapists were "unequipped" | Several (cycling normalised) |
+| reddit-2023-7-therapists-average | 5 | Central topic: 1-30+ therapists cycled. u/ElishaAlison: 1 (Medicaid, no choice) — same therapist worked once safe. u/tamae24: 1 (assigned, lucky fit). u/Mara355: 12 | Several → one (escalation gap) |
+| reddit-2023-fully-healed-how-long | 5 | u/ElishaAlison: one therapist, constrained by Medicaid (only one female, one male available). Transformative, but only in context of safety | One (access-constrained) |
+| reddit-2024-recovered-cptsd | 5 | One primary therapist for all 5 years, using three different modalities. Somatic massage therapist as adjunct. MDMA session with separate facilitator. One-therapist model with adjunct providers | One (primary) + several (adjunct) |
+| reddit-2024-10-years-900-appointments | 5 | One therapist for 10 years (OP). u/debzies97: one therapist for 15 years (age 13-28). One-therapist model at its deepest expression | One |

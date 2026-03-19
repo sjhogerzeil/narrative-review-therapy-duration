@@ -50,3 +50,8 @@ The pattern of reporting is itself a finding:
 5. **Exposure without relational foundation increases dropout** (Murphy 2019, citing Cloitre 2010): Supports the phase model argument that stabilisation must precede processing.
 
 6. **The overall field does not track who leaves.** Most treatment outcome studies in the complex trauma literature do not report dropout rates, making it impossible to know how representative their results are.
+
+<!-- Reddit threads added 2026-03-19 -->
+| reddit-2021-how-long-after-therapy-feel | 5 | No formal rate; OP at dropout-risk moment | N/A | 1 month of CPTSD therapy; severe symptom exacerbation (flashbacks, dissociation, panic). "I'm loosing it" — on the edge of giving up. If they leave, counted as dropout but therapy may be working (surfacing suppressed material) | No |
+| reddit-2023-7-therapists-average | 5 | Implicit — cycling through therapists as serial dropout/restart | Range: 1-30+ therapists | u/NeonWitchMerlin: forced non-dropout — staying with harmful therapist (racism, bigotry) due to sunk cost and lack of alternatives. Inverse of dropout: forced continuation in harmful treatment | No |
+| reddit-2021-cant-heal-while-surviving | 5 | No formal rate | N/A | Thread implies "false non-dropout": people who stay in therapy for years without progress because environmental barrier unaddressed. Look like persistent patients but therapy is not producing healing | No |

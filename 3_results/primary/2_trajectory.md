@@ -110,6 +110,28 @@ status: draft
 
 **eger_2017_the_choice** — 35 years of suppression before processing began. Physical return to Auschwitz as turning point. Healing described as ongoing at 90+. Four-stage structure: Prison -> Escape -> Freedom -> Healing.
 
+<!-- Reddit threads added 2026-03-19 -->
+
+**reddit-2023-how-long-in-therapy** — Early years are "extremely rough" (u/mauiwowie__: first 4-5 years rough); benefits appear only after sustained engagement. Therapy framed as ongoing maintenance ("like going to the gym"). Without regular sessions, symptoms actively return within a month (u/Eavalin).
+
+**reddit-2024-what-feels-like-after** — Two-phase trajectory (u/Longjumping_Cry709): 5 years behavioural change (sobriety, leaving marriage, going NC), then 6 years emotional healing (inner child work, grieving). Maps onto Herman's phases organically — not planned.
+
+**reddit-2023-fully-healed-how-long** — u/ElishaAlison: 34 years trauma → achieving safety → complete decompensation ("I lost my mind") → 3.5 years talk therapy → cessation of nightmares, secure attachment. Safety was the rate-limiting factor; the clock starts at safety, not at first appointment.
+
+**reddit-2025-full-cure-how-long** — u/Dapper_Banana6323: years of cognitive self-reflection → 1-week EMDR intensive (36 memories). Preparation phase was self-directed; processing phase was compressed high-dose burst.
+
+**reddit-2023-7-therapists-average** — Escalation gap pattern: 1-30+ therapists cycled before finding effective match. Years of "therapy" spent in the escalation gap are not productive healing time. Effective dose starts when match is made.
+
+**reddit-2021-cant-heal-while-surviving** — Stalled trajectories: years of therapy insufficient when environment remains unsafe. Dramatic improvement upon environmental change (moving, going NC). Safety change, not therapeutic technique, was the decisive shift.
+
+**reddit-2021-how-long-after-therapy-feel** — Spiral trajectory: "not a straight line, more like a sort of spiral that sometimes intersects back on itself." Progress invisible during process, visible only in retrospect. The OP at 1 month captures the early decompensation/dropout-risk moment.
+
+**reddit-2024-recovered-cptsd** — Phase-based in retrospect: EFT (stabilisation, yr 1) → IFS (deep parts work, yrs 2-4) → psychodynamic (integration/shame, yr 5). Same therapist adapted modality to phase. MDMA and somatic massage accelerated final integration.
+
+**reddit-2025-stages-healing-stage3** — Explicitly phase-based (Herman model). Stage 3 (reconnection/integration) described as slowest, most transformative, largely self-directed. "Nothing was happening above ground" while deep roots formed — sleeper effect experienced from inside.
+
+**reddit-2024-10-years-900-appointments** — 10 years of twice-weekly therapy (900+ sessions). Trajectory not described (grief post), but duration and dose are the most extreme in the Reddit corpus. Therapy as ongoing relational practice, not bounded treatment.
+
 ## Emergent trajectory typology
 
 From cross-layer analysis, five trajectory shapes emerge:

@@ -59,3 +59,10 @@ status: draft
 5. **The population most needing long treatment is least able to afford it** (Paris 2020, myptsd-2015-cant-afford-therapy): Developmental trauma is concentrated in lower socioeconomic groups; long-term specialist therapy is concentrated in higher socioeconomic access.
 
 6. **Pro bono as turning point** (Foo 2022): The most transformative therapeutic relationship in the memoir layer was enabled by charitable provision, not by the healthcare system.
+
+<!-- Reddit threads added 2026-03-19 -->
+| reddit-2023-7-therapists-average | 5 | Yes | Cost, insurance (Medicaid), geography, identity-based barriers | u/NeonWitchMerlin: "The shopping around process is too expensive"; tolerates racism/bigotry/homophobia from available therapists because no alternatives. u/ElishaAlison: Medicaid limits choice to 1-2 therapists. u/tamae24: accessed free therapy through resident program. Intersection of poverty, geography, and identity-based barriers |
+| reddit-2023-fully-healed-how-long | 5 | Yes | Medicaid constraints | u/ElishaAlison on Medicaid with access to only two therapists (one female, one male). Severe access constraint that happened to work out |
+| reddit-2024-what-feels-like-after | 5 | Yes | Existential access — safety, stability, time | u/woahtheremate_: "it can be 'expensive'" — healing requires "safety, no external stressors, stability and time to grieve." Access barrier is not just financial but existential: needs a life with enough margin to contain grief |
+| reddit-2024-recovered-cptsd | 5 | Implicit | Financial resources, insurance | 5 years weekly therapy + MDMA session + somatic massage + medications — implies significant resources. "Living alone" and "stable income" described as enabling factors |
+| reddit-2024-10-years-900-appointments | 5 | Implicit | Financial resources | 10 years of twice-weekly therapy = enormous financial investment; available only to those with significant resources or coverage |

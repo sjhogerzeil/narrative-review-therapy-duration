@@ -56,3 +56,13 @@ status: draft
 - Memoir evidence (Foo, Eger) shows phases visible in retrospect but not planned in advance.
 
 **Resolution:** Phases may be useful as a MAP but not as a SCHEDULE. The clinical consensus is "phase-based in structure, organic in execution."
+
+<!-- Reddit threads added 2026-03-19 -->
+| reddit-2023-how-long-in-therapy | 5 | No phase model mentioned. u/mauiwowie__: 4-5 year rough period then improvement — closest to phase-like, but retrospective | No — organic |
+| reddit-2024-what-feels-like-after | 5 | u/Longjumping_Cry709: 5 years external/behavioural → 6 years emotional healing. Maps onto Herman (stabilisation → processing → reconnection) but was not described in those terms | Yes — organically emergent |
+| reddit-2023-fully-healed-how-long | 5 | u/ElishaAlison: pre-safety (ineffective) → post-safety crisis/decompensation → 3.5 years processing. Clear two-phase structure: safety as absolute prerequisite | Yes — safety-gated phases |
+| reddit-2025-full-cure-how-long | 5 | u/Dapper_Banana6323: (1) identify and organise, (2) be ready/motivated, (3) find a method. Phase-based by personal design, not clinical protocol | Yes — self-designed phases |
+| reddit-2021-cant-heal-while-surviving | 5 | Thread implicitly argues for phase model: safety first, processing second. Without completing safety phase, processing cannot proceed. Maps onto Herman Stage 1 as absolute prerequisite | Yes — safety-first |
+| reddit-2021-how-long-after-therapy-feel | 5 | OP in early Stage 2 (processing) without adequate Stage 1 (stabilisation). Commenter suggests prioritising grounding (stabilisation) over processing | Compatible — phase mismatch |
+| reddit-2024-recovered-cptsd | 5 | EFT (stabilisation/initial, yr 1) → IFS (deep parts work, yrs 2-4) → psychodynamic (integration/shame, yr 5). Maps onto stabilisation-processing-integration arc | Yes — phase-based in retrospect |
+| reddit-2025-stages-healing-stage3 | 5 | Explicitly references Herman's model and four-stage expansion. Stage 3 (reconnection) as longest, most transformative. Stage 4 (post-traumatic growth) emerging organically | Yes — explicitly phase-based |
