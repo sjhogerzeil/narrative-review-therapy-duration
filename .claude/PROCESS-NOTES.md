@@ -1,5 +1,21 @@
 # Process Notes — blog-therapy-duration
 
+## 2026-03-20 (session 8 — discussion gap-fill)
+
+Context: 8 substantive items added to discussion sections — findings grounded in data that the original scaffolds didn't anticipate. Process killed mid-verification; all edits confirmed intact on resume.
+
+Redenering:
+- 4 high-priority items (escalation gap, forced termination, modality sequencing, incoherent treatment) add genuinely new arguments. Not padding — these are findings from the data that had no home in the original structure.
+- Escalation gap in survivorship bias: inflates ALL reported duration data. Clients report "ten years in therapy" but much of that is escalation-gap time, not effective treatment time. Structurally invisible in outcome research.
+- Bateman-Fonagy TAU finding is a counterpoint to the counterpoint: "more" isn't better, "coherent" is. Reframes duration debate from quantity to quality.
+- Modality sequencing promoted from noise to signal — bumped to "Fourth" clinical implication, existing numbering shifted.
+- 4 medium-priority items (ecophenotype, reverse survivorship, survivor mission, single-research-group) add nuance. Limitations section renumbered 7→8→9.
+
+Open:
+- [ ] Phase 5: tables and figures
+- [ ] Phase 6: finalize discussion (integrate tables, positionality statement)
+- [ ] Weak claims log nog niet formeel aangemaakt — impliciet in sectie 7 (limitations)
+
 ## 2026-03-20 (session 7 — Phase 4 complete)
 
 Context: Human checkpoint passed on synthesis. Phase 4 (discussion drafts) written in parallel — 4 agents, 8 sections, ~24k words total.

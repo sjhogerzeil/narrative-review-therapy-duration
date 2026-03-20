@@ -28,6 +28,8 @@ This review draws on 89 sources across six epistemological layers, from peer-rev
 
 **Feed-back.** The synthesis addresses this directly by separating duration estimates by endpoint level and noting where empirical evidence is thin. The claim "structural change takes years" rests on convergent clinical observation from nine theoretical traditions, supported by sleeper effect data and long-term follow-up studies — but the populations studied are not identical to the population defined in this review. Future research with long-term structural measures in defined complex trauma populations would substantially strengthen or challenge the framework.
 
+The ecophenotype concept deepens this concern. Samson and Teicher (2023) present evidence that maltreatment-related psychiatric presentations may be neurobiologically distinct from non-maltreatment presentations carrying identical diagnoses — a "maltreatment-related ecophenotype" with different neural signatures, different treatment responses, and potentially different developmental trajectories [samson-teicher-2023-maltreatment]. If confirmed, this means the entire evidence base for treatment duration was built on mixed populations that conflate two neurobiologically distinct subtypes. Duration estimates derived from these mixed samples may not apply to the maltreatment subtype specifically — the very population this review foregrounds. The true duration of healing for the ecophenotype subtype remains unknown.
+
 ## 3. Single-author review
 
 **The weakness.** All source selection, annotation, data extraction, and synthesis is performed by a single author. There is no inter-rater reliability for any step. The author's theoretical orientation (psychodynamic, relationally informed), clinical experience, and personal relationship to the topic shape every interpretive decision. The working thesis — that healing takes years — was declared at the outset, creating a structural risk of confirmation bias.
@@ -60,7 +62,11 @@ This review draws on 89 sources across six epistemological layers, from peer-rev
 
 **What remains unmitigated.** The separation between observation and explanation is not as clean as the review might suggest. If the hierarchical processing model is unfounded, then the specific clinical prediction that bottom-up interventions must precede top-down interventions — a prediction central to Fisher's "slower is faster" principle and to the phase-oriented treatment model — loses its neurobiological rationale. The clinical observation that stabilisation-first approaches often work well for complex trauma populations could be explained by other mechanisms (e.g., operant conditioning, therapeutic alliance development, or simply the passage of time). The review's mechanism argument is therefore more tentative than its endpoint-duration findings.
 
-## 7. Source selection when results exceeded budget
+## 7. Single-research-group dependency in the humanistic-existential layer
+
+The entire humanistic-existential evidence base (Layer 1c) derives from one interconnected research network. Murphy, Joseph, and Elliott are collaborators and co-authors whose work on person-centred and emotion-focused therapy for trauma builds cumulatively on shared theoretical commitments [murphy-2009-pct-abuse; joseph-2012-ptg-model; murphy-2019-pct-eft-trauma]. This does not invalidate their findings — the case studies and the post-traumatic growth model are internally coherent and clinically detailed. But it limits their evidentiary weight: the humanistic-existential case for long-term therapy with complex trauma rests on a single research tradition rather than on independent converging lines of evidence. Independent replication from outside this network would substantially strengthen the case.
+
+## 8. Source selection when results exceeded budget
 
 **The weakness.** When search returned more results than the source budget allowed, sources were selected using tiered relevance criteria. This selection — even with transparent criteria — introduces a bias toward sources the reviewer judged most relevant, which may reinforce the working thesis.
 
@@ -68,11 +74,11 @@ This review draws on 89 sources across six epistemological layers, from peer-rev
 
 **What remains unmitigated.** The triage criteria themselves embed theoretical assumptions about what is relevant. A reviewer oriented toward behavioural or cognitive traditions might have prioritised different sources from the same search results — potentially finding more evidence for brief treatment effectiveness and less for the developmental mechanism.
 
-## 8. Cross-cutting limitations (with dedicated sections)
+## 9. Cross-cutting limitations (with dedicated sections)
 
 The following limitations are substantive enough to warrant their own discussion sections:
 
-- **Survivorship bias** (§2) — all six layers select for people who stayed in therapy long enough to report. Only 10 of 89 sources report dropout data in any form. The treatment-engagement paradox is unresolved: the interpersonal difficulties that define the population are the same factors that predict dropout [freixo-ferreira-2023-bpd-dropout; knekt-2021-dropout].
+- **Survivorship bias** (§2) — all six layers select for people who stayed in therapy long enough to report. Only 10 of 89 sources report dropout data in any form. The treatment-engagement paradox is unresolved: the interpersonal difficulties that define the population are the same factors that predict dropout [freixo-ferreira-2023-bpd-dropout; knekt-2021-dropout]. A reverse survivorship effect compounds this problem in Layer 5 (client narratives): as one poster observed, "Maybe, just maybe, the majority of people who heal leave these places, and so it looks, on the surface, like no one heals from this" [reddit-2023-fully-healed-how-long]. Online trauma communities systematically over-represent those still struggling and under-represent those who have recovered, making healing appear rarer and slower than it may be.
 
 - **Dose vs. elapsed time** (§3) — the conflation of session count and calendar years pervades the literature. The Helsinki study's 646 sessions of psychoanalysis versus 232 sessions of psychodynamic therapy produced equivalent 10-year outcomes [lindfors-2019-helsinki-10yr], suggesting that elapsed time may matter more than dose beyond a threshold — but disentangling the two requires studies designed for this purpose, which do not yet exist.
 
