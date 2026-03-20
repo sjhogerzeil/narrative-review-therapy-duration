@@ -21,11 +21,11 @@ INDEX_FILE="99_search/index.md"
 extract_yaml_field() {
     # Extract a YAML frontmatter field from a .md file
     local file="$1" field="$2"
-    sed -n '/^---$/,/^---$/p' "$file" | grep "^${field}:" | sed "s/^${field}: *//" | sed 's/^ *//;s/ *$//'
+    sed -n '/^---$/,/^---$/p' "$file" | grep "^${field}:" | sed "s/^${field}: *//" | sed 's/^ *//;s/ *$//' || true
 }
 
 find_source_notes() {
-    find "$SOURCES_DIR" -name '*.md' ! -name 'SOURCE_TEMPLATE.md' ! -name 'README.md' | sort
+    find "$SOURCES_DIR" -name '*.md' ! -name 'SOURCE_TEMPLATE.md' ! -name 'README.md' ! -path '*/_*/*' | sort
 }
 
 # ─── references ────────────────────────────────────────────────────────────

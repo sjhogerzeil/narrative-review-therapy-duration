@@ -54,3 +54,18 @@ status: draft
 | reddit-2024-recovered-cptsd | 5 | Weekly to biweekly for 5 years | 5 years | ~200-260 sessions (estimated) |
 | reddit-2024-10-years-900-appointments | 5 | Twice weekly for 10 years | 10 years | 900+ sessions — highest frequency sustained over longest duration in Reddit corpus |
 | reddit-2025-full-cure-how-long | 5 | EMDR intensive: multiple sessions daily over 1 week — compressed high-dose format. Before that: self-directed, ongoing | 1 week (intensive) + years (self-reflection) | 36 memories processed in 1 week |
+
+<!-- New sources added 2026-03-19 -->
+| spring-2020-recovering-developmental-trauma | 6 | Implied weekly: "Week in, week out, session after session" and "having to wait a whole week between therapy sessions." Weekly rhythm treated as default frame throughout. No explicit statement | 9.5 years | ~475-500 sessions (estimated if weekly) |
+| spring-2020-what-does-recovery-look-like | 6 | No data. 15-year elapsed arc with no session frequency or count | 15 years | Not specified |
+| spring-2021-falling-down-getting-back-up | 6 | No explicit data. Second episode (2020-) appears at least weekly based on level of engagement described (notes before each session, write-ups after) | ~9 years (ep. 1) + ongoing (ep. 2) | Not specified |
+| heacock-2022-psychotherapy-twice-told | 4 | Weekly: "showed up regularly every week. He wasn't late. He didn't cancel." 15 years weekly minus gaps (graduation, maternity leaves, postpartum leave) | 15 years | ~600-700 sessions (estimated) |
+| heacock-2019-healing-psychedelics | 4 | No explicit frequency for personal therapy. Clinical data: MDMA sessions 8 hours, spaced 3-5 weeks apart. Cannabis/ketamine sessions 2 hours, more frequent. "A lot of therapeutic contact hours" between MDMA sessions | 4-5+ years (personal) | Not specified |
+| fosha-2019-aedp-intimacy | 3 | No data. Short-term dynamic origins suggest potentially higher-than-weekly frequency, but not specified | 6 sessions (DVD case) | 6 |
+| fisher-cutting-edge-tist | 4 | No data | Not specified | Not specified |
+| fisher-transforming-legacy | 1a | No data. "Bite-sizing" principle implies slow, spaced delivery but no frequency stated | Not specified | Not specified |
+| bisson-2024-recognising-cptsd | 1a | No data. Davitt's "on and off" pattern suggests variable frequency over years | "Many years" | Not specified |
+| tilson-2025-body-not-keeping-score | 3 | No data | N/A | N/A |
+| ogden-2006-trauma-and-the-body | 1d | No data | Not specified | Not specified |
+
+Note: The silence on frequency across these 11 sources is itself a finding. Most practitioner, memoir, and counterpoint sources treat session frequency as unimportant or assumed (weekly as default), while the most granular frequency data continues to come from naturalistic studies (Layer 2) and Reddit threads (Layer 5).

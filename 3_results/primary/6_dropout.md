@@ -55,3 +55,17 @@ The pattern of reporting is itself a finding:
 | reddit-2021-how-long-after-therapy-feel | 5 | No formal rate; OP at dropout-risk moment | N/A | 1 month of CPTSD therapy; severe symptom exacerbation (flashbacks, dissociation, panic). "I'm loosing it" — on the edge of giving up. If they leave, counted as dropout but therapy may be working (surfacing suppressed material) | No |
 | reddit-2023-7-therapists-average | 5 | Implicit — cycling through therapists as serial dropout/restart | Range: 1-30+ therapists | u/NeonWitchMerlin: forced non-dropout — staying with harmful therapist (racism, bigotry) due to sunk cost and lack of alternatives. Inverse of dropout: forced continuation in harmful treatment | No |
 | reddit-2021-cant-heal-while-surviving | 5 | No formal rate | N/A | Thread implies "false non-dropout": people who stay in therapy for years without progress because environmental barrier unaddressed. Look like persistent patients but therapy is not producing healing | No |
+
+<!-- New sources added 2026-03-19 -->
+
+None of the 11 new sources provide formal dropout data. However, several contribute to the dropout discussion indirectly:
+
+**heacock-2022-psychotherapy-twice-told** — Documents a failed transfer: Sherlock was transferred to another trainee when Erin graduated. The replacement therapist told Sherlock "that's why Erin's afraid of you," and Sherlock "never went back after that." This is a system-induced dropout — not a patient failure but a transition failure. Additionally, Sherlock's three prior therapy experiences (two mandated childhood, one adolescent) were all terminated by Sherlock, framed as rejections of inadequate therapy rather than as dropout.
+
+**bisson-2024-recognising-cptsd** — Davitt describes terminating with two therapists before finding the right one: "the first two therapists I saw, I didn't quite click with." This is framed as therapist matching rather than dropout, but functionally it is serial dropout/restart. Bisson's observation that C-PTSD has lower recovery rates implies higher non-completion rates, though he does not provide specific data.
+
+**fisher-transforming-legacy** — Fisher acknowledges that "some clients will want to use the flip chart and/or workbook but then find themselves triggered by certain words, ideas, diagrams, or worksheets." The solution is to use triggering as therapeutic opportunity — but some clients may simply leave. No attrition data provided.
+
+**spring-2020-recovering-developmental-trauma** — Spring implies that therapists and clients are "tempted to look around at everyone else's client, and measure their milestones" in peer supervision, implying that some clients don't progress. But she does not discuss dropout or who leaves therapy.
+
+**tilson-2025-body-not-keeping-score** — Implicitly relevant: if the body-based trauma approach promotes an indefinite treatment model, clients who leave may be counted as "dropouts" when in fact the treatment had no defined endpoint. The absence of endpoint creates the illusion of dropout.

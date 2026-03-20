@@ -9,6 +9,11 @@ citation: "Walker, P. (2013). *Complex PTSD: From surviving to thriving: A guide
 url: https://www.goodreads.com/book/show/20556323-complex-ptsd
 accessed: 2026-03-18
 access: abstract-only
+summary: "40+ year healing journey; four F responses framework; surviving to thriving"
+duration_data: implicit
+duration_range: "40+ years"
+stance: supports
+endpoint_definition: structural
 ---
 
 ## Summary

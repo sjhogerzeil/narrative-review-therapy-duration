@@ -1,18 +1,66 @@
 ---
 section: implications
-description: What the findings mean for clinical practice, training, policy, and insurance structures
-status: not started
+description: "What the findings mean for clinical practice, training, policy/insurance, research priorities, and clients — organised by the 4-factor framework."
+status: draft
 depends_on: [4_discussion/1_synthesis.md]
 ---
 
 # Implications
 
-*To be written after synthesis is complete.*
+The synthesis proposes that the duration of healing from complex developmental trauma is determined by a safety prerequisite interacting with three factors: the endpoint level sought, the structural depth of the injury, and the contribution of elapsed time to post-therapeutic development. If this framework is even approximately correct, it generates specific implications for clinical practice, training, policy, research, and — most importantly — the people who live with the consequences of complex developmental trauma.
 
-## Domains to address
+## Clinical practice
 
-- **Clinical practice** — what should therapists tell clients about expected duration?
-- **Training** — how should training programmes prepare therapists for long-term work with this population?
-- **Policy and insurance** — what do the findings imply for session limits, funding structures, and access?
-- **Research** — what studies are needed? What should outcome research measure differently?
-- **Clients** — what would honest, evidence-informed expectation-setting look like?
+The framework's most immediate clinical implication is that therapists working with complex developmental trauma need to assess, at minimum, three things before they can give a patient any honest answer about expected duration.
+
+**First, assess the endpoint level.** What does the patient want from treatment? Symptom reduction (fewer flashbacks, lower distress scores) is achievable in weeks to months for many patients, including some with CPTSD diagnoses, through concentrated evidence-based treatment [dejongh-2024-emdr-science; sciarrino-2020-intensive-review]. Functional improvement (holding relationships, maintaining employment, reduced crises) takes months to 1–2 years [links-2015-gpm-bpd]. Structural change (personality reorganisation, mentalizing capacity, integration of dissociated parts, earned attachment security) takes years [leichsenring-2013-emerging-evidence; lindfors-2019-helsinki-10yr; griffiths-2025-phase-oriented-review]. These are not competing options but nested levels of the same process. The clinical task is to name them explicitly, help the patient identify which level they seek, and set expectations accordingly.
+
+**Second, assess the structural depth of the injury.** Not all complex developmental trauma produces the same degree of structural disruption. The structural dissociation model provides the most precise vocabulary: primary structural dissociation is less entrenched than secondary or tertiary (DID) [vanderhart-2006-haunted-self]. Farina et al. (2025) identify the key clinical variable: patients with "different underlying structures" may carry the same CPTSD diagnosis but differ fundamentally in the depth of developmental damage [farina-2025-rapid-rare]. A patient with primary structural dissociation and adequate pre-existing adaptive capacity may genuinely achieve structural change in months. A patient with tertiary structural dissociation and pervasive developmental deficits may require years for the same endpoint level.
+
+**Third, establish safety first — and recognise that safety establishment IS therapy.** The evidence for safety as clock-starter is among the strongest findings of this review, supported by 35+ entries across all six layers. The clinical principle is straightforward: the therapeutic clock does not start at the first session but at the establishment of environmental, relational, and autonomic safety. Fisher's "slower is faster" captures this from the clinician's side [fisher-transforming-legacy; fisher-cutting-edge-tist]. Pre-safety therapy time is not wasted time — building trust, stabilising the nervous system, and creating a foundation for processing are essential therapeutic work — but it should be understood as preparatory rather than as evidence that therapy is "not working." The safety prerequisite also means that therapy cannot produce structural change while the environment remains actively traumatising [reddit-2021-cant-heal-while-surviving].
+
+**Fourth, set expectations by factor combination.** The framework generates a clinical heuristic. For patients with shallow structural injury seeking symptom reduction who arrive with adequate safety: weeks of intensive treatment may suffice. For patients with deep structural disruption seeking personality integration who must first build safety from scratch: years of sustained relational therapy, with the expectation that gains will continue to develop after formal treatment ends (the sleeper effect). Most patients fall somewhere between these poles. The clinical task is to locate the individual patient on each factor and communicate the expected trajectory honestly.
+
+## Training
+
+Therapist training programmes should prepare clinicians for three realities that the current evidence base supports.
+
+First, long-term work with this population is not a luxury or a failure of efficiency — it is often clinically indicated. Training should include sustained clinical placements (not just brief practicum rotations) that allow trainees to experience multi-year therapeutic relationships. The Heacock (2022) account of a 15-year therapeutic relationship between trainee-turned-clinician Erin Jacklin and her client Sherlock illustrates both the depth of this work and the risk when continuity is disrupted by training transitions [heacock-2022-psychotherapy-twice-told].
+
+Second, the borrowed-vs-owned structure distinction [kohut-1984-how-analysis-cures] should be taught as a clinical tool. Trainees need to recognise when a patient is functioning well because the therapist's regulatory capacity is available as an external resource (borrowed structure) versus when the patient has internalised regulatory capacity that will be self-sustaining after treatment ends (owned structure). This distinction has direct implications for termination decisions.
+
+Third, training should address the Fisher-Fosha tension explicitly [fisher-cutting-edge-tist; fosha-2019-aedp-intimacy]. Rather than training clinicians in a single position on the stabilisation-first versus transformation-from-the-get-go debate, programmes should teach assessment of the individual patient's structural depth and readiness, so that the treatment approach can be matched to the patient rather than dictated by the therapist's training allegiance.
+
+## Policy and insurance
+
+The policy implications are the most uncomfortable, because they expose a structural conflict between the evidence and the systems that fund treatment.
+
+The evidence is clear that symptom reduction is achievable within the session limits typically imposed by insurance structures (8–20 sessions). For patients seeking and needing only symptom reduction, current funding models may be adequate. But for patients with deep structural disruption seeking structural change — the population at the centre of this review — session limits represent a systematic denial of effective treatment. Shedler and Gnaulati frame this as the "evidence-based therapy myth": the managed-care-driven narrative that misrepresents research findings to justify session limits [shedler-2020-tyranny-of-time].
+
+The cost data complicates this picture. Koeser et al. (2023) found that long-term psychodynamic psychotherapy (LTPP) costs approximately GBP 33,000 per quality-adjusted life year (QALY) in the TADS trial — above the NICE threshold of GBP 20,000/QALY [koeser-2023-tads-cost]. Even if long-term therapy works, it may not be cost-effective by standard health-economic criteria. However, the authors note that the time horizon may have been too short to capture the full benefit: the sleeper effect (therapy gains continuing to grow for years after treatment ends) would increase QALYs over a longer evaluation period. Cost-effectiveness analyses that capture only the first 2–3 years after treatment systematically underestimate the benefit of structural interventions.
+
+Three policy directions emerge from the evidence. First, stepped care models such as Links, Ross, and Gunderson's (2015) Good Psychiatric Management (GPM) framework offer a pragmatic approach: begin with general psychiatric management, step up to specialised treatment (MBT, DBT) only for patients who do not improve at defined milestones (6 weeks, 6 months, 12 months, 18 months) [links-2015-gpm-bpd]. This matches treatment intensity to demonstrated need. Second, intensive delivery formats — concentrated multi-day or multi-week treatment episodes — merit investment because they achieve large effect sizes (d = 1.57) while dramatically reducing dropout (5.51% versus 18–39%) [sciarrino-2020-intensive-review]. If the safety construct is correct, intensive formats may achieve rapid safety establishment through environmental containment, making them particularly suited to the early phases of treatment. Third, funding structures should recognise the distinction between treatment episodes and treatment duration. An episodic model — periods of intensive engagement separated by self-managed maintenance, extending over years — may be more cost-effective than continuous weekly therapy while matching the episodic trajectory documented in clinical and client narratives [spring-2021-falling-down-getting-back-up; myptsd-2021-how-long-therapy-2; blueknot-trauma-practice].
+
+## Research
+
+The review identifies four research priorities.
+
+**Long-term follow-up with structural measures.** The most consequential gap in the evidence base is the absence of long-term follow-up studies (beyond 10 years) in defined complex trauma populations using structural outcome measures (personality organisation, mentalizing capacity, attachment security, dissociative symptom trajectory). The Helsinki study [lindfors-2019-helsinki-10yr] comes closest but used a mixed anxiety/mood disorder population. Studies measuring symptom reduction at 6–12 months systematically overestimate the durability of symptom-focused treatments and underestimate the benefit of structural interventions, as the sleeper effect data demonstrate [shedler-2010-efficacy; fonagy-2015-tads; bateman-fonagy-2008-mbt-8yr].
+
+**Safety-establishment timing.** The safety prerequisite is one of the review's strongest emergent findings, yet the actual duration of safety establishment — the time from first session to the point at which the developmental process can begin — is essentially unstudied. All dose-effect studies measure from first session, conflating pre-safety and post-safety sessions. Studies that measure the onset of felt safety (through alliance measures, autonomic markers, or therapist-reported clinical assessment) and relate it to subsequent treatment response would directly test the framework's central construct.
+
+**Structural depth assessment tools.** The framework predicts that the structural depth of the injury is a major determinant of treatment duration, but there is no validated assessment instrument that maps a patient's structural depth at intake. The structural dissociation model [vanderhart-2006-haunted-self] provides the theoretical vocabulary; translating this into a clinically usable assessment tool would enable treatment matching and more accurate expectation-setting.
+
+**Intensive format mechanisms.** The finding that intensive formats produce both larger effect sizes and dramatically lower dropout [sciarrino-2020-intensive-review] warrants investigation of the mechanism. If intensive formats achieve rapid safety establishment through environmental containment — removing the patient from stressors, immersing them in a therapeutic milieu, providing team-based holding — then the safety construct predicts that intensive formats would be particularly effective for patients whose primary barrier is environmental unsafety rather than deep structural disruption.
+
+## Clients
+
+What would honest, evidence-informed expectation-setting look like for a person entering therapy for complex developmental trauma?
+
+It would begin by naming the endpoint question explicitly: what do you hope to achieve? If the answer is symptom reduction — fewer flashbacks, lower anxiety, the ability to sleep — then concentrated treatment can achieve this in weeks to months, and there is strong evidence for its effectiveness. If the answer is something deeper — understanding why relationships always go wrong, feeling safe in one's own body, developing a stable sense of self — then the timeline is longer, measured in years rather than months, and the process will not look like steady upward progress. It will look like spirals, setbacks, plateaus, and periods where nothing appears to be happening [spring-2020-recovering-developmental-trauma].
+
+It would be honest about safety. If you are still in contact with people who are actively harmful, if you are in a living situation that keeps your nervous system in chronic alert, if you do not yet have the basic environmental stability to sustain a therapeutic process — then the first task is not trauma processing but safety-building, and this is not a detour but a prerequisite.
+
+It would normalise the trajectory. The spiral-recursive pattern — cycling through phases, returning to earlier work as deeper material emerges — is the dominant trajectory in the complex trauma treatment literature, not a sign of failure [herman-1992-trauma-recovery; steele-2005-phase-oriented; blueknot-trauma-practice]. Feeling worse before feeling better is documented across sources and expected [reddit-2021-how-long-after-therapy-feel]. The "right therapist" search — sometimes requiring multiple attempts [reddit-2023-7-therapists-average] — is a known part of the process, not evidence of personal failure.
+
+It would offer the most helpful framing this review encountered. Spring's "heading north" metaphor [spring-2020-what-does-recovery-look-like] redefines recovery as a direction rather than a destination. At any given moment, you may be crawling, stopped, or temporarily heading south. The question is not "have you arrived?" but "is the overall direction northward?" This framing is both more honest than a promise of cure and more hopeful than a prediction of lifelong suffering. It acknowledges that the journey may be long while insisting that every step northward counts.

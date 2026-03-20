@@ -1,5 +1,71 @@
 # Process Notes — blog-therapy-duration
 
+## 2026-03-20 (session 7 — Phase 4 complete)
+
+Context: Human checkpoint passed on synthesis. Phase 4 (discussion drafts) written in parallel — 4 agents, 8 sections, ~24k words total.
+
+Redenering:
+- Parallelle agents werkten goed: 4 agents tegelijk, elk 2-3 secties, geen conflicten. Totale doorlooptijd ~6 minuten.
+- Counterpoint response (sectie 5) is de zwaarste: 3.300 woorden, model-voor-model, fairness-getest. Twee echt onopgeloste uitdagingen geïdentificeerd: de Jongh's CPTSD-data en Helsinki-convergentie.
+- Dose vs elapsed time herschreven van "beperking" naar "opgelost finding" (Factor 3). Sterkere positie dan het scaffold suggereerde.
+- Survivorship bias: 5-categorie taxonomie van onzichtbare populaties is nieuw — gaat verder dan het standaard dropout-verhaal.
+
+Open:
+- [ ] Phase 5: tables and figures
+- [ ] Phase 6: finalize discussion (integrate tables, positionality statement)
+- [ ] Weak claims log nog niet formeel aangemaakt — impliciet in sectie 7 (limitations)
+
+## 2026-03-19 (session 6 — podcast expansion + Phase 3 revision)
+
+Context: Phases 1-3 rerun with 11 new sources (podcasts, kindle highlights, critical essays). Synthesis substantially revised. All tests pass (58/58, 0 failures). Ready for human review of synthesis before Phase 4.
+
+Redenering:
+- Podcast sources filled real gaps: Carolyn Spring (first documented DID trajectory with explicit duration + interruption data), Fisher/TIST (stabilisation-first practitioner voice), Fosha/AEDP (counterpoint from within experiential tradition), Tilson (evidence critique of SE/polyvagal), Ogden (somatic mechanism), Bisson (C-PTSD epidemiology), Heacock x2 (15-year single-therapist case + psychedelic-assisted trajectory).
+- Framework expanded from 3 factors to 4: safety prerequisite (Factor 0) added based on 35+ entries across all layers. Key insight: the psychoanalytic "silence" on safety is terminological — holding environment, selfobject transference, surviving destruction ARE safety in different vocabulary.
+- Fisher vs Fosha tension ("slower is faster" vs "healing from the get-go") is productive, not resolvable — likely reflects different structural depths within CPTSD population.
+- Tilson's evidence critique honestly integrated: clinical convergence on slow developmental change is robust; the neurobiological explanations (triune brain, polyvagal) are contested. The mechanism's existence is stronger than its explanation.
+
+Open:
+- [ ] HUMAN CHECKPOINT: author review synthesis (4_discussion/1_synthesis.md) — especially the 4-factor framework and safety-as-clock-starter construct
+- [ ] Phase 4: write remaining discussion sections (counterpoint response → survivorship → dose vs time → therapy vs life → access → limitations → implications)
+- [ ] Phase 5: tables and figures
+- [ ] Books: NOT purchasing at this stage
+
+## Rerun plan (decided 2026-03-19, session 5)
+
+### Decision: no book purchases
+Van der Hart 2006 and Foo 2022 would add depth/verification but do not change the core argument. Herman 1992 is already covered via 1998 summary paper. Psychoanalytic texts (Kohut, Winnicott, etc.) are theoretical — secondary access sufficient.
+
+### Step 1: Add podcast sources (Phases 1-3)
+- User provides podcast transcript list + ChatGPT search output
+- Online podcast database search (Listen Notes, Apple Podcasts, Spotify)
+- Integrate, screen, select ~8-10 episodes across Layers 3-4
+- Target voices: van der Kolk, Fisher, Ogden, Fosha, Schwartz, Levine, Daniel Brown
+- Annotate from transcripts → extract → revise synthesis
+
+### Step 2: Revise synthesis — integrate underused Layer 4 sources
+8 of 10 Layer 4 sources are zero-cited in synthesis. Must integrate:
+- Shedler 2020 (50% at 21 sessions, 75% at 40+)
+- Alpern 2025 (brief therapy critique from inside brief therapy)
+- Blue Knot (84% expert consensus; "decades"; min 10-20 sessions)
+- MIA psychoanalytic-beats-CBT (PAT vs CBT sleeper effect)
+- Traumalescence (explicit timeline: 3-6mo / 6-18mo / 18-36mo)
+- Grossmark (companioning as inherently non-brief)
+- Wylie (diagnostic conflation; 80% multiple trauma)
+- MIA injured-not-broken (recognition prerequisite)
+- PsychNetworker evolving-beyond (victim-to-author turning point)
+
+### Step 3: New extraction file — safety as clock-starter
+Create `3_results/primary/11_safety_as_clock_starter.md`. Evidence from: Herman, Porges, ElishaAlison, cant-heal-while-surviving, Eger, Hauser.
+
+### Step 4: Update sleeper effect file — borrowed vs owned bridge
+Add Kohut's "borrowed vs owned" distinction as theoretical bridge to `8_sleeper_effect.md`.
+
+### Step 5 (optional): Targeted Phase 1 additions
+If podcasts don't fill the gap: add van der Kolk, Fisher, Ogden, ISSTD guidelines as secondary-annotated sources.
+
+### Step 6: Sync and verify
+
 ## 2026-03-19 (session 4 — end of session)
 
 Context: Phase 2 fully complete with Reddit gap fixed. Phases 3-5 rewritten with CIS methodology. Dry-run completed. Blocking issues fixed. Ready for Phase 3 with ultrathink in next session.

@@ -1,48 +1,60 @@
 ---
 section: survivorship_bias
 description: "Limitation — all layers select for people who stayed in therapy long enough to report. Describes the bias, how we mitigated it, what remains unmitigated, and how it feeds back into the plan."
-status: scaffold
-depends_on: [3_results/sources/*/cross-cutting observations]
+status: draft
+depends_on: [3_results/sources/*/cross-cutting observations, 3_results/primary/6_dropout.md]
 ---
 
 # Survivorship bias
 
 ## The problem
 
-Every layer of this review selects for people who persisted in therapy long enough to write about it, post about it, be studied, or be written about. People who dropped out at month 3 because they couldn't afford it, couldn't tolerate it, found it unhelpful, or healed through other means are invisible in our evidence base. This is not a minor methodological footnote — it is a structural feature of all available evidence on therapy duration, and it systematically inflates the apparent duration of healing.
+Every layer of this review selects for people who persisted in therapy long enough to write about it, post about it, be studied, or be written about. People who dropped out at month 3 because they could not afford it, could not tolerate it, found it unhelpful, or healed through other means are invisible in the evidence base. This is not a minor methodological footnote — it is a structural feature of all available evidence on therapy duration, and it systematically inflates the apparent duration of healing.
 
-The bias operates differently across layers:
-- **Layer 1 (academic):** Studies that measure duration only measure people who stayed. Dropout rates are sometimes reported but dropout *reasons* rarely are.
-- **Layer 2 (naturalistic):** Naturalistic studies are the best available source on dropout, but they typically treat dropout as missing data, not as a finding about therapy duration.
-- **Layer 3 (counterpoint):** Accelerated models may have different dropout patterns — shorter protocols may retain people who would drop out of long-term therapy. This is relevant to the counterpoint argument.
-- **Layer 4 (practitioner):** Therapists write about clients who stayed. Clients who left after 6 months are typically not the subject of reflective essays.
-- **Layer 5 (client narratives):** People posting on Reddit about their 10-year therapy journey are the ones who had a 10-year therapy journey. People who dropped out are less likely to post — and if they do, they may not be captured by our inclusion criteria (retrospective, 5+ years).
-- **Layer 6 (memoirs):** Authors who write memoirs survived long enough to write. This is the strongest survivorship bias of all layers.
+The bias operates differently across layers. In Layer 1 (academic), studies that measure duration only measure people who stayed; dropout rates are sometimes reported but dropout reasons rarely are. In Layer 2 (naturalistic), studies are the best available source on dropout, but they typically treat it as missing data rather than as a finding about therapy duration. In Layer 3 (counterpoint), accelerated models may have different dropout patterns — shorter protocols may retain people who would drop out of long-term therapy. In Layers 4–6 (practitioner essays, client narratives, memoirs), the bias is structural and absolute: therapists write about clients who stayed, forum threads capture people still engaged, and memoir authors survived long enough to write.
 
-## How we mitigated it
+## The scale of the invisible population
 
-1. **Cross-cutting observation in every source note.** Each source annotation explicitly asks: "Does this source only capture people who stayed? Any data on dropout, premature termination, or people who left and healed elsewhere?" The absence of data is logged as a finding.
-2. **Layer 2 (naturalistic studies)** was added specifically because these studies are the most likely to report dropout rates, attrition patterns, and dose-response data.
-3. **Layer 3 (counterpoint)** includes models with shorter protocols that may capture people who cannot tolerate or access long-term therapy.
-4. **This dedicated discussion section** aggregates survivorship observations across all sources rather than leaving them scattered in individual annotations.
+The extraction data allow a first approximation of the invisible population, though the picture remains fragmentary. Of the approximately 40 annotated sources across all layers, only 12 report any dropout data — and this figure is generous, counting sources that mention dropout even indirectly [griffiths-2025-phase-oriented-review; freixo-ferreira-2023-bpd-dropout; murphy-2019-pct-eft-trauma; bateman-fonagy-2008-mbt-8yr; knekt-2021-dropout; fonagy-2015-tads; lindfors-2019-helsinki-10yr; dejongh-2024-emdr-science; sciarrino-2020-intensive-review; lilliengren-2017-istdp-gad; mitchell-2021-mdma-phase3; feder-2025-ketamine-exposure]. The remaining sources are silent on who left.
+
+The pattern of reporting is itself a finding. Layer 1 — comprising theoretical texts (Kohut, Winnicott, Bromberg, Benjamin) that do not track participants because they are not studies — yields only 2 of 8 annotated sources with any dropout information. Layer 2 performs better, with 3 of 10 sources addressing dropout meaningfully, but even here only the Knekt (2021) study was specifically designed to study dropout predictors. Layer 3 produces the most dropout data (5 of 10 sources), largely because randomised controlled trials routinely report attrition as a methodological requirement. Layers 4, 5, and 6 yield zero formal dropout data. These layers are silent by design: practitioner essays describe treated patients, forum threads capture people still engaged, and memoirs are written by survivors.
+
+The available data, sparse as they are, point to three findings that bear directly on the thesis.
+
+**First, dropout rates in standard delivery are substantial.** Sciarrino's (2020) review of intensive formats provides the clearest benchmark: standard weekly delivery of trauma-focused therapy produces dropout rates of 18–39% [sciarrino-2020-intensive-review]. Even within Griffiths's (2025) review of phase-oriented treatment for dissociative disorders, the four studies that reported dropout found rates ranging from 3% to 23% [griffiths-2025-phase-oriented-review]. Knekt et al. (2021) report 23% total non-attendance in the Helsinki Psychotherapy Study, with the most striking finding being the differential between long-term and short-term formats: the refusal rate for long-term psychodynamic psychotherapy (LPP) was 11.6 times higher than for short-term psychodynamic psychotherapy (SPP) [knekt-2021-dropout]. Long-term therapy, the very format this review argues is necessary, is the format most people decline to begin.
+
+**Second, the patients most likely to drop out are the patients most relevant to this review.** The treatment-engagement paradox identified by Freixo Ferreira (2023) is central: the interpersonal difficulties that define borderline personality disorder — hostility, alliance problems, difficulty trusting — are the same factors that predict dropout [freixo-ferreira-2023-bpd-dropout]. Knekt et al. (2021) found that poor reflective ability, poor self-concept, and rigid interaction predicted non-attendance in long-term therapy (RR = 2.76) [knekt-2021-dropout]. These characteristics overlap substantially with the complex developmental trauma population as described throughout this review. Griffiths (2025), citing Baekkelund (2022), reports that higher dissociation predicted dropout — meaning that the most severely dissociative patients, those for whom 3–5 year treatment is recommended, are the most likely to leave [griffiths-2025-phase-oriented-review]. The patients who most need long-term treatment are the least likely to stay for it.
+
+**Third, the treatment format itself appears to be a dropout driver.** Sciarrino's (2020) finding that intensive formats produce dramatically lower dropout — 5.51% versus 18–39% for standard delivery — suggests that standard weekly therapy is not merely a delivery format but a barrier to treatment completion [sciarrino-2020-intensive-review]. If a substantial proportion of dropout is attributable to the delivery format rather than to patient pathology or treatment failure, then the long-duration evidence base is doubly biased: it captures only those patients who could tolerate weekly therapy over years, while the patients who might have benefited from the same dose delivered differently are lost from the record.
+
+## Mitigations and their limits
+
+The review adopted four mitigation strategies. Each source annotation explicitly asked whether the source captured only people who stayed, and the absence of data was logged as a finding. Layer 2 (naturalistic studies) was included specifically because these studies are the most likely to report dropout rates and dose-response data. Layer 3 (counterpoint) includes models with shorter protocols that may capture people who cannot tolerate or access long-term therapy. This dedicated discussion section aggregates survivorship observations across all sources rather than leaving them scattered in individual annotations.
+
+These mitigations have limited reach. Layers 4–6 contributed 11 new sources in the most recent annotation round, and none provided formal dropout data. Several, however, contributed indirect observations that sharpen the picture. Heacock (2022) documents a system-induced dropout: a client named Sherlock was transferred to another trainee who made an ill-judged remark, after which Sherlock "never went back" — a transition failure, not a patient failure [heacock-2022-psychotherapy-twice-told]. Bisson (2024) describes Davitt terminating with two therapists before finding the right one, framed as therapist matching rather than dropout but functionally constituting serial dropout and restart [bisson-2024-recognising-cptsd]. Reddit narratives reveal further variants: one poster described cycling through 7 to 30+ therapists, including forced continuation with a harmful therapist due to sunk cost [reddit-2023-7-therapists-average]; another described years of therapy without progress because the environmental barrier (ongoing exposure to the abusive environment) was unaddressed — a "false non-dropout" who looks like a persistent patient but for whom therapy is not producing healing [reddit-2021-cant-heal-while-surviving].
+
+These cases illuminate a taxonomy of invisible populations that extends beyond the simple dropout/completer binary:
+
+1. **Classical dropouts** — patients who leave and do not return. Captured (partially) by attrition statistics.
+2. **Serial dropouts** — patients who leave one therapist and begin with another, sometimes repeatedly. Each therapist records a termination; the patient's overall trajectory is visible to no one [reddit-2023-7-therapists-average; bisson-2024-recognising-cptsd].
+3. **System-induced dropouts** — patients who leave because of institutional factors (therapist graduation, insurance changes, waitlist policies) rather than clinical factors [heacock-2022-psychotherapy-twice-told].
+4. **False non-dropouts** — patients who remain in therapy for years without progress because a prerequisite condition (environmental safety, correct therapist match, adequate financial resources) is unmet [reddit-2021-cant-heal-while-surviving].
+5. **Structural non-starters** — patients who never begin therapy due to access barriers. The myptsd-2015-cant-afford-therapy thread documents this population: people with complex trauma who cannot afford treatment at all [myptsd-2015-cant-afford-therapy].
+
+Categories 2–5 are invisible in standard attrition reporting. Their aggregate size is unknown but plausibly large.
 
 ## What remains unmitigated
 
-- We have no direct evidence from people who dropped out of therapy and healed through other means. This population is structurally absent from all six layers.
-- We cannot estimate how many people with complex developmental trauma attempt therapy and leave before meaningful change occurs. The base rate is unknown.
-- The direction of bias is clear and one-directional: it makes healing look longer than it may actually be, because we only hear from people who stayed for the full course.
-- We cannot rule out that a meaningful number of people in this population experience significant structural change through shorter therapy combined with life experience, relationships, or other non-therapeutic factors — but we have no way to study this with the available evidence.
+Several gaps cannot be closed with the available evidence. There is no direct evidence from people who dropped out of therapy and healed through other means; this population is structurally absent from all six layers. The base rate of therapy attempts among people with complex developmental trauma is unknown, making it impossible to estimate the denominator. The direction of bias is clear and unidirectional: it makes healing look longer than it may actually be, because the evidence base consists of people who stayed for the full course.
 
-## Feed-back into the plan
+The bias does not affect all of the review's findings equally. The synthesis's Factor 0 (safety as clock-starter) is relatively robust against survivorship bias, because it is supported by theoretical arguments and by within-subject evidence (the same patient before and after safety is established). Factor 3 (elapsed time independent of dose) is moderately vulnerable, because the sleeper effect is observed only in patients who completed treatment. Factor 2 (structural depth) is heavily vulnerable: the gradient from shallow to deep structural injury is derived almost entirely from patients who stayed long enough for the depth to be assessed — and the treatment-engagement paradox [freixo-ferreira-2023-bpd-dropout] suggests that the deepest injuries are the least likely to remain in treatment.
 
-*To be completed during/after data extraction. Questions to answer:*
-
-- How many of the annotated sources report dropout rates? What do they say?
-- Is there a pattern in which layers have dropout data and which don't?
-- Do the naturalistic studies (Layer 2) provide enough data to estimate the size of the invisible population?
-- Should we add a specific search for dropout literature as a targeted re-run? (e.g., "complex trauma therapy dropout rates," "premature termination personality disorder therapy")
-- Does the survivorship bias affect some secondary questions more than others? (Likely: the question about continuity vs. interruption is particularly vulnerable, because the interrupted group who *didn't come back* is invisible.)
+The question of continuity versus interruption (secondary question 1) is particularly compromised. The review can describe patients who interrupted therapy and returned, but the patients who interrupted and did not return are invisible. Any conclusion about the value of continuity is based on a sample from which the disconfirming cases have been systematically removed.
 
 ## Implications for the thesis
 
-State plainly: if the thesis is "healing takes years," the survivorship bias means we are more confident that *for people who stay in therapy, it takes years* than we are about the broader claim that *healing from complex developmental trauma takes years*. The distinction matters. The review's conclusions should be scoped accordingly.
+The survivorship bias requires that the thesis be scoped with precision. The review is more confident in the claim that *for people who stay in therapy, structural healing takes years* than in the broader claim that *healing from complex developmental trauma takes years*. The distinction matters. If the 18–39% who drop out of standard delivery [sciarrino-2020-intensive-review] include patients who healed through other means, through shorter therapy delivered differently, or through life experience alone, then the review's central finding applies to a subset — perhaps the majority, but demonstrably not all — of the affected population.
+
+Equally, the survivorship bias interacts with the safety prerequisite in a way that complicates interpretation. If pre-safety therapy time inflates duration estimates (as argued in the synthesis), and if patients without environmental safety are more likely to drop out (as the evidence suggests), then the longest-duration cases in the evidence base may simultaneously represent the patients who waited longest for safety AND the patients most able to persist despite its absence. These are different populations, and the review cannot distinguish between them.
+
+The honest statement is this: the review demonstrates convincingly that structural healing, when it occurs in therapy, takes years. It cannot demonstrate that structural healing requires years of therapy, because the population that might disconfirm this claim — people who achieved structural change through shorter or different means — is structurally absent from the evidence. Paris's (2020) observation that BPD remits gradually over 24 years regardless of treatment [paris-2020-access-pd] is the closest available evidence for a natural-course alternative, but it concerns symptom remission, not the structural endpoint the review foregrounds. The gap remains open.

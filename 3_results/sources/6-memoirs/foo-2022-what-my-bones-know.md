@@ -9,6 +9,11 @@ citation: "Foo, S. (2022). *What my bones know: A memoir of healing from complex
 url: https://www.goodreads.com/book/show/58214328-what-my-bones-know
 accessed: 2026-03-18
 access: secondary-enriched (NPR interview, Psychologists Off the Clock podcast, book summaries)
+summary: "8+ years before diagnosis; modality-switching; pro bono therapy as turning point; 10+ years total"
+duration_data: yes
+duration_range: "10+ years"
+stance: supports
+endpoint_definition: structural
 ---
 
 ## Summary

@@ -9,6 +9,11 @@ citation: "Eger, E. E. (2017). *The choice: Embrace the possible*. Scribner."
 url: https://www.goodreads.com/book/show/30753738-the-choice
 accessed: 2026-03-18
 access: abstract-only
+summary: "35 years before processing; healing ongoing at 90+; self-forgiveness as endpoint"
+duration_data: yes
+duration_range: "35+ years latency, then ongoing"
+stance: supports
+endpoint_definition: structural
 ---
 
 ## Summary

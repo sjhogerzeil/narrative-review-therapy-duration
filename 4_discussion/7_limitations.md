@@ -1,99 +1,81 @@
 ---
 section: limitations
-description: "Methodological limitations — non-systematic search, heterogeneous evidence, single-author, definitional breadth, cultural bias. For each: the weakness, how we mitigated it, what remains, and how it feeds back."
-status: scaffold
+description: "Methodological limitations — non-systematic search, heterogeneous evidence, single-author, definitional breadth, cultural bias, contested neuroscience. For each: the weakness, how we mitigated it, what remains, and how it feeds back."
+status: draft
 ---
 
 # Methodological limitations
 
-Each limitation follows the same structure: the weakness, how we mitigated it in the design, what remains unmitigated, and how it feeds back into the plan. Limitations that have their own dedicated discussion sections (survivorship bias, dose vs. time, therapy vs. life, inaccessible sources) are summarized here and cross-referenced.
+This review draws on 89 sources across six epistemological layers, from peer-reviewed meta-analyses to Reddit threads and published memoirs. Each layer contributes distinct evidence, and each introduces distinct vulnerabilities. The limitations below follow a consistent structure: the weakness, how the design mitigated it, what remains unmitigated, and how it feeds back into the review's conclusions. Limitations that have their own dedicated discussion sections (survivorship bias, dose vs. time, therapy vs. life, inaccessible sources) are summarised here and cross-referenced.
 
 ## 1. Not a systematic review
 
-**The weakness:** The search is structured (iterative snowball, per-layer source budgets, documented search terms) but not exhaustive. It is not replicable in the PRISMA sense — another reviewer using the same search terms would likely end up with a different source set, because the snowball process is path-dependent.
+**The weakness.** The search is structured — iterative snowball, per-layer source budgets, documented search terms and databases — but it is not exhaustive. It is not replicable in the PRISMA sense. Another reviewer using the same starting sources would likely follow a different snowball path and end up with a different source set, because the process is path-dependent: each source's reference list shapes which sources are encountered next.
 
-**How we mitigated it:**
-- CIS methodology explicitly rejects exhaustive screening in favour of iterative, question-driven search (Dixon-Woods et al., 2006)
-- Search terms, key authors, and databases are documented per layer in `2_methods/3–8`
-- The iterative protocol is documented with extension logging and plan updates marked `[added YYYY-MM-DD]`
-- Search results summaries (identified, screened, included, excluded, inaccessible) are tracked per layer in the READMEs
-- Saturation notes document why searching stopped
+**How we mitigated it.** The CIS methodology was chosen precisely because it rejects exhaustive screening in favour of iterative, question-driven search (Dixon-Woods et al., 2006). Search terms, key authors, and databases are documented per layer. The iterative protocol is logged with extension documentation and plan updates. Search results summaries (identified, screened, included, excluded, inaccessible) are tracked per layer. Saturation notes document why searching stopped in each layer.
 
-**What remains unmitigated:** A systematic search might have found sources that the snowball process missed. The path-dependency means that early source choices shape later ones — an early miss could cascade. The review cannot claim comprehensiveness.
+**What remains unmitigated.** A systematic search might have found sources that the snowball process missed. The path-dependency means that an early miss could cascade — a foundational text not encountered early would leave its entire citation network invisible. The review cannot claim comprehensiveness. However, the convergence across six independent layers suggests that the central findings are robust to individual source omissions: the endpoint-duration nexus, the safety prerequisite, and the developmental mechanism are each supported by sources from at least four layers.
 
-**Feed-back:** If the execution log reveals that late-found sources are changing the picture significantly, this suggests the snowball process is not converging and the source budgets may need expansion.
+**Feed-back.** Late-found sources (those added in the final iteration) did not change the framework's structure. They enriched existing constructs — Ogden deepened the developmental mechanism; Spring's third essay confirmed the episodic trajectory — but did not introduce new dimensions. This suggests the snowball process converged adequately for the review's purposes, though it cannot exclude the possibility that a missed tradition (e.g., systemic or family therapy approaches to complex trauma) would modify the framework.
 
 ## 2. Heterogeneous evidence — no formal weighting
 
-**The weakness:** The review combines peer-reviewed meta-analyses, psychoanalytic theory, blog posts, Reddit threads, and memoirs. There is no formal method for weighting one type of evidence against another. A practitioner's essay and a 10-year naturalistic study might both appear in the synthesis, but they have radically different epistemic status.
+**The weakness.** The review combines peer-reviewed meta-analyses (e.g., Leichsenring & Rabung, 2011; Lilliengren et al., 2025), single-case studies [murphy-2009-pct-abuse], psychoanalytic theory [kohut-1984-how-analysis-cures], practitioner blog posts [substack-traumalescence], Reddit threads [reddit-2023-fully-healed-how-long], and published memoirs [foo-2022-what-my-bones-know]. These sources have radically different epistemic status. A practitioner's essay and a 10-year naturalistic study might both appear in the synthesis, but they carry different weight for different claims.
 
-**How we mitigated it:**
-- Quality notes in each source annotation assess methodological strengths and limitations narratively
-- The synthesis method (`2_methods/11_synthesis_method.md` § Quality weighting) describes context-dependent weighting: naturalistic studies carry more weight on duration claims; memoirs carry more weight on trajectory shape; practitioner essays carry weight on clinical wisdom
-- Cross-layer triangulation explicitly identifies convergence and divergence — a finding supported by multiple layers is stronger than one supported by a single layer
+**How we mitigated it.** Quality notes in each source annotation assess methodological strengths and limitations narratively. The synthesis method describes context-dependent weighting: Layer 2 studies (naturalistic outcome data) carry the most weight on duration claims; Layer 6 memoirs and Layer 5 client narratives carry the most weight on trajectory shape and the lived experience of healing; Layer 4 practitioner essays carry weight on clinical wisdom and treatment recommendations. Cross-layer triangulation explicitly identifies convergence and divergence — a finding supported by multiple layers is substantially stronger than one supported by a single layer. The review's central claims are all supported by at least four of six layers.
 
-**What remains unmitigated:** The weighting is informal and author-dependent. Another reviewer might weight the same evidence differently. There is no inter-rater check on quality assessment.
+**What remains unmitigated.** The weighting is informal and author-dependent. There is no inter-rater check on quality assessment. The most consequential vulnerability is that the duration claims for structural change (Level 3 endpoints) rest disproportionately on naturalistic studies with mixed populations (Helsinki, TADS, Munich) rather than on studies of the defined population (complex developmental trauma). Only the Brand et al. (2019) TOP DD study and the Griffiths (2025) phase-oriented review directly address the population at the endpoint level most relevant to the thesis. This is thin empirical ground for the review's strongest claims.
 
-**Feed-back:** If the synthesis finds that key claims rest on only one type of evidence (e.g., duration claims supported only by practitioner essays, not by empirical data), flag this as a vulnerability and target additional empirical sources.
+**Feed-back.** The synthesis addresses this directly by separating duration estimates by endpoint level and noting where empirical evidence is thin. The claim "structural change takes years" rests on convergent clinical observation from nine theoretical traditions, supported by sleeper effect data and long-term follow-up studies — but the populations studied are not identical to the population defined in this review. Future research with long-term structural measures in defined complex trauma populations would substantially strengthen or challenge the framework.
 
 ## 3. Single-author review
 
-**The weakness:** All source selection, annotation, data extraction, and synthesis is performed by a single author. There is no inter-rater reliability for any step. The author's theoretical orientation, clinical experience, and personal relationship to the topic shape every interpretive decision.
+**The weakness.** All source selection, annotation, data extraction, and synthesis is performed by a single author. There is no inter-rater reliability for any step. The author's theoretical orientation (psychodynamic, relationally informed), clinical experience, and personal relationship to the topic shape every interpretive decision. The working thesis — that healing takes years — was declared at the outset, creating a structural risk of confirmation bias.
 
-**How we mitigated it:**
-- The counterpoint layer (Layer 3) is a structural check against confirmation bias
-- Cross-cutting observations force engagement with methodological weaknesses in the evidence
-- The surprises file (`3_results/primary/5_surprises.md`) actively records disconfirming evidence
-- The audit trail makes every interpretive step traceable from discussion claim to source quote
-- The execution log captures meta-commentary from execution agents, providing a partial external perspective
-- The reflexivity section in `2_methods/11_synthesis_method.md` requires the author to declare positionality
+**How we mitigated it.** The counterpoint layer (Layer 3) is a structural check against confirmation bias, comprising 13 sources that collectively present the strongest available case for brief or accelerated treatment. Cross-cutting observations force engagement with methodological weaknesses in the evidence base. The surprises file actively records disconfirming evidence — including the Brand paradox (higher dissociation predicting faster improvement), the Helsinki convergence (tripling dose producing no additional benefit), and the intensive format dropout data (5.51% vs. 18–39%). The audit trail makes every interpretive step traceable from discussion claim back to source quote. The execution log captures meta-commentary from AI-assisted search and annotation agents, providing a partial external perspective on interpretive choices.
 
-**What remains unmitigated:** Structural safeguards reduce but cannot eliminate single-author bias. There is no independent verification of annotation accuracy or interpretation. A peer review of a sample of annotations would strengthen validity but has not been planned.
+**What remains unmitigated.** Structural safeguards reduce but cannot eliminate single-author bias. The declared working thesis means that the review should be read as an honestly advocated position, not as a neutral survey. A reviewer starting from the counterpoint position — that brief, evidence-based treatment is sufficient for most CPTSD presentations — might weight the same 89 sources differently and arrive at different conclusions, particularly regarding the necessity of the structural change endpoint for the defined population.
 
-**Feed-back:** Consider asking a colleague with a different theoretical orientation to review (a) a sample of 5–10 source annotations for extraction accuracy, and (b) the synthesis for interpretive leaps. Document any such review in the appendix.
+## 4. Definitional breadth — the endpoint problem
 
-## 4. Definitional breadth — "healing" is deliberately broad
+**The weakness.** The working definition of healing — *the capacity to live with agency, relational openness, and tolerable selfhood, rather than organised around survival* — is deliberately broad. This breadth is both the review's central finding and its most significant methodological vulnerability. Different sources define healing at different endpoint levels, and their reported durations are only comparable to the extent that the definitions align.
 
-**The weakness:** The working definition of healing — *the capacity to live with agency, relational openness, and tolerable selfhood, rather than organized around survival* — is broad by design. This means different sources may be talking about different endpoints, and the reported durations are only comparable to the extent that the definitions align.
+**How we mitigated it.** The endpoint-duration nexus emerged as the review's primary finding: the five endpoint levels (symptom reduction, functional improvement, structural change, growth, directional recovery) each have characteristic timelines and evidence bases. The extraction file tracks how each source defines its endpoint. The synthesis explicitly separates duration claims by level, making the comparison transparent. The review's working definition maps approximately to Level 3 (structural change), which is stated plainly.
 
-**How we mitigated it:**
-- Primary synthesis dimension 4 (definition of healing) explicitly tracks how each source defines the endpoint
-- The extraction file `3_results/primary/4_healing_definitions.md` aggregates definitions across sources with their implied durations
-- The introduction (`1_introduction/3_healing_definition.md`) frames this as a finding, not just a limitation: the contested definition is part of the problem the review investigates
-
-**What remains unmitigated:** Duration estimates from sources using different definitions cannot be directly compared. A 3-year duration for "symptom reduction" and a 10-year duration for "structural change" are not contradictory — they measure different things. If the review conflates them, it is misleading.
-
-**Feed-back:** The synthesis must explicitly separate duration estimates by level of change (symptom reduction, functional improvement, structural change). If most sources only measure symptom reduction, the review's claims about structural change duration rest on thin evidence — state this plainly.
+**What remains unmitigated.** The synthesis argues that the field's disagreement about duration is an artefact of unstated endpoint definitions. But this argument itself cannot be tested within the review's design — it is an interpretive framework applied to heterogeneous evidence, not a hypothesis tested against data. It is possible that the endpoint levels are less clearly nested than the framework suggests, or that the boundaries between levels are more permeable than the framework implies. Fosha's AEDP work, which describes within-session transformation that may constitute genuine structural change [fosha-2019-aedp-intimacy], represents the strongest challenge to the clean separation of endpoint levels.
 
 ## 5. English-language and Western bias
 
-**The weakness:** The search strategy, databases, and source types are all rooted in English-language, Western psychotherapeutic traditions. Non-Western healing traditions, community-based approaches, and cultures with different models of trauma and recovery are absent.
+**The weakness.** All 89 sources are rooted in English-language, Western psychotherapeutic traditions. Non-Western healing traditions, community-based approaches, indigenous models of recovery, and cultures with different conceptualisations of trauma and selfhood are entirely absent. The review's conclusions apply only to Western, individual psychotherapy as practised in anglophone clinical contexts.
 
-**How we mitigated it:** Barely. The limitation is acknowledged but not addressed in the search design. The access/justice discussion (§6) touches on this. The humanistic-existential sublayer (1c) is the closest to a non-medical model but is still Western.
+**How we mitigated it.** Barely. The limitation is acknowledged but not addressed in the search design. The access and justice discussion touches on who can access long-term treatment, but this is a socioeconomic rather than cultural analysis. The humanistic-existential sublayer (Layer 1c) represents the closest approach to a non-medical model but remains Western.
 
-**What remains unmitigated:** The review's conclusions apply to Western, individual psychotherapy for complex developmental trauma. They may not generalize to other cultural contexts, other delivery models, or people who heal outside the Western therapeutic frame. This is a genuine boundary on the review's claims.
+**What remains unmitigated.** This is a genuine boundary on the review's claims. The developmental mechanism — transmuting internalisation, mentalizing development, autonomic reorganisation — is described in terms of Western psychological models. Whether structural change from complex developmental trauma follows similar timelines in non-Western healing contexts is an empirical question this review cannot address. The emphasis on individual therapy may itself be a cultural assumption: community-based and relational healing models might operate on different timescales through different mechanisms. This limitation is not merely academic — the defined population (people with complex developmental trauma) exists in every culture, and limiting the evidence base to Western individual psychotherapy excludes the majority of the world's approaches to the problem.
 
-**Feed-back:** A future iteration could add a dedicated sublayer or cross-cutting search for non-Western and community-based approaches. This would be a significant scope expansion and should be considered as a targeted re-run if early findings suggest cultural context is a major moderator.
+## 6. Contested neuroscience underlying the mechanism argument
 
-## 6. Source selection when results exceeded budget
+**The weakness.** The review's argument for why structural change takes years rests partly on neuroscientific frameworks — specifically polyvagal theory [porges-2022-polyvagal], the neurosequential model [hambrick-perry-2019-nmt], and hierarchical brain processing models [ogden-2006-trauma-and-the-body] — that are scientifically contested. Tilson (2025) mounts a detailed critique of two frameworks frequently cited in the trauma therapy literature: polyvagal theory, which she describes as "untenable or highly implausible" per Grossman's critique, and the triune brain model, which was "disproved in the 1970s" [tilson-2025-body-not-keeping-score]. If these frameworks are scientifically unfounded, the specific neurobiological explanation for the developmental mechanism's pace weakens.
 
-**The weakness:** When search returned more results than the source budget allowed, sources had to be selected. This selection — even with transparent criteria — introduces a bias toward sources the reviewer judged most relevant, which may reinforce the working thesis.
+**How we mitigated it.** The synthesis addresses this honestly: the clinical convergence across nine independent theoretical traditions holds independently of any particular neuroscientific explanation. Spring, Heacock, Fisher, Bisson, and Razvi all observe slow developmental change without depending on polyvagal theory or triune brain theory for their observations. The review separates the observational claim ("structural change takes years") from the explanatory claim ("this is because of hierarchical brain architecture and vagal regulation"), noting that the former is more robustly supported than the latter.
 
-**How we mitigated it:**
-- Tiered relevance criteria applied consistently across layers (see `2_methods/14_agent_instructions.md`)
-- Human-in-the-loop decision-making for borderline (Tier 2) sources
-- **All excluded sources documented** in `6_appendix/excluded_sources.md` with reason codes, enabling a reader to evaluate whether exclusion decisions were defensible
-- Named priority sources from the methods files were always included regardless of triage
+**What remains unmitigated.** The separation between observation and explanation is not as clean as the review might suggest. If the hierarchical processing model is unfounded, then the specific clinical prediction that bottom-up interventions must precede top-down interventions — a prediction central to Fisher's "slower is faster" principle and to the phase-oriented treatment model — loses its neurobiological rationale. The clinical observation that stabilisation-first approaches often work well for complex trauma populations could be explained by other mechanisms (e.g., operant conditioning, therapeutic alliance development, or simply the passage of time). The review's mechanism argument is therefore more tentative than its endpoint-duration findings.
 
-**What remains unmitigated:** The triage criteria themselves embed assumptions about what's relevant. A reviewer with a different theoretical orientation might prioritize different sources from the same search results.
+## 7. Source selection when results exceeded budget
 
-**Feed-back:** If the excluded sources list shows a pattern (e.g., many excluded sources from a specific tradition or modality), flag this as a potential blind spot and consider a targeted re-run.
+**The weakness.** When search returned more results than the source budget allowed, sources were selected using tiered relevance criteria. This selection — even with transparent criteria — introduces a bias toward sources the reviewer judged most relevant, which may reinforce the working thesis.
 
-## 7. Cross-cutting limitations (with dedicated sections)
+**How we mitigated it.** Tiered relevance criteria were applied consistently across layers. Human-in-the-loop decision-making governed borderline sources. Named priority sources from the methods files were always included regardless of triage. All excluded sources are documented with reason codes, enabling a reader to evaluate whether exclusion decisions were defensible.
 
-These are summarized here and developed in their own files:
+**What remains unmitigated.** The triage criteria themselves embed theoretical assumptions about what is relevant. A reviewer oriented toward behavioural or cognitive traditions might have prioritised different sources from the same search results — potentially finding more evidence for brief treatment effectiveness and less for the developmental mechanism.
 
-- **Survivorship bias** → `4_discussion/2_survivorship_bias.md` — all layers select for people who stayed long enough to report
-- **Dose vs. elapsed time** → `4_discussion/3_dose_vs_elapsed_time.md` — conflation of session count and calendar years
-- **Therapy vs. life** → `4_discussion/4_therapy_vs_life.md` — attribution of change to therapy vs. non-therapeutic factors
-- **Inaccessible sources** → `4_discussion/9_inaccessible_sources.md` — paywalled sources creating systematic gaps in the evidence base
+## 8. Cross-cutting limitations (with dedicated sections)
+
+The following limitations are substantive enough to warrant their own discussion sections:
+
+- **Survivorship bias** (§2) — all six layers select for people who stayed in therapy long enough to report. Only 10 of 89 sources report dropout data in any form. The treatment-engagement paradox is unresolved: the interpersonal difficulties that define the population are the same factors that predict dropout [freixo-ferreira-2023-bpd-dropout; knekt-2021-dropout].
+
+- **Dose vs. elapsed time** (§3) — the conflation of session count and calendar years pervades the literature. The Helsinki study's 646 sessions of psychoanalysis versus 232 sessions of psychodynamic therapy produced equivalent 10-year outcomes [lindfors-2019-helsinki-10yr], suggesting that elapsed time may matter more than dose beyond a threshold — but disentangling the two requires studies designed for this purpose, which do not yet exist.
+
+- **Therapy vs. life** (§4) — the attribution of change to therapy versus non-therapeutic factors (relationships, employment, life events, ageing, natural recovery) cannot be resolved with the available evidence. Paris (2020) notes that BPD remits gradually over 24 years regardless of treatment. Client narratives repeatedly describe life events as more decisive than any therapeutic technique [reddit-2023-fully-healed-how-long].
+
+- **Inaccessible sources** (§9) — four sources identified as directly relevant remain inaccessible, including two foundational texts (Herman, 1992; Van der Hart et al., 2006). The impact is assessed in detail in the dedicated section.

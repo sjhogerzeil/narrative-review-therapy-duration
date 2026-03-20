@@ -60,3 +60,16 @@ The key distinction is between **forced interruption** (financial, institutional
 | reddit-2024-recovered-cptsd | 5 | 5 years continuous weekly/biweekly with same therapist. No reported breaks. Sustained, uninterrupted engagement | Supports continuity |
 | reddit-2025-stages-healing-stage3 | 5 | Phases flow into each other; Stage 3 involves reduced formal therapy ("I had already done the therapy work") — tapering while self-directed work intensifies | Mixed |
 | reddit-2024-10-years-900-appointments | 5 | 10 years twice-weekly — most sustained continuous engagement in Reddit corpus. Terminated by therapist death (forced), not chosen | Supports continuity |
+
+<!-- New sources added 2026-03-19 -->
+| spring-2020-recovering-developmental-trauma | 6 | Implies continuous engagement: "week in, week out, session after session" over 9.5 years. No mention of breaks, pauses, or resumptions within this period | Supports continuity |
+| spring-2020-what-does-recovery-look-like | 6 | Journey metaphor explicitly includes interruptions: "If we stop for a while in Watford... that's okay too. Sometimes the car breaks down." Normalises interruption as part of recovery rather than failure of it. 15-year elapsed arc includes periods of "heading south" and doubling back | Supports interruption |
+| spring-2021-falling-down-getting-back-up | 6 | CRUCIAL — episodic trajectory: ~9yr therapy (2005-2016) → ~3yr stable period without therapy (2017-2019) → return after rape/pandemic (summer 2020-). Prior gains retained; self-compassion was the differentiator in the second episode. Clearest case in dataset of episodic therapy as normative pattern rather than failure | Supports interruption |
+| heacock-2022-psychotherapy-twice-told | 4 | 15 years continuous weekly, but with significant interruptions: ~1yr gap when therapist graduated (failed transfer to another trainee), multiple maternity leaves (4 pregnancies), 6-month postpartum leave. Decompensation during absences suggests continuity was necessary; failed transfer underscores relationship-specificity | Mixed |
+| heacock-2019-healing-psychedelics | 4 | Sequential phases with likely gaps between modalities: talk therapy → 2.5yr somatic → 1.5-2yr attachment → MDMA. Transitions between providers imply interruptions. Gap between conventional therapy phase and MDMA session (2014) spans years | Mixed |
+| fosha-2019-aedp-intimacy | 3 | No data. AEDP's within-session consolidation (meta-processing) may reduce regression risk between sessions, but macro-continuity not discussed | Not addressed |
+| fisher-cutting-edge-tist | 4 | No data. Stabilisation-first model implies continuous treatment (interruptions risk destabilisation), but not discussed explicitly | Not addressed |
+| fisher-transforming-legacy | 1a | No data. Workbook format implies ongoing continuous engagement within the therapeutic relationship. Triggering during the work is expected and folded into the process | Not addressed |
+| bisson-2024-recognising-cptsd | 1a | Davitt: "seeing [therapist] for many years since, on and off" — explicitly interrupted pattern. Two failed therapeutic relationships before finding current therapist represent prior discontinuities | Mixed |
+| tilson-2025-body-not-keeping-score | 3 | No data | Not addressed |
+| ogden-2006-trauma-and-the-body | 1d | No data | Not addressed |

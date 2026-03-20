@@ -71,6 +71,19 @@ The thesis "healing takes years" is true at the structural/growth level and fals
 | reddit-2024-10-years-900-appointments | 5 | Not defined; therapy had no planned endpoint | Not-defined | Open-ended (10+ years) | Therapy as ongoing relational practice, not bounded treatment |
 | reddit-2021-how-long-after-therapy-feel | 5 | OP's implicit endpoint: "normal" and "happy." Commenter reframes: "compassionate observation" | Mixed | Early in process | Gap between external-life benchmarks (OP) and process-oriented endpoints (commenter) |
 
+<!-- New sources added 2026-03-19 -->
+| spring-2020-recovering-developmental-trauma | 6 | Functional/developmental: affect regulation, complex thought, empathy, self-compassion — adult-level developmental capacities | Functional | 9.5 years | Developmental endpoint implies duration = developmental time |
+| spring-2020-what-does-recovery-look-like | 6 | Direction, not destination: "green zone," remembering without reliving, joy, choosing from "front brain." Recovery as orientation, not location | Functional | 15 years and ongoing | Directional endpoint means there is no fixed stopping point |
+| spring-2021-falling-down-getting-back-up | 6 | Functional but provisional: "comfortable relationship with past, no overt dissociativity." New trauma demonstrated endpoint is not permanent | Functional | ~15 years, episodic | Provisional endpoint — may need re-establishment after new trauma |
+| fisher-cutting-edge-tist | 4 | Structural: changed relationship with self; symptoms as survival adaptations; prefrontal function maintained during activation | Structural | Implicit (long-term) | Endpoint is ongoing capacity, not cure |
+| fosha-2019-aedp-intimacy | 3 | Multi-level: experiential, relational, structural, transformational. "Transformation" undefined against criteria | Mixed | 6 sessions (documented case) | Least operationalised endpoint; most compressed timeline |
+| fisher-transforming-legacy | 1a | Multi-dimensional structural: somatic, cognitive, regulatory, integrative, identity | Structural | Implicit (long-term) | Most ambitious endpoint definition in the dataset — 5 dimensions |
+| heacock-2022-psychotherapy-twice-told | 4 | Relational: capacity for trust, romantic relationship, vulnerability, internalised self-regulation | Growth/reconnection | 15 years (ongoing) | Open-ended relational endpoint — no completion point |
+| heacock-2019-healing-psychedelics | 4 | Layered: functional → stable → relationally capable → experience of love | Growth/reconnection | 4-5+ years + MDMA | Each endpoint reveals next level |
+| bisson-2024-recognising-cptsd | 1a | Mixed: symptom management + skills development + sense of control. Flashbacks persist at 53 | Mixed | Years-decades | Recovery ≠ symptom elimination |
+| tilson-2025-body-not-keeping-score | 3 | Implied functional: "healthy relationships, meaningful careers, loving families" | Functional | N/A | Implies many achieve this without specialised therapy |
+| ogden-2006-trauma-and-the-body | 1d | Integrative: coordinated processing across sensorimotor, emotional, and cognitive levels | Structural | Implicit (long-term) | Hierarchical model creates multi-level endpoint |
+
 ## The endpoint question as a finding
 
 The question "what counts as healed?" is not a methodological footnote — it is the central finding of this review. The answer to "how long does it take?" is: "it depends on what you mean by healing."
@@ -82,3 +95,33 @@ The table above makes the pattern unmistakable:
 - **Growth/reconnection** endpoints (PTG, identity transformation, relational capacity) produce durations of years to decades
 
 The counterpoint sources (Layer 3) overwhelmingly use symptom reduction endpoints. The supporting sources (Layers 1, 4, 6) overwhelmingly use structural or growth endpoints. Much of the "disagreement" about duration dissolves when you specify what is being measured.
+
+<!-- New sources added 2026-03-19 -->
+
+## New endpoint patterns from Layers 1a, 3, 4, 6
+
+### Recovery as compass bearing, not destination (Spring)
+
+Spring's "heading north" metaphor (from `spring-2020-what-does-recovery-look-like`) is perhaps the most radical endpoint redefinition in the dataset. She argues that recovery is not a destination (Scotland) but a direction (north). At any given moment, you may be crawling, stopped, or even temporarily heading south — but as long as the overall orientation is northward, you are recovering. She explicitly rejects any fixed timescale: "How dare anyone suggest such an arbitrary timescale — in fact any timescale at all!"
+
+This has a precise implication for the endpoint divergence: if recovery is directional rather than locational, then the question "how long does it take?" becomes meaningless in its usual form. You cannot ask "how long does it take to arrive?" if there is no arrival point. The question becomes "are you heading north?" — which is a binary (yes/no) rather than a duration measure. Spring's 15-year timeline is not the time to reach an endpoint but the elapsed time of a northward journey that continues. She defines the functional markers of recovery — living mostly in the "green zone," remembering trauma without reliving it, experiencing joy alongside grief, choosing from the "front brain" — but explicitly frames these as descriptions of a direction, not a destination.
+
+### C-PTSD as a structurally different endpoint category (Bisson)
+
+Bisson's clinical framing introduces a diagnostic-level endpoint distinction. PTSD and C-PTSD share core symptoms (re-experiencing, avoidance, hyperarousal) but C-PTSD adds disturbances in self-organisation: emotional regulation difficulties, negative self-concept, and disturbed relationships. This means a person can meet recovery criteria for PTSD (symptom reduction) while remaining profoundly impaired in the C-PTSD domains. Davitt illustrates this concretely: at 53, after approximately 10 years of active work, he still experiences flashbacks during touch rugby and describes himself as having been "an eight-year-old boy, even though I was a 50-year-old man." The C-PTSD endpoint — identity repair, relational capacity, emotional regulation — is structurally different from and longer than the PTSD endpoint. Bisson states directly: "the recovery rates from complex post-traumatic stress disorder are not likely to be as high as they are from post-traumatic stress disorder." This is the endpoint divergence operating at the diagnostic level: same trauma, different diagnosis, different endpoint, different duration.
+
+### Micro-endpoints versus macro-endpoints (Fosha)
+
+Fosha's AEDP introduces the distinction between within-session transformation and long-arc structural change. In AEDP, a genuine transformation can be witnessed, meta-processed, and consolidated within a single session. This is a real endpoint — the client experiences a qualitative shift. But is this a micro-endpoint (a state change that may or may not accumulate into structural change) or a macro-endpoint (a permanent transformation)? Fosha's 6-session DVD case suggests that for some clients, a small number of micro-endpoints can constitute a complete treatment. But AEDP does not claim this generalises to complex developmental trauma. The complication for the thesis is that the *grain size* of the endpoint matters: if you measure session-level transformation (AEDP), you see rapid change; if you measure personality-level reorganisation (Kohut, Lindfors), you see years. Both observations may be true simultaneously. The endpoint is "transformation" — but transformation at what scale?
+
+### Symptom-focused endpoints as the evidence-based standard (Tilson)
+
+Tilson does not define endpoints explicitly but endorses treatments (TF-CBT, Prolonged Exposure) whose evidence base is built on symptom-reduction measures (CAPS-5, PCL). By arguing that many people "turn out okay" without specialised intervention — forming "healthy relationships, meaningful careers, and loving families" — she implicitly defines the endpoint as functional adequacy rather than structural transformation. If "turning out okay" is the endpoint, then extended therapy is unnecessary for most people. This is the endpoint divergence in action: different endpoints, different duration conclusions. Tilson's argument is strongest when applied to the population that *does* turn out okay, and weakest when applied to the population described by Bisson (C-PTSD with arrested development) or Spring (DID requiring 9.5 years of developmental rebuilding).
+
+### Therapy as ongoing relational practice, not bounded treatment (Heacock/Jacklin)
+
+The Heacock/Jacklin episode documents a 15-year therapeutic relationship with no defined endpoint and no anticipated termination. Sherlock does not call it "therapy" but "Erin time." The implicit markers of progress — capacity for trust, marriage, self-regulation, vulnerability — are relational capacities, not symptom reductions. The absence of an endpoint IS the finding: if the therapeutic relationship is the developmental environment rather than a bounded treatment, then termination is not the goal. Duration is unbounded by design. This is the most extreme case of endpoint-determining-duration in the dataset: no endpoint means no end.
+
+### Structural endpoint without elimination (Fisher)
+
+Fisher's workbook normalises survival strategies rather than targeting their elimination: "Normalizing their suicidality, their self-harm, their hopelessness... would lessen the shame and help them to experience themselves as ingenious survivors instead of humiliated victims." The endpoint is a changed *relationship* with symptoms, not their absence. "Slower is faster" implies that the structural endpoint cannot be reached by rushing. If the endpoint includes somatic resolution ("a clear physical and emotional sense that 'it' is over"), cognitive integration (acknowledging the past without re-experiencing it), expanded window of tolerance, AND identity transformation (from victim to survivor), each component adds time. The workbook itself is positioned as preparation for processing — even the stabilisation endpoint is only the beginning of the treatment arc.

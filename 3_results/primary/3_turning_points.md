@@ -103,3 +103,33 @@ status: draft
 ### Relational match
 
 **reddit-2023-7-therapists-average** — Finding "the right therapist" after cycling through 1-30+ as decisive turning point. u/Thr0wnF4rAw4y: 20-30 therapists over lifetime, then found "AMAZING" IFS therapist. u/tamae24: assigned therapist who happened to fit — "saved my life."
+
+<!-- New sources added 2026-03-19 -->
+
+### Relational breakthroughs (new sources)
+
+**heacock-2022-psychotherapy-twice-told** — Multiple turning points across 15 years: (1) Supervisor's advice to "start watching what he does instead of what he says" — reframing Sherlock's reliable attendance despite verbal rejection. (2) ~3 years: Sherlock stopped hiding behind anger and began disclosing authentic feelings. (3) Erin's postpartum depression and extended leave: Sherlock demonstrated internalised self-regulation by caring for his therapist — "I'm going to be okay. You have given me the tools I need." The therapist's vulnerability became therapeutic material that deepened the work. (4) Sherlock's marriage — the therapeutic relationship as template for romantic relationship: "My relationship with Erin taught me how to have relationships with pretty much everybody else."
+
+**spring-2020-recovering-developmental-trauma** — No single turning point identified. The developmental model explicitly rejects the concept of breakthrough moments: progress is invisible in real-time, accumulating through "session after session" of repeated relational affect regulation. The turning point is a retrospective recognition that enormous change has occurred — not a moment but a realisation.
+
+**spring-2021-falling-down-getting-back-up** — Self-compassion as turning point for the second therapy episode. Spring entered the second episode with "red-hot determination" to practice self-compassion, knowing that self-blame slows the process. The contrast with the first episode (shame-laden, confused, "saw myself as both mad and bad") demonstrates that prior therapeutic learning transforms the quality of subsequent crises.
+
+### Diagnostic/recognition shifts (new sources)
+
+**bisson-2024-recognising-cptsd** — Davitt's arrested development recognition: "I was an eight-year-old boy, even though I was a 50-year-old man." The shift from "what happened to me?" to "what didn't happen to me?" — understanding developmental neglect as the core wound rather than searching for discrete traumatic events.
+
+**fisher-transforming-legacy** — Psychoeducation as empowerment: "If the survivors knew what the therapist knew, then they could be more like equals in trauma work." The turning point is normalisation — reframing suicidality, self-harm, and isolation as "ingenious survival strategies" rather than pathology. This de-shaming creates the foundation for all subsequent work.
+
+### Modality shifts (new sources)
+
+**heacock-2019-healing-psychedelics** — Three sequential modality shifts, each a turning point: (1) from talk therapy to somatic work — recognition that understanding alone changed nothing structurally; (2) from somatic to attachment/Gestalt work — recognition that releasing traumatic charge was insufficient without building new relational patterns ("just because I don't have trauma, it doesn't mean that I have this new..."); (3) from conventional therapy to MDMA — breakthrough to a depth all prior work could not reach. The first MDMA session produced the experience of love itself: "I saw this little bit of light... oh my God, this is love."
+
+### Theoretical reframing as turning point
+
+**fosha-2019-aedp-intimacy** — Meta-processing (processing the experience of change itself) as a turning point technique. Rather than change accumulating slowly, AEDP consolidates change within the session through explicit recognition: "What's it like that you and I... ended up here when we started back there?" The turning point is making the patient aware that transformation has already occurred.
+
+**ogden-2006-trauma-and-the-body** — Differentiation of physiological from emotional arousal as a clinical turning point. When clients learn to separate body sensations from emotions, "the amount and kind of information are reduced and more ably processed." This uncoupling is a prerequisite for all subsequent emotional and cognitive processing.
+
+### Systemic/access turning points
+
+**spring-2020-what-does-recovery-look-like** — Adequacy of therapeutic support as the decisive variable. Spring reframes "failure to recover" as systemic failure: "a lot of it is our failure as a society to adequately provide public transport to enable people to head north." The turning point for the individual is receiving adequate support — not a technique or a relationship, but a system that works.

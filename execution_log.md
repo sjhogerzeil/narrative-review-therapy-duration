@@ -469,3 +469,232 @@ The orchestrator may then:
 - Herman 1992 book (full text) — still not accessed; 1998 paper is a partial substitute
 - Foo 2022 book (full text) — not accessed; interviews/reviews are partial substitute
 - Van der Hart 2006 book (full text) — not accessed
+
+### 2026-03-19 Phase 3: Synthesis pass (orchestrator, ultrathink)
+
+**Task:** Read all 16 extraction files, identify cross-layer patterns, generate synthetic constructs, write the synthesising argument in `4_discussion/1_synthesis.md`.
+
+**Layer/file:** `4_discussion/1_synthesis.md`
+
+**Issues identified:**
+- None blocking. The extraction data was well-structured and cross-referenced.
+
+**Questions raised:**
+- The Brand paradox (higher dissociation = faster improvement) needs resolution. Hypothesis: symptom measures capture room-to-improve, not structural integration. Needs empirical testing.
+- The "escalation gap" (years spent finding the right therapist) may inflate all naturalistic duration estimates. How much of "it takes years" is actually "it takes years to find the right match"? This is methodologically irresolvable from the current data.
+- Should the synthesis address the AI-assisted self-therapy finding (reddit-2025-full-cure-how-long) more cautiously? It is a single anecdote with no empirical basis. Currently included as "warrants monitoring" — may be better omitted entirely.
+
+**Suggestions:**
+- Phase 4 (discussion sections) should be written in the order: counterpoint response (5) → survivorship bias (2) → dose vs time (3) → therapy vs life (4) → access (6) → limitations (7) → implications (8). Rationale: counterpoint response is the most important intellectually and should be written first while the synthesis argument is fresh. Limitations and implications depend on all prior sections.
+- The three emergent constructs (endpoint divergence, sleeper effect, developmental mechanism convergence) should each be formally registered as synthetic constructs per CIS methodology. Currently documented in extraction files 8, 9, 10; the synthesis integrates them but they should also be noted in `6_appendix/iterations/` as methodological transparency.
+- HUMAN CHECKPOINT recommended before Phase 4: the synthesising argument (the 3-factor model, the claim that the field's disagreement is an artefact) is the review's original contribution. The author should review and approve it before it structures the discussion sections.
+
+**Emerging patterns:**
+- The "safety as clock-starter" construct (identified in Reddit data) may deserve its own extraction file or at least formal recognition as a synthetic construct. Multiple sources converge: ElishaAlison's same-therapist different-outcome, r/cant-heal-while-surviving, Eger's 35-year latency, Porges's neuroception, Herman's Phase 1 as prerequisite. The construct: effective therapy duration begins at the establishment of safety, not at the first appointment. All duration data that includes pre-safety time is systematically inflated.
+- The "borrowed vs owned" distinction (Kohut) maps precisely onto the sleeper effect. "Borrowed" structure = gains measured at end-of-treatment that may not persist. "Owned" structure = gains that emerge after treatment ends because they are genuinely internalised. This could be a powerful theoretical bridge between psychoanalytic theory and outcome research.
+
+**Inaccessible sources:**
+- None new.
+
+### 2026-03-19 Annotation agent: 3 new gap-filling sources
+
+**Task:** Fetch 2 web transcripts and read 1 zettelkasten file, then create annotated source notes for 3 new sources: fisher-cutting-edge-tist (Layer 4), fosha-2019-aedp-intimacy (Layer 3), fisher-transforming-legacy (Layer 1a).
+**Layer/file:** 4-practitioner, 3-counterpoint, 1a-trauma-clinical
+
+**Issues identified:**
+- The Fisher podcast transcript (therapyonthecuttingedge.com) was truncated — approximately the final third was missing from the web page. The later discussion on suicidality, BPD/CPTSD overlap, and treatment conclusions was available only in summarised form. Quotes from the truncated section are paraphrased, not verbatim.
+- The Fosha/Neil Sattin podcast page (neilsattin.com) could not be fetched — the page is JavaScript-rendered (Divi/WordPress theme) and WebFetch only received CSS/metadata. The transcript is reportedly available at neilsattin.com/fosha but that URL also failed. Used the Psychotherapy.net interview with Fosha instead, which covers the same core AEDP material (healing from the get-go, transformance, meta-processing) but is a different interview — not the Neil Sattin episode. The citation and URL have been updated to reflect the actual source used.
+- The Fisher workbook (fisher-transforming-legacy) was annotated from 85 Kindle highlights, not the full text. Access is marked as "abstract-only." Coverage is concentrated in introductory chapters and the structural dissociation chapter. Later practical chapters are underrepresented.
+
+**Questions raised:**
+- The Fosha source complicates the thesis in an interesting way: AEDP does not claim healing is brief, but that transformation begins immediately. Should the review distinguish between "how long does healing take?" and "when does healing begin?" These are different questions with different implications for the thesis. The current framing assumes healing = elapsed time from start to endpoint. AEDP suggests that the trajectory of change may have a different shape — immediate transformation followed by consolidation — rather than gradual accumulation.
+- Fisher's "slower is faster" principle and Fosha's "healing from the get-go" appear to be in direct tension. Both are experienced trauma clinicians. Is this a genuine disagreement, or are they addressing different populations (Fisher: high-complexity/dissociative; Fosha: broader trauma)? This tension could be productive for the discussion chapter.
+
+**Suggestions:**
+- Consider adding the Psychotherapy.net Fosha interview as a distinct source from the Neil Sattin episode if the Neil Sattin transcript becomes available later. They may cover different ground.
+- The 6-session DVD-documented AEDP treatment (referenced by Fosha) could be a valuable counterpoint source if accessible. It would be the strongest empirical challenge to the multi-year thesis.
+- Fisher's two sources (podcast + workbook) are highly complementary and could be cross-referenced in synthesis: the podcast provides the clinical philosophy in spoken form, the workbook provides the theoretical and practical framework in written form.
+
+**Emerging patterns:**
+- The "stabilisation as prerequisite" vs "transformation from the get-go" tension maps onto a broader pattern: the field is divided not just on duration but on the *shape* of the healing trajectory. Phase models (Janet/Herman/Fisher) assume a staircase: flat → flat → step up. Experiential models (AEDP/Fosha) assume an immediate slope: change begins and deepens continuously. This shape question may deserve its own synthesis dimension.
+- Fisher's emphasis that the workbook must be used *within the therapeutic relationship* (not as homework) reinforces the "relationship as medicine" construct identified in earlier sources. The pacing of healing is relational, not informational — the same content delivered outside the relationship would be less effective.
+
+**Inaccessible sources:**
+- Neil Sattin Episode 176 transcript (neilsattin.com/fosha) — JavaScript-rendered page, inaccessible via WebFetch. Substituted with Psychotherapy.net interview.
+
+---
+
+### 2026-03-19 Annotation agent: Carolyn Spring podcast episodes (Layer 6)
+
+**Task:** Fetch and annotate 3 Carolyn Spring podcast episodes as Layer 6 memoir sources.
+
+**Files created:**
+- `3_results/sources/6-memoirs/spring-2020-recovering-developmental-trauma.md`
+- `3_results/sources/6-memoirs/spring-2020-what-does-recovery-look-like.md`
+- `3_results/sources/6-memoirs/spring-2021-falling-down-getting-back-up.md`
+
+**Issues:**
+- WebFetch returned summaries rather than verbatim text on first attempt for all three URLs. Second attempts with stronger prompts yielded near-complete text for sources 1 and 2, and a detailed but possibly incomplete text for source 3. Quotes used in annotations are drawn from the fetched text and should be verified against the original if exactness is critical.
+- Source 3 (falling-down) was the hardest to extract in full. The final fetch appears comprehensive but may have minor omissions.
+
+**Observations and emerging patterns:**
+- The three episodes together form a longitudinal case study spanning ~15 years (2005-2021): breakdown, ~9 years of therapy, ~3 years of stable functioning, return to therapy after new trauma. This is unusually well-documented for a memoir source.
+- The episodic pattern in source 3 (therapy-stable-therapy) is analytically important: it challenges the assumption that "duration of therapy" is a single continuous number. Spring's total time in therapy is ~9+ years, but the total elapsed healing timeline is ~15+ years, with significant non-therapy periods that were also part of recovery.
+- Spring's developmental-rate metaphor (source 1) provides a theoretical framework for why healing is slow — survivors are rebuilding missed developmental stages. This maps onto the Kohut "borrowed vs owned" structure observation from the previous log entry: developmental acquisition cannot be rushed.
+- The access theme is strongest in source 2: Spring explicitly blames systemic failure for people spending 10-30 years in therapy without recovery. This is relevant to the "dose vs elapsed time" cross-cutting dimension — inadequate therapy (low dose, poor quality) inflates apparent duration without producing comparable outcomes.
+- Self-compassion as a differentiator between therapy episodes (source 3) is a novel observation: the same person, same diagnosis, but fundamentally different experience in a second therapy episode because of internalised self-compassion from the first. This supports the "sleeper effect" / "owned structure" construct.
+
+**Suggestions:**
+- These three sources should be cross-referenced with each other in the synthesis — they form a coherent longitudinal case.
+- The "episodic therapy" pattern (therapy-stable-therapy) may warrant recognition as a distinct trajectory type in the primary synthesis, alongside continuous long-term therapy and serial short-term therapy.
+- Run `./sync.sh all` to update references, index, and Layer 6 README.
+
+**Inaccessible sources:**
+- None.
+
+---
+
+## 2026-03-19 — Comprehensive safety scan (all 78 sources)
+
+**Agent task:** Scan all 78 source annotations for data relevant to the "safety as clock-starter" emergent construct, then append findings to `3_results/primary/11_safety_as_clock_starter.md`.
+
+**Sources scanned:** All 78 annotated sources across all 6 layers (excluding `_reddit_raw/` directory and `SOURCE_TEMPLATE.md`).
+
+**Findings appended:**
+- 8 new direct evidence entries (environmental/relational safety as precondition)
+- 14 new theoretical support entries (safety as prerequisite for therapeutic mechanism)
+- 9 new implicit evidence entries (safety assumed but not discussed)
+- 4 counter-evidence entries (safety may not be prerequisite in all cases)
+- Silence pattern documented across 4 source categories
+- 4 new implications added to synthesis section
+
+**Key emerging patterns:**
+
+1. **Pre-existing safety explains rapid responders.** The counterpoint literature's rapid outcomes (de Jongh EMDR, intensive formats) may reflect patients who arrive with more environmental/relational safety already established. Farina's "adaptive information processing capacity" maps onto pre-existing safety resources.
+
+2. **Intensive formats may achieve safety through containment rather than bypassing it.** Sciarrino's dramatically lower dropout (5.51% vs 18-39%) in intensive formats, combined with the provision of boarding/lodging and removal from daily stressors, suggests the format provides environmental safety that standard weekly therapy does not.
+
+3. **Pharmacological agents create temporary safety windows.** MDMA, ketamine, and cannabis may pharmacologically achieve what relational safety achieves slowly — a neuroceptive state of safety (Porges) that permits processing of defended material.
+
+4. **The dose-effect literature has a systematic measurement artifact.** ALL dose-response data (Howard 1986, Lambert, Leichsenring) measure duration from first session, not from safety establishment. The construct predicts that separating pre-safety sessions from post-safety sessions would produce a steeper, faster dose-effect curve.
+
+5. **The "getting worse before better" phase maps onto safety transition.** Client narratives describing severe exacerbation in early therapy may reflect the nervous system beginning to emerge from defensive shutdown as neuroception detects safety — paradoxically, feeling worse IS the signal that safety is being established.
+
+**Suggestions for plan:**
+- The safety construct should be cross-referenced with the endpoint-divergence construct (10_endpoint_divergence.md): different endpoints may require different safety thresholds.
+- The counterpoint response (4_discussion/5_counterpoint_response.md) should integrate the "pre-existing safety" explanation for rapid responders.
+- Consider whether "safety as clock-starter" should be reframed as "safety as rate-limiting prerequisite" to better capture the recursive nature (Blue Knot: safety must be re-established repeatedly).
+
+**Inaccessible sources:** None (all 78 were readable).
+
+---
+
+### 2026-03-19 Agent: Supplementary safety scan — gap-filling pass
+
+**Task:** Re-scan all 78+ source annotations for safety-relevant data missed by the initial comprehensive scan. Append supplementary findings to `3_results/primary/11_safety_as_clock_starter.md`.
+**Layer/file:** `3_results/primary/11_safety_as_clock_starter.md`
+
+**Changes made:**
+Appended a "Supplementary findings from full source scan" section with:
+- 4 additional direct/empirical evidence entries (griffiths-2025, links-2015, sohal-2022, reddit-2025-stages-healing-stage3)
+- 6 additional theoretical support entries (joseph-2012, bcpsg-2010, schore-2021, fonagy-2002, winnicott-1965, plus a note connecting Winnicott's "holding environment" directly to the safety construct)
+- 5 additional implicit evidence entries (myptsd-2015, myptsd-2020, paris-2020, fonagy-2015-tads, bateman-fonagy-2008)
+- Refined silence pattern distinguishing psychoanalytic silence (describe safety in different vocabulary), dose-effect silence (measurement artifact), and counterpoint strategic silence (conflate stabilisation exercises with felt safety)
+
+**Key findings not in previous scan:**
+1. **Sohal 2022 as safety-threshold data:** The 15-session minimum for significant change in PCT with suicidal clients is the clearest empirical marker of safety-establishment duration. Sessions 1-14 produced no measurable change — this IS the safety-building period.
+2. **Joseph 2012 curvilinear model as safety argument:** The inverted-U between stress and growth means processing capacity exists only within a safety window. Too little stress = no growth impetus; too much = overwhelm. Safety = calibrating the stress level into the processable range.
+3. **Winnicott's "holding environment" IS the safety construct:** The psychoanalytic tradition describes what this review calls "safety" but uses its own vocabulary (holding environment, selfobject transference, surviving destruction). The silence on "safety" is terminological, not substantive.
+4. **Paris 2020 naturalistic recovery reread:** The McLean BPD study showing recovery over 24 years may reflect gradual accumulation of environmental safety (financial stability, relationship maturation) rather than "natural course." Safety-as-clock-starter offers an alternative explanation for "naturalistic" improvement.
+5. **Bateman-Fonagy MBT as safety-through-structure:** The partial hospitalization format (5 days/week, therapeutic community, coordinated team) may succeed because it provides environmental safety through its structure — not through stabilisation exercises.
+
+**Questions raised:**
+- Should the construct distinguish between TYPES of safety (environmental, relational, autonomic/neuroceptive) that may be established at different rates?
+- The Links GPM 6-week safety timeline vs. Herman's "months to years" for Phase 1 suggests a population gradient: BPD patients with some pre-existing safety resources may establish safety faster than severely dissociative patients.
+
+**Suggestions:**
+- The refined silence pattern (psychoanalytic = different vocabulary, dose-effect = measurement artifact, counterpoint = strategic conflation) should be integrated into the counterpoint response discussion section.
+- The sohal-2022 15-session threshold should be cross-referenced with the dose-effect literature as a safety-inflection point.
+
+**Inaccessible sources:** None.
+
+---
+
+## 2026-03-19: Extraction of 11 newly annotated sources into all extraction files
+
+**Task:** Extract data from 11 new source notes (3 Spring memoirs, 2 Fisher, 1 Fosha, 2 Heacock, 1 Bisson, 1 Tilson, 1 Ogden) into all relevant primary (11 files) and secondary (6 files) extraction files.
+
+**What was done:**
+- Read all 11 source notes in full
+- Read all 17 extraction files to understand existing format
+- Found that 4 secondary files (continuity, modality, therapist, frequency) and 2 secondary files (phase_structure, adjuncts) had already been partially updated by a prior process with a `<!-- New sources added 2026-03-19 -->` marker. Verified these were complete and correct.
+- Appended new data to the following primary files that needed updating:
+  - `1_duration.md` — 11 new rows in summary table + updated layer narratives for Layers 1a, 1d, 3, 4, 6
+  - `2_trajectory.md` — trajectory descriptions for all 11 sources, plus 2 new trajectory types in the emergent typology (developmental/maturational, sequential multi-modality)
+  - `3_turning_points.md` — turning points from 9 sources (relational breakthroughs, diagnostic shifts, modality shifts, theoretical reframing, systemic access)
+  - `4_healing_definitions.md` — 11 new rows + updated pattern analysis
+  - `5_surprises.md` — 7 new surprise entries (#17-23): AEDP first-session transformation, episodic gains retained, debunked neuroscience, natural resilience, 3-year trust-building, psychedelic scaffolding, C-PTSD prevalence
+  - `6_dropout.md` — indirect dropout data from 5 sources
+  - `7_access.md` — 11 new rows (5 with access data, 6 noting silence on access)
+  - `8_sleeper_effect.md` — 3 new source entries + updated pattern
+  - `9_developmental_mechanism.md` — 8 new entries (6 confirming, 2 complicating) + extended pattern analysis
+  - `10_endpoint_divergence.md` — 11 new rows in the specific examples table
+  - `11_safety_as_clock_starter.md` — already had comprehensive data from a prior scan; no additional entries needed
+- Appended new data to `6_adjuncts.md` (the one secondary file that still needed updating)
+- Ran `./sync.sh all` — 89 references, index updated, 6 layer READMEs updated
+
+**Emerging patterns:**
+1. **Developmental-rate convergence:** Spring's developmental metaphor (9.5 years = rebuilding childhood), Bisson/Davitt's arrested development ("eight-year-old in a fifty-year-old's body"), and Fisher's "slower is faster" all converge on the same mechanism from completely independent sources (memoir, clinical-diagnostic, practitioner). This is the strongest lived-experience confirmation of the developmental mechanism construct.
+
+2. **AEDP as nuanced counterpoint, not refutation:** Fosha's "healing from the get-go" challenges when change begins but not how long structural repair takes. The 6-session DVD case complicates the thesis but does not invalidate it — the distinction between onset of transformation and completion of developmental repair should be made explicit in the discussion.
+
+3. **Tilson creates a necessary methodological challenge:** By debunking the triune brain and polyvagal frameworks, Tilson weakens the specific neuroscience cited by Ogden and Porges. However, the developmental mechanism convergence survives this challenge because it rests on clinical observation (Spring, Fisher, Heacock, Bisson) as much as on neuroscience. The discussion should distinguish between frameworks that survive Tilson's critique (developmental psychology, attachment theory, outcome research) and those that do not.
+
+4. **Trust-building as measurable safety proxy:** Heacock/Jacklin's 3-year trust-building estimate is the most granular measurement of the safety-establishment period in the dataset. It directly validates the safety-as-clock-starter construct: the therapeutic clock did not start until year 3.
+
+5. **Episodic trajectory as a sixth trajectory type:** Spring's two-episode pattern (9yr + 3yr stable + ongoing) is qualitatively different from the existing five-type trajectory typology. It demonstrates that prior gains are retained across episodes, that new trauma requires new processing, and that the total healing timeline includes functional periods. This should be added to the trajectory typology.
+
+6. **Access silence in new sources:** 6 of 11 new sources say nothing about who can afford the treatment they describe. Fisher's TIST requires training in 4 modalities; Heacock/Jacklin describes 15 years of private weekly therapy; Ogden's sensorimotor psychotherapy requires multi-level certification. The access gap continues to widen as the recommended treatment becomes more specialized.
+
+**Inaccessible sources:** None.
+
+---
+
+### Entry: Synthesis revision agent — 2026-03-19
+
+**Task:** Revise `4_discussion/1_synthesis.md` to integrate 11 new sources, 8 underused Layer 4 sources, 2 emergent constructs (safety-as-clock-starter, borrowed-vs-owned), and the Fisher-Fosha tension.
+
+**What was done:**
+- Rewrote synthesis from 165 lines to approximately 280 lines (~70% growth).
+- Added safety-as-clock-starter as Factor 0 in the framework (new major section).
+- Added fifth endpoint level (recovery-as-direction, Spring) to the endpoint-duration nexus.
+- Added sixth trajectory type (episodic/developmental, Spring) to trajectory typology.
+- Integrated Fisher-Fosha tension as a fourth dimension of disagreement in "Why the field appears to disagree."
+- Added the Fisher-Fosha puzzle to "What the framework cannot explain."
+- Integrated Tilson's evidence critique in two places: the developmental mechanism section (contested neuroscience) and the "cannot explain" section (SE's thin evidence base).
+- Added Ogden's hierarchical processing, Fisher's "slower is faster," Razvi's three-tier framework, and Spring/Bisson developmental-rate evidence to the developmental mechanism section.
+- Integrated borrowed-vs-owned bridge (Kohut) into Factor 3 (elapsed time) with predictions for sleeper/reverse-sleeper effects.
+- Added Heacock/Jacklin trust-building data and Bisson/Davitt escalation gap to "right therapist" confound.
+- Added psychoanalytic vocabulary problem to literature critique.
+- Added Layer 4 gap paragraph integrating all 8 previously underused sources.
+- Updated source count from 78 to 89 throughout.
+- Updated YAML description to reflect new content.
+
+**Issues and observations:**
+
+1. **The synthesis is approaching maximum density.** At ~280 lines of sustained argument, the text is dense but still readable. Further additions risk losing the coherent argumentative thread. The remaining discussion files (limitations, counterpoint response, implications) should absorb additional source citations rather than expanding the synthesis further.
+
+2. **The Fisher-Fosha tension deserves a dedicated subsection in 4_discussion/3_counterpoint_response.md** rather than being fully resolved here. The synthesis identifies it as a puzzle; the counterpoint response should engage with it more fully.
+
+3. **The safety-as-clock-starter construct is now the review's second strongest finding** (after the endpoint-duration nexus). It has independent implications for research methodology (all dose-effect data is contaminated by pre-safety sessions), clinical practice (safety assessment should precede treatment planning), and policy (environmental safety interventions may be more cost-effective than additional therapy sessions).
+
+4. **The Tilson challenge is genuinely uncomfortable.** The synthesis now acknowledges that the neurobiological rationale for the developmental mechanism is more contested than the mechanism itself. This is honest but weakens one strand of the argument. The remaining strands (clinical convergence, outcome data, lived-experience accounts) are sufficient, but the gap between "it takes years" (robustly supported) and "here is why it takes years" (contested science) should be addressed in the limitations section.
+
+5. **The borrowed-vs-owned bridge is the strongest theoretical contribution of this session.** It connects psychoanalytic theory (Kohut) to outcome research (sleeper effect) to clinical observation (Heacock's real-time observation of Sherlock's self-regulation during Erin's absence). It generates testable predictions. It should be highlighted in the abstract/introduction when those sections are written.
+
+**Questions for orchestrator:**
+- Should the Fisher-Fosha tension receive its own subsection in the counterpoint response?
+- Should the Tilson challenge receive dedicated treatment in the limitations section?
+- The synthesis now cites ~40 unique sources. Is this sufficient coverage of the 89-source dataset, or should more sources be integrated?
+
+**Inaccessible sources:** None.

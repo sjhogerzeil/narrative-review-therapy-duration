@@ -19,6 +19,8 @@ last_synced: 2026-03-19
 
 "Benjamin, J. (1988). *The bonds of love: Psychoanalysis, feminism, and the problem of domination*. Pantheon."
 
+"Bisson, J., & Davitt, M. (Guests). (2024, June 7). Episode 14: Recognising complex PTSD [Audio podcast episode]. In *Piece of Mind: Mental Health and Psychiatry*. National Centre for Mental Health. https://shows.acast.com/piece-of-mind/episodes/episode-14-recognising-complex-ptsd"
+
 "Blue Knot Foundation. (n.d.). Trauma specific practice when working with complex trauma. https://professionals.blueknot.org.au/resources/trauma-specific-practice-when-working-with-complex-trauma/"
 
 "Boston Change Process Study Group. (2010). *Change in psychotherapy: A unifying paradigm*. Norton."
@@ -41,11 +43,17 @@ last_synced: 2026-03-19
 
 "Ferentz, L. (n.d.). Transcending trauma. *Psychotherapy Networker*. https://www.psychotherapynetworker.org/article/transcending-trauma/"
 
+"Fisher, J. (2019). Janina Fisher interview [Podcast transcript]. In W. K. Sutton (Host), *Therapy on the Cutting Edge*. https://www.therapyonthecuttingedge.com/janinafishertranscript.html"
+
+"Fisher, J. (2021). *Transforming the living legacy of trauma: A workbook for survivors and therapists*. PESI Publishing."
+
 "Fonagy, P., Gergely, G., Jurist, E. L., & Target, M. (2002). *Affect regulation, mentalization, and the development of the self*. Other Press."
 
 "Fonagy, P., Rost, F., Carlyle, J.-A., McPherson, S., Thomas, R., Pasco Fearon, R. M., Goldberg, D., & Taylor, D. (2015). Pragmatic randomized controlled trial of long-term psychoanalytic psychotherapy for treatment-resistant depression: the Tavistock Adult Depression Study (TADS). *World Psychiatry*, *14*(3), 312–321. https://doi.org/10.1002/wps.20267"
 
 "Foo, S. (2022). *What my bones know: A memoir of healing from complex trauma*. Ballantine Books."
+
+"Fosha, D. (2019). AEDP: Diana Fosha interview [Interview transcript]. *Psychotherapy.net*. https://www.psychotherapy.net/interview/AEDP-Diana-Fosha"
 
 "Freixo Ferreira, L., Guerra, C., & Vieira-Coelho, M. A. (2023). Predictors of psychotherapy dropout in patients with borderline personality disorder: A systematic review. *Clinical Psychology & Psychotherapy*, *30*(6), 1324–1337. https://doi.org/10.1002/cpp.2888"
 
@@ -59,7 +67,11 @@ last_synced: 2026-03-19
 
 "Hauser, H. J. (2022). 'Pulling the Bandage Off': Using Margaret Warner's 'Fragile Process' in the Psychodynamic Approach. *British Journal of Psychotherapy*, *38*(4), 693–708. https://doi.org/10.1111/bjp.12745"
 
-"Herman, J. L. (1992). *Trauma and recovery*. Basic Books."
+"Heacock, C. (Host). (2019, November 5). Healing trauma with psychedelics with Saj Razvi: Part 1 [Audio podcast episode]. In *Back from the Abyss: Psychiatry in Stories*."
+
+"Heacock, C. (Host). (2022, May 5). Psychotherapy twice told [Audio podcast episode]. In *Back from the Abyss: Psychiatry in Stories*."
+
+"Herman, J. L. (1992). *Trauma and recovery*. Basic Books. + Herman, J. L. (1998). Recovery from psychological trauma. *Psychiatry and Clinical Neurosciences*, *52*(Suppl), S145–S150."
 
 "Howard, K. I., Kopta, S. M., Krause, M. S., & Orlinsky, D. E. (1986). The dose-effect relationship in psychotherapy. *American Psychologist*, *41*(2), 159–164."
 
@@ -105,11 +117,33 @@ last_synced: 2026-03-19
 
 "MyPTSD Forum. (2024). Did EMDR largely resolve your CPTSD, and if so, how long did it take? [Online forum thread]. https://www.myptsd.com/threads/did-emdr-largely-resolve-your-cptsd-and-if-so-how-long-did-it-take.97132/"
 
+"Ogden, P., Minton, K., & Pain, C. (2006). *Trauma and the body: A sensorimotor approach to psychotherapy*. W. W. Norton. (Norton Series on Interpersonal Neurobiology)."
+
 "Paris, J. (2020). Access to psychotherapy for patients with personality disorders. *Personality and Mental Health*, *14*(3), 246–253. https://doi.org/10.1002/pmh.1483"
 
 "Porges, S. W. (2022). Polyvagal Theory: A science of safety. *Frontiers in Integrative Neuroscience*, *16*, 871227. https://doi.org/10.3389/fnint.2022.871227"
 
 "Psychoanalytic therapy beats CBT for trauma-linked depression. (2024, September). *Mad in America*. https://www.madinamerica.com/2024/09/psychoanalytic-therapy-beats-cbt-for-trauma-linked-depression/"
+
+"r/CPTSD_NSCommunity. (2024). I have officially recovered from CPTSD!! [Reddit thread]. https://www.reddit.com/r/CPTSD_NSCommunity/comments/recovered_cptsd/"
+
+"r/CPTSD. (2021). How long after therapy did you start to feel better/progress? I'm loosing it. [Reddit thread]. https://www.reddit.com/r/CPTSD/comments/how_long_after_therapy_feel/"
+
+"r/CPTSD. (2021). You can't properly heal your trauma while you're still being actively traumatized. [Reddit thread]. https://www.reddit.com/r/CPTSD/comments/cant_heal_while_surviving/"
+
+"r/CPTSD. (2023). For anyone who is fully healed, how long did it take you? [Reddit thread]. https://www.reddit.com/r/CPTSD/comments/fully_healed_how_long/"
+
+"r/CPTSD. (2023). How long were/are you in therapy? [Reddit thread]. https://www.reddit.com/r/CPTSD/comments/how_long_wereare_you_in_therapy/"
+
+"r/CPTSD. (2023). It takes on average 7 therapists before people find the one. [Reddit thread]. https://www.reddit.com/r/CPTSD/comments/7_therapists_average/"
+
+"r/CPTSD. (2024). My therapist who I've seen for 10 years. Over 900 appointments died of a heart attack yesterday. [Reddit thread]. https://www.reddit.com/r/CPTSD/comments/10_years_900_appointments/"
+
+"r/CPTSD. (2024). What does it feel like after you've significantly healed? [Reddit thread]. https://www.reddit.com/r/CPTSD/comments/what_does_it_feel_like_after/"
+
+"r/CPTSD. (2025). How many of you reached a full cure? How long did it take for you to reach it and what helped step by step? [Reddit thread]. https://www.reddit.com/r/CPTSD/comments/full_cure_how_long/"
+
+"r/CPTSD. (2025). Stages of Healing — Why Stage 3 was the hardest for me and felt painfully slow, yet was the deepest & most transformative part of healing. [Reddit thread]. https://www.reddit.com/r/CPTSD/comments/stages_healing_stage3/"
 
 "Samson, J. A., Newkirk, T. R., & Teicher, M. H. (2023). Practitioner Review: Neurobiological consequences of childhood maltreatment — clinical and therapeutic implications. *Journal of Child Psychology and Psychiatry*, *65*(3), 369–380. https://doi.org/10.1111/jcpp.13883"
 
@@ -125,9 +159,17 @@ last_synced: 2026-03-19
 
 "Sohal, A., & Murphy, D. (2022). A longitudinal analysis of person-centred therapy with suicidal clients. *Counselling and Psychotherapy Research*, *23*(1), 20–30. https://doi.org/10.1002/capr.12588"
 
+"Spring, C. (2020, February 4). What does recovery from trauma look like? [Audio podcast episode]. In *Conversations with Carolyn Spring*. https://www.carolynspring.com/podcast/what-does-recovery-from-trauma-look-like/"
+
+"Spring, C. (2020, January 22). Recovering from developmental trauma (No. 11) [Audio podcast episode]. In *Conversations with Carolyn Spring*. https://www.carolynspring.com/podcast/recovering-from-developmental-trauma/"
+
+"Spring, C. (2021, January 29). Falling down, getting back up again: My journey over the last year (No. 14) [Audio podcast episode]. In *Conversations with Carolyn Spring*. https://www.carolynspring.com/podcast/falling-down-podcast/"
+
 "Steele, K., van der Hart, O., & Nijenhuis, E. R. S. (2001). Dependency in the treatment of complex posttraumatic stress disorder and dissociative disorders. *Journal of Trauma & Dissociation*, *2*(4), 79–116. https://doi.org/10.1300/J229v02n04_05"
 
 "Steele, K., van der Hart, O., & Nijenhuis, E. R. S. (2005). Phase-oriented treatment of structural dissociation in complex traumatization: Overcoming trauma-related phobias. *Journal of Trauma & Dissociation*, *6*(3), 11–53. https://doi.org/10.1300/J229v06n03_02"
+
+"Tilson, D. F. (2025, October 26). Your body is not keeping the score. *Other Interests*. https://otherinterests.substack.com/p/your-body-is-not-keeping-the-score"
 
 "Van der Hart, O., Nijenhuis, E. R. S., & Steele, K. (2006). *The haunted self: Structural dissociation and the treatment of chronic traumatization*. Norton."
 

@@ -49,9 +49,35 @@ The sleeper effect appears most consistently in psychodynamic/psychoanalytic tre
 | reddit-2024-recovered-cptsd | "Huge positive shifts in my life in many areas" in the final year — acceleration/consolidation in late-stage recovery. MDMA session and somatic massage added in final year may have catalysed this | Final year of 5-year trajectory shows accelerating gains |
 | reddit-2024-what-feels-like-after | u/Longjumping_Cry709: first 5 years were behavioural/external changes; emotional healing only began after — suggesting the earlier period was setting conditions for later transformation | Emotional healing emerged AFTER behavioural stabilisation was complete |
 
+## Theoretical bridge: "borrowed" vs "owned" structure (Kohut)
+
+Kohut's (1984) distinction between "borrowed" and "owned" psychic structure maps precisely onto the sleeper effect and provides a theoretical explanation for its mechanism:
+
+- **Borrowed structure** = the patient functions better because the therapist's regulatory capacity is available as an external selfobject resource. At end-of-treatment, when this external resource is removed, gains may erode. This is what happens in short-term symptom-focused treatments where the therapist provides skills and scaffolding — the gains are real but dependent on the scaffolding.
+
+- **Owned structure** = through thousands of cycles of attunement, optimal frustration, and repair (transmuting internalization), the patient has built their own regulatory structures. These are genuinely internal and continue to develop autonomously after treatment ends. This is the sleeper effect: not delayed onset, but ongoing maturation of internalised capacity.
+
+The distinction predicts:
+1. **Short-term treatment should show a reverse sleeper effect** — gains at end-of-treatment that fade at follow-up (the "borrowed" structure is removed). This is exactly what Abbass (2014) found for short-term psychodynamic therapy.
+2. **Long-term treatment should show a positive sleeper effect** — gains that grow after treatment ends (the "owned" structure continues developing). This is exactly what Shedler (2010), Fonagy (2015), Bateman (2008), and Lindfors (2019) found.
+3. **The critical threshold** is the point at which enough transmuting internalization has occurred for the structure to be self-sustaining. Below this threshold, gains are "borrowed" and will erode. Above it, gains are "owned" and will grow. This may explain the Helsinki convergence: both PA (646 sessions) and LPP (232 sessions) exceeded the threshold, so additional sessions produced diminishing returns.
+
+This bridge connects psychoanalytic theory to outcome research and provides a testable framework: measure "borrowed" vs "owned" capacities at end-of-treatment, and predict whether the sleeper effect will occur.
+
 ## Questions for synthesis
 
 - Is the sleeper effect specific to psychodynamic/psychoanalytic therapy, or does it occur with other modalities?
-- Does the sleeper effect require a minimum dose to activate? (Howard's dose-effect model suggests a threshold)
-- How does this interact with the therapy-vs-life confound? Post-treatment improvement could be therapy's delayed effect OR life experience enabled by therapeutic gains
+- Does the sleeper effect require a minimum dose to activate? (Howard's dose-effect model suggests a threshold; Kohut's "borrowed vs owned" framework suggests a transmuting internalization threshold)
+- How does this interact with the therapy-vs-life confound? Post-treatment improvement could be therapy's delayed effect OR life experience enabled by therapeutic gains — Kohut's framework suggests it is both: owned structure develops THROUGH life experience
 - Should the synthesis reframe the thesis as: "therapy takes X years, but healing takes X+Y years"?
+- Can the "borrowed vs owned" threshold be operationalised? Could end-of-treatment measures predict who will show the sleeper effect?
+
+<!-- New sources added 2026-03-19 -->
+
+| spring-2021-falling-down-getting-back-up | 6 | 2017-2019 stable period (post-first-therapy): joy, generativity, "steady upward trajectory" — gains continued growing after therapy ended in 2016. New trauma (rape) triggered return, but prior gains were retained: "I knew what was happening. My trauma reactions made sense to me" | Post-therapy stable period of ~3 years demonstrates sleeper effect — capacity installed during therapy continued to develop through life |
+| spring-2020-recovering-developmental-trauma | 6 | "The gaps between therapy sessions can be as developmentally important as the therapy sessions themselves." Spring explicitly argues that between-session time is when neural networks consolidate — a within-treatment micro-sleeper effect | Between-session integration as the mechanism underlying the sleeper effect |
+| heacock-2022-psychotherapy-twice-told | 4 | Sherlock's capacity for romantic relationship developed alongside but not within therapy sessions. The "compass" he internalised during Erin's postpartum leave ("I'm going to be okay. You have given me the tools I need") demonstrates owned structure functioning without the therapist present | Internalised capacity demonstrated during therapist absence — real-time observation of the sleeper mechanism |
+
+### Updated pattern
+
+Spring's between-session integration claim provides a micro-level explanation for the sleeper effect: each session installs a micro-increment of neural capacity, which consolidates between sessions. The accumulated effect of hundreds of such micro-consolidations is the post-therapy sleeper effect observed in outcome studies. Heacock-2022 provides a real-time observation of the transition from "borrowed" to "owned" structure: Sherlock demonstrated self-regulation capacity during Erin's absence that he had previously relied on her to provide.

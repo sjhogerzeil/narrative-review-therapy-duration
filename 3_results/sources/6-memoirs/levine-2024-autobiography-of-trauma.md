@@ -9,6 +9,11 @@ citation: "Levine, P. A. (2024). *An autobiography of trauma: A healing journey*
 url: https://www.goodreads.com/book/show/196786498-an-autobiography-of-trauma
 accessed: 2026-03-18
 access: abstract-only
+summary: "40+ year arc from trauma to wounded healer; professional identity as healing"
+duration_data: implicit
+duration_range: "40+ years"
+stance: supports
+endpoint_definition: structural
 ---
 
 ## Summary

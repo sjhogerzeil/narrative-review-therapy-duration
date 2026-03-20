@@ -135,3 +135,36 @@ Self-reported durations from forum threads: 8 months to 27 years. Even clients u
 ### Layer 6: Memoirs
 
 Multi-decade trajectories: Foo (10+ years of therapy), Walker (40+ years healing journey), Levine (40+ years), Eger (35 years before full processing, ongoing at 90+), Anderson ("everlasting healing journey").
+
+<!-- New sources added 2026-03-19 -->
+| spring-2020-recovering-developmental-trauma | 6 | DID/complex developmental trauma | 9.5 years therapy; developmental analogy implies 18-25 year arc | years | functional |
+| spring-2020-what-does-recovery-look-like | 6 | DID/complex developmental trauma | 15 years (breakdown to "good life"); references others in therapy 10-30 years | years | functional |
+| spring-2021-falling-down-getting-back-up | 6 | DID/complex developmental trauma | ~9 years first episode + ~3 years stable + second episode ongoing; ~15 years total elapsed | years (episodic) | functional |
+| fisher-cutting-edge-tist | 4 | Complex PTSD/DESNOS | Not specified; implicitly long-term through stabilisation-first model and refusal of rapid-processing EMDR | implicit | structural |
+| fosha-2019-aedp-intimacy | 3 | Trauma/attachment-injured adults | 6-session complete treatment on DVD; within-session transformation; no multi-year timeline specified | sessions | mixed |
+| fisher-transforming-legacy | 1a | Complex PTSD/childhood trauma | Not specified; "slower is faster" principle; workbook is preparation for processing modalities — total arc implicitly long | implicit | structural |
+| heacock-2022-psychotherapy-twice-told | 4 | CSA, attachment disruption, transgender identity | 15 years (ongoing); trust-building ~3 years; initial mandated 8 sessions; ~1-year gap | years | implicit (relational) |
+| heacock-2019-healing-psychedelics | 4 | Early childhood neglect/dissociative attachment | 4-5+ years conventional (2.5yr somatic + 1.5-2yr attachment) + MDMA; conventional somatic: 6-12mo per core issue | both | implicit |
+| bisson-2024-recognising-cptsd | 1a | C-PTSD (UK epidemiological) | Implicitly years to decades; lived experience: ~10 years ongoing, still symptomatic at 53; C-PTSD has lower recovery rates than PTSD | implicit | mixed |
+| tilson-2025-body-not-keeping-score | 3 | General/trauma critique | No explicit data; undermines theoretical basis for extended somatic processing; "many people turn out okay" without specialized intervention | N/A | not-defined |
+| ogden-2006-trauma-and-the-body | 1d | Adults with unresolved trauma | No explicit data; hierarchical processing model implies extended treatment — lower-level (sensorimotor) patterns are "read-only memory," hardest to change | implicit | implicit (structural) |
+
+### Layer 6 (updated): Memoirs
+
+Spring adds three closely documented data points: 9.5 years of therapy (spring-2020-recovering-developmental-trauma), a 15-year total arc from suicidal DID to "good life" (spring-2020-what-does-recovery-look-like), and an episodic pattern with two distinct therapy episodes separated by 3 years of stable functioning (spring-2021-falling-down-getting-back-up). Spring's developmental-rate metaphor reframes the 9.5-year timeline as equivalent to normal child development — slow because it must be slow, not because therapy failed. The episodic pattern complicates single-arc duration reporting: the question is not just "how long" but "how many episodes, over what total span?"
+
+### Layer 4 (updated): Practitioner essays
+
+Heacock-2022-psychotherapy-twice-told adds a 15-year single-therapist case with granular trust-building data: approximately 3 years before the client stopped hiding behind anger. Heacock-2019-healing-psychedelics provides Razvi's personal 4-5+ year trajectory across multiple modalities (talk → somatic → attachment → MDMA), with the clinical observation that conventional somatic therapy takes 6-12 months per core issue. Fisher (fisher-cutting-edge-tist) argues implicitly for extended timelines through her stabilisation-first model and refusal of EMDR for complex trauma populations.
+
+### Layer 3 (updated): Counterpoint
+
+Fosha (fosha-2019-aedp-intimacy) provides the strongest counterpoint to multi-year timelines: a 6-session complete treatment documented on DVD, and the theoretical position that healing begins "from the get-go." However, AEDP does not claim that complex developmental trauma resolves in 6 sessions — it claims that transformation begins immediately. Tilson (tilson-2025-body-not-keeping-score) challenges the body-based rationale for extended treatment by debunking the neuroscientific frameworks (triune brain, polyvagal theory) underlying van der Kolk's work. The challenge is to mechanism, not to timeline per se.
+
+### Layer 1a (updated): Trauma-clinical
+
+Bisson (bisson-2024-recognising-cptsd) adds epidemiological context: C-PTSD is more common than PTSD in the UK and has lower recovery rates. The lived experience case (Davitt, age 53) remains symptomatic after ~10 years of active work. Fisher's workbook (fisher-transforming-legacy) crystallises the "slower is faster" principle and positions stabilisation as a substantial pre-treatment phase.
+
+### Layer 1d (updated): Neuroscience
+
+Ogden (ogden-2006-trauma-and-the-body) adds theoretical weight to the duration argument: trauma is encoded at the sensorimotor level, which is characterised by "greater fixity and concreteness" — "read-only memory" that is harder and slower to change than cognition. The hierarchical model (sensorimotor → emotional → cognitive) implies sequential processing that adds time to treatment.

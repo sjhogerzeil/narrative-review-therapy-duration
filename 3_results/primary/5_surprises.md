@@ -115,3 +115,35 @@ status: draft
 **reddit-2023-fully-healed-how-long** — u/ElishaAlison: "Maybe, just maybe, the majority of people who heal leave these places, and so it looks, on the surface, like no one heals from this."
 
 **Why this matters:** This is a meta-observation about all forum-based data in Layer 5. Online CPTSD communities over-represent those still struggling and under-represent those who have recovered. This selection effect makes healing appear rarer and slower than it may actually be.
+
+<!-- New sources added 2026-03-19 -->
+
+## 17. AEDP claims transformation from the first session — not just stabilisation
+
+**fosha-2019-aedp-intimacy** — Fosha's position that healing is "already there to access from the first contact with the patient, including the most traumatized person" challenges the phase-model orthodoxy that stabilisation must precede any processing. A 6-session complete treatment documented on DVD shows that at least some cases resolve in a fraction of the time the thesis predicts. The nuance: AEDP does not claim complex developmental trauma resolves in 6 sessions. It claims that transformation begins immediately rather than being deferred. The question for the thesis: is the early stabilisation phase in Herman/Van der Hart genuinely necessary, or does it reflect a conservative clinical stance that delays change?
+
+## 18. Prior therapeutic gains are retained across episodes — episodic recovery works
+
+**spring-2021-falling-down-getting-back-up** — Spring's return to therapy after ~3 years of stable functioning, triggered by new trauma (rape, pandemic), demonstrates that prior gains were not erased: "I knew what was happening. My trauma reactions made sense to me." The second therapy episode was qualitatively different — faster, more informed, less shame-laden. This complicates the thesis by showing that the healing is not lost even when new crises emerge, and that the relevant question may be cumulative therapeutic learning across episodes rather than continuous treatment duration.
+
+## 19. The neuroscientific foundations of body-based trauma therapy may be debunked
+
+**tilson-2025-body-not-keeping-score** — Tilson argues that BKS relies on three debunked neuroscientific frameworks: triune brain model (disproved in the 1970s), polyvagal theory (shown "untenable or highly implausible"), and overinterpreted fMRI. If "the body keeps the score" is not a coherent theory, the rationale for extended body-based processing collapses. This does not mean healing is fast — but it removes one theoretical pillar supporting the "years" claim. The thesis must identify other foundations (developmental, relational, structural) that survive this critique.
+
+**Why this matters:** Several sources in this review (Ogden, Fisher, Porges) rely on exactly the frameworks Tilson debunks. If polyvagal theory is untenable, Porges's argument for slow autonomic reorganisation loses its foundation. If the triune brain model is disproved, Ogden's hierarchical processing model loses its neurological basis (though she acknowledges this and retains it as metaphor). The thesis should distinguish between frameworks that survive the critique (developmental psychology, attachment theory, outcome research) and those that do not.
+
+## 20. Many trauma survivors recover without specialised intervention
+
+**tilson-2025-body-not-keeping-score** — "People who have traumatic experiences are often not irrevocably damaged by it, but instead use internal and external resources to overcome it. They form healthy relationships, have meaningful careers, and raise loving families." This challenges the assumption that extended treatment is universally necessary. The thesis applies to those who do need treatment — but should acknowledge the population of natural recoverers who do not.
+
+## 21. Trust-building alone can take 3 years — exceeding most protocol durations
+
+**heacock-2022-psychotherapy-twice-told** — Sherlock's estimate that it took "probably three years before I stopped being so guarded" provides granular data on the trust-building timeline for severely attachment-disrupted clients. Three years to achieve basic therapeutic alliance exceeds the total treatment duration of most evidence-based protocols (CBT: 12-20 sessions; EMDR: 8-16 sessions; STAIR: modular). This is not a failure of technique — it is the nature of severe attachment injury. The thesis should distinguish between protocol duration and relationship-building duration.
+
+## 22. Psychedelic therapy may compress timeline but still requires years of scaffolding
+
+**heacock-2019-healing-psychedelics** — Razvi's MDMA session accomplished in "two hours" what would have taken "six months to a year" of somatic therapy. But the MDMA session came after 4-5 years of intensive conventional work (somatic + attachment). The prior work is explicitly framed as necessary scaffolding. The psychedelic did not replace the years — it built on them. For the thesis: psychedelics may dramatically compress the final processing phase, but the preparatory phases (stabilisation, somatic work, attachment repair) still take years.
+
+## 23. C-PTSD is more common than PTSD and has lower recovery rates
+
+**bisson-2024-recognising-cptsd** — "Complex post-traumatic stress disorder seems to be commoner in the population than post-traumatic stress disorder... the recovery rates from complex post-traumatic stress disorder are not likely to be as high as they are from post-traumatic stress disorder." This epidemiological data supports the thesis by showing that the condition requiring extended treatment is actually the more prevalent one. The population that needs years of therapy is larger than the population that responds to brief protocols.

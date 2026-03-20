@@ -145,3 +145,43 @@ From cross-layer analysis, five trajectory shapes emerge:
 4. **Episodic/cyclical** (Blue Knot, myptsd-2021, client narratives): Periods of intensive engagement alternating with self-managed maintenance. "Continuously or episodically" over years or decades.
 
 5. **Rapid/targeted** (EMDR, MDMA, intensive formats): Concentrated symptom reduction. Linear, goal-directed. Best fits single-system problems or patients with high baseline capacity.
+
+<!-- New sources added 2026-03-19 -->
+
+### Layer 6 (updated): Memoirs
+
+**spring-2020-recovering-developmental-trauma** — Developmental arc. Slow, cumulative, invisible in real-time. Compared directly to infant-to-adult development: from inability to coordinate basic movements to abstract thought and strategic planning. Key features: (1) long period of apparent stasis; (2) invisible micro-progress each session building neural networks; (3) spiral/cumulative — skills build in sequence, stages cannot be skipped; (4) individual rate — comparing speeds is meaningless; (5) retrospectively visible — enormous progress invisible from within. The developmental-rate metaphor explains *why* the trajectory looks the way it does.
+
+**spring-2020-what-does-recovery-look-like** — Extended journey metaphor (London to Scotland): nonlinear, with detours, stops, periods of going the wrong way, stretches of crawling on hands and knees. At any given point an observer could have questioned whether she was heading north at all. Includes: years of severe dysfunction and suicidality; a long period of slow invisible progress; arrival at a life characterised by joy, calm nervous system regulation, and capacity for choice. Different people travel at different speeds by different routes.
+
+**spring-2021-falling-down-getting-back-up** — Episodic trajectory. Two distinct therapy episodes separated by ~3 years of stable functioning. First episode (2005-2016): ~9 years, processing childhood trauma. Stable period (2017-2019): joy, generativity, no overt dissociativity. New trauma (rape, then pandemic): return of dissociative symptoms. Second episode (2020-ongoing): qualitatively different — Spring entered with psychoeducation, self-compassion, and active engagement absent during first episode. Prior therapeutic gains were retained and transformed the quality of the new crisis. This is the clearest documentation in the dataset of episodic therapy as a pattern rather than as treatment failure.
+
+### Layer 4 (updated): Practitioner essays
+
+**heacock-2022-psychotherapy-twice-told** — Non-linear, characterised by slow trust-building punctuated by ruptures and repairs. First three years dominated by anger, defensiveness, and testing. Mid-period: deep identity work (masculinity, gender transition). Later period: crises around therapist absences paradoxically deepened the work. Spiral: themes of trust, anger, vulnerability revisited at deeper levels over years. At 15 years, ongoing. Retrospective phases: hostile compliance → trust-building → identity exploration → deepening vulnerability → relational capacity development.
+
+**heacock-2019-healing-psychedelics** — Sequential multi-modality trajectory spanning decades. Childhood neglect invisible until graduate school (~age 28). Talk therapy: cognitive mapping, no structural change. Somatic work (2.5 years): embodied shifts, "your entire body would go through a wave." Attachment work (1.5-2 years): building new relational patterns. Then recognised prior work as necessary but insufficient scaffolding. MDMA session: breakthrough to depth all prior work could not reach — the experience of love itself. Prior work framed as necessary scaffolding, not wasted effort.
+
+**fisher-cutting-edge-tist** — Implicit trajectory: (1) psychoeducation/normalisation, (2) stabilisation through somatic and parts awareness, (3) integration (implied). Stabilisation-dominant model where processing of traumatic memories is de-emphasised or removed ("I never focus on the events"). Trajectory of gradual capacity-building rather than cathartic breakthrough — inherently long-term.
+
+### Layer 3 (updated): Counterpoint
+
+**fosha-2019-aedp-intimacy** — Process model rather than temporal arc: (1) dropping down — bypassing narrative to access somatic/emotional experience; (2) working with core emotion; (3) meta-processing — processing the experience of change itself; (4) integration. This cycle occurs within a single session. Iterative rather than linear — multiple cycles build on each other. Each cycle produces genuine consolidated change. Challenges the assumption that early therapy is merely preparatory.
+
+**tilson-2025-body-not-keeping-score** — No trajectory data. Implies that for many trauma survivors the trajectory is natural resilience rather than progressive somatic processing: "people who have traumatic experiences are often not irrevocably damaged by it, but instead use internal and external resources to overcome it."
+
+### Layer 1a (updated): Trauma-clinical
+
+**fisher-transforming-legacy** — Classic three-phase model endorsed: (1) stabilisation and psychoeducation (the workbook's primary focus — "bite-sized" delivery, cannot be rushed); (2) processing using EMDR, Sensorimotor, or SE (positioned as coming after the workbook); (3) integration. The "slower is faster" principle defines the trajectory: attempting to accelerate Phase 1 produces fragmented recall without integration. The model is phase-based and sequential, but recursive within phases — the client returns to stabilisation skills as new material emerges.
+
+**bisson-2024-recognising-cptsd** — No formal treatment trajectory. Davitt's personal narrative reveals one: decades of emotional repression → systemic breakdown → two unsuccessful therapeutic relationships → successful long-term relationship ("many years") → creative expression (5 books) → research involvement → ongoing recovery at 53 with persistent symptoms. Non-linear. Bisson's clinical framing adds that treatment should be modular: skills first, then trauma processing.
+
+### Layer 1d (updated): Neuroscience
+
+**ogden-2006-trauma-and-the-body** — Phase-based/sequential: (1) stabilisation of arousal — tracking and regulating sensorimotor experience; (2) differentiation — separating physiological from emotional arousal; (3) emotional processing — "after he learned to quiet his arousal, the therapy progressed to address the emotional responses"; (4) cognitive integration. Sensorimotor stabilisation must precede emotional processing. Consistent with Herman/Van der Hart phase models. Implies months to years rather than weeks.
+
+## Updated emergent trajectory typology
+
+6. **Developmental/maturational** (Spring, Heacock-2022, fisher-transforming-legacy): Healing follows the logic of child development — sequential stages that cannot be skipped, invisible micro-progress, individual rate. The trajectory shape is determined by biology, not by technique or effort. Overlaps with spiral/recursive but adds the specific developmental-rate claim: you cannot rush development.
+
+7. **Sequential multi-modality** (Heacock-2019/Razvi, Foo): Different modalities address different layers in sequence — talk therapy → somatic → attachment → psychedelic. Each modality has its own trajectory within the larger arc. The transitions between modalities are themselves turning points.

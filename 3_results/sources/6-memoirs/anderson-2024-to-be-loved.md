@@ -9,6 +9,11 @@ citation: "Anderson, F. G. (2024). *To be loved: A story of truth, trauma, and t
 url: https://www.goodreads.com/book/show/201936435-to-be-loved
 accessed: 2026-03-18
 access: abstract-only
+summary: "Multi-decade healing journey; capacity for love as endpoint; everlasting healing journey"
+duration_data: implicit
+duration_range: "decades"
+stance: supports
+endpoint_definition: structural
 ---
 
 ## Summary

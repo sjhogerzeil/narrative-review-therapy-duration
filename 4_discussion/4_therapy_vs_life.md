@@ -1,51 +1,58 @@
 ---
 section: therapy_vs_life
-description: "Limitation — attribution problem: how much of reported healing is therapy vs. relationships, life events, community, ageing. Describes the confound, mitigations, residual gaps, and plan feedback."
-status: scaffold
-depends_on: [3_results/sources/*/cross-cutting observations, 3_results/secondary/6_adjuncts.md]
+description: "Limitation — attribution problem: how much of reported healing is therapy vs. relationships, life events, community, ageing. Refines the thesis to: healing takes years, therapy is necessary but not sufficient."
+status: draft
+depends_on: [3_results/sources/*/cross-cutting observations, 3_results/secondary/6_adjuncts.md, 3_results/primary/8_sleeper_effect.md]
 ---
 
 # Therapy vs. life
 
-## The problem
+## The attribution problem
 
-If someone "heals" over 10 years while in therapy, how much of the change is caused by the therapy and how much by the living? Relationships, parenthood, creative work, community belonging, spiritual practice, career development, physical health changes, ageing itself — all of these are potent sources of psychological reorganization, and they operate on the same timescale as long-term therapy.
+If someone heals over ten years while attending therapy, how much of the change is caused by the therapy and how much by the living? The question is not a methodological footnote. It is the central limitation of the review's thesis, and engaging with it honestly produces a more precise — and more interesting — claim than the one with which the review began.
 
-The review's thesis is about therapy duration. But the evidence — especially from Layers 5 (client narratives) and 6 (memoirs) — routinely describes a healing arc in which therapy is one thread among many. Attributing the full duration of healing to therapy overstates its contribution. Attributing none of it to therapy understates it. The evidence base does not support clean attribution.
+The evidence, particularly from client narratives (Layer 5) and memoirs (Layer 6), consistently describes healing arcs in which formal therapy is one thread among many. One Reddit poster lists counselling as one of ten or more healing activities alongside sobriety programmes, inner child work, meditation, body scans, relational restructuring, and going no-contact with abusers [reddit-2024-what-feels-like-after]. Walker describes a "multidimensional approach" in which spiritual seeking and self-directed recovery operated alongside and beyond formal therapy across four decades [walker-2013-complex-ptsd]. Levine's account dissolves the distinction between therapy and life's work entirely: dreamwork, somatic awareness, and professional development were continuous with his formal therapeutic experience [levine-2024-autobiography-of-trauma]. Spring's post-therapy stable period (2017–2019) was sustained through "the joy of nature, of hobbies, of creativity and productivity and generativity... of nurturing rich and mutual relationships" — not through continued clinical contact [spring-2021-falling-down-getting-back-up].
 
-This is not just a methodological nuisance. It touches the core question: is the argument that *therapy* takes years, or that *healing* takes years (and therapy is a necessary-but-not-sufficient component)?
+The extraction data confirm that therapy alone is the exception, not the rule. Of the sources that address adjuncts, only a small minority describe therapy as a standalone intervention. The modal pattern is therapy-plus: pharmacological support in most empirical studies (70–80% on antidepressants in the TADS trial [koeser-2023-tads-cost]; MDMA in Mitchell's Phase 3 trial [mitchell-2021-mdma-phase3]; ketamine in Feder's protocol [feder-2025-ketamine-exposure]), somatic and body-based practices strongly endorsed by neuroscience and practitioner sources [porges-2022-polyvagal; lanius-2011-neurobiology-cptsd; ogden-2006-trauma-and-the-body], creative expression as a genuine processing channel [psychnetworker-transcending-trauma; bateman-fonagy-2008-mbt-8yr; bisson-2024-recognising-cptsd], and — most consistently — life itself as the irreducible complement to formal treatment.
 
-These are different claims with different implications:
-- If therapy is sufficient but slow, the implication is: fund more therapy.
-- If therapy is necessary but healing also requires life, the implication is: fund therapy *and* create conditions for the life changes that therapy cannot provide (stable housing, safe relationships, community).
-- If healing can occur without therapy (given the right life conditions), the therapy-duration thesis is weakened and the access/justice discussion shifts.
+No study in the evidence base randomises life experience. The confound is inherent in all observational evidence about long-term therapy, and no methodological design can resolve it.
 
-## How we mitigated it
+## The circularity: therapy enables life, life enables healing
 
-1. **Cross-cutting observation in every source note.** Each annotation asks: "Does this source attribute change to therapy specifically, or does it acknowledge the role of relationships, life events, community, creative work, ageing, or other non-therapeutic factors?"
-2. **Secondary question 6 (therapy alone or therapy-plus)** explicitly extracts data on adjuncts — medication, bodywork, groups, community, creative practice — and whether they are sequential or concurrent.
-3. **Layer 5 (client narratives)** and **Layer 6 (memoirs)** are the layers most likely to contain naturalistic attribution data — people describing what actually helped, not just what therapy they were in.
-4. **The working definition of healing** deliberately includes relational capacity and agency — dimensions that are co-produced by therapy and life, not therapy alone.
+The attribution problem is not merely a matter of omitted variables. It is structurally circular. Therapy enables the life changes that drive further healing, and those life changes create the conditions under which therapy can go deeper.
 
-## What remains unmitigated
+Bateman and Fonagy observed this directly in the MBT 8-year follow-up. Their patients' post-treatment improvement coincided with re-entering education and employment, leading them to describe a "virtuous cycle" in which "symptomatic improvement and vocational activity represent a virtuous cycle" [bateman-fonagy-2008-mbt-8yr]. The virtuous cycle is not an incidental benefit of treatment; it may be the mechanism through which long-term gains are sustained and amplified.
 
-- No study in the evidence base randomizes life experience. The confound is inherent in all observational evidence about long-term therapy.
-- Therapy and life co-evolve: therapy may enable someone to take life risks (new relationships, career changes) that then drive further healing. This circularity makes clean attribution impossible.
-- Practitioner sources (Layer 4) are structurally biased toward attributing change to therapy — therapists are unlikely to write essays arguing that their clients healed despite, rather than because of, the therapy.
-- Academic sources (Layer 1) typically study therapy in isolation, abstracting away the life context. This is a different kind of bias — attributing to therapy what may be co-produced.
+Client narratives provide granular examples. Mac, in Murphy's person-centred case study, ventured into a pub at session 26 and felt "liked by people" for the first time; by session 93, he had reconnected with his estranged son and found employment after fifteen years [murphy-2009-pct-abuse]. ElishaAlison's healing began not with a change in therapeutic modality but with her boyfriend helping her escape an abusive environment — the same therapist, the same approach, produced nothing during active abuse and produced full healing in 3.5 years once safety was achieved [reddit-2023-fully-healed-how-long]. The Reddit thread "You can't heal while you're still surviving" captures this principle at population level: environmental change — moving, leaving relationships, going no-contact — was described as the decisive factor, with therapy alone characterised as insufficient [reddit-2021-cant-heal-while-surviving].
 
-## Feed-back into the plan
+The circularity is real, and it cannot be resolved by better research design. Therapy and life are not independent causal pathways that can be isolated. They are mutually constitutive.
 
-*To be completed during/after data extraction. Questions to answer:*
+## The sleeper effect as bridge
 
-- Do client narratives (Layer 5) and memoirs (Layer 6) provide naturalistic attribution? Do people say "therapy helped, but so did X, Y, Z"? What is the pattern?
-- Do any sources explicitly address the therapy-life interaction — the idea that therapy enables life changes that then drive further healing?
-- Is there a pattern where sources that are closer to the client perspective (Layers 5, 6) attribute more to life, while sources closer to the professional perspective (Layers 1, 4) attribute more to therapy?
-- Should the synthesis reframe the thesis as "healing takes years, and therapy is a necessary but not sufficient condition" — and if so, what is the evidence for necessity?
-- Consider adding a specific search for the "common factors" literature (Wampold) and the psychotherapy research that examines extra-therapeutic factors (Lambert's 40% model). These would directly inform this limitation.
+The synthesis's Factor 3 — the contribution of elapsed time independent of therapeutic dose — provides the framework for understanding how therapy and life interact without requiring clean attribution.
 
-## Implications for the thesis
+Across multiple long-term outcome studies, therapeutic gains emerge or grow after treatment has ended. MBT patients continued improving for five years after all treatment concluded, while the treatment-as-usual group deteriorated despite receiving more services [bateman-fonagy-2008-mbt-8yr]. The Helsinki study found psychoanalysis patients improving most in years five through seven, after treatment had concluded [lindfors-2019-helsinki-10yr]. Shedler's meta-analytic review found effect sizes increasing from 0.97 at end of treatment to 1.51 at follow-up beyond nine months [shedler-2010-efficacy]. The TADS trial found long-term psychodynamic psychotherapy non-significant versus treatment-as-usual at end of treatment but strongly significant at 42-month follow-up [fonagy-2015-tads].
 
-The thesis may need to be stated as: "Healing from complex developmental trauma takes years. Therapy is a necessary component, but healing is co-produced with life — and the duration reflects the time needed for both therapeutic work and developmental experience that cannot be compressed."
+Kohut's distinction between "borrowed" and "owned" psychic structure provides the theoretical mechanism [kohut-1984-how-analysis-cures]. Borrowed structure is the patient functioning better because the therapist's regulatory capacity is available as an external resource. Owned structure is the product of transmuting internalisation: genuinely internal regulatory capacities built through thousands of cycles of attunement, optimal frustration, and repair. Owned structure does not disappear when therapy ends. It continues to develop — but it develops through the patient's subsequent life, not through further sessions. Spring describes the micro-level process: "the gaps between therapy sessions can be as developmentally important as the therapy sessions themselves" [spring-2020-recovering-developmental-trauma]. Each session installs a micro-increment of capacity; life exercises it.
 
-This is a more honest and more interesting claim than "therapy takes years." It also has different policy implications: it argues not just for funding long-term therapy, but for creating the conditions in which healing-through-life can occur alongside therapy.
+The sleeper effect resolves the attribution problem not by assigning percentages to therapy and life, but by reconceptualising their relationship. Therapy does not do the healing. Therapy installs the capacity for healing — for mentalising, for self-regulation, for relational engagement — that then develops through the patient's subsequent life experience. Shedler calls this a "catalytic" effect [shedler-2010-efficacy]. The catalyst is necessary but does not perform the reaction. What performs the reaction is life: safe relationships [reddit-2023-fully-healed-how-long], creative expression [bisson-2024-recognising-cptsd], vocational engagement [bateman-fonagy-2008-mbt-8yr], community belonging [reddit-2024-what-feels-like-after], even the passage of time itself [paris-2020-access-pd].
+
+This explains a pattern visible across the client narratives: the turning points people describe are rarely therapeutic techniques. They are life events that became possible because of therapeutic work. Mac reconnected with his son [murphy-2009-pct-abuse]. ElishaAlison found a safe partner [reddit-2023-fully-healed-how-long]. Eger returned to Auschwitz [eger-2017-the-choice]. Sherlock demonstrated self-regulation capacity during his therapist's extended absence: "I'm going to be okay. You have given me the tools I need" [heacock-2022-psychotherapy-twice-told]. In each case, the decisive moment occurred outside the consulting room — but it could not have occurred without what happened inside it.
+
+## The evidence for necessity
+
+If therapy is catalytic rather than sufficient, the question becomes whether it is necessary. Can the same healing occur through life alone, without formal therapy?
+
+Paris provides the strongest argument for a non-therapy pathway. He documents that borderline personality disorder remits gradually over approximately 24 years regardless of treatment — a natural course effect [paris-2020-access-pd]. Joseph's model identifies post-traumatic growth as facilitated by many means, not therapy alone [joseph-2012-ptg-model]. And one Reddit poster reports having "come light years since therapy" through peer support and self-study when formal treatment was unaffordable [myptsd-2015-cant-afford-therapy].
+
+But these examples do not straightforwardly establish that therapy is dispensable. Paris's natural course data describe diagnostic remission over decades, not the structural change or growth that the review defines as deeper endpoints. The peer support poster's trajectory, while impressive, operates without an independent assessment of what level of change was achieved. And the client narratives that describe healing without formal therapy almost always include some form of structured relational or reflective practice — 12-step programmes, peer communities, self-directed study — that shares functional features with therapy even if it lacks the label.
+
+The stronger case for necessity comes from the neuroscience layer. Perry and Hambrick argue that the "repetitive patterned experience" required for neural reorganisation needs many more repetitions than weekly therapy provides — but they do not argue it can occur without therapeutic guidance [hambrick-perry-2019-nmt]. Fonagy's mentalising framework positions any mentalising relationship as contributing to capacity development — but the therapeutic relationship provides a uniquely structured context for mentalising about mentalising [fonagy-2002-affect-regulation]. Winnicott is most precise: the endpoint of therapy is the capacity to use the environment — therapy is preparation for life, not the whole of healing [winnicott-1965-maturational].
+
+## Refined thesis
+
+The evidence supports a refined thesis: healing from complex developmental trauma takes years. Therapy is necessary but not sufficient. The duration reflects not the inefficiency of therapy but the time required for both therapeutic installation of capacity and the developmental experience — exercised in life — through which that capacity matures.
+
+This is a more honest and more interesting claim than "therapy takes years." It has different policy implications. The argument is not only for funding long-term therapy but for creating the conditions in which healing-through-life can occur: stable housing, safe relationships, community belonging, vocational opportunity, and the material security that allows someone to grieve without simultaneously fighting to survive [reddit-2021-cant-heal-while-surviving; reddit-2024-what-feels-like-after]. Therapy without these conditions is a catalyst without a reaction medium. The conditions without therapy are a reaction medium without a catalyst. Both are necessary. Neither is sufficient.
+
+The circularity remains unresolved — and should remain unresolved, because it reflects reality rather than methodological failure. Therapy and life are not competing explanations for healing. They are the two hands of a single process, distinguishable in analysis but inseparable in the lived experience of recovery.

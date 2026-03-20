@@ -2,7 +2,7 @@
 
 This file is the single source of truth for "where are we?" A fresh session reads this file first to determine what to do next. Updated after each work session.
 
-*Last updated: 2026-03-18*
+*Last updated: 2026-03-20*
 
 ## Current phase
 
@@ -17,7 +17,9 @@ This file is the single source of truth for "where are we?" A fresh session read
 **Phase 1, Layer 5** — COMPLETE (5/5, MyPTSD forum threads)
 **Phase 1, Layer 6** — COMPLETE (5/5, memoirs from reviews)
 **PHASE 1 COMPLETE** — 78 sources across 6 layers (incl. 10 Reddit threads).
-**PHASE 2 COMPLETE** — 16 extraction files populated from all 78 sources. Ready for Phase 3 (synthesis pass).
+**PHASE 2 COMPLETE** — 16 extraction files populated from all 78 sources.
+**PHASE 3 COMPLETE (revised)** — Synthesis rewritten with 89 sources. 4-factor framework (safety prerequisite + endpoint level + structural depth + elapsed time). Six trajectory shapes. Human checkpoint passed.
+**PHASE 4 COMPLETE** — All 9 discussion sections drafted (~24,000 words total). Synthesis (8,125 words) + 8 sections: survivorship bias (1,768), dose vs elapsed time (2,048), therapy vs life (1,538), counterpoint response (3,318), access & justice (1,983), limitations (2,130), implications (1,842), inaccessible sources (1,326). 255 source back-references across all sections. **Next: Phase 5 (tables & figures).**
 
 ## Phase 1: Search & Annotate
 
@@ -46,8 +48,8 @@ Not started.
 
 | Phase | Loop 1 | Loop 2 | Loop 3 | Circuit breaker? |
 |-------|--------|--------|--------|------------------|
-| 3 | | | | |
-| 4 | | | | |
+| 3 | COMPLETE (revised with 89 sources) | | | No |
+| 4 | COMPLETE (9 sections, ~24k words, 255 refs) | | | No |
 | 5 | | | | |
 
 ## Resume instructions
