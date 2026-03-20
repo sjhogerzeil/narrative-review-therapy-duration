@@ -1,0 +1,54 @@
+Endpoint level,Source,Layer,Population,Duration reported,Sessions (if reported),Measure
+Level 1: Symptom reduction,Howard et al. (1986),2,Mixed psychiatric outpatients,50% improved at ~8 sessions; 75% at ~26; 85% at ~52,8 / 26 / 52,% improved (therapist/patient rated)
+Level 1: Symptom reduction,De Jongh et al. (2024),3,CPTSD,8-day intensive: 88% CPTSD remission; 16 outpatient sessions: 70% lost PTSD diagnosis,16-24,"CAPS-5, ITQ"
+Level 1: Symptom reduction,De Jongh (2023),3,CPTSD + BPD (single case),5 weeks,10,Loss of CPTSD and BPD diagnosis
+Level 1: Symptom reduction,Mitchell et al. (2021),3,Severe PTSD (87% developmental),18 weeks,15 therapy contacts (3 MDMA sessions + prep/integration),CAPS-5
+Level 1: Symptom reduction,Feder et al. (2025),3,Chronic PTSD (mean 18 years),~3 weeks; 54% lost diagnosis; 61.5% durable at 6 months,6 ketamine infusions + 5 WET sessions,"CAPS-5, d=1.9"
+Level 1: Symptom reduction,Sciarrino et al. (2020),3,PTSD (various populations),1-3 weeks intensive,10-20 (compressed),"CAPS/PCL, d=1.57"
+Level 1: Symptom reduction,Lilliengren et al. (2017),3,GAD (55.8% PD comorbidity),Not reported (short-term),Mean 8.3 (range 1-70),GAD diagnosis; healthcare cost reductions sustained 4 years
+Level 1: Symptom reduction,Lilliengren et al. (2025),3,"Mood, anxiety, PD, somatic",Not reported,8-40,"Meta-analytic ES: g=-0.96 vs inactive controls"
+Level 1: Symptom reduction,Abbass et al. (2014),3,Common mental disorders,Not reported,<=40,Cochrane review; gains but loss of significance at long-term follow-up
+Level 1: Symptom reduction,Paris (2020),3,Personality disorders,Most improvement by 20 weeks (asymptotic),Not reported,Symptom improvement; McLean study: naturalistic BPD remission over 24 years
+Level 1: Symptom reduction,Sohal et al. (2022),1c,Suicidal clients,Not reported,Minimum 15 for significant change (N=56),CORE-OM clinical change
+Level 1: Symptom reduction,Leichsenring & Rabung (2011),2,Complex/PD,>=1 year,>=50 (definitional threshold for LTPP),"Meta-analytic ES: 0.44-0.68, LTPP superior to shorter therapy"
+Level 1: Symptom reduction,Brand et al. (2019),2,DID/dissociative disorders,1-2 year follow-up showing ongoing improvement; no ceiling reached,Not reported,"Dissociation, PTSD symptoms"
+Level 2: Functional improvement,Links et al. (2015),1a,BPD,6 weeks → 6 months → 12 months → 18 months (stepwise milestones),Not reported,Sequential functional milestones
+Level 2: Functional improvement,Koeser et al. (2023),2,"Treatment-resistant depression (mean 25 years, 4.3 failed treatments)",18 months,60 planned / 48 attended,Cost-effectiveness; functional recovery
+Level 2: Functional improvement,Spring (2020a),6,DID/complex developmental trauma,9.5 years therapy; 18-25 year total arc (estimated),~475-500 (estimated weekly),"Affect regulation, complex thought, empathy, self-compassion"
+Level 2: Functional improvement,Spring (2020b),6,DID/complex developmental trauma,15 years (breakdown to good life),Not reported,"Living in green zone, remembering without reliving, choosing from front brain"
+Level 2: Functional improvement,Spring (2021),6,DID/complex developmental trauma,~9 years (episode 1) + ~3 years stable + episode 2 ongoing,Not reported,Functional stability; episodic pattern
+Level 3: Structural change,Lindfors et al. (2019),2,Anxiety/mood disorders,PA: 56.3 months; LPP: 31.3 months; converged at 10 years,PA: 646; LPP: 232,"LPO (personality organisation), DSQ (defence style), SASB (self-concept)"
+Level 3: Structural change,Zimmermann et al. (2014),2,Major depression,PA: 39 months; PD: 33 months; CBT: 29 months,PA: 241; PD: 85; CBT: 51,Interpersonal functioning; dose mediated interpersonal gains
+Level 3: Structural change,Bateman & Fonagy (2008),1b,BPD,36 months total; gains still growing at 8-year follow-up,Not reported per session; high total dose,"BPD diagnosis, GAF, suicide attempts, vocational status"
+Level 3: Structural change,Murphy (2009),1c,Severe childhood abuse (single case),~5 years (140 weekly + 20 spaced sessions),160,"Growth, meaning, quality of life"
+Level 3: Structural change,Hauser (2022),1c,Fragile process / developmental trauma (single case),Terminated at 48 sessions by agency constraints — work NOT complete,48 (forced termination),Structural change endpoint not reached
+Level 3: Structural change,Griffiths et al. (2025),1a,Dissociative disorders,Range 7 days to 5 years; DID projected 3-5 years,Boyd 1997: 111 sessions / ~22 months,Mixed measures; most still symptomatic post-treatment
+Level 3: Structural change,Herman (1992),1a,Complex trauma,Safety phase alone months to years; reconnection lifelong,Not reported,Phase-based framework; structural integration
+Level 3: Structural change,Substack traumalescence (Auer),4,Trauma survivors,3-6 months (awareness) → 6-18 months (neural strengthening) → 18 months-3 years (integration),Not reported,Identity reorganisation; transition phase only
+Level 3: Structural change,Reddit u/recovered-cptsd (2024),5,CPTSD,5 years weekly/biweekly (EFT → IFS → psychodynamic),~200-260 (estimated),No longer meets diagnostic criteria; identity-level change
+Level 3: Structural change,Reddit u/what-feels-like-after (2024),5,CPTSD,11 years (5 behavioural + 6 emotional healing),Not reported,"Identity: deeper connection to true Self, authenticity"
+Level 4: Growth/reconnection,Gorman et al. (2020),3,Treatment-resistant PTSD,2-3 MDMA sessions; effects at 12-month follow-up,2-3 MDMA sessions + therapy contacts,PTG Inventory (g=1.14)
+Level 4: Growth/reconnection,Psychotherapy Networker (Ferentz),4,Trauma survivors,Judy: 7 years; Marisa: multiple years with shift after year 1,Not reported,Post-traumatic growth; transformation narratives
+Level 4: Growth/reconnection,Heacock & Jacklin (2022),4,"CSA, attachment disruption",15 years (ongoing); trust-building ~3 years,~600-700 (estimated weekly minus gaps),"Relational capacity: trust, marriage, vulnerability"
+Level 4: Growth/reconnection,Heacock & Razvi (2019),4,Early childhood neglect / dissociative attachment,4-5+ years conventional therapy + MDMA; somatic: 6-12 months per core issue,Not reported,"Layered: functional → stable → relationally capable → experience of love"
+Level 4: Growth/reconnection,Foo (2022),6,CPTSD,8+ years with first therapist before diagnosis; additional years after,Not reported,"Relational capacity, self-compassion"
+Level 4: Growth/reconnection,Walker (2013),6,CPTSD,40+ year healing journey,Not reported,Surviving to thriving; identity transformation
+Level 4: Growth/reconnection,Levine (2024),6,Childhood trauma,40+ year arc from trauma to healed healer,Not reported,Professional and personal integration
+Level 4: Growth/reconnection,Eger (2017),6,Holocaust / complex trauma,35 years before beginning full processing; healing ongoing at 90+,Not reported,"Self-forgiveness, capacity to embrace life"
+Level 4: Growth/reconnection,Anderson (2024),6,Childhood abuse,Multi-decade trajectory,Not reported,Everlasting healing journey
+Level 5: Recovery as direction,Blue Knot Foundation,4,Complex trauma,"May last for decades, whether provided continuously or episodically",10-20 (minimum to begin),Structural change; episodic engagement model
+Level 5: Recovery as direction,MyPTSD forum (2019),5,PTSD/CPTSD,8 months to 27 years (range across posters),Not reported,Self-defined; wide variation
+Level 5: Recovery as direction,MyPTSD forum (2021),5,PTSD/CPTSD,1 year to 20+ years; episodic engagement common,Not reported,Quality > quantity; some redefine therapy as ongoing practice
+Level 5: Recovery as direction,MyPTSD forum (2024),5,CPTSD using EMDR,7 months to 5+ years — even with EMDR years not sessions,Not reported,Self-defined largely resolve CPTSD
+Level 5: Recovery as direction,Reddit r/CPTSD (2023),5,CPTSD,2-13+ years; several frame as lifelong,Not reported,Most posters reject concept of endpoint
+Level 5: Recovery as direction,Reddit r/CPTSD (2023),5,CPTSD,3.5 years (fastest full healing claim) to lifelong management,Not reported,Community has no consensus on what healing means
+Level 5: Recovery as direction,Reddit (2024),5,Long-term therapy,5-15 years across posters,900+ sessions (OP twice weekly for 10 years),Therapy as ongoing relational practice; no planned endpoint
+Level 5: Recovery as direction,Reddit (2021),5,CPTSD,3+ years (stalled by ongoing exposure to trauma source),Not reported,Healing blocked while still in survival mode
+Mixed/unclear,Leichsenring et al. (2013),2,PD (Perry et al. 1999 data),50% PD recovery at 1.3 years; 75% at 2.2 years,92 (50% PD) / 216 (75% PD),Mixed: PD recovery defined variously
+Mixed/unclear,Fonagy et al. (2015),2,Treatment-resistant depression,18 months (~72 sessions); effects emerged at 42-month follow-up,~72,Sleeper effect: non-significant at treatment end; significant 2 years later
+Mixed/unclear,Shedler (2010),2,Mixed psychiatric,ES at treatment end 0.97; at >9-month follow-up 1.51 (growing),Not reported,Growing effects post-treatment; multiple outcome types
+Mixed/unclear,Shedler (2020),4,General/trauma,50% at 21 sessions; 75% at 40+ sessions; no ceiling at 2+ years,21 (50%) / 40+ (75%),OQ-45; Consumer Reports data
+Mixed/unclear,MIA (PAT vs CBT),4,Chronic depression + trauma,PAT: ~4.5 years; CBT: ~1.1 years; PAT advantage at 5-year follow-up,PAT: 242; CBT: 59,Mixed measures; PAT superiority emerged at follow-up
+Mixed/unclear,Fosha (2019),3,Trauma / attachment-injured adults,6 sessions (DVD case),6,Within-session transformation; endpoint least operationalised
+Mixed/unclear,Reddit (2025),5,CPTSD,Years of self-reflection + 1-week EMDR intensive (36 memories),36 memories in 1 week,Distinguishes functional coping from somatic safety signal
+Mixed/unclear,Bisson et al. (2024),1a,C-PTSD (UK epidemiological),Lived experience case: ~10 years; still symptomatic at age 53,Not reported,C-PTSD has lower recovery rates than PTSD
