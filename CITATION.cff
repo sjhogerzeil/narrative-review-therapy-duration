@@ -9,16 +9,13 @@ abstract: >-
   narratives, and memoirs. Proposes a 4-factor framework (safety prerequisite,
   endpoint level, structural depth, elapsed time) that resolves the field's apparent
   disagreement about therapy duration by showing it is an artefact of unstated
-  endpoint definitions.
+  endpoint definitions. This review was conducted with substantial AI assistance
+  (Claude Opus 4.6, Anthropic); see 2_methods/13_ai_methodology.md for the full
+  division of labor.
 authors:
-  - name: "Claude Opus 4.6 (Anthropic)"
-    # Note: AI system — no ORCID. First author based on volume of
-    # analytical and compositional work. See 2_methods/13_ai_methodology.md.
   - family-names: Hogerzeil
     given-names: Simon
     # orcid: "https://orcid.org/0000-0000-0000-0000"  # TODO: add ORCID
-    # Corresponding author. Research design, source provision, quality control,
-    # all interpretive checkpoints, positionality, and editorial decisions.
 date-released: "2026-03-21"
 version: "0.9.0"
 # doi: "10.5281/zenodo.XXXXXXX"  # TODO: add after first Zenodo release

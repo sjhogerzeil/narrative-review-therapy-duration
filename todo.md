@@ -170,11 +170,12 @@ Register: "clear, precise, well-structured prose. Not informal, not jargon-heavy
 
 ## GitHub repo — ready to implement
 
-- [x] CITATION.cff with placeholder DOI
-- [ ] LICENSE (CC-BY-4.0)
+- [x] CITATION.cff with placeholder DOI (updated: sole author + AI disclosure)
+- [x] LICENSE (CC-BY-4.0)
+- [x] `2_methods/13_ai_methodology.md` (ICMJE 2026 / COPE compliant)
+- [x] Git tags at milestones (v0.1 through v0.8)
 - [ ] README.md (after positionality)
-- [ ] `2_methods/13_ai_methodology.md`
-- [ ] Git tags at milestones
+- [ ] CONTRIBUTING.md (fork/reproduce instructions)
 - [ ] Ethics note on forum data
 - [ ] Zenodo integration (after GitHub push + first release)
 - [ ] Clean `.claude/` — decide what stays as audit trail vs internal tooling
