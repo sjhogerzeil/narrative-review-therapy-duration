@@ -174,8 +174,8 @@ Register: "clear, precise, well-structured prose. Not informal, not jargon-heavy
 - [x] LICENSE (CC-BY-4.0)
 - [x] `2_methods/13_ai_methodology.md` (ICMJE 2026 / COPE compliant)
 - [x] Git tags at milestones (v0.1 through v0.8)
-- [ ] README.md (after positionality)
+- [x] README.md (article-format executive summary)
 - [x] CONTRIBUTING.md (fork/reproduce instructions)
 - [ ] Ethics note on forum data
 - [ ] Zenodo integration (after GitHub push + first release)
-- [ ] Clean `.claude/` — decide what stays as audit trail vs internal tooling
+- [x] Clean `.claude/` — settings.local.json gitignored; PROCESS-NOTES.md kept as audit trail

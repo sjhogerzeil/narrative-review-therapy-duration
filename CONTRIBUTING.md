@@ -56,8 +56,8 @@ The synthesis (`4_discussion/1_synthesis.md`) is the review's central argument. 
 ### Step 5: Run the consistency checker
 
 ```bash
-./sync.sh check    # dry run — reports missing citations, unindexed sources
-./sync.sh all      # regenerates references, index, and layer READMEs
+./_scripts/sync.sh check    # dry run — reports missing citations, unindexed sources
+./_scripts/sync.sh all      # regenerates references, index, and layer READMEs
 ```
 
 ## Forking for a new question
@@ -107,7 +107,7 @@ Researchers adapting this methodology for questions involving more sensitive pop
 
 ### Inaccessible sources
 
-Several sources identified as relevant could not be accessed due to paywalls or publication format (books). These are documented in `todo.md` with an assessment of their impact on the conclusions. The review does not claim to be exhaustive — CIS methodology uses iterative, question-driven search rather than comprehensive screening — but inaccessible sources represent genuine gaps in the evidence base that are noted honestly.
+Several sources identified as relevant could not be accessed due to paywalls or publication format (books). These are documented in `_internal/todo.md` with an assessment of their impact on the conclusions. The review does not claim to be exhaustive — CIS methodology uses iterative, question-driven search rather than comprehensive screening — but inaccessible sources represent genuine gaps in the evidence base that are noted honestly.
 
 ## Questions or feedback
 
