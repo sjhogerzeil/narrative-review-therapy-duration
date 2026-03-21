@@ -1,6 +1,6 @@
-# How Long Does Healing from Complex Developmental Trauma Take?
+# Eight Sessions or Eight Years?
 
-A structured narrative review using critical interpretive synthesis
+A structured narrative review of therapy duration for complex developmental trauma
 
 ---
 
@@ -67,7 +67,7 @@ The complete audit trail — source annotations, extraction tables, synthesis ev
 
 ## Cite this work
 
-> Hogerzeil, S. J. (2026). *How long does healing from complex developmental trauma take? A structured narrative review.* GitHub repository. https://github.com/TODO/blog-therapy-duration
+> Hogerzeil, S. J. (2026). *Eight sessions or eight years? A structured narrative review of therapy duration for complex developmental trauma.* GitHub repository. https://github.com/TODO/blog-therapy-duration
 
 See [`CITATION.cff`](CITATION.cff) for machine-readable citation metadata.
 
