@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+type: dataset
+title: "How Long Does Healing from Complex Developmental Trauma Take? A Structured Narrative Review"
+abstract: >-
+  Structured narrative review using critical interpretive synthesis (CIS) methodology,
+  drawing on 89 sources across six epistemological layers — academic literature,
+  naturalistic outcome studies, counterpoint evidence, practitioner essays, client
+  narratives, and memoirs. Proposes a 4-factor framework (safety prerequisite,
+  endpoint level, structural depth, elapsed time) that resolves the field's apparent
+  disagreement about therapy duration by showing it is an artefact of unstated
+  endpoint definitions.
+authors:
+  - name: "Claude Opus 4.6 (Anthropic)"
+    # Note: AI system — no ORCID. First author based on volume of
+    # analytical and compositional work. See 2_methods/13_ai_methodology.md.
+  - family-names: Hogerzeil
+    given-names: Simon
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # TODO: add ORCID
+    # Corresponding author. Research design, source provision, quality control,
+    # all interpretive checkpoints, positionality, and editorial decisions.
+date-released: "2026-03-21"
+version: "0.9.0"
+# doi: "10.5281/zenodo.XXXXXXX"  # TODO: add after first Zenodo release
+license: CC-BY-4.0
+repository-code: "https://github.com/TODO/blog-therapy-duration"
+keywords:
+  - complex developmental trauma
+  - therapy duration
+  - CPTSD
+  - critical interpretive synthesis
+  - structured narrative review
+  - AI-assisted research
+  - open science

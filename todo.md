@@ -108,3 +108,73 @@ After results extraction is underway, brainstorm possible tables and figures for
 
 Additional ideas to consider during execution:
 - *Add here as they arise*
+
+## Positionality statement — waiting for author input
+
+The positionality statement (`2_methods/11_synthesis_method.md` § Positionality) can only be written by the author. The following questions need answers before drafting:
+
+**Professional role:**
+- Clinical role, years of experience, population, setting
+- Teaching role (attachment theory, psychosociale therapie opleiding — specifics)
+
+**Theoretical orientation:**
+- Psychodynamic and relationally informed — confirm and specify
+- Relationship to the phase model (Herman/Van der Hart): clinical framework or held at arm's length?
+
+**Personal relationship to the topic:**
+- How much to disclose about own relationship to developmental trauma, therapy duration, or attachment? Range: "I have a personal relationship to this topic" (minimal) → more specific. Calibrate for what serves the reader's ability to assess the interpretive lens.
+
+**Prior commitments:**
+- Where did the working thesis ("healing takes years") come from? Clinical observation? Personal experience? Reaction against brief-therapy pressure?
+- Stance on Dutch mental health system session limits (basis-GGZ / specialistische GGZ)?
+
+**The AI question:**
+- Should the positionality statement address AI assistance? The review's interpretive choices were filtered through AI execution — what does that mean for its epistemological status?
+
+## Publication-ready manuscript — open decisions
+
+**Citation format:**
+- Quick (inline text references as-is) or proper (convert references.md → .bib, [source-id] → \cite{source-id})?
+
+**Figures:**
+- Render trajectory shapes + framework diagram now, or leave as placeholders?
+
+**Format:**
+- Tufte Book (confirmed appropriate for ~30k words)
+- Build pipeline: assembly script → pandoc + lualatex → PDF
+
+**Chapter structure (confirmed):**
+- Introduction ← `1_introduction/` (4 files)
+- Methods ← `2_methods/` (design, search strategy, annotation protocol, synthesis method, AI methodology)
+- Findings ← `4_discussion/1_synthesis.md`
+- Discussion ← `4_discussion/2-8`
+- References ← `7_references/references.md`
+- Appendix ← inaccessible sources (section 9)
+- Tables/figures placed where referenced (Tufte margin/full-width)
+
+## README.md — draft after positionality
+
+Write as article, not technical README. 800-1200 words. Structure:
+1. Opening (question, why it matters, why field appears to disagree)
+2. The finding (endpoint-duration nexus, 3-4 paragraphs)
+3. The framework (4-factor model, brief)
+4. What counterevidence actually shows (2 paragraphs)
+5. Honest qualifications (survivorship, dose-vs-time, what we can't know)
+6. --- separator ---
+7. About this review (CIS, 89 sources, 6 layers, AI-assisted)
+8. Explore the evidence (repo structure, humanised)
+9. Cite this work
+10. License & AI disclosure (CC-BY-4.0, link to AI methodology doc)
+
+Register: "clear, precise, well-structured prose. Not informal, not jargon-heavy."
+
+## GitHub repo — ready to implement
+
+- [x] CITATION.cff with placeholder DOI
+- [ ] LICENSE (CC-BY-4.0)
+- [ ] README.md (after positionality)
+- [ ] `2_methods/13_ai_methodology.md`
+- [ ] Git tags at milestones
+- [ ] Ethics note on forum data
+- [ ] Zenodo integration (after GitHub push + first release)
+- [ ] Clean `.claude/` — decide what stays as audit trail vs internal tooling
