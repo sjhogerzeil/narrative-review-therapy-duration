@@ -1,5 +1,21 @@
 # Process Notes — blog-therapy-duration
 
+## 2026-03-21 (session 9 — Phase 5 + publication-ready repo)
+
+Context: Twee grote stukken werk. Eerst Phase 5 (tables & figures) afgerond. Daarna het project omgebouwd tot een publiceerbaar, forkbaar GitHub-repo met volledige audit trail.
+
+Redenering:
+- Tabellen gekozen op basis van CIS-methodologie: wat maakt het interpretatieve argument transparant en auditeerbaar? Niet: wat catalogiseert bronnen. 5 tabellen + 2 figuren.
+- AI-auteurschap uitgezocht: ICMJE 2026 / COPE / Nature / Science verbieden AI als auteur unaniem. Reden: accountability. Conventionele route gekozen: Simon als sole author, Claude volledig disclosed in `2_methods/13_ai_methodology.md` met task distribution table.
+- Positionality statement geschreven vanuit interview — persoonlijke therapiegeschiedenis expliciet opgenomen. Kernzin: "He is a participant in it, on both sides of the therapeutic relationship."
+- Titel gekozen: "Eight Sessions or Eight Years?" — de bevinding in de titel.
+- Pen name: Simon J. Hogerzeil.
+
+Open:
+- [ ] Zenodo integration (na GitHub push + eerste release)
+- [ ] Tufte Book PDF pipeline (beslissingen over .bib conversie en figuurrendering nog open — zie `_internal/todo.md`)
+- [ ] Positionality: auteur moet reviewen en goedkeuren
+
 ## 2026-03-20 (session 8 — discussion gap-fill)
 
 Context: 8 substantive items added to discussion sections — findings grounded in data that the original scaffolds didn't anticipate. Process killed mid-verification; all edits confirmed intact on resume.
