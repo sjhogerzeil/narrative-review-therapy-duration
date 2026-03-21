@@ -107,7 +107,7 @@ Researchers adapting this methodology for questions involving more sensitive pop
 
 ### Inaccessible sources
 
-Several sources identified as relevant could not be accessed due to paywalls or publication format (books). These are documented in `_internal/todo.md` with an assessment of their impact on the conclusions. The review does not claim to be exhaustive — CIS methodology uses iterative, question-driven search rather than comprehensive screening — but inaccessible sources represent genuine gaps in the evidence base that are noted honestly.
+Several sources identified as relevant could not be accessed due to paywalls or publication format (books). These are documented in `8_process/todo.md` with an assessment of their impact on the conclusions. The review does not claim to be exhaustive — CIS methodology uses iterative, question-driven search rather than comprehensive screening — but inaccessible sources represent genuine gaps in the evidence base that are noted honestly.
 
 ## Questions or feedback
 
