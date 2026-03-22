@@ -148,7 +148,7 @@ The positionality statement (`2_methods/11_synthesis_method.md` § Positionality
 - Methods ← `2_methods/` (design, search strategy, annotation protocol, synthesis method, AI methodology)
 - Findings ← `4_discussion/1_synthesis.md`
 - Discussion ← `4_discussion/2-8`
-- References ← `7_references/references.md`
+- References ← `6_references/references.md`
 - Appendix ← inaccessible sources (section 9)
 - Tables/figures placed where referenced (Tufte margin/full-width)
 

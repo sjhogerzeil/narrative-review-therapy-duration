@@ -2,7 +2,7 @@
 section: inaccessible_sources
 description: "Impact of sources identified as relevant but not accessed — paywalls, unavailability, language barriers. No sugar-coating. States what was missed and how it may affect conclusions."
 status: draft
-depends_on: [8_process/todo.md]
+depends_on: [7_process/todo.md]
 ---
 
 # Inaccessible sources and their impact

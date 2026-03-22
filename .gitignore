@@ -3,9 +3,7 @@
 .env
 .venv/
 
-# Full-text sources (user-provided, large files)
-_fulltext/
-*.pdf
+# Full-text sources — large binary formats (PDFs tracked for replicability)
 *.epub
 *.mobi
 *.djvu

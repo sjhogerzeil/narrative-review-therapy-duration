@@ -27,7 +27,7 @@ If MCP calls or WebFetch fail mid-session:
 
 All state is on disk. A fresh session recovers by:
 1. `progress.md` — what phase/layer is current, what's done, what's waiting
-2. `99_search/index.md` — which sources are annotated and their status
+2. `_index/index.md` — which sources are annotated and their status
 3. Layer READMEs — search logs, annotated sources tables, saturation notes
 4. `todo.md` — what's waiting for human input (full texts, media downloads)
 5. `execution_log.md` — issues from previous sessions
@@ -83,8 +83,8 @@ Output: everything currently committed.
 **Process:**
 1. Work through layers in order: Layer 2 (naturalistic) first — the empirical backbone gives calibration for interpreting other layers. Then Layer 1 (academic), Layer 3 (counterpoint), Layer 4 (practitioner), Layer 5 (client narratives), Layer 6 (memoirs).
 2. For each layer, execute two sub-phases:
-   - **Step A. Search:** Search-agent creates source stubs. See `2_methods/14_agent_instructions.md` § Search-agent.
-   - **Step B. Annotate:** Annotation-agent fills source templates. See `2_methods/14_agent_instructions.md` § Annotation-agent.
+   - **Step A. Search:** Search-agent creates source stubs. See `7_process/14_agent_instructions.md` § Search-agent.
+   - **Step B. Annotate:** Annotation-agent fills source templates. See `7_process/14_agent_instructions.md` § Annotation-agent.
 3. Follow the iterative search protocol (`2_methods/2_search_strategy.md`): search → annotate → extend → log.
 4. Apply the annotation protocol (`2_methods/9_annotation_protocol.md`): full template including secondary questions, cross-cutting observations, quality notes.
 5. Log inaccessible sources in `todo.md`.
@@ -415,7 +415,7 @@ Each backward loop:
 1. Run `./sync.sh check` — verify all sources have citations, all are indexed
 2. Run `./sync.sh all` — regenerate references and index
 3. Verify audit trail: sample 5-10 discussion claims → trace back through extraction → source note → original source
-4. Verify `7_references/references.md` is complete and correctly formatted (APA 7)
+4. Verify `6_references/references.md` is complete and correctly formatted (APA 7)
 5. Review `todo.md` — are all unresolved inaccessible sources documented in `4_discussion/9_inaccessible_sources.md`?
 6. Review `execution_log.md` — any unaddressed issues?
 7. Final git commit and tag: `iteration-final`
@@ -444,4 +444,4 @@ The research design and protocols live in `2_methods/`:
 - **Audit trail:** `2_methods/10_audit_trail.md`
 - **Synthesis method:** `2_methods/11_synthesis_method.md`
 - **Re-run protocol:** `2_methods/12_rerun_protocol.md`
-- **Discussion data map:** `2_methods/13_discussion_data_map.md`
+- **Discussion data map:** `7_process/13_discussion_data_map.md`

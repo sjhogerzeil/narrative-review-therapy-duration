@@ -1,0 +1,19 @@
+name: Integrity checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run structural integrity tests
+        run: bash _scripts/tests.sh
+
+      - name: Run sync check
+        run: bash _scripts/sync.sh check

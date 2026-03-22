@@ -49,6 +49,19 @@ Layers 2, 4, 5, 6 have no sublayers — place sources directly in the layer dire
 
 **Full texts and media for Layer 3:** Place in `3-counterpoint/_fulltext/` and `3-counterpoint/_media/` regardless of model subdirectory.
 
+## Source archival policy
+
+**Download and archive full-text PDFs whenever possible**, even for open-access articles with stable URLs. Web sources disappear; DOIs occasionally break; publisher platforms change. A locally archived PDF in `_fulltext/` is the only guarantee that a future reviewer can verify annotations against the original source.
+
+Priority order:
+1. **Journal articles** — download the PDF and place in the layer's `_fulltext/` directory. For open-access articles, download directly. For paywalled articles accessed via institutional login, save the PDF manually.
+2. **Web sources** (blogs, practitioner essays) — the URL in the YAML frontmatter is the primary reference. Optionally save a PDF print or web archive if the source seems ephemeral.
+3. **Forum threads** (Reddit, MyPTSD) — raw thread content is archived in `5-client-narratives/_reddit_raw/`. URLs serve as primary references.
+4. **Books** — cannot be archived as PDFs. The annotation stands on its own; note `access: abstract-only` or `access: full` (if the book was physically consulted) in the YAML.
+5. **Podcasts/videos** — transcripts go in `_media/`. Audio/video files are gitignored (too large) but should be retained locally.
+
+PDFs are tracked in git for replicability. Name each PDF with the same `author-year-slug` as the source note (e.g., `porges-2022-polyvagal.pdf`).
+
 Files are named `[author-year]-[short-slug].md`, e.g.:
 - `herman-1992-complex-ptsd.md` → `1-academic/trauma-clinical/`
 - `leichsenring-2008-ltpp-meta.md` → `2-naturalistic-studies/`

@@ -6,14 +6,14 @@ First-person books narrating the full arc of healing from complex developmental 
 
 | ID | Author | Year | Title | Key finding on duration |
 |----|--------|------|-------|------------------------|
-| anderson-2024-to-be-loved | Frank G. Anderson | 2024 | "To Be Loved: A Story of Truth, Trauma, and Transformation" |  |
-| eger-2017-the-choice | Edith Eva Eger | 2017 | "The Choice: Embrace the Possible" |  |
-| foo-2022-what-my-bones-know | Stephanie Foo | 2022 | "What My Bones Know: A Memoir of Healing from Complex Trauma" |  |
-| levine-2024-autobiography-of-trauma | Peter A. Levine | 2024 | "An Autobiography of Trauma: A Healing Journey" |  |
+| anderson-2024-to-be-loved | Frank G. Anderson | 2024 | "To Be Loved: A Story of Truth, Trauma, and Transformation" | "Multi-decade healing journey; capacity for love as endpoint; everlasting healing journey" |
+| eger-2017-the-choice | Edith Eva Eger | 2017 | "The Choice: Embrace the Possible" | "35 years before processing; healing ongoing at 90+; self-forgiveness as endpoint" |
+| foo-2022-what-my-bones-know | Stephanie Foo | 2022 | "What My Bones Know: A Memoir of Healing from Complex Trauma" | "8+ years before diagnosis; modality-switching; pro bono therapy as turning point; 10+ years total" |
+| levine-2024-autobiography-of-trauma | Peter A. Levine | 2024 | "An Autobiography of Trauma: A Healing Journey" | "40+ year arc from trauma to wounded healer; professional identity as healing" |
 | spring-2020-recovering-developmental-trauma | Carolyn Spring | 2020 | "Recovering from Developmental Trauma" | "First-person account of 9.5 years of therapy for complex developmental trauma, using an extended developmental-rate metaphor to argue that healing is slow, invisible in real-time, and should not be benchmarked against others." |
 | spring-2020-what-does-recovery-look-like | Carolyn Spring | 2020 | "What Does Recovery from Trauma Look Like?" | "First-person account of a 15-year arc from suicidal DID to a 'good life,' redefining recovery as direction (not destination), critiquing arbitrary timescales, and naming systemic failures as the primary barrier to recovery." |
 | spring-2021-falling-down-getting-back-up | Carolyn Spring | 2021 | "Falling Down, Getting Back Up Again: My Journey Over the Last Year" | "Documents a return to therapy after ~3 years of stable post-therapy functioning, triggered by rape and pandemic. Demonstrates that healing is episodic — prior gains were not lost but a new trauma required new processing. Contrasts the informed, self-compassionate second episode of therapy with the confused, shame-laden first." |
-| walker-2013-complex-ptsd | Pete Walker | 2013 | "Complex PTSD: From Surviving to Thriving: A Guide and Map for Recovering from Childhood Trauma" |  |
+| walker-2013-complex-ptsd | Pete Walker | 2013 | "Complex PTSD: From Surviving to Thriving: A Guide and Map for Recovering from Childhood Trauma" | "40+ year healing journey; four F responses framework; surviving to thriving" |
 
 ## Search log
 

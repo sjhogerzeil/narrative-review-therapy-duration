@@ -3,18 +3,18 @@
 # Run after annotating new sources or adding new questions/dimensions.
 #
 # Usage: ./sync.sh [command]
-#   references  — Rebuild 7_references/references.md from source note YAML
-#   index       — Rebuild 99_search/index.md from all project files
+#   references  — Rebuild 6_references/references.md from source note YAML
+#   index       — Rebuild _index/index.md from all project files
 #   readmes     — Update annotated-sources tables in layer READMEs
 #   all         — Run all of the above (default)
 #   check       — Report sources missing from references or index (dry run)
 
 set -euo pipefail
-cd "$(dirname "$0")"
+cd "$(dirname "$0")/.."
 
 SOURCES_DIR="3_results/sources"
-REFS_FILE="7_references/references.md"
-INDEX_FILE="99_search/index.md"
+REFS_FILE="6_references/references.md"
+INDEX_FILE="_index/index.md"
 
 # ─── helpers ───────────────────────────────────────────────────────────────
 
@@ -85,7 +85,7 @@ sync_index() {
 HEADER
 
     # Index non-source project files by section
-    for section_dir in 1_introduction 2_methods 4_discussion 7_references; do
+    for section_dir in 1_introduction 2_methods 4_discussion 6_references; do
         if [[ -d "$section_dir" ]]; then
             echo "## ${section_dir}" >> "$tmpfile"
             echo "" >> "$tmpfile"

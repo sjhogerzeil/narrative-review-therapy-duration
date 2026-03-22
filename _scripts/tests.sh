@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # tests.sh — Quality and completeness checks for Phases 1-3
 set -uo pipefail
-cd "$(dirname "$0")"
+cd "$(dirname "$0")/.."
 
 PASS=0; FAIL=0; WARN=0
 pass() { echo "  ✓ $1"; PASS=$((PASS+1)); }
@@ -169,7 +169,7 @@ if [ "$issues" -eq 0 ]; then pass "sync clean"; else warn "sync: $issues issues"
 
 echo "── T4.2: References count"
 actual=$(find_sources | wc -l | tr -d ' ')
-ref_count=$(( $(grep -c "^[A-Z]" 7_references/references.md 2>/dev/null || true) + 0 ))
+ref_count=$(( $(grep -c '^"*[A-Za-z]' 6_references/references.md 2>/dev/null || true) + 0 ))
 if [ "$ref_count" -ge "$actual" ]; then pass "Refs: $ref_count ≥ $actual sources"
 else warn "Refs: $ref_count < $actual sources"; fi
 

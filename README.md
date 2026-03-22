@@ -44,6 +44,19 @@ The dose-versus-elapsed-time confound cannot be fully resolved: no study has com
 
 ---
 
+## Quick start
+
+```bash
+git clone https://github.com/sjhogerzeil/narrative-review-therapy-duration.git
+cd narrative-review-therapy-duration
+./_scripts/tests.sh          # verify structural integrity (89 sources, cross-refs, synthesis quality)
+./_scripts/sync.sh check     # check referential consistency
+```
+
+Then read [`4_discussion/1_synthesis.md`](4_discussion/1_synthesis.md) for the central argument, or browse [`3_results/sources/`](3_results/sources/) to inspect individual source annotations.
+
+**Requirements:** bash and standard Unix tools (sed, grep, awk, find, sort). No additional dependencies.
+
 ## About this review
 
 This is a structured narrative review using **critical interpretive synthesis** (CIS; Dixon-Woods et al., 2006) — a methodology designed for questions that span heterogeneous evidence types and require interpretive argument rather than statistical aggregation. The review draws on 89 sources organised into six evidence layers, each representing a different epistemological perspective on the same question. Findings are triangulated across layers: claims supported by multiple independent evidence types are stronger than claims resting on a single layer.
@@ -62,15 +75,19 @@ The complete audit trail — source annotations, extraction tables, synthesis ev
 | Read the counterpoint response | [`4_discussion/5_counterpoint_response.md`](4_discussion/5_counterpoint_response.md) |
 | Understand the methodology | [`2_methods/1_design.md`](2_methods/1_design.md) |
 | See how AI was used | [`2_methods/13_ai_methodology.md`](2_methods/13_ai_methodology.md) |
-| Verify consistency | Run `./sync.sh check` |
+| Verify consistency | Run `./_scripts/sync.sh check` |
 | Fork for a new question | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
 
 ## Cite this work
 
-> Hogerzeil, S. J. (2026). *Eight sessions or eight years? A structured narrative review of therapy duration for complex developmental trauma.* GitHub repository. https://github.com/TODO/blog-therapy-duration
+> Hogerzeil, S. J. (2026). *Eight sessions or eight years? A structured narrative review of therapy duration for complex developmental trauma.* GitHub repository. https://github.com/sjhogerzeil/narrative-review-therapy-duration
 
 See [`CITATION.cff`](CITATION.cff) for machine-readable citation metadata.
 
 ## License
 
 This work is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the material for any purpose, provided you give appropriate credit.
+
+## Contact
+
+Questions, feedback, or reproductions are welcome. Open an [issue](https://github.com/sjhogerzeil/narrative-review-therapy-duration/issues) on this repository.

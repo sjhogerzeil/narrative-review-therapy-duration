@@ -340,18 +340,18 @@ For each layer, the gate requires:
 2. `2_methods/2_search_strategy.md` (inclusion/exclusion, iterative protocol)
 3. `2_methods/[layer-specific file]` (search terms, key authors, databases)
 4. `3_results/sources/[layer]/README.md` (what's already been found)
-5. This file (`2_methods/14_agent_instructions.md`) § Search-agent instructions
+5. This file (`7_process/14_agent_instructions.md`) § Search-agent instructions
 
 ### Annotation-agent reads:
 1. `CLAUDE.md` (orientation)
 2. `3_results/sources/SOURCE_TEMPLATE.md` (template)
 3. `2_methods/9_annotation_protocol.md` (protocol)
 4. `2_methods/[layer-specific file]` (population/modality context for this layer)
-5. This file (`2_methods/14_agent_instructions.md`) § Annotation-agent instructions, § Disambiguation
+5. This file (`7_process/14_agent_instructions.md`) § Annotation-agent instructions, § Disambiguation
 
 ### Extraction-agent reads (Phase 2):
 1. `CLAUDE.md` (orientation)
 2. `2_methods/11_synthesis_method.md` (dimensions)
-3. `2_methods/13_discussion_data_map.md` (what data goes where)
+3. `7_process/13_discussion_data_map.md` (what data goes where)
 4. `3_results/primary/` or `secondary/` target file
-5. `99_search/index.md` (scan for relevant source notes)
+5. `_index/index.md` (scan for relevant source notes)

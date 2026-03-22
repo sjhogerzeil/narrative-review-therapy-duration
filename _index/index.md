@@ -1,11 +1,12 @@
 # Project index — therapy duration review
 
-*Last updated: 2026-03-19*
+*Last updated: 2026-03-21*
 
 ## 1_introduction
 
 | File | Description | Status |
 |------|-------------|--------|
+| 0_abstract.md | "Concise summary of the review — background, methods, key findings, implications, limitations." | draft |
 | 1_background.md | Why the question of therapy duration matters — developmental trauma vs single-incident PTSD, cultural pressure toward brevity, gap between clinical knowledge and formal literature | not started |
 | 2_population.md | Clinical population definition — chronic relational trauma, survival-organized personality, complex PTSD, personality disorders as adaptation | draft |
 | 3_healing_definition.md | The contested definition of healing — symptom reduction vs functional improvement vs structural change; why definition determines reported duration | draft |
@@ -20,8 +21,8 @@
 | 10_audit_trail.md | "Traceability chain: APA citation → source note → quote with page ref → results extraction → discussion claim with back-reference" | draft |
 | 11_synthesis_method.md | "Analytical process (CIS): data reduction → display → comparison → construct generation → synthesising argument. Predefined dimensions + emergent constructs. Reflexivity, saturation, quality weighting." | draft |
 | 12_rerun_protocol.md | "Protocol for re-running search/analysis when new subquestions or dimensions emerge — append-only semantics, git captures chronology, final state supports replication" | draft |
-| 13_discussion_data_map.md | "Maps each discussion section to the specific data fields that must be collected during annotation. Ensures annotators know what to prioritize for downstream discussion writing." | draft |
-| 14_agent_instructions.md | "Concrete instructions for search-agents and annotation-agents — tool usage, handoff protocol, stopping rules, confidence indicators, disambiguation of ambiguous fields" | draft |
+| 13_ai_methodology.md | "Disclosure of AI assistance — model, orchestration pattern, task distribution, quality control, and epistemological implications. Required by ICMJE 2026 Section V and publisher guidelines." | draft |
+| 14_excluded_sources.md | "Sources identified during search but not included in the review — with reason for exclusion. Supports CIS transparency requirement and allows reader to evaluate source selection." | not started |
 | 2_search_strategy.md | Inclusion/exclusion criteria, iterative snowball protocol, per-layer source budgets and stopping rules | draft |
 | 3_layer_1_academic.md | "Search plan for Layer 1: trauma-clinical, psychoanalytic, humanistic-existential, and neuroscience sublayers — search terms, sources, key authors" | draft |
 | 4_layer_2_naturalistic.md | "Search plan for Layer 2: naturalistic outcome studies — LTPP meta-analyses, Tavistock, Helsinki, dose-effect research" | draft |
@@ -36,16 +37,16 @@
 | File | Description | Status |
 |------|-------------|--------|
 | 1_synthesis.md | Main synthesis narrative — the review's central argument. Resolves the field's apparent disagreement about therapy duration by demonstrating that the disagreement is actually about the definition of healing, not its timeline. Proposes a framework grounded in cross-layer triangulation of 89 sources, incorporating safety as clock-starter, the borrowed-vs-owned bridge, and the Fisher-Fosha tension. | draft |
-| 2_survivorship_bias.md | "Limitation — all layers select for people who stayed in therapy long enough to report. Describes the bias, how we mitigated it, what remains unmitigated, and how it feeds back into the plan." | scaffold |
-| 3_dose_vs_elapsed_time.md | "Limitation — conflation of session count (dose) and calendar years. Describes the confound, how we mitigated it, what remains unmitigated, and how it feeds back into the plan." | scaffold |
-| 4_therapy_vs_life.md | "Limitation — attribution problem: how much of reported healing is therapy vs. relationships, life events, community, ageing. Describes the confound, mitigations, residual gaps, and plan feedback." | scaffold |
-| 5_counterpoint_response.md | "Honest engagement with accelerated/brief models. For each model: strongest version of the argument, where it may be right, what we can learn, genuine limits. Not a dismissal." | scaffold |
-| 6_access_and_justice.md | "Ethical dimension — if healing takes years, who can access it? Structural, financial, geographic barriers. Not a footnote but a core tension in the argument." | scaffold |
-| 7_limitations.md | "Methodological limitations — non-systematic search, heterogeneous evidence, single-author, definitional breadth, cultural bias. For each: the weakness, how we mitigated it, what remains, and how it feeds back." | scaffold |
-| 8_implications.md | What the findings mean for clinical practice, training, policy, and insurance structures | not started |
-| 9_inaccessible_sources.md | "Impact of sources identified as relevant but not accessed — paywalls, unavailability, language barriers. No sugar-coating. States what was missed and how it may affect conclusions." | scaffold |
+| 2_survivorship_bias.md | "Limitation — all layers select for people who stayed in therapy long enough to report. Describes the bias, how we mitigated it, what remains unmitigated, and how it feeds back into the plan." | draft |
+| 3_dose_vs_elapsed_time.md | "Limitation — conflation of session count (dose) and calendar years. Resolved as Factor 3 in the synthesis: elapsed time contributes independently of dose. This section presents the evidence, the resolution, and the remaining uncertainties." | draft |
+| 4_therapy_vs_life.md | "Limitation — attribution problem: how much of reported healing is therapy vs. relationships, life events, community, ageing. Refines the thesis to: healing takes years, therapy is necessary but not sufficient." | draft |
+| 5_counterpoint_response.md | "Honest engagement with accelerated/brief models. For each model: strongest version of the argument, where it may be right, what we can learn, genuine limits. Not a dismissal." | draft |
+| 6_access_and_justice.md | "Ethical dimension — if healing takes years, who can access it? Structural injustice, cost barriers, the silence across layers, and partial solutions." | draft |
+| 7_limitations.md | "Methodological limitations — non-systematic search, heterogeneous evidence, single-author, definitional breadth, cultural bias, contested neuroscience. For each: the weakness, how we mitigated it, what remains, and how it feeds back." | draft |
+| 8_implications.md | "What the findings mean for clinical practice, training, policy/insurance, research priorities, and clients — organised by the 4-factor framework." | draft |
+| 9_inaccessible_sources.md | "Impact of sources identified as relevant but not accessed — paywalls, unavailability, language barriers. No sugar-coating. States what was missed and how it may affect conclusions." | draft |
 
-## 7_references
+## 6_references
 
 | File | Description | Status |
 |------|-------------|--------|
@@ -163,12 +164,12 @@
 | reddit-2024-what-feels-like-after | 5-client | "Multiple posters (u/Ok-Specialist1153, u/Longjumping_Cry709, u/woahtheremate_, et al.)" | 2024 | "Thread exploring what significant healing from CPTSD actually feels like from the inside. The most detailed response (u/Longjumping_Cry709) describes 11 years of recovery — 5 years of behavioural change followed by 6 years of deeper emotional healing — and lists the changes as identity-level, not merely symptomatic. Healing is described as therapy-plus: sobriety, meditation, ACA, inner child work, relationship changes, going no-contact." | yes | structural | no | yes | supports | full |
 | reddit-2025-full-cure-how-long | 5-client | "Multiple posters (u/almost-crazy, u/Dapper_Banana6323, u/Icy-Birthday-6864, u/cjaccardi, et al.)" | 2025 | "Thread asking about 'full cure' from CPTSD. OP distinguishes between functional improvement and a deeper 'safety signal that calmed the entire system.' Most-upvoted response rejects full cure as concept but describes intensive EMDR resolving key symptoms. Thread notable for discussion of AI-assisted self-therapy and the role of systematic self-understanding." | yes | mixed | no | no | complicates | full |
 | reddit-2025-stages-healing-stage3 | 5-client | "u/cheetosRliife and commenters" | 2025 | "Detailed first-person account of Herman's Stage 3 (reconnection/integration) as the slowest and most transformative phase. The poster describes Stage 3 as quiet, internal, lonely work — rebuilding identity after the dramatic breakthroughs of Stage 2. Uses powerful metaphors: 'first tender shoots after a forest fire' vs. Stage 2's 'huge dam bursting.' Stage 3 is where the identity dimension lives." | implicit | structural | no | no | supports | full |
-| anderson-2024-to-be-loved | 6-memoir | Frank G. Anderson | 2024 |  |  |  |  |  |  | abstract-only |
-| eger-2017-the-choice | 6-memoir | Edith Eva Eger | 2017 |  |  |  |  |  |  | abstract-only |
-| foo-2022-what-my-bones-know | 6-memoir | Stephanie Foo | 2022 |  |  |  |  |  |  | secondary-enriched (NPR interview, Psychologists Off the Clock podcast, book summaries) |
-| levine-2024-autobiography-of-trauma | 6-memoir | Peter A. Levine | 2024 |  |  |  |  |  |  | abstract-only |
+| anderson-2024-to-be-loved | 6-memoir | Frank G. Anderson | 2024 | "Multi-decade healing journey; capacity for love as endpoint; everlasting healing journey" | implicit | structural |  |  | supports | abstract-only |
+| eger-2017-the-choice | 6-memoir | Edith Eva Eger | 2017 | "35 years before processing; healing ongoing at 90+; self-forgiveness as endpoint" | yes | structural |  |  | supports | abstract-only |
+| foo-2022-what-my-bones-know | 6-memoir | Stephanie Foo | 2022 | "8+ years before diagnosis; modality-switching; pro bono therapy as turning point; 10+ years total" | yes | structural |  |  | supports | secondary-enriched (NPR interview, Psychologists Off the Clock podcast, book summaries) |
+| levine-2024-autobiography-of-trauma | 6-memoir | Peter A. Levine | 2024 | "40+ year arc from trauma to wounded healer; professional identity as healing" | implicit | structural |  |  | supports | abstract-only |
 | spring-2020-recovering-developmental-trauma | 6-memoir | Carolyn Spring | 2020 | "First-person account of 9.5 years of therapy for complex developmental trauma, using an extended developmental-rate metaphor to argue that healing is slow, invisible in real-time, and should not be benchmarked against others." | yes | functional | no | no | supports | full |
 | spring-2020-what-does-recovery-look-like | 6-memoir | Carolyn Spring | 2020 | "First-person account of a 15-year arc from suicidal DID to a 'good life,' redefining recovery as direction (not destination), critiquing arbitrary timescales, and naming systemic failures as the primary barrier to recovery." | yes | functional | no | yes | supports | full |
 | spring-2021-falling-down-getting-back-up | 6-memoir | Carolyn Spring | 2021 | "Documents a return to therapy after ~3 years of stable post-therapy functioning, triggered by rape and pandemic. Demonstrates that healing is episodic — prior gains were not lost but a new trauma required new processing. Contrasts the informed, self-compassionate second episode of therapy with the confused, shame-laden first." | yes | functional | no | yes | supports | full |
-| walker-2013-complex-ptsd | 6-memoir | Pete Walker | 2013 |  |  |  |  |  |  | abstract-only |
+| walker-2013-complex-ptsd | 6-memoir | Pete Walker | 2013 | "40+ year healing journey; four F responses framework; surviving to thriving" | implicit | structural |  |  | supports | abstract-only |
 

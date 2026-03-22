@@ -20,7 +20,7 @@ date-released: "2026-03-21"
 version: "0.9.0"
 # doi: "10.5281/zenodo.XXXXXXX"  # TODO: add after first Zenodo release
 license: CC-BY-4.0
-repository-code: "https://github.com/TODO/blog-therapy-duration"
+repository-code: "https://github.com/sjhogerzeil/narrative-review-therapy-duration"
 keywords:
   - complex developmental trauma
   - therapy duration
