@@ -116,7 +116,20 @@ The structured annotation template (`3_results/sources/SOURCE_TEMPLATE.md`) work
 
 The primary and secondary dimensions should be derived from your research question. See `2_methods/11_synthesis_method.md` for the analytical process. Expect emergent dimensions — CIS methodology anticipates that the predefined categories will evolve during the review.
 
-### Step 7: If using AI assistance
+### Step 7: Publication and discoverability
+
+Before publishing the repository, generate the files that make the review findable by humans, search engines, and AI systems:
+
+1. **`README.md`** — executive summary with structured metadata block (population, method, finding, framework) at the top. This is the primary entry point for all readers and crawlers.
+2. **`CITATION.cff`** — machine-readable citation metadata. GitHub renders a "Cite this repository" button from it. Include ORCID. Update the DOI after Zenodo archival.
+3. **`llms.txt`** — AI-specific orientation file ([llmstxt.org](https://llmstxt.org/)). Contains: citation (APA + BibTeX), key metadata, key findings as numbered list, file map. Optimized for LLM context windows, not human reading. Update after each major revision.
+4. **`codemeta.json`** — rich machine-readable metadata indexed by Google Dataset Search, OpenAIRE, and DataCite. Generate from CITATION.cff or write manually.
+5. **GitHub repo settings** — set the description (one-liner with the key finding) and topics (keywords for indexing). These are set via GitHub UI or `gh repo edit`.
+6. **`_scripts/build_pdf.sh`** — generates a printable PDF from the manuscript chapters. Attach the PDF to GitHub Releases.
+
+These files should be regenerated when the review is substantially revised. Add `llms.txt` and `codemeta.json` to `sync.sh` if you want automated updates, or maintain them manually at publication milestones.
+
+### Step 8: If using AI assistance
 
 Read `2_methods/13_ai_methodology.md` for how AI was used in this project. Key principles:
 

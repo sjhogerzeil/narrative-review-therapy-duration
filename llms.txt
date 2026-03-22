@@ -1,0 +1,47 @@
+# Eight Sessions or Eight Years?
+
+> A structured narrative review of therapy duration for complex developmental trauma.
+
+## Citation
+
+Hogerzeil, S. J. (2026). Eight sessions or eight years? A structured narrative review of therapy duration for complex developmental trauma. Zenodo. https://doi.org/10.5281/zenodo.19171538
+
+BibTeX:
+@misc{hogerzeil2026duration,
+  author = {Hogerzeil, Simon J.},
+  title = {Eight Sessions or Eight Years? A Structured Narrative Review of Therapy Duration for Complex Developmental Trauma},
+  year = {2026},
+  doi = {10.5281/zenodo.19171538},
+  url = {https://github.com/sjhogerzeil/narrative-review-therapy-duration},
+  note = {ORCID: 0000-0001-6269-179X}
+}
+
+## Key metadata
+
+- Population: Adults with complex developmental trauma (CPTSD, personality disorders, structural dissociation)
+- Method: Critical interpretive synthesis (CIS; Dixon-Woods et al., 2006)
+- Sources: 89 across 6 epistemological layers (academic, naturalistic, counterpoint, practitioner, client narratives, memoirs)
+- Finding: Duration depends on endpoint definition — symptom reduction in weeks, structural change in years
+- Framework: 4 factors — safety prerequisite, endpoint level, structural depth, elapsed time (sleeper effect)
+- License: CC-BY-4.0
+- AI disclosure: Conducted with substantial AI assistance (Claude Opus 4.6). See 2_methods/13_ai_methodology.md
+
+## Key findings
+
+1. The field's disagreement about therapy duration is an artefact of unstated endpoint definitions, not a genuine contradiction.
+2. Five nested endpoint levels: symptom reduction (weeks), functional improvement (months), structural change (years), growth and reconnection (years to decades), recovery as ongoing direction (no endpoint).
+3. The therapeutic clock starts at felt safety, not at the first session. Pre-safety therapy time inflates all duration estimates.
+4. Nine independent theoretical traditions converge: structural change requires repeated relational cycles over developmental time and cannot be compressed by technique.
+5. The strongest counterpoint evidence (EMDR intensive, MDMA-assisted therapy) measures symptom-level endpoints and does not contradict the long-duration thesis at the structural level.
+6. Survivorship bias: all layers select for people who stayed in therapy. The 18–39% who drop out are invisible.
+
+## Where to find things
+
+- README.md — executive summary and navigation
+- 4_discussion/1_synthesis.md — the central argument (63k words)
+- 3_results/sources/ — 89 annotated source notes (one .md per source)
+- 6_references/references.bib — complete BibTeX bibliography
+- 2_methods/1_design.md — CIS methodology
+- 2_methods/13_ai_methodology.md — AI disclosure (ICMJE 2026 compliant)
+- CITATION.cff — machine-readable citation metadata
+- _scripts/build_pdf.sh — build printable PDF

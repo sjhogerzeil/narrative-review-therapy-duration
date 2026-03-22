@@ -26,7 +26,7 @@ _media/
 *.mov
 
 # Build artifacts
-narrative-review-therapy-duration.pdf
+hogerzeil2026-duration-*.pdf
 
 # Other large/binary files
 *.docx

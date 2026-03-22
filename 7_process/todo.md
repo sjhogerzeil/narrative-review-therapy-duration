@@ -176,8 +176,23 @@ Register: "clear, precise, well-structured prose. Not informal, not jargon-heavy
 - [x] Git tags at milestones (v0.1 through v0.8)
 - [x] README.md (article-format executive summary)
 - [x] CONTRIBUTING.md (fork/reproduce instructions)
+- [x] Add ORCID to CITATION.cff
 - [ ] Enable GitHub Discussions (Settings → Features → Discussions)
 - [ ] Ethics note on forum data
-- [ ] Zenodo integration (after GitHub push + first release)
-- [ ] Add ORCID to CITATION.cff
+
+## Post-push: discoverability sequence
+
+Do these in order, the day you push:
+
+1. [ ] **Push to GitHub** — `git remote add origin git@github.com:sjhogerzeil/narrative-review-therapy-duration.git && git push -u origin main --tags`
+2. [ ] **Set GitHub metadata** — `bash _scripts/set_github_metadata.sh` (topics + description)
+3. [ ] **Connect Zenodo** — go to [zenodo.org/account/settings/github](https://zenodo.org/account/settings/github), flip the toggle for `narrative-review-therapy-duration`
+4. [ ] **Create GitHub Release** — `gh release create v0.9 --title "v0.9 — publication-ready" --notes "First public release" hogerzeil2026-duration-*.pdf`
+5. [ ] **Zenodo mints DOI automatically** — copy the DOI from zenodo.org
+6. [ ] **Update CITATION.cff** — uncomment and fill `doi:` field
+7. [ ] **Update llms.txt** — add DOI to citation block
+8. [ ] **Update codemeta.json** — add `"identifier": "https://doi.org/10.5281/zenodo.XXXXXXX"`
+9. [ ] **Commit + push DOI updates** — `git add -A && git commit -m "Add Zenodo DOI" && git push`
+10. [ ] **Add DOI to ORCID** — [orcid.org](https://orcid.org) → Works → Add → Search & link → DataCite (Zenodo registers with DataCite, should appear within hours)
+11. [ ] **Post to PsyArXiv or OSF Preprints** — upload the PDF, link to GitHub repo and Zenodo DOI. Category: Clinical Psychology. Tags: complex trauma, therapy duration, CPTSD, narrative review
 - [x] Clean `.claude/` — settings.local.json gitignored; PROCESS-NOTES.md kept as audit trail

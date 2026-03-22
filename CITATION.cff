@@ -18,7 +18,7 @@ authors:
     orcid: "https://orcid.org/0000-0001-6269-179X"
 date-released: "2026-03-21"
 version: "0.9.0"
-# doi: "10.5281/zenodo.XXXXXXX"  # TODO: add after first Zenodo release
+doi: "10.5281/zenodo.19171538"
 license: CC-BY-4.0
 repository-code: "https://github.com/sjhogerzeil/narrative-review-therapy-duration"
 keywords:

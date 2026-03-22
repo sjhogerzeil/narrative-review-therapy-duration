@@ -3,7 +3,8 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
-OUT="narrative-review-therapy-duration.pdf"
+VERSION=$(git describe --tags --abbrev=0 2>/dev/null || echo "dev")
+OUT="hogerzeil2026-duration-${VERSION}.pdf"
 BIB="6_references/references.bib"
 
 # Chapter order

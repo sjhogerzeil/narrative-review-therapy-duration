@@ -4,6 +4,14 @@ A structured narrative review of therapy duration for complex developmental trau
 
 ---
 
+> **Population:** Adults with complex developmental trauma (CPTSD, personality disorders, structural dissociation)
+> **Method:** Critical interpretive synthesis, 89 sources, 6 epistemological layers
+> **Finding:** Duration depends on endpoint — symptom reduction in weeks, structural change in years
+> **Framework:** Safety prerequisite + endpoint level + structural depth + elapsed time (sleeper effect)
+> **License:** CC-BY-4.0 | **AI-assisted:** Claude Opus 4.6 — see [`AI methodology`](2_methods/13_ai_methodology.md)
+
+---
+
 How long does therapy take when the injury is not a single event but a childhood? The clinical literature says weeks to months. The psychoanalytic literature says years. Memoirs describe decades. Client forums describe lifetimes. The field appears to disagree fundamentally about whether healing from complex developmental trauma is a brief intervention or a life's work.
 
 This review examines 89 sources across six epistemological layers — peer-reviewed research, naturalistic outcome studies, the strongest counterpoint evidence for brief treatment, practitioner essays, client narratives from online forums, and published memoirs — and finds that the disagreement is not genuine. It is an artefact of unstated endpoint definitions.
@@ -84,7 +92,7 @@ The complete audit trail — source annotations, extraction tables, synthesis ev
 
 ## Cite this work
 
-> Hogerzeil, S. J. (2026). *Eight sessions or eight years? A structured narrative review of therapy duration for complex developmental trauma.* GitHub repository. https://github.com/sjhogerzeil/narrative-review-therapy-duration
+> Hogerzeil, S. J. (2026). *Eight sessions or eight years? A structured narrative review of therapy duration for complex developmental trauma.* Zenodo. https://doi.org/10.5281/zenodo.19171538
 
 See [`CITATION.cff`](CITATION.cff) for machine-readable citation metadata.
 

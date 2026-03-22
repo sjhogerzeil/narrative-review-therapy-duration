@@ -1,0 +1,36 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "ScholarlyArticle",
+  "name": "Eight Sessions or Eight Years? A Structured Narrative Review of Therapy Duration for Complex Developmental Trauma",
+  "description": "Structured narrative review using critical interpretive synthesis (CIS) finding that therapy duration for complex developmental trauma depends on endpoint definition: symptom reduction in weeks, structural change in years. Proposes a 4-factor framework: safety prerequisite, endpoint level, structural depth, elapsed time.",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Simon J.",
+      "familyName": "Hogerzeil",
+      "@id": "https://orcid.org/0000-0001-6269-179X"
+    }
+  ],
+  "datePublished": "2026",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "codeRepository": "https://github.com/sjhogerzeil/narrative-review-therapy-duration",
+  "programmingLanguage": ["Bash", "Python"],
+  "keywords": [
+    "complex developmental trauma",
+    "therapy duration",
+    "CPTSD",
+    "critical interpretive synthesis",
+    "structured narrative review",
+    "AI-assisted research",
+    "open science",
+    "personality disorders",
+    "structural dissociation",
+    "psychotherapy outcome",
+    "long-term psychotherapy",
+    "sleeper effect"
+  ],
+  "version": "0.9.0",
+  "isAccessibleForFree": true,
+  "identifier": "https://doi.org/10.5281/zenodo.19171538",
+  "creativeWorkStatus": "Preprint"
+}

@@ -433,6 +433,26 @@ Each backward loop:
 
 ---
 
+### Phase 10: Publication and discoverability
+
+**Goal:** Make the repo findable by humans, search engines, and AI systems. Generate all discoverability files.
+
+**Checklist:**
+- [ ] `README.md` — structured metadata block at top (population, method, finding, framework)
+- [ ] `CITATION.cff` — ORCID, DOI (after Zenodo), date-released
+- [ ] `llms.txt` — AI orientation: citation, key findings, file map. See [llmstxt.org](https://llmstxt.org/)
+- [ ] `codemeta.json` — rich machine-readable metadata for academic indexing
+- [ ] GitHub repo description — one-liner with key finding
+- [ ] GitHub topics — `complex-trauma`, `therapy-duration`, `cptsd`, `narrative-review`, `critical-interpretive-synthesis`, `open-science`, `ai-assisted-research`
+- [ ] `build_pdf.sh` — generate PDF, attach to GitHub Release
+- [ ] Enable GitHub Discussions
+- [ ] Zenodo integration — connect repo, create release, mint DOI
+- [ ] Update `CITATION.cff` and `llms.txt` with DOI
+
+**When to regenerate:** Update `llms.txt`, `codemeta.json`, and the README metadata block after any substantial revision to the synthesis or findings.
+
+---
+
 ## Methods documentation (reference)
 
 The research design and protocols live in `2_methods/`:
@@ -445,4 +465,4 @@ The research design and protocols live in `2_methods/`:
 - **Audit trail:** `2_methods/10_audit_trail.md`
 - **Synthesis method:** `2_methods/11_synthesis_method.md`
 - **Re-run protocol:** `2_methods/12_rerun_protocol.md`
-- **Discussion data map:** `7_process/13_discussion_data_map.md`
+- **Discussion data map:** `.claude/13_discussion_data_map.md` (internal, not published)
