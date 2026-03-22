@@ -167,11 +167,11 @@ echo "── T4.1: sync.sh check"
 issues=$(( $(bash ./sync.sh check 2>&1 | grep -c "MISSING\|NOT IN" 2>/dev/null || true) + 0 ))
 if [ "$issues" -eq 0 ]; then pass "sync clean"; else warn "sync: $issues issues"; fi
 
-echo "── T4.2: References count"
+echo "── T4.2: BibTeX entry count"
 actual=$(find_sources | wc -l | tr -d ' ')
-ref_count=$(( $(grep -c '^"*[A-Za-z]' 6_references/references.md 2>/dev/null || true) + 0 ))
-if [ "$ref_count" -ge "$actual" ]; then pass "Refs: $ref_count ≥ $actual sources"
-else warn "Refs: $ref_count < $actual sources"; fi
+bib_count=$(( $(grep -c '^@' 6_references/references.bib 2>/dev/null || true) + 0 ))
+if [ "$bib_count" -ge "$actual" ]; then pass "Bib: $bib_count ≥ $actual sources"
+else warn "Bib: $bib_count < $actual sources"; fi
 
 echo ""
 echo "═══════════════════════════════════════════════"

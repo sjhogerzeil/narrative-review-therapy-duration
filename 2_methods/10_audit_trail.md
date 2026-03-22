@@ -26,12 +26,19 @@ Original source (APA citation + URL/DOI)
 
 ## Back-references
 
-Every claim in the results and discussion references one or more source notes using the source ID:
+Every claim in the results and discussion references one or more source notes using pandoc citation keys:
 
 ```markdown
 Treatment duration for dissociative disorders averages 5–10 years
-[brand-2009-isstd-survey, herman-1992-complex-ptsd].
+[@brand-2009-isstd-survey; @herman-1992-complex-ptsd].
 ```
+
+Three citation forms are used:
+- `[@source-id]` — parenthetical: renders as (Author, Year)
+- `@source-id` — textual: renders as Author (Year)
+- `[-@source-id]` — suppress author: renders as (Year), when the author is already named in the text
+
+These are standard pandoc citekeys. When building the PDF with `pandoc --natbib`, they produce `\citep{}`, `\citet{}`, and `\citeyear{}` respectively. The `.bib` file is generated from source note YAML by `python3 _scripts/generate_bib.py`.
 
 ## Layer README as index
 

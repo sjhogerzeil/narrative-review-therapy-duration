@@ -15,7 +15,7 @@ abstract: >-
 authors:
   - family-names: Hogerzeil
     given-names: Simon J.
-    # orcid: "https://orcid.org/0000-0000-0000-0000"  # TODO: add ORCID
+    orcid: "https://orcid.org/0000-0001-6269-179X"
 date-released: "2026-03-21"
 version: "0.9.0"
 # doi: "10.5281/zenodo.XXXXXXX"  # TODO: add after first Zenodo release

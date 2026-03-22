@@ -1,6 +1,6 @@
 # Project index — therapy duration review
 
-*Last updated: 2026-03-21*
+*Last updated: 2026-03-22*
 
 ## 1_introduction
 
@@ -23,6 +23,7 @@
 | 12_rerun_protocol.md | "Protocol for re-running search/analysis when new subquestions or dimensions emerge — append-only semantics, git captures chronology, final state supports replication" | draft |
 | 13_ai_methodology.md | "Disclosure of AI assistance — model, orchestration pattern, task distribution, quality control, and epistemological implications. Required by ICMJE 2026 Section V and publisher guidelines." | draft |
 | 14_excluded_sources.md | "Sources identified during search but not included in the review — with reason for exclusion. Supports CIS transparency requirement and allows reader to evaluate source selection." | not started |
+| 15_reproducibility.md | "How to reproduce, verify, or fork this review — step-by-step instructions, git tags, ethics, PDF archival policy" | draft |
 | 2_search_strategy.md | Inclusion/exclusion criteria, iterative snowball protocol, per-layer source budgets and stopping rules | draft |
 | 3_layer_1_academic.md | "Search plan for Layer 1: trauma-clinical, psychoanalytic, humanistic-existential, and neuroscience sublayers — search terms, sources, key authors" | draft |
 | 4_layer_2_naturalistic.md | "Search plan for Layer 2: naturalistic outcome studies — LTPP meta-analyses, Tavistock, Helsinki, dose-effect research" | draft |
@@ -50,7 +51,6 @@
 
 | File | Description | Status |
 |------|-------------|--------|
-| references.md | Complete bibliography in APA 7 format — all cited sources across all layers, alphabetically ordered | auto-generated |
 
 ## 3_results/primary
 

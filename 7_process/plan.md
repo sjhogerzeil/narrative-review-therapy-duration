@@ -90,6 +90,7 @@ Output: everything currently committed.
 5. Log inaccessible sources in `todo.md`.
 6. Append agent meta-commentary to `execution_log.md`.
 7. Run `./sync.sh all` after each batch.
+8. **Citation format:** Use pandoc citekeys in all discussion and extraction text: `[@source-id]` for parenthetical (Author, Year), `@source-id` for textual Author (Year), `[-@source-id]` to suppress author when already named in prose. Never use the old `[source-id]` bracket format. Multi-citations use semicolons: `[@id-a; @id-b]`.
 
 **Human-in-the-loop: full text provision.**
 Many academic sources (Layers 1, 2, 3) will be paywalled. After each layer's search sub-phase:
@@ -415,7 +416,7 @@ Each backward loop:
 1. Run `./sync.sh check` — verify all sources have citations, all are indexed
 2. Run `./sync.sh all` — regenerate references and index
 3. Verify audit trail: sample 5-10 discussion claims → trace back through extraction → source note → original source
-4. Verify `6_references/references.md` is complete and correctly formatted (APA 7)
+4. Verify `6_references/references.bib` is complete — run `sync.sh check`
 5. Review `todo.md` — are all unresolved inaccessible sources documented in `4_discussion/9_inaccessible_sources.md`?
 6. Review `execution_log.md` — any unaddressed issues?
 7. Final git commit and tag: `iteration-final`

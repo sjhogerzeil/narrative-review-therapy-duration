@@ -1,7 +1,11 @@
 .DS_Store
+.claude/
 .claude-sessions/
 .env
 .venv/
+
+# Raw Reddit thread dumps (contain non-cited usernames)
+3_results/sources/5-client-narratives/_reddit_raw/
 
 # Full-text sources — large binary formats (PDFs tracked for replicability)
 *.epub
@@ -20,6 +24,9 @@ _media/
 *.flac
 *.avi
 *.mov
+
+# Build artifacts
+narrative-review-therapy-duration.pdf
 
 # Other large/binary files
 *.docx

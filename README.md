@@ -55,7 +55,11 @@ cd narrative-review-therapy-duration
 
 Then read [`4_discussion/1_synthesis.md`](4_discussion/1_synthesis.md) for the central argument, or browse [`3_results/sources/`](3_results/sources/) to inspect individual source annotations.
 
-**Requirements:** bash and standard Unix tools (sed, grep, awk, find, sort). No additional dependencies.
+**Requirements:** bash, Python 3, and standard Unix tools. No external packages — all scripts use the standard library only. To build the PDF: [pandoc](https://pandoc.org/) and a LaTeX distribution (e.g., TeX Live).
+
+```bash
+./_scripts/build_pdf.sh        # build PDF from source chapters
+```
 
 ## About this review
 
@@ -63,7 +67,7 @@ This is a structured narrative review using **critical interpretive synthesis** 
 
 The review was conducted with substantial AI assistance (Claude Opus 4.6, Anthropic). The complete division of labor — which tasks were performed by the human author, which by the AI, and how the AI's work was verified — is documented in [`2_methods/13_ai_methodology.md`](2_methods/13_ai_methodology.md). The human author bears sole responsibility for all claims, interpretations, and conclusions.
 
-The complete audit trail — source annotations, extraction tables, synthesis evolution, process notes, and git history — is preserved in this repository. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for instructions on reproducing, verifying, or adapting the review.
+The complete audit trail — source annotations, extraction tables, synthesis evolution, process notes, and git history — is preserved in this repository. See [`Reproducing or adapting this review`](2_methods/15_reproducibility.md) for instructions on reproducing, verifying, or forking the review.
 
 ## Explore the evidence
 
@@ -76,7 +80,7 @@ The complete audit trail — source annotations, extraction tables, synthesis ev
 | Understand the methodology | [`2_methods/1_design.md`](2_methods/1_design.md) |
 | See how AI was used | [`2_methods/13_ai_methodology.md`](2_methods/13_ai_methodology.md) |
 | Verify consistency | Run `./_scripts/sync.sh check` |
-| Fork for a new question | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
+| Fork for a new question | [`2_methods/15_reproducibility.md`](2_methods/15_reproducibility.md) |
 
 ## Cite this work
 
@@ -90,4 +94,6 @@ This work is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/
 
 ## Contact
 
-Questions, feedback, or reproductions are welcome. Open an [issue](https://github.com/sjhogerzeil/narrative-review-therapy-duration/issues) on this repository.
+For questions, feedback, or correspondence: s.j.hogerzeil@gmail.com
+
+For errors, missing sources, or methodological discussion: [open an issue](https://github.com/sjhogerzeil/narrative-review-therapy-duration/issues) ([how to open an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue)).

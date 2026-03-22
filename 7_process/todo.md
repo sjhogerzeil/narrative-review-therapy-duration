@@ -134,7 +134,7 @@ The positionality statement (`2_methods/11_synthesis_method.md` § Positionality
 ## Publication-ready manuscript — open decisions
 
 **Citation format:**
-- Quick (inline text references as-is) or proper (convert references.md → .bib, [source-id] → \cite{source-id})?
+- ~~Quick (inline text references as-is) or proper?~~ **DONE:** pandoc @citekeys + references.bib (generated from source YAML)
 
 **Figures:**
 - Render trajectory shapes + framework diagram now, or leave as placeholders?
@@ -148,7 +148,7 @@ The positionality statement (`2_methods/11_synthesis_method.md` § Positionality
 - Methods ← `2_methods/` (design, search strategy, annotation protocol, synthesis method, AI methodology)
 - Findings ← `4_discussion/1_synthesis.md`
 - Discussion ← `4_discussion/2-8`
-- References ← `6_references/references.md`
+- References ← `6_references/references.bib` (via natbib)
 - Appendix ← inaccessible sources (section 9)
 - Tables/figures placed where referenced (Tufte margin/full-width)
 
@@ -176,6 +176,8 @@ Register: "clear, precise, well-structured prose. Not informal, not jargon-heavy
 - [x] Git tags at milestones (v0.1 through v0.8)
 - [x] README.md (article-format executive summary)
 - [x] CONTRIBUTING.md (fork/reproduce instructions)
+- [ ] Enable GitHub Discussions (Settings → Features → Discussions)
 - [ ] Ethics note on forum data
 - [ ] Zenodo integration (after GitHub push + first release)
+- [ ] Add ORCID to CITATION.cff
 - [x] Clean `.claude/` — settings.local.json gitignored; PROCESS-NOTES.md kept as audit trail

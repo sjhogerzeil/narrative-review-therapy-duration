@@ -42,7 +42,7 @@ status: draft
 
 2. **The "right therapist" confound is partly a safety confound.** Finding the right therapist may matter not because of technique or modality but because the right therapist creates felt safety — activating the ventral vagal system (Porges) and resolving the phobia of attachment (Steele).
 
-3. **Safety is not just emotional — it is environmental.** Multiple sources converge: therapy cannot produce structural change while the environment remains actively traumatising [reddit-2021-cant-heal-while-surviving]. Moving, leaving an abusive relationship, going no-contact — these environmental changes may be the decisive variable, not anything that happens in the therapy room.
+3. **Safety is not just emotional — it is environmental.** Multiple sources converge: therapy cannot produce structural change while the environment remains actively traumatising [@reddit-2021-cant-heal-while-surviving]. Moving, leaving an abusive relationship, going no-contact — these environmental changes may be the decisive variable, not anything that happens in the therapy room.
 
 4. **The phase model is confirmed but the first phase is underestimated.** Herman's Phase 1 (safety) is universally endorsed but its duration is poorly studied. If safety establishment takes months to years in complex developmental trauma, then the "it takes years" claim is accurate but for a different reason than usually assumed: not because processing is slow, but because safety is hard to achieve.
 
