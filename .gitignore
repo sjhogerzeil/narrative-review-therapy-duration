@@ -25,9 +25,6 @@ _media/
 *.avi
 *.mov
 
-# Build artifacts
-hogerzeil2026-duration-*.pdf
-
 # Other large/binary files
 *.docx
 *.pptx
@@ -35,4 +32,8 @@ hogerzeil2026-duration-*.pdf
 *.zip
 *.tar.gz
 .claude/settings.local.json
-*.pdf
+
+# Build artifact PDFs in root (source PDFs in _fulltext/ are tracked)
+/hogerzeil2026-duration-*.pdf
+/narrative-review-therapy-duration.pdf
+/*.pdf
