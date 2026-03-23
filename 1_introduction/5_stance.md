@@ -1,37 +1,17 @@
 ---
 section: stance
-description: "Structured narrative review with honest advocacy stance — CIS methodology, working thesis, steel-manning counterarguments, transparent about position and limitations"
+description: "Honest advocacy stance — CIS methodology, working thesis declared at outset, counterpoint layer as structural safeguard"
 status: draft
 ---
 
-# Stance and classification
-
-## Classification
-
-This is a **structured narrative review**, drawing on the methodology of **critical interpretive synthesis** (CIS; Dixon-Woods et al., 2006). CIS was developed for research questions that span heterogeneous evidence types — empirical studies, theoretical works, experiential accounts — that cannot be combined statistically but can be synthesized through structured argument.
-
-Like CIS, this review:
-- Starts with a research question rather than a fixed protocol
-- Uses an iterative, snowball search strategy rather than exhaustive database screening
-- Draws on diverse evidence types weighted by relevance rather than by methodological hierarchy
-- Produces an interpretive synthesis — an argument — rather than a neutral summary
-- Is transparent about its stance and its limitations
-
-## What this review is
-
-- A structured narrative review using CIS methodology
-- An argument grounded in evidence from six epistemological layers: academic literature, naturalistic outcome studies, accelerated models (counterpoint), practitioner wisdom, lived experience, and autobiography
-- Transparent about its position and its limitations
-
-## What this review is not
-
-- A systematic review — the search is structured but not exhaustive or replicable in the PRISMA sense
-- A meta-analysis — no statistical pooling of outcomes
-- A neutral scoping review — this review has a thesis
-- A dismissal of shorter-term approaches — these are engaged with honestly in the counterpoint layer
+# Stance
 
 ## Working thesis
 
-**Honest advocacy.** The working thesis is that healing from complex developmental trauma takes years — often many years — and that this is underappreciated in clinical culture, insurance structures, and public understanding.
+The working thesis is that healing from complex developmental trauma takes years — often many years — and that this is underappreciated in clinical culture, insurance structures, and public understanding. This thesis is declared at the outset, not derived from the evidence. It emerged from clinical observation: the author's most structurally injured patients required five years or more of sustained relational therapy. The review tests this thesis against the evidence — building the strongest case while honestly engaging the counterarguments.
 
-The review builds the case for this position while steel-manning the strongest counterarguments.
+## Honest advocacy
+
+This is a **structured narrative review** using **critical interpretive synthesis** (CIS; Dixon-Woods et al., 2006) — a methodology designed for questions that span heterogeneous evidence types and require interpretive argument rather than statistical aggregation. CIS starts from a position, declares it, and subjects it to structured interrogation. The review is transparent about its stance and its limitations.
+
+The review draws on six epistemological layers — academic literature, naturalistic outcome studies, counterpoint evidence, practitioner essays, client narratives, and memoirs — weighted by relevance to the question rather than by methodological hierarchy. It is not a systematic review (the search is structured but not exhaustive), not a meta-analysis (no statistical pooling), and not neutral. It has a thesis. The counterarguments are engaged in a dedicated layer (Layer 3) designed specifically to contain the strongest evidence against the working thesis — a structural safeguard against confirmation bias.
