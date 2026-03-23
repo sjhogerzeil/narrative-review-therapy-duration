@@ -35,3 +35,4 @@ hogerzeil2026-duration-*.pdf
 *.zip
 *.tar.gz
 .claude/settings.local.json
+*.pdf
